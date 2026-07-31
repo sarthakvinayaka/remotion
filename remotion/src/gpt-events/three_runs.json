@@ -1,0 +1,1103 @@
+[
+  {
+    "type": "generate_start",
+    "run": 0,
+    "context_ids": [
+      14,
+      3
+    ],
+    "order": 2
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      14,
+      3
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.5
+      },
+      {
+        "id": 1,
+        "word": "and",
+        "probability": 0.25
+      }
+    ],
+    "sampled_id": 7,
+    "order": 3
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7
+    ],
+    "order": 4
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      3,
+      7
+    ],
+    "candidates": [
+      {
+        "id": 15,
+        "word": "to",
+        "probability": 0.5
+      },
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 0.5
+      }
+    ],
+    "sampled_id": 15,
+    "order": 5
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15
+    ],
+    "order": 6
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      7,
+      15
+    ],
+    "candidates": [
+      {
+        "id": 13,
+        "word": "sleep",
+        "probability": 0.5
+      },
+      {
+        "id": 10,
+        "word": "play",
+        "probability": 0.5
+      }
+    ],
+    "sampled_id": 10,
+    "order": 7
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10
+    ],
+    "order": 8
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      15,
+      10
+    ],
+    "candidates": [
+      {
+        "id": 6,
+        "word": "in",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 6,
+    "order": 9
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6
+    ],
+    "order": 10
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      10,
+      6
+    ],
+    "candidates": [
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 14,
+    "order": 11
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14
+    ],
+    "order": 12
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      6,
+      14
+    ],
+    "candidates": [
+      {
+        "id": 16,
+        "word": "yard",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 16,
+    "order": 13
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16
+    ],
+    "order": 14
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      14,
+      16
+    ],
+    "candidates": [
+      {
+        "id": 0,
+        "word": ".",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 0,
+    "order": 15
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0
+    ],
+    "order": 16
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      16,
+      0
+    ],
+    "candidates": [
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 14,
+    "order": 17
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14
+    ],
+    "order": 18
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      0,
+      14
+    ],
+    "candidates": [
+      {
+        "id": 3,
+        "word": "cat",
+        "probability": 0.6
+      },
+      {
+        "id": 4,
+        "word": "dog",
+        "probability": 0.4
+      }
+    ],
+    "sampled_id": 3,
+    "order": 19
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14,
+      3
+    ],
+    "order": 20
+  },
+  {
+    "type": "candidates",
+    "run": 0,
+    "context_ids": [
+      14,
+      3
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.5
+      },
+      {
+        "id": 1,
+        "word": "and",
+        "probability": 0.25
+      }
+    ],
+    "sampled_id": 7,
+    "order": 21
+  },
+  {
+    "type": "append",
+    "run": 0,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14,
+      3,
+      7
+    ],
+    "order": 22
+  },
+  {
+    "type": "decoded",
+    "run": 0,
+    "ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14,
+      3,
+      7
+    ],
+    "words": [
+      "the",
+      "cat",
+      "likes",
+      "to",
+      "play",
+      "in",
+      "the",
+      "yard",
+      ".",
+      "the",
+      "cat",
+      "likes"
+    ],
+    "order": 23
+  },
+  {
+    "type": "generate_start",
+    "run": 1,
+    "context_ids": [
+      14,
+      3
+    ],
+    "order": 25
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      14,
+      3
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.5
+      },
+      {
+        "id": 1,
+        "word": "and",
+        "probability": 0.25
+      }
+    ],
+    "sampled_id": 12,
+    "order": 26
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12
+    ],
+    "order": 27
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      3,
+      12
+    ],
+    "candidates": [
+      {
+        "id": 9,
+        "word": "on",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 9,
+    "order": 28
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9
+    ],
+    "order": 29
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      12,
+      9
+    ],
+    "candidates": [
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 14,
+    "order": 30
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9,
+      14
+    ],
+    "order": 31
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      9,
+      14
+    ],
+    "candidates": [
+      {
+        "id": 8,
+        "word": "mat",
+        "probability": 0.6666666666666666
+      },
+      {
+        "id": 11,
+        "word": "rug",
+        "probability": 0.3333333333333333
+      }
+    ],
+    "sampled_id": 11,
+    "order": 32
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9,
+      14,
+      11
+    ],
+    "order": 33
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      14,
+      11
+    ],
+    "candidates": [
+      {
+        "id": 0,
+        "word": ".",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 0,
+    "order": 34
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9,
+      14,
+      11,
+      0
+    ],
+    "order": 35
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      11,
+      0
+    ],
+    "candidates": [
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 14,
+    "order": 36
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9,
+      14,
+      11,
+      0,
+      14
+    ],
+    "order": 37
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      0,
+      14
+    ],
+    "candidates": [
+      {
+        "id": 3,
+        "word": "cat",
+        "probability": 0.6
+      },
+      {
+        "id": 4,
+        "word": "dog",
+        "probability": 0.4
+      }
+    ],
+    "sampled_id": 4,
+    "order": 38
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9,
+      14,
+      11,
+      0,
+      14,
+      4
+    ],
+    "order": 39
+  },
+  {
+    "type": "candidates",
+    "run": 1,
+    "context_ids": [
+      14,
+      4
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.25
+      },
+      {
+        "id": 2,
+        "word": "are",
+        "probability": 0.25
+      },
+      {
+        "id": 0,
+        "word": ".",
+        "probability": 0.25
+      }
+    ],
+    "sampled_id": 0,
+    "order": 40
+  },
+  {
+    "type": "append",
+    "run": 1,
+    "context_ids": [
+      14,
+      3,
+      12,
+      9,
+      14,
+      11,
+      0,
+      14,
+      4,
+      0
+    ],
+    "order": 41
+  },
+  {
+    "type": "decoded",
+    "run": 1,
+    "ids": [
+      14,
+      3,
+      12,
+      9,
+      14,
+      11,
+      0,
+      14,
+      4,
+      0
+    ],
+    "words": [
+      "the",
+      "cat",
+      "sat",
+      "on",
+      "the",
+      "rug",
+      ".",
+      "the",
+      "dog",
+      "."
+    ],
+    "order": 42
+  },
+  {
+    "type": "generate_start",
+    "run": 2,
+    "context_ids": [
+      14,
+      3
+    ],
+    "order": 44
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      14,
+      3
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.5
+      },
+      {
+        "id": 1,
+        "word": "and",
+        "probability": 0.25
+      }
+    ],
+    "sampled_id": 7,
+    "order": 45
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7
+    ],
+    "order": 46
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      3,
+      7
+    ],
+    "candidates": [
+      {
+        "id": 15,
+        "word": "to",
+        "probability": 0.5
+      },
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 0.5
+      }
+    ],
+    "sampled_id": 15,
+    "order": 47
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15
+    ],
+    "order": 48
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      7,
+      15
+    ],
+    "candidates": [
+      {
+        "id": 13,
+        "word": "sleep",
+        "probability": 0.5
+      },
+      {
+        "id": 10,
+        "word": "play",
+        "probability": 0.5
+      }
+    ],
+    "sampled_id": 10,
+    "order": 49
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10
+    ],
+    "order": 50
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      15,
+      10
+    ],
+    "candidates": [
+      {
+        "id": 6,
+        "word": "in",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 6,
+    "order": 51
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6
+    ],
+    "order": 52
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      10,
+      6
+    ],
+    "candidates": [
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 14,
+    "order": 53
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14
+    ],
+    "order": 54
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      6,
+      14
+    ],
+    "candidates": [
+      {
+        "id": 16,
+        "word": "yard",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 16,
+    "order": 55
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16
+    ],
+    "order": 56
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      14,
+      16
+    ],
+    "candidates": [
+      {
+        "id": 0,
+        "word": ".",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 0,
+    "order": 57
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0
+    ],
+    "order": 58
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      16,
+      0
+    ],
+    "candidates": [
+      {
+        "id": 14,
+        "word": "the",
+        "probability": 1.0
+      }
+    ],
+    "sampled_id": 14,
+    "order": 59
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14
+    ],
+    "order": 60
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      0,
+      14
+    ],
+    "candidates": [
+      {
+        "id": 3,
+        "word": "cat",
+        "probability": 0.6
+      },
+      {
+        "id": 4,
+        "word": "dog",
+        "probability": 0.4
+      }
+    ],
+    "sampled_id": 3,
+    "order": 61
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14,
+      3
+    ],
+    "order": 62
+  },
+  {
+    "type": "candidates",
+    "run": 2,
+    "context_ids": [
+      14,
+      3
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.5
+      },
+      {
+        "id": 1,
+        "word": "and",
+        "probability": 0.25
+      }
+    ],
+    "sampled_id": 1,
+    "order": 63
+  },
+  {
+    "type": "append",
+    "run": 2,
+    "context_ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14,
+      3,
+      1
+    ],
+    "order": 64
+  },
+  {
+    "type": "decoded",
+    "run": 2,
+    "ids": [
+      14,
+      3,
+      7,
+      15,
+      10,
+      6,
+      14,
+      16,
+      0,
+      14,
+      3,
+      1
+    ],
+    "words": [
+      "the",
+      "cat",
+      "likes",
+      "to",
+      "play",
+      "in",
+      "the",
+      "yard",
+      ".",
+      "the",
+      "cat",
+      "and"
+    ],
+    "order": 65
+  }
+]

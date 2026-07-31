@@ -1,0 +1,92 @@
+[
+  {
+    "line": "[Order Service] Created 02132dd3 -> Wireless Mouse x2",
+    "order": 1,
+    "service": "Order Service"
+  },
+  {
+    "line": "[Order Service] Created cc09cf7a -> Mechanical Keyboard x1",
+    "order": 2,
+    "service": "Order Service"
+  },
+  {
+    "line": "[Order Service] Created cde14538 -> USB-C Hub x3",
+    "order": 3,
+    "service": "Order Service"
+  },
+  {
+    "line": "[Payment Service] Payment done for 02132dd3",
+    "order": 4,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Inventory Service] Stock reserved for 02132dd3",
+    "order": 5,
+    "service": "Inventory Service"
+  },
+  {
+    "line": "[Payment Service] FAILED cc09cf7a: Gateway timeout -> retrying",
+    "order": 6,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Notification Service] Order 02132dd3 completed: {'item': 'Wireless Mouse', 'qty': 2, 'status': 'COMPLETED'}",
+    "order": 7,
+    "service": "Notification Service"
+  },
+  {
+    "line": "[Payment Service] Payment done for cde14538",
+    "order": 8,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Inventory Service] Stock reserved for cde14538",
+    "order": 9,
+    "service": "Inventory Service"
+  },
+  {
+    "line": "[Payment Service] FAILED cc09cf7a: Gateway timeout -> retrying",
+    "order": 10,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Notification Service] Order cde14538 completed: {'item': 'USB-C Hub', 'qty': 3, 'status': 'COMPLETED'}",
+    "order": 11,
+    "service": "Notification Service"
+  },
+  {
+    "line": "[Payment Service] Payment done for cc09cf7a",
+    "order": 12,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Inventory Service] Stock reserved for cc09cf7a",
+    "order": 13,
+    "service": "Inventory Service"
+  },
+  {
+    "line": "[Notification Service] Order cc09cf7a completed: {'item': 'Mechanical Keyboard', 'qty': 1, 'status': 'COMPLETED'}",
+    "order": 14,
+    "service": "Notification Service"
+  },
+  {
+    "line": "Final state:",
+    "order": 15,
+    "service": null
+  },
+  {
+    "line": "02132dd3 {'item': 'Wireless Mouse', 'qty': 2, 'status': 'COMPLETED'}",
+    "order": 16,
+    "service": null
+  },
+  {
+    "line": "cc09cf7a {'item': 'Mechanical Keyboard', 'qty': 1, 'status': 'COMPLETED'}",
+    "order": 17,
+    "service": null
+  },
+  {
+    "line": "cde14538 {'item': 'USB-C Hub', 'qty': 3, 'status': 'COMPLETED'}",
+    "order": 18,
+    "service": null
+  }
+]

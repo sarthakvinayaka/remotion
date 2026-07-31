@@ -1,0 +1,478 @@
+[
+  {
+    "text": "10",
+    "startMs": 50,
+    "endMs": 420,
+    "timestampMs": 220,
+    "confidence": 0.581591
+  },
+  {
+    "text": " services",
+    "startMs": 420,
+    "endMs": 1330,
+    "timestampMs": 800,
+    "confidence": 0.920168
+  },
+  {
+    "text": ",",
+    "startMs": 1330,
+    "endMs": 1350,
+    "timestampMs": 1340,
+    "confidence": 0.697329
+  },
+  {
+    "text": " 10",
+    "startMs": 1350,
+    "endMs": 1870,
+    "timestampMs": 1540,
+    "confidence": 0.876932
+  },
+  {
+    "text": " teams",
+    "startMs": 1870,
+    "endMs": 2490,
+    "timestampMs": 2040,
+    "confidence": 0.986914
+  },
+  {
+    "text": ",",
+    "startMs": 2490,
+    "endMs": 2540,
+    "timestampMs": 2580,
+    "confidence": 0.940688
+  },
+  {
+    "text": " 10",
+    "startMs": 2540,
+    "endMs": 2910,
+    "timestampMs": 2720,
+    "confidence": 0.970161
+  },
+  {
+    "text": " times",
+    "startMs": 2910,
+    "endMs": 3300,
+    "timestampMs": 3040,
+    "confidence": 0.966888
+  },
+  {
+    "text": " the",
+    "startMs": 3300,
+    "endMs": 3450,
+    "timestampMs": 3220,
+    "confidence": 0.992716
+  },
+  {
+    "text": " same",
+    "startMs": 3450,
+    "endMs": 3720,
+    "timestampMs": 3520,
+    "confidence": 0.999199
+  },
+  {
+    "text": " setup",
+    "startMs": 3720,
+    "endMs": 4950,
+    "timestampMs": 4040,
+    "confidence": 0.785246
+  },
+  {
+    "text": ".",
+    "startMs": 4950,
+    "endMs": 5000,
+    "timestampMs": 5080,
+    "confidence": 0.654647
+  },
+  {
+    "text": " CI",
+    "startMs": 5000,
+    "endMs": 5500,
+    "timestampMs": 5320,
+    "confidence": 0.842558
+  },
+  {
+    "text": "/",
+    "startMs": 5500,
+    "endMs": 5750,
+    "timestampMs": 5500,
+    "confidence": 0.95273
+  },
+  {
+    "text": "CD",
+    "startMs": 5750,
+    "endMs": 6760,
+    "timestampMs": 5880,
+    "confidence": 0.996991
+  },
+  {
+    "text": ",",
+    "startMs": 6760,
+    "endMs": 6810,
+    "timestampMs": 7020,
+    "confidence": 0.896052
+  },
+  {
+    "text": " Dec",
+    "startMs": 6810,
+    "endMs": 7260,
+    "timestampMs": 7040,
+    "confidence": 0.0344586
+  },
+  {
+    "text": "ur",
+    "startMs": 7260,
+    "endMs": 7590,
+    "timestampMs": 7140,
+    "confidence": 0.933241
+  },
+  {
+    "text": " files",
+    "startMs": 7590,
+    "endMs": 8710,
+    "timestampMs": 7700,
+    "confidence": 0.894055
+  },
+  {
+    "text": ",",
+    "startMs": 8710,
+    "endMs": 8770,
+    "timestampMs": 8780,
+    "confidence": 0.938706
+  },
+  {
+    "text": " Ku",
+    "startMs": 8770,
+    "endMs": 8960,
+    "timestampMs": 8880,
+    "confidence": 0.60305
+  },
+  {
+    "text": "ber",
+    "startMs": 8960,
+    "endMs": 9250,
+    "timestampMs": 8980,
+    "confidence": 0.999731
+  },
+  {
+    "text": "net",
+    "startMs": 9250,
+    "endMs": 9760,
+    "timestampMs": 9200,
+    "confidence": 0.88328
+  },
+  {
+    "text": "es",
+    "startMs": 9760,
+    "endMs": 9760,
+    "timestampMs": 9720,
+    "confidence": 0.999317
+  },
+  {
+    "text": ",",
+    "startMs": 9760,
+    "endMs": 10000,
+    "timestampMs": 10460,
+    "confidence": 0.923182
+  },
+  {
+    "text": " logging",
+    "startMs": 10000,
+    "endMs": 10000,
+    "timestampMs": 10780,
+    "confidence": 0.629392
+  },
+  {
+    "text": ",",
+    "startMs": 10000,
+    "endMs": 10000,
+    "timestampMs": 11780,
+    "confidence": 0.875583
+  },
+  {
+    "text": " secrets",
+    "startMs": 10000,
+    "endMs": 10000,
+    "timestampMs": 12360,
+    "confidence": 0.936028
+  },
+  {
+    "text": ".",
+    "startMs": 10000,
+    "endMs": 10000,
+    "timestampMs": 15000,
+    "confidence": 0.758605
+  },
+  {
+    "text": " Every",
+    "startMs": 10000,
+    "endMs": 11810,
+    "timestampMs": 15340,
+    "confidence": 0.998727
+  },
+  {
+    "text": " team",
+    "startMs": 11810,
+    "endMs": 12350,
+    "timestampMs": 15780,
+    "confidence": 0.994924
+  },
+  {
+    "text": ",",
+    "startMs": 12350,
+    "endMs": 15080,
+    "timestampMs": 16060,
+    "confidence": 0.499842
+  },
+  {
+    "text": " rebuilding",
+    "startMs": 15080,
+    "endMs": 15400,
+    "timestampMs": 16420,
+    "confidence": 0.995277
+  },
+  {
+    "text": " it",
+    "startMs": 15400,
+    "endMs": 16020,
+    "timestampMs": 16620,
+    "confidence": 0.998327
+  },
+  {
+    "text": " all",
+    "startMs": 16020,
+    "endMs": 16620,
+    "timestampMs": 16960,
+    "confidence": 0.999012
+  },
+  {
+    "text": " again",
+    "startMs": 16620,
+    "endMs": 18680,
+    "timestampMs": 17540,
+    "confidence": 0.705265
+  },
+  {
+    "text": ".",
+    "startMs": 18680,
+    "endMs": 18700,
+    "timestampMs": 18460,
+    "confidence": 0.963038
+  },
+  {
+    "text": " This",
+    "startMs": 18700,
+    "endMs": 19090,
+    "timestampMs": 18860,
+    "confidence": 0.999504
+  },
+  {
+    "text": " is",
+    "startMs": 19090,
+    "endMs": 19280,
+    "timestampMs": 19060,
+    "confidence": 0.999626
+  },
+  {
+    "text": " why",
+    "startMs": 19280,
+    "endMs": 19570,
+    "timestampMs": 19280,
+    "confidence": 0.999058
+  },
+  {
+    "text": " micro",
+    "startMs": 19570,
+    "endMs": 20070,
+    "timestampMs": 19660,
+    "confidence": 0.927712
+  },
+  {
+    "text": "services",
+    "startMs": 20070,
+    "endMs": 21130,
+    "timestampMs": 20120,
+    "confidence": 0.936281
+  },
+  {
+    "text": " get",
+    "startMs": 21130,
+    "endMs": 21130,
+    "timestampMs": 20420,
+    "confidence": 0.996652
+  },
+  {
+    "text": " hard",
+    "startMs": 21130,
+    "endMs": 21850,
+    "timestampMs": 20860,
+    "confidence": 0.999409
+  },
+  {
+    "text": ".",
+    "startMs": 21850,
+    "endMs": 21860,
+    "timestampMs": 21760,
+    "confidence": 0.969034
+  },
+  {
+    "text": " The",
+    "startMs": 21860,
+    "endMs": 22110,
+    "timestampMs": 22000,
+    "confidence": 0.999234
+  },
+  {
+    "text": " fix",
+    "startMs": 22110,
+    "endMs": 22380,
+    "timestampMs": 22220,
+    "confidence": 0.924761
+  },
+  {
+    "text": " isn",
+    "startMs": 22380,
+    "endMs": 22610,
+    "timestampMs": 22460,
+    "confidence": 0.987012
+  },
+  {
+    "text": "'t",
+    "startMs": 22610,
+    "endMs": 22800,
+    "timestampMs": 22480,
+    "confidence": 0.999939
+  },
+  {
+    "text": " more",
+    "startMs": 22800,
+    "endMs": 23080,
+    "timestampMs": 22720,
+    "confidence": 0.999207
+  },
+  {
+    "text": " services",
+    "startMs": 23080,
+    "endMs": 24070,
+    "timestampMs": 23360,
+    "confidence": 0.999497
+  },
+  {
+    "text": ".",
+    "startMs": 24070,
+    "endMs": 24100,
+    "timestampMs": 23680,
+    "confidence": 0.589599
+  },
+  {
+    "text": " It",
+    "startMs": 24100,
+    "endMs": 24310,
+    "timestampMs": 24200,
+    "confidence": 0.998224
+  },
+  {
+    "text": "'s",
+    "startMs": 24310,
+    "endMs": 24520,
+    "timestampMs": 24300,
+    "confidence": 0.999817
+  },
+  {
+    "text": " a",
+    "startMs": 24520,
+    "endMs": 24680,
+    "timestampMs": 24440,
+    "confidence": 0.998974
+  },
+  {
+    "text": " paved",
+    "startMs": 24680,
+    "endMs": 25560,
+    "timestampMs": 24660,
+    "confidence": 0.992396
+  },
+  {
+    "text": " road",
+    "startMs": 25560,
+    "endMs": 25890,
+    "timestampMs": 25080,
+    "confidence": 0.999336
+  },
+  {
+    "text": ".",
+    "startMs": 25890,
+    "endMs": 25900,
+    "timestampMs": 25980,
+    "confidence": 0.706002
+  },
+  {
+    "text": " Platform",
+    "startMs": 25900,
+    "endMs": 26470,
+    "timestampMs": 26380,
+    "confidence": 0.935012
+  },
+  {
+    "text": " engineering",
+    "startMs": 26470,
+    "endMs": 27380,
+    "timestampMs": 27020,
+    "confidence": 0.915716
+  },
+  {
+    "text": ".",
+    "startMs": 27380,
+    "endMs": 27380,
+    "timestampMs": 27240,
+    "confidence": 0.808545
+  },
+  {
+    "text": " [",
+    "startMs": 27380,
+    "endMs": 28150,
+    "timestampMs": 29160,
+    "confidence": 0.978133
+  },
+  {
+    "text": "BL",
+    "startMs": 28150,
+    "endMs": 29180,
+    "timestampMs": 29160,
+    "confidence": 0.622871
+  },
+  {
+    "text": "ANK",
+    "startMs": 29180,
+    "endMs": 29180,
+    "timestampMs": 29160,
+    "confidence": 1
+  },
+  {
+    "text": "_",
+    "startMs": 29180,
+    "endMs": 29180,
+    "timestampMs": 29160,
+    "confidence": 1
+  },
+  {
+    "text": "AUD",
+    "startMs": 29180,
+    "endMs": 29180,
+    "timestampMs": 29160,
+    "confidence": 1
+  },
+  {
+    "text": "IO",
+    "startMs": 29180,
+    "endMs": 29180,
+    "timestampMs": 29160,
+    "confidence": 1
+  },
+  {
+    "text": "]",
+    "startMs": 29180,
+    "endMs": 37380,
+    "timestampMs": 29160,
+    "confidence": 1
+  }
+]

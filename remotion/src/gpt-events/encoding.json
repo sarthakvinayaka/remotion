@@ -1,0 +1,25 @@
+[
+  {
+    "type": "vocab",
+    "vocab": {
+      ".": 0,
+      "and": 1,
+      "are": 2,
+      "cat": 3,
+      "dog": 4,
+      "friends": 5,
+      "in": 6,
+      "likes": 7,
+      "mat": 8,
+      "on": 9,
+      "play": 10,
+      "rug": 11,
+      "sat": 12,
+      "sleep": 13,
+      "the": 14,
+      "to": 15,
+      "yard": 16
+    },
+    "order": 1
+  }
+]

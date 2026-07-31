@@ -1,0 +1,3853 @@
+[
+  {
+    "text": "Microservices sound great at first,",
+    "startFrame": 18,
+    "endFrame": 75,
+    "words": [
+      {
+        "text": "Microservices",
+        "startFrame": 18,
+        "endFrame": 34
+      },
+      {
+        "text": "sound",
+        "startFrame": 34,
+        "endFrame": 45
+      },
+      {
+        "text": "great",
+        "startFrame": 45,
+        "endFrame": 55
+      },
+      {
+        "text": "at",
+        "startFrame": 55,
+        "endFrame": 59
+      },
+      {
+        "text": "first,",
+        "startFrame": 59,
+        "endFrame": 75
+      }
+    ]
+  },
+  {
+    "text": "right? You split the app into",
+    "startFrame": 75,
+    "endFrame": 126,
+    "words": [
+      {
+        "text": "right?",
+        "startFrame": 75,
+        "endFrame": 95
+      },
+      {
+        "text": "You",
+        "startFrame": 95,
+        "endFrame": 101
+      },
+      {
+        "text": "split",
+        "startFrame": 101,
+        "endFrame": 109
+      },
+      {
+        "text": "the",
+        "startFrame": 109,
+        "endFrame": 114
+      },
+      {
+        "text": "app",
+        "startFrame": 114,
+        "endFrame": 119
+      },
+      {
+        "text": "into",
+        "startFrame": 119,
+        "endFrame": 126
+      }
+    ]
+  },
+  {
+    "text": "smaller pieces, teams move fast,",
+    "startFrame": 126,
+    "endFrame": 194,
+    "words": [
+      {
+        "text": "smaller",
+        "startFrame": 126,
+        "endFrame": 138
+      },
+      {
+        "text": "pieces,",
+        "startFrame": 138,
+        "endFrame": 152
+      },
+      {
+        "text": "teams",
+        "startFrame": 152,
+        "endFrame": 165
+      },
+      {
+        "text": "move",
+        "startFrame": 165,
+        "endFrame": 188
+      },
+      {
+        "text": "fast,",
+        "startFrame": 188,
+        "endFrame": 194
+      }
+    ]
+  },
+  {
+    "text": "everyone ships independently.",
+    "startFrame": 194,
+    "endFrame": 256,
+    "words": [
+      {
+        "text": "everyone",
+        "startFrame": 194,
+        "endFrame": 211
+      },
+      {
+        "text": "ships",
+        "startFrame": 211,
+        "endFrame": 221
+      },
+      {
+        "text": "independently.",
+        "startFrame": 221,
+        "endFrame": 256
+      }
+    ]
+  },
+  {
+    "text": "But give it a few months,",
+    "startFrame": 256,
+    "endFrame": 297,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 256,
+        "endFrame": 262
+      },
+      {
+        "text": "give",
+        "startFrame": 262,
+        "endFrame": 271
+      },
+      {
+        "text": "it",
+        "startFrame": 271,
+        "endFrame": 274
+      },
+      {
+        "text": "a",
+        "startFrame": 274,
+        "endFrame": 275
+      },
+      {
+        "text": "few",
+        "startFrame": 275,
+        "endFrame": 281
+      },
+      {
+        "text": "months,",
+        "startFrame": 281,
+        "endFrame": 297
+      }
+    ]
+  },
+  {
+    "text": "most companies hit the same wall.",
+    "startFrame": 297,
+    "endFrame": 357,
+    "words": [
+      {
+        "text": "most",
+        "startFrame": 297,
+        "endFrame": 307
+      },
+      {
+        "text": "companies",
+        "startFrame": 307,
+        "endFrame": 324
+      },
+      {
+        "text": "hit",
+        "startFrame": 324,
+        "endFrame": 330
+      },
+      {
+        "text": "the",
+        "startFrame": 330,
+        "endFrame": 336
+      },
+      {
+        "text": "same",
+        "startFrame": 336,
+        "endFrame": 354
+      },
+      {
+        "text": "wall.",
+        "startFrame": 354,
+        "endFrame": 357
+      }
+    ]
+  },
+  {
+    "text": "The services are fine,",
+    "startFrame": 357,
+    "endFrame": 398,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 357,
+        "endFrame": 363
+      },
+      {
+        "text": "services",
+        "startFrame": 363,
+        "endFrame": 378
+      },
+      {
+        "text": "are",
+        "startFrame": 378,
+        "endFrame": 384
+      },
+      {
+        "text": "fine,",
+        "startFrame": 384,
+        "endFrame": 398
+      }
+    ]
+  },
+  {
+    "text": "it's everything around them that start",
+    "startFrame": 398,
+    "endFrame": 457,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 398,
+        "endFrame": 404
+      },
+      {
+        "text": "everything",
+        "startFrame": 404,
+        "endFrame": 421
+      },
+      {
+        "text": "around",
+        "startFrame": 421,
+        "endFrame": 436
+      },
+      {
+        "text": "them",
+        "startFrame": 436,
+        "endFrame": 440
+      },
+      {
+        "text": "that",
+        "startFrame": 440,
+        "endFrame": 448
+      },
+      {
+        "text": "start",
+        "startFrame": 448,
+        "endFrame": 457
+      }
+    ]
+  },
+  {
+    "text": "to hurt. Deployments get messy,",
+    "startFrame": 457,
+    "endFrame": 531,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 457,
+        "endFrame": 471
+      },
+      {
+        "text": "hurt.",
+        "startFrame": 471,
+        "endFrame": 487
+      },
+      {
+        "text": "Deployments",
+        "startFrame": 487,
+        "endFrame": 511
+      },
+      {
+        "text": "get",
+        "startFrame": 511,
+        "endFrame": 521
+      },
+      {
+        "text": "messy,",
+        "startFrame": 521,
+        "endFrame": 531
+      }
+    ]
+  },
+  {
+    "text": "observability is all over the place,",
+    "startFrame": 531,
+    "endFrame": 603,
+    "words": [
+      {
+        "text": "observability",
+        "startFrame": 531,
+        "endFrame": 560
+      },
+      {
+        "text": "is",
+        "startFrame": 560,
+        "endFrame": 564
+      },
+      {
+        "text": "all",
+        "startFrame": 564,
+        "endFrame": 570
+      },
+      {
+        "text": "over",
+        "startFrame": 570,
+        "endFrame": 585
+      },
+      {
+        "text": "the",
+        "startFrame": 585,
+        "endFrame": 596
+      },
+      {
+        "text": "place,",
+        "startFrame": 596,
+        "endFrame": 603
+      }
+    ]
+  },
+  {
+    "text": "every team ends up solving the",
+    "startFrame": 603,
+    "endFrame": 638,
+    "words": [
+      {
+        "text": "every",
+        "startFrame": 603,
+        "endFrame": 609
+      },
+      {
+        "text": "team",
+        "startFrame": 609,
+        "endFrame": 614
+      },
+      {
+        "text": "ends",
+        "startFrame": 614,
+        "endFrame": 620
+      },
+      {
+        "text": "up",
+        "startFrame": 620,
+        "endFrame": 622
+      },
+      {
+        "text": "solving",
+        "startFrame": 622,
+        "endFrame": 631
+      },
+      {
+        "text": "the",
+        "startFrame": 631,
+        "endFrame": 638
+      }
+    ]
+  },
+  {
+    "text": "same problem from scratch.",
+    "startFrame": 638,
+    "endFrame": 691,
+    "words": [
+      {
+        "text": "same",
+        "startFrame": 638,
+        "endFrame": 646
+      },
+      {
+        "text": "problem",
+        "startFrame": 646,
+        "endFrame": 661
+      },
+      {
+        "text": "from",
+        "startFrame": 661,
+        "endFrame": 668
+      },
+      {
+        "text": "scratch.",
+        "startFrame": 668,
+        "endFrame": 691
+      }
+    ]
+  },
+  {
+    "text": "That's exactly where platform engineering comes",
+    "startFrame": 691,
+    "endFrame": 764,
+    "words": [
+      {
+        "text": "That's",
+        "startFrame": 691,
+        "endFrame": 703
+      },
+      {
+        "text": "exactly",
+        "startFrame": 703,
+        "endFrame": 712
+      },
+      {
+        "text": "where",
+        "startFrame": 712,
+        "endFrame": 721
+      },
+      {
+        "text": "platform",
+        "startFrame": 721,
+        "endFrame": 734
+      },
+      {
+        "text": "engineering",
+        "startFrame": 734,
+        "endFrame": 753
+      },
+      {
+        "text": "comes",
+        "startFrame": 753,
+        "endFrame": 764
+      }
+    ]
+  },
+  {
+    "text": "in. The pitch is simple,",
+    "startFrame": 764,
+    "endFrame": 817,
+    "words": [
+      {
+        "text": "in.",
+        "startFrame": 764,
+        "endFrame": 767
+      },
+      {
+        "text": "The",
+        "startFrame": 767,
+        "endFrame": 775
+      },
+      {
+        "text": "pitch",
+        "startFrame": 775,
+        "endFrame": 784
+      },
+      {
+        "text": "is",
+        "startFrame": 784,
+        "endFrame": 788
+      },
+      {
+        "text": "simple,",
+        "startFrame": 788,
+        "endFrame": 817
+      }
+    ]
+  },
+  {
+    "text": "smaller services, cleaner ownership,",
+    "startFrame": 817,
+    "endFrame": 882,
+    "words": [
+      {
+        "text": "smaller",
+        "startFrame": 817,
+        "endFrame": 821
+      },
+      {
+        "text": "services,",
+        "startFrame": 821,
+        "endFrame": 852
+      },
+      {
+        "text": "cleaner",
+        "startFrame": 852,
+        "endFrame": 858
+      },
+      {
+        "text": "ownership,",
+        "startFrame": 858,
+        "endFrame": 882
+      }
+    ]
+  },
+  {
+    "text": "faster releases. And early on,",
+    "startFrame": 882,
+    "endFrame": 948,
+    "words": [
+      {
+        "text": "faster",
+        "startFrame": 882,
+        "endFrame": 895
+      },
+      {
+        "text": "releases.",
+        "startFrame": 895,
+        "endFrame": 922
+      },
+      {
+        "text": "And",
+        "startFrame": 922,
+        "endFrame": 928
+      },
+      {
+        "text": "early",
+        "startFrame": 928,
+        "endFrame": 939
+      },
+      {
+        "text": "on,",
+        "startFrame": 939,
+        "endFrame": 948
+      }
+    ]
+  },
+  {
+    "text": "that's real. Microservices generally",
+    "startFrame": 948,
+    "endFrame": 1027,
+    "words": [
+      {
+        "text": "that's",
+        "startFrame": 948,
+        "endFrame": 962
+      },
+      {
+        "text": "real.",
+        "startFrame": 962,
+        "endFrame": 978
+      },
+      {
+        "text": "Microservices",
+        "startFrame": 978,
+        "endFrame": 1002
+      },
+      {
+        "text": "generally",
+        "startFrame": 1002,
+        "endFrame": 1027
+      }
+    ]
+  },
+  {
+    "text": "help. But here's the catch.",
+    "startFrame": 1027,
+    "endFrame": 1092,
+    "words": [
+      {
+        "text": "help.",
+        "startFrame": 1027,
+        "endFrame": 1033
+      },
+      {
+        "text": "But",
+        "startFrame": 1033,
+        "endFrame": 1044
+      },
+      {
+        "text": "here's",
+        "startFrame": 1044,
+        "endFrame": 1068
+      },
+      {
+        "text": "the",
+        "startFrame": 1068,
+        "endFrame": 1074
+      },
+      {
+        "text": "catch.",
+        "startFrame": 1074,
+        "endFrame": 1092
+      }
+    ]
+  },
+  {
+    "text": "Microservices only solve the core organization",
+    "startFrame": 1092,
+    "endFrame": 1152,
+    "words": [
+      {
+        "text": "Microservices",
+        "startFrame": 1092,
+        "endFrame": 1111
+      },
+      {
+        "text": "only",
+        "startFrame": 1111,
+        "endFrame": 1119
+      },
+      {
+        "text": "solve",
+        "startFrame": 1119,
+        "endFrame": 1125
+      },
+      {
+        "text": "the",
+        "startFrame": 1125,
+        "endFrame": 1129
+      },
+      {
+        "text": "core",
+        "startFrame": 1129,
+        "endFrame": 1135
+      },
+      {
+        "text": "organization",
+        "startFrame": 1135,
+        "endFrame": 1152
+      }
+    ]
+  },
+  {
+    "text": "problem, they don't touch the operational",
+    "startFrame": 1152,
+    "endFrame": 1199,
+    "words": [
+      {
+        "text": "problem,",
+        "startFrame": 1152,
+        "endFrame": 1167
+      },
+      {
+        "text": "they",
+        "startFrame": 1167,
+        "endFrame": 1172
+      },
+      {
+        "text": "don't",
+        "startFrame": 1172,
+        "endFrame": 1177
+      },
+      {
+        "text": "touch",
+        "startFrame": 1177,
+        "endFrame": 1183
+      },
+      {
+        "text": "the",
+        "startFrame": 1183,
+        "endFrame": 1186
+      },
+      {
+        "text": "operational",
+        "startFrame": 1186,
+        "endFrame": 1199
+      }
+    ]
+  },
+  {
+    "text": "side at all.",
+    "startFrame": 1199,
+    "endFrame": 1244,
+    "words": [
+      {
+        "text": "side",
+        "startFrame": 1199,
+        "endFrame": 1214
+      },
+      {
+        "text": "at",
+        "startFrame": 1214,
+        "endFrame": 1223
+      },
+      {
+        "text": "all.",
+        "startFrame": 1223,
+        "endFrame": 1244
+      }
+    ]
+  },
+  {
+    "text": "Say you are at 10 services",
+    "startFrame": 1244,
+    "endFrame": 1301,
+    "words": [
+      {
+        "text": "Say",
+        "startFrame": 1244,
+        "endFrame": 1251
+      },
+      {
+        "text": "you",
+        "startFrame": 1251,
+        "endFrame": 1259
+      },
+      {
+        "text": "are",
+        "startFrame": 1259,
+        "endFrame": 1265
+      },
+      {
+        "text": "at",
+        "startFrame": 1265,
+        "endFrame": 1269
+      },
+      {
+        "text": "10",
+        "startFrame": 1269,
+        "endFrame": 1282
+      },
+      {
+        "text": "services",
+        "startFrame": 1282,
+        "endFrame": 1301
+      }
+    ]
+  },
+  {
+    "text": "now, users, payments,",
+    "startFrame": 1301,
+    "endFrame": 1349,
+    "words": [
+      {
+        "text": "now,",
+        "startFrame": 1301,
+        "endFrame": 1316
+      },
+      {
+        "text": "users,",
+        "startFrame": 1316,
+        "endFrame": 1327
+      },
+      {
+        "text": "payments,",
+        "startFrame": 1327,
+        "endFrame": 1349
+      }
+    ]
+  },
+  {
+    "text": "orders, notifications, search.",
+    "startFrame": 1349,
+    "endFrame": 1423,
+    "words": [
+      {
+        "text": "orders,",
+        "startFrame": 1349,
+        "endFrame": 1367
+      },
+      {
+        "text": "notifications,",
+        "startFrame": 1367,
+        "endFrame": 1415
+      },
+      {
+        "text": "search.",
+        "startFrame": 1415,
+        "endFrame": 1423
+      }
+    ]
+  },
+  {
+    "text": "Every single team needs the same",
+    "startFrame": 1423,
+    "endFrame": 1479,
+    "words": [
+      {
+        "text": "Every",
+        "startFrame": 1423,
+        "endFrame": 1433
+      },
+      {
+        "text": "single",
+        "startFrame": 1433,
+        "endFrame": 1444
+      },
+      {
+        "text": "team",
+        "startFrame": 1444,
+        "endFrame": 1453
+      },
+      {
+        "text": "needs",
+        "startFrame": 1453,
+        "endFrame": 1461
+      },
+      {
+        "text": "the",
+        "startFrame": 1461,
+        "endFrame": 1467
+      },
+      {
+        "text": "same",
+        "startFrame": 1467,
+        "endFrame": 1479
+      }
+    ]
+  },
+  {
+    "text": "stuff. CICD, Docker,",
+    "startFrame": 1479,
+    "endFrame": 1528,
+    "words": [
+      {
+        "text": "stuff.",
+        "startFrame": 1479,
+        "endFrame": 1490
+      },
+      {
+        "text": "CICD,",
+        "startFrame": 1493,
+        "endFrame": 1507
+      },
+      {
+        "text": "Docker,",
+        "startFrame": 1507,
+        "endFrame": 1528
+      }
+    ]
+  },
+  {
+    "text": "Kubernetes, logging, metrics,",
+    "startFrame": 1528,
+    "endFrame": 1613,
+    "words": [
+      {
+        "text": "Kubernetes,",
+        "startFrame": 1528,
+        "endFrame": 1573
+      },
+      {
+        "text": "logging,",
+        "startFrame": 1573,
+        "endFrame": 1586
+      },
+      {
+        "text": "metrics,",
+        "startFrame": 1586,
+        "endFrame": 1613
+      }
+    ]
+  },
+  {
+    "text": "alerts, secrets, and API Gateway.",
+    "startFrame": 1613,
+    "endFrame": 1705,
+    "words": [
+      {
+        "text": "alerts,",
+        "startFrame": 1613,
+        "endFrame": 1633
+      },
+      {
+        "text": "secrets,",
+        "startFrame": 1633,
+        "endFrame": 1659
+      },
+      {
+        "text": "and",
+        "startFrame": 1659,
+        "endFrame": 1665
+      },
+      {
+        "text": "API",
+        "startFrame": 1665,
+        "endFrame": 1677
+      },
+      {
+        "text": "Gateway.",
+        "startFrame": 1677,
+        "endFrame": 1705
+      }
+    ]
+  },
+  {
+    "text": "So you're not really building 10",
+    "startFrame": 1705,
+    "endFrame": 1762,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 1705,
+        "endFrame": 1709
+      },
+      {
+        "text": "you're",
+        "startFrame": 1709,
+        "endFrame": 1720
+      },
+      {
+        "text": "not",
+        "startFrame": 1720,
+        "endFrame": 1731
+      },
+      {
+        "text": "really",
+        "startFrame": 1731,
+        "endFrame": 1736
+      },
+      {
+        "text": "building",
+        "startFrame": 1736,
+        "endFrame": 1751
+      },
+      {
+        "text": "10",
+        "startFrame": 1751,
+        "endFrame": 1762
+      }
+    ]
+  },
+  {
+    "text": "services, you're building 10 services and",
+    "startFrame": 1762,
+    "endFrame": 1838,
+    "words": [
+      {
+        "text": "services,",
+        "startFrame": 1762,
+        "endFrame": 1781
+      },
+      {
+        "text": "you're",
+        "startFrame": 1781,
+        "endFrame": 1807
+      },
+      {
+        "text": "building",
+        "startFrame": 1807,
+        "endFrame": 1807
+      },
+      {
+        "text": "10",
+        "startFrame": 1807,
+        "endFrame": 1818
+      },
+      {
+        "text": "services",
+        "startFrame": 1818,
+        "endFrame": 1833
+      },
+      {
+        "text": "and",
+        "startFrame": 1833,
+        "endFrame": 1838
+      }
+    ]
+  },
+  {
+    "text": "10 copies of the same infrastructure",
+    "startFrame": 1838,
+    "endFrame": 1932,
+    "words": [
+      {
+        "text": "10",
+        "startFrame": 1838,
+        "endFrame": 1850
+      },
+      {
+        "text": "copies",
+        "startFrame": 1850,
+        "endFrame": 1864
+      },
+      {
+        "text": "of",
+        "startFrame": 1864,
+        "endFrame": 1868
+      },
+      {
+        "text": "the",
+        "startFrame": 1868,
+        "endFrame": 1876
+      },
+      {
+        "text": "same",
+        "startFrame": 1876,
+        "endFrame": 1886
+      },
+      {
+        "text": "infrastructure",
+        "startFrame": 1886,
+        "endFrame": 1932
+      }
+    ]
+  },
+  {
+    "text": "work. That's the real issue at",
+    "startFrame": 1932,
+    "endFrame": 1980,
+    "words": [
+      {
+        "text": "work.",
+        "startFrame": 1932,
+        "endFrame": 1940
+      },
+      {
+        "text": "That's",
+        "startFrame": 1940,
+        "endFrame": 1952
+      },
+      {
+        "text": "the",
+        "startFrame": 1952,
+        "endFrame": 1958
+      },
+      {
+        "text": "real",
+        "startFrame": 1958,
+        "endFrame": 1967
+      },
+      {
+        "text": "issue",
+        "startFrame": 1967,
+        "endFrame": 1980
+      },
+      {
+        "text": "at",
+        "startFrame": 1980,
+        "endFrame": 1980
+      }
+    ]
+  },
+  {
+    "text": "scale. The code gets smaller,",
+    "startFrame": 1980,
+    "endFrame": 2045,
+    "words": [
+      {
+        "text": "scale.",
+        "startFrame": 1980,
+        "endFrame": 1997
+      },
+      {
+        "text": "The",
+        "startFrame": 1997,
+        "endFrame": 2004
+      },
+      {
+        "text": "code",
+        "startFrame": 2004,
+        "endFrame": 2015
+      },
+      {
+        "text": "gets",
+        "startFrame": 2015,
+        "endFrame": 2023
+      },
+      {
+        "text": "smaller,",
+        "startFrame": 2023,
+        "endFrame": 2045
+      }
+    ]
+  },
+  {
+    "text": "but the system gets way more",
+    "startFrame": 2045,
+    "endFrame": 2117,
+    "words": [
+      {
+        "text": "but",
+        "startFrame": 2045,
+        "endFrame": 2052
+      },
+      {
+        "text": "the",
+        "startFrame": 2052,
+        "endFrame": 2063
+      },
+      {
+        "text": "system",
+        "startFrame": 2063,
+        "endFrame": 2074
+      },
+      {
+        "text": "gets",
+        "startFrame": 2074,
+        "endFrame": 2084
+      },
+      {
+        "text": "way",
+        "startFrame": 2084,
+        "endFrame": 2092
+      },
+      {
+        "text": "more",
+        "startFrame": 2092,
+        "endFrame": 2117
+      }
+    ]
+  },
+  {
+    "text": "complex. Every team now has to",
+    "startFrame": 2117,
+    "endFrame": 2168,
+    "words": [
+      {
+        "text": "complex.",
+        "startFrame": 2117,
+        "endFrame": 2126
+      },
+      {
+        "text": "Every",
+        "startFrame": 2126,
+        "endFrame": 2138
+      },
+      {
+        "text": "team",
+        "startFrame": 2138,
+        "endFrame": 2147
+      },
+      {
+        "text": "now",
+        "startFrame": 2147,
+        "endFrame": 2157
+      },
+      {
+        "text": "has",
+        "startFrame": 2157,
+        "endFrame": 2161
+      },
+      {
+        "text": "to",
+        "startFrame": 2161,
+        "endFrame": 2168
+      }
+    ]
+  },
+  {
+    "text": "know how to deploy,",
+    "startFrame": 2168,
+    "endFrame": 2204,
+    "words": [
+      {
+        "text": "know",
+        "startFrame": 2168,
+        "endFrame": 2174
+      },
+      {
+        "text": "how",
+        "startFrame": 2174,
+        "endFrame": 2181
+      },
+      {
+        "text": "to",
+        "startFrame": 2181,
+        "endFrame": 2186
+      },
+      {
+        "text": "deploy,",
+        "startFrame": 2186,
+        "endFrame": 2204
+      }
+    ]
+  },
+  {
+    "text": "how to monitor,",
+    "startFrame": 2204,
+    "endFrame": 2237,
+    "words": [
+      {
+        "text": "how",
+        "startFrame": 2204,
+        "endFrame": 2210
+      },
+      {
+        "text": "to",
+        "startFrame": 2210,
+        "endFrame": 2215
+      },
+      {
+        "text": "monitor,",
+        "startFrame": 2215,
+        "endFrame": 2237
+      }
+    ]
+  },
+  {
+    "text": "how to secure,",
+    "startFrame": 2237,
+    "endFrame": 2265,
+    "words": [
+      {
+        "text": "how",
+        "startFrame": 2237,
+        "endFrame": 2242
+      },
+      {
+        "text": "to",
+        "startFrame": 2242,
+        "endFrame": 2247
+      },
+      {
+        "text": "secure,",
+        "startFrame": 2247,
+        "endFrame": 2265
+      }
+    ]
+  },
+  {
+    "text": "how to debug,",
+    "startFrame": 2265,
+    "endFrame": 2293,
+    "words": [
+      {
+        "text": "how",
+        "startFrame": 2265,
+        "endFrame": 2272
+      },
+      {
+        "text": "to",
+        "startFrame": 2272,
+        "endFrame": 2290
+      },
+      {
+        "text": "debug,",
+        "startFrame": 2290,
+        "endFrame": 2293
+      }
+    ]
+  },
+  {
+    "text": "how to recover when something breaks.",
+    "startFrame": 2293,
+    "endFrame": 2360,
+    "words": [
+      {
+        "text": "how",
+        "startFrame": 2293,
+        "endFrame": 2298
+      },
+      {
+        "text": "to",
+        "startFrame": 2298,
+        "endFrame": 2304
+      },
+      {
+        "text": "recover",
+        "startFrame": 2304,
+        "endFrame": 2317
+      },
+      {
+        "text": "when",
+        "startFrame": 2317,
+        "endFrame": 2324
+      },
+      {
+        "text": "something",
+        "startFrame": 2324,
+        "endFrame": 2341
+      },
+      {
+        "text": "breaks.",
+        "startFrame": 2341,
+        "endFrame": 2360
+      }
+    ]
+  },
+  {
+    "text": "So instead of focusing on business",
+    "startFrame": 2361,
+    "endFrame": 2427,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 2361,
+        "endFrame": 2364
+      },
+      {
+        "text": "instead",
+        "startFrame": 2364,
+        "endFrame": 2378
+      },
+      {
+        "text": "of",
+        "startFrame": 2378,
+        "endFrame": 2382
+      },
+      {
+        "text": "focusing",
+        "startFrame": 2382,
+        "endFrame": 2400
+      },
+      {
+        "text": "on",
+        "startFrame": 2400,
+        "endFrame": 2404
+      },
+      {
+        "text": "business",
+        "startFrame": 2404,
+        "endFrame": 2427
+      }
+    ]
+  },
+  {
+    "text": "logic, engineers spend most of their",
+    "startFrame": 2427,
+    "endFrame": 2484,
+    "words": [
+      {
+        "text": "logic,",
+        "startFrame": 2427,
+        "endFrame": 2433
+      },
+      {
+        "text": "engineers",
+        "startFrame": 2433,
+        "endFrame": 2452
+      },
+      {
+        "text": "spend",
+        "startFrame": 2452,
+        "endFrame": 2462
+      },
+      {
+        "text": "most",
+        "startFrame": 2462,
+        "endFrame": 2470
+      },
+      {
+        "text": "of",
+        "startFrame": 2470,
+        "endFrame": 2474
+      },
+      {
+        "text": "their",
+        "startFrame": 2474,
+        "endFrame": 2484
+      }
+    ]
+  },
+  {
+    "text": "time on plumbing.",
+    "startFrame": 2484,
+    "endFrame": 2515,
+    "words": [
+      {
+        "text": "time",
+        "startFrame": 2484,
+        "endFrame": 2496
+      },
+      {
+        "text": "on",
+        "startFrame": 2496,
+        "endFrame": 2515
+      },
+      {
+        "text": "plumbing.",
+        "startFrame": 2515,
+        "endFrame": 2515
+      }
+    ]
+  },
+  {
+    "text": "The platform quietly becomes the product,",
+    "startFrame": 2515,
+    "endFrame": 2582,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 2515,
+        "endFrame": 2521
+      },
+      {
+        "text": "platform",
+        "startFrame": 2521,
+        "endFrame": 2537
+      },
+      {
+        "text": "quietly",
+        "startFrame": 2537,
+        "endFrame": 2548
+      },
+      {
+        "text": "becomes",
+        "startFrame": 2548,
+        "endFrame": 2560
+      },
+      {
+        "text": "the",
+        "startFrame": 2560,
+        "endFrame": 2573
+      },
+      {
+        "text": "product,",
+        "startFrame": 2573,
+        "endFrame": 2582
+      }
+    ]
+  },
+  {
+    "text": "even though nobody meant for that",
+    "startFrame": 2582,
+    "endFrame": 2632,
+    "words": [
+      {
+        "text": "even",
+        "startFrame": 2582,
+        "endFrame": 2589
+      },
+      {
+        "text": "though",
+        "startFrame": 2589,
+        "endFrame": 2601
+      },
+      {
+        "text": "nobody",
+        "startFrame": 2601,
+        "endFrame": 2611
+      },
+      {
+        "text": "meant",
+        "startFrame": 2611,
+        "endFrame": 2620
+      },
+      {
+        "text": "for",
+        "startFrame": 2620,
+        "endFrame": 2632
+      },
+      {
+        "text": "that",
+        "startFrame": 2632,
+        "endFrame": 2632
+      }
+    ]
+  },
+  {
+    "text": "to happen. This is exactly why",
+    "startFrame": 2632,
+    "endFrame": 2686,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 2632,
+        "endFrame": 2636
+      },
+      {
+        "text": "happen.",
+        "startFrame": 2636,
+        "endFrame": 2655
+      },
+      {
+        "text": "This",
+        "startFrame": 2655,
+        "endFrame": 2663
+      },
+      {
+        "text": "is",
+        "startFrame": 2663,
+        "endFrame": 2667
+      },
+      {
+        "text": "exactly",
+        "startFrame": 2667,
+        "endFrame": 2680
+      },
+      {
+        "text": "why",
+        "startFrame": 2680,
+        "endFrame": 2686
+      }
+    ]
+  },
+  {
+    "text": "platform engineering exists.",
+    "startFrame": 2686,
+    "endFrame": 2743,
+    "words": [
+      {
+        "text": "platform",
+        "startFrame": 2686,
+        "endFrame": 2702
+      },
+      {
+        "text": "engineering",
+        "startFrame": 2702,
+        "endFrame": 2722
+      },
+      {
+        "text": "exists.",
+        "startFrame": 2722,
+        "endFrame": 2743
+      }
+    ]
+  },
+  {
+    "text": "It's basically about building an internal",
+    "startFrame": 2743,
+    "endFrame": 2804,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 2743,
+        "endFrame": 2752
+      },
+      {
+        "text": "basically",
+        "startFrame": 2752,
+        "endFrame": 2765
+      },
+      {
+        "text": "about",
+        "startFrame": 2765,
+        "endFrame": 2774
+      },
+      {
+        "text": "building",
+        "startFrame": 2774,
+        "endFrame": 2787
+      },
+      {
+        "text": "an",
+        "startFrame": 2787,
+        "endFrame": 2791
+      },
+      {
+        "text": "internal",
+        "startFrame": 2791,
+        "endFrame": 2804
+      }
+    ]
+  },
+  {
+    "text": "product for your developers.",
+    "startFrame": 2804,
+    "endFrame": 2852,
+    "words": [
+      {
+        "text": "product",
+        "startFrame": 2804,
+        "endFrame": 2818
+      },
+      {
+        "text": "for",
+        "startFrame": 2818,
+        "endFrame": 2821
+      },
+      {
+        "text": "your",
+        "startFrame": 2821,
+        "endFrame": 2846
+      },
+      {
+        "text": "developers.",
+        "startFrame": 2846,
+        "endFrame": 2852
+      }
+    ]
+  },
+  {
+    "text": "Instead of every team reinventing the",
+    "startFrame": 2852,
+    "endFrame": 2898,
+    "words": [
+      {
+        "text": "Instead",
+        "startFrame": 2852,
+        "endFrame": 2863
+      },
+      {
+        "text": "of",
+        "startFrame": 2863,
+        "endFrame": 2865
+      },
+      {
+        "text": "every",
+        "startFrame": 2865,
+        "endFrame": 2872
+      },
+      {
+        "text": "team",
+        "startFrame": 2872,
+        "endFrame": 2878
+      },
+      {
+        "text": "reinventing",
+        "startFrame": 2878,
+        "endFrame": 2897
+      },
+      {
+        "text": "the",
+        "startFrame": 2897,
+        "endFrame": 2898
+      }
+    ]
+  },
+  {
+    "text": "same setup, the platform team builds",
+    "startFrame": 2898,
+    "endFrame": 2944,
+    "words": [
+      {
+        "text": "same",
+        "startFrame": 2898,
+        "endFrame": 2905
+      },
+      {
+        "text": "setup,",
+        "startFrame": 2905,
+        "endFrame": 2918
+      },
+      {
+        "text": "the",
+        "startFrame": 2918,
+        "endFrame": 2920
+      },
+      {
+        "text": "platform",
+        "startFrame": 2920,
+        "endFrame": 2932
+      },
+      {
+        "text": "team",
+        "startFrame": 2932,
+        "endFrame": 2936
+      },
+      {
+        "text": "builds",
+        "startFrame": 2936,
+        "endFrame": 2944
+      }
+    ]
+  },
+  {
+    "text": "one standard path.",
+    "startFrame": 2944,
+    "endFrame": 2997,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 2944,
+        "endFrame": 2948
+      },
+      {
+        "text": "standard",
+        "startFrame": 2948,
+        "endFrame": 2964
+      },
+      {
+        "text": "path.",
+        "startFrame": 2964,
+        "endFrame": 2997
+      }
+    ]
+  },
+  {
+    "text": "Think of it like this.",
+    "startFrame": 2997,
+    "endFrame": 3057,
+    "words": [
+      {
+        "text": "Think",
+        "startFrame": 2997,
+        "endFrame": 3011
+      },
+      {
+        "text": "of",
+        "startFrame": 3011,
+        "endFrame": 3016
+      },
+      {
+        "text": "it",
+        "startFrame": 3016,
+        "endFrame": 3036
+      },
+      {
+        "text": "like",
+        "startFrame": 3036,
+        "endFrame": 3038
+      },
+      {
+        "text": "this.",
+        "startFrame": 3038,
+        "endFrame": 3057
+      }
+    ]
+  },
+  {
+    "text": "Microservices give you the building blocks,",
+    "startFrame": 3057,
+    "endFrame": 3121,
+    "words": [
+      {
+        "text": "Microservices",
+        "startFrame": 3057,
+        "endFrame": 3078
+      },
+      {
+        "text": "give",
+        "startFrame": 3078,
+        "endFrame": 3085
+      },
+      {
+        "text": "you",
+        "startFrame": 3085,
+        "endFrame": 3090
+      },
+      {
+        "text": "the",
+        "startFrame": 3090,
+        "endFrame": 3093
+      },
+      {
+        "text": "building",
+        "startFrame": 3093,
+        "endFrame": 3113
+      },
+      {
+        "text": "blocks,",
+        "startFrame": 3113,
+        "endFrame": 3121
+      }
+    ]
+  },
+  {
+    "text": "platform engineering gives you the paved",
+    "startFrame": 3121,
+    "endFrame": 3185,
+    "words": [
+      {
+        "text": "platform",
+        "startFrame": 3121,
+        "endFrame": 3134
+      },
+      {
+        "text": "engineering",
+        "startFrame": 3134,
+        "endFrame": 3152
+      },
+      {
+        "text": "gives",
+        "startFrame": 3152,
+        "endFrame": 3160
+      },
+      {
+        "text": "you",
+        "startFrame": 3160,
+        "endFrame": 3170
+      },
+      {
+        "text": "the",
+        "startFrame": 3170,
+        "endFrame": 3170
+      },
+      {
+        "text": "paved",
+        "startFrame": 3170,
+        "endFrame": 3185
+      }
+    ]
+  },
+  {
+    "text": "road. Teams still own their services,",
+    "startFrame": 3185,
+    "endFrame": 3241,
+    "words": [
+      {
+        "text": "road.",
+        "startFrame": 3185,
+        "endFrame": 3193
+      },
+      {
+        "text": "Teams",
+        "startFrame": 3193,
+        "endFrame": 3201
+      },
+      {
+        "text": "still",
+        "startFrame": 3201,
+        "endFrame": 3210
+      },
+      {
+        "text": "own",
+        "startFrame": 3210,
+        "endFrame": 3215
+      },
+      {
+        "text": "their",
+        "startFrame": 3215,
+        "endFrame": 3224
+      },
+      {
+        "text": "services,",
+        "startFrame": 3224,
+        "endFrame": 3241
+      }
+    ]
+  },
+  {
+    "text": "you just remove the repetitive low-value",
+    "startFrame": 3241,
+    "endFrame": 3301,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 3241,
+        "endFrame": 3246
+      },
+      {
+        "text": "just",
+        "startFrame": 3246,
+        "endFrame": 3253
+      },
+      {
+        "text": "remove",
+        "startFrame": 3253,
+        "endFrame": 3263
+      },
+      {
+        "text": "the",
+        "startFrame": 3263,
+        "endFrame": 3270
+      },
+      {
+        "text": "repetitive",
+        "startFrame": 3270,
+        "endFrame": 3286
+      },
+      {
+        "text": "low-value",
+        "startFrame": 3286,
+        "endFrame": 3301
+      }
+    ]
+  },
+  {
+    "text": "work around them.",
+    "startFrame": 3301,
+    "endFrame": 3334,
+    "words": [
+      {
+        "text": "work",
+        "startFrame": 3301,
+        "endFrame": 3307
+      },
+      {
+        "text": "around",
+        "startFrame": 3307,
+        "endFrame": 3308
+      },
+      {
+        "text": "them.",
+        "startFrame": 3308,
+        "endFrame": 3334
+      }
+    ]
+  },
+  {
+    "text": "A platform usually gives you a",
+    "startFrame": 3334,
+    "endFrame": 3385,
+    "words": [
+      {
+        "text": "A",
+        "startFrame": 3334,
+        "endFrame": 3336
+      },
+      {
+        "text": "platform",
+        "startFrame": 3336,
+        "endFrame": 3352
+      },
+      {
+        "text": "usually",
+        "startFrame": 3352,
+        "endFrame": 3369
+      },
+      {
+        "text": "gives",
+        "startFrame": 3369,
+        "endFrame": 3377
+      },
+      {
+        "text": "you",
+        "startFrame": 3377,
+        "endFrame": 3383
+      },
+      {
+        "text": "a",
+        "startFrame": 3383,
+        "endFrame": 3385
+      }
+    ]
+  },
+  {
+    "text": "service template. Automated deployments,",
+    "startFrame": 3385,
+    "endFrame": 3465,
+    "words": [
+      {
+        "text": "service",
+        "startFrame": 3385,
+        "endFrame": 3401
+      },
+      {
+        "text": "template.",
+        "startFrame": 3401,
+        "endFrame": 3424
+      },
+      {
+        "text": "Automated",
+        "startFrame": 3424,
+        "endFrame": 3439
+      },
+      {
+        "text": "deployments,",
+        "startFrame": 3439,
+        "endFrame": 3465
+      }
+    ]
+  },
+  {
+    "text": "standard logging and monitoring,",
+    "startFrame": 3465,
+    "endFrame": 3514,
+    "words": [
+      {
+        "text": "standard",
+        "startFrame": 3465,
+        "endFrame": 3476
+      },
+      {
+        "text": "logging",
+        "startFrame": 3476,
+        "endFrame": 3488
+      },
+      {
+        "text": "and",
+        "startFrame": 3488,
+        "endFrame": 3493
+      },
+      {
+        "text": "monitoring,",
+        "startFrame": 3493,
+        "endFrame": 3514
+      }
+    ]
+  },
+  {
+    "text": "secret management, a service catalog,",
+    "startFrame": 3514,
+    "endFrame": 3583,
+    "words": [
+      {
+        "text": "secret",
+        "startFrame": 3514,
+        "endFrame": 3524
+      },
+      {
+        "text": "management,",
+        "startFrame": 3524,
+        "endFrame": 3545
+      },
+      {
+        "text": "a",
+        "startFrame": 3545,
+        "endFrame": 3547
+      },
+      {
+        "text": "service",
+        "startFrame": 3547,
+        "endFrame": 3561
+      },
+      {
+        "text": "catalog,",
+        "startFrame": 3561,
+        "endFrame": 3583
+      }
+    ]
+  },
+  {
+    "text": "self-service infrastructure. The specific",
+    "startFrame": 3583,
+    "endFrame": 3668,
+    "words": [
+      {
+        "text": "self-service",
+        "startFrame": 3583,
+        "endFrame": 3608
+      },
+      {
+        "text": "infrastructure.",
+        "startFrame": 3608,
+        "endFrame": 3643
+      },
+      {
+        "text": "The",
+        "startFrame": 3643,
+        "endFrame": 3650
+      },
+      {
+        "text": "specific",
+        "startFrame": 3650,
+        "endFrame": 3668
+      }
+    ]
+  },
+  {
+    "text": "tools don't matter as much as",
+    "startFrame": 3668,
+    "endFrame": 3725,
+    "words": [
+      {
+        "text": "tools",
+        "startFrame": 3668,
+        "endFrame": 3680
+      },
+      {
+        "text": "don't",
+        "startFrame": 3680,
+        "endFrame": 3691
+      },
+      {
+        "text": "matter",
+        "startFrame": 3691,
+        "endFrame": 3705
+      },
+      {
+        "text": "as",
+        "startFrame": 3705,
+        "endFrame": 3710
+      },
+      {
+        "text": "much",
+        "startFrame": 3710,
+        "endFrame": 3718
+      },
+      {
+        "text": "as",
+        "startFrame": 3718,
+        "endFrame": 3725
+      }
+    ]
+  },
+  {
+    "text": "the outcome. Developers get a reputable",
+    "startFrame": 3725,
+    "endFrame": 3795,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3725,
+        "endFrame": 3744
+      },
+      {
+        "text": "outcome.",
+        "startFrame": 3744,
+        "endFrame": 3755
+      },
+      {
+        "text": "Developers",
+        "startFrame": 3755,
+        "endFrame": 3772
+      },
+      {
+        "text": "get",
+        "startFrame": 3772,
+        "endFrame": 3779
+      },
+      {
+        "text": "a",
+        "startFrame": 3779,
+        "endFrame": 3780
+      },
+      {
+        "text": "reputable",
+        "startFrame": 3780,
+        "endFrame": 3795
+      }
+    ]
+  },
+  {
+    "text": "way to build,",
+    "startFrame": 3795,
+    "endFrame": 3823,
+    "words": [
+      {
+        "text": "way",
+        "startFrame": 3795,
+        "endFrame": 3804
+      },
+      {
+        "text": "to",
+        "startFrame": 3804,
+        "endFrame": 3804
+      },
+      {
+        "text": "build,",
+        "startFrame": 3804,
+        "endFrame": 3823
+      }
+    ]
+  },
+  {
+    "text": "ship, and run services without asking",
+    "startFrame": 3823,
+    "endFrame": 3873,
+    "words": [
+      {
+        "text": "ship,",
+        "startFrame": 3823,
+        "endFrame": 3826
+      },
+      {
+        "text": "and",
+        "startFrame": 3826,
+        "endFrame": 3836
+      },
+      {
+        "text": "run",
+        "startFrame": 3836,
+        "endFrame": 3837
+      },
+      {
+        "text": "services",
+        "startFrame": 3837,
+        "endFrame": 3850
+      },
+      {
+        "text": "without",
+        "startFrame": 3850,
+        "endFrame": 3866
+      },
+      {
+        "text": "asking",
+        "startFrame": 3866,
+        "endFrame": 3873
+      }
+    ]
+  },
+  {
+    "text": "the infra-team for everything.",
+    "startFrame": 3873,
+    "endFrame": 3926,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3873,
+        "endFrame": 3879
+      },
+      {
+        "text": "infra-team",
+        "startFrame": 3879,
+        "endFrame": 3896
+      },
+      {
+        "text": "for",
+        "startFrame": 3896,
+        "endFrame": 3902
+      },
+      {
+        "text": "everything.",
+        "startFrame": 3902,
+        "endFrame": 3926
+      }
+    ]
+  },
+  {
+    "text": "Without a platform,",
+    "startFrame": 3926,
+    "endFrame": 3970,
+    "words": [
+      {
+        "text": "Without",
+        "startFrame": 3926,
+        "endFrame": 3945
+      },
+      {
+        "text": "a",
+        "startFrame": 3945,
+        "endFrame": 3946
+      },
+      {
+        "text": "platform,",
+        "startFrame": 3946,
+        "endFrame": 3970
+      }
+    ]
+  },
+  {
+    "text": "every new service is its own",
+    "startFrame": 3970,
+    "endFrame": 4025,
+    "words": [
+      {
+        "text": "every",
+        "startFrame": 3970,
+        "endFrame": 3982
+      },
+      {
+        "text": "new",
+        "startFrame": 3982,
+        "endFrame": 3992
+      },
+      {
+        "text": "service",
+        "startFrame": 3992,
+        "endFrame": 4010
+      },
+      {
+        "text": "is",
+        "startFrame": 4010,
+        "endFrame": 4010
+      },
+      {
+        "text": "its",
+        "startFrame": 4010,
+        "endFrame": 4019
+      },
+      {
+        "text": "own",
+        "startFrame": 4019,
+        "endFrame": 4025
+      }
+    ]
+  },
+  {
+    "text": "mini-project. You pick the stack,",
+    "startFrame": 4025,
+    "endFrame": 4094,
+    "words": [
+      {
+        "text": "mini-project.",
+        "startFrame": 4025,
+        "endFrame": 4062
+      },
+      {
+        "text": "You",
+        "startFrame": 4062,
+        "endFrame": 4068
+      },
+      {
+        "text": "pick",
+        "startFrame": 4068,
+        "endFrame": 4077
+      },
+      {
+        "text": "the",
+        "startFrame": 4077,
+        "endFrame": 4081
+      },
+      {
+        "text": "stack,",
+        "startFrame": 4081,
+        "endFrame": 4094
+      }
+    ]
+  },
+  {
+    "text": "write the config,",
+    "startFrame": 4094,
+    "endFrame": 4129,
+    "words": [
+      {
+        "text": "write",
+        "startFrame": 4094,
+        "endFrame": 4104
+      },
+      {
+        "text": "the",
+        "startFrame": 4104,
+        "endFrame": 4110
+      },
+      {
+        "text": "config,",
+        "startFrame": 4110,
+        "endFrame": 4129
+      }
+    ]
+  },
+  {
+    "text": "write up observability,",
+    "startFrame": 4129,
+    "endFrame": 4173,
+    "words": [
+      {
+        "text": "write",
+        "startFrame": 4129,
+        "endFrame": 4136
+      },
+      {
+        "text": "up",
+        "startFrame": 4136,
+        "endFrame": 4139
+      },
+      {
+        "text": "observability,",
+        "startFrame": 4139,
+        "endFrame": 4173
+      }
+    ]
+  },
+  {
+    "text": "handle security, all from scratch.",
+    "startFrame": 4173,
+    "endFrame": 4243,
+    "words": [
+      {
+        "text": "handle",
+        "startFrame": 4173,
+        "endFrame": 4178
+      },
+      {
+        "text": "security,",
+        "startFrame": 4178,
+        "endFrame": 4196
+      },
+      {
+        "text": "all",
+        "startFrame": 4196,
+        "endFrame": 4205
+      },
+      {
+        "text": "from",
+        "startFrame": 4205,
+        "endFrame": 4213
+      },
+      {
+        "text": "scratch.",
+        "startFrame": 4213,
+        "endFrame": 4243
+      }
+    ]
+  },
+  {
+    "text": "With the platform,",
+    "startFrame": 4243,
+    "endFrame": 4279,
+    "words": [
+      {
+        "text": "With",
+        "startFrame": 4243,
+        "endFrame": 4254
+      },
+      {
+        "text": "the",
+        "startFrame": 4254,
+        "endFrame": 4258
+      },
+      {
+        "text": "platform,",
+        "startFrame": 4258,
+        "endFrame": 4279
+      }
+    ]
+  },
+  {
+    "text": "most of that,",
+    "startFrame": 4279,
+    "endFrame": 4305,
+    "words": [
+      {
+        "text": "most",
+        "startFrame": 4279,
+        "endFrame": 4289
+      },
+      {
+        "text": "of",
+        "startFrame": 4289,
+        "endFrame": 4294
+      },
+      {
+        "text": "that,",
+        "startFrame": 4294,
+        "endFrame": 4305
+      }
+    ]
+  },
+  {
+    "text": "it's already done.",
+    "startFrame": 4305,
+    "endFrame": 4344,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 4305,
+        "endFrame": 4313
+      },
+      {
+        "text": "already",
+        "startFrame": 4313,
+        "endFrame": 4336
+      },
+      {
+        "text": "done.",
+        "startFrame": 4336,
+        "endFrame": 4344
+      }
+    ]
+  },
+  {
+    "text": "You spin it up,",
+    "startFrame": 4344,
+    "endFrame": 4368,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 4344,
+        "endFrame": 4349
+      },
+      {
+        "text": "spin",
+        "startFrame": 4349,
+        "endFrame": 4356
+      },
+      {
+        "text": "it",
+        "startFrame": 4356,
+        "endFrame": 4358
+      },
+      {
+        "text": "up,",
+        "startFrame": 4358,
+        "endFrame": 4368
+      }
+    ]
+  },
+  {
+    "text": "fill in few details,",
+    "startFrame": 4368,
+    "endFrame": 4393,
+    "words": [
+      {
+        "text": "fill",
+        "startFrame": 4368,
+        "endFrame": 4373
+      },
+      {
+        "text": "in",
+        "startFrame": 4373,
+        "endFrame": 4376
+      },
+      {
+        "text": "few",
+        "startFrame": 4376,
+        "endFrame": 4378
+      },
+      {
+        "text": "details,",
+        "startFrame": 4378,
+        "endFrame": 4393
+      }
+    ]
+  },
+  {
+    "text": "the defaults just work.",
+    "startFrame": 4393,
+    "endFrame": 4461,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4393,
+        "endFrame": 4401
+      },
+      {
+        "text": "defaults",
+        "startFrame": 4401,
+        "endFrame": 4410
+      },
+      {
+        "text": "just",
+        "startFrame": 4410,
+        "endFrame": 4417
+      },
+      {
+        "text": "work.",
+        "startFrame": 4417,
+        "endFrame": 4461
+      }
+    ]
+  },
+  {
+    "text": "See a company building a new",
+    "startFrame": 4461,
+    "endFrame": 4499,
+    "words": [
+      {
+        "text": "See",
+        "startFrame": 4461,
+        "endFrame": 4466
+      },
+      {
+        "text": "a",
+        "startFrame": 4466,
+        "endFrame": 4469
+      },
+      {
+        "text": "company",
+        "startFrame": 4469,
+        "endFrame": 4479
+      },
+      {
+        "text": "building",
+        "startFrame": 4479,
+        "endFrame": 4493
+      },
+      {
+        "text": "a",
+        "startFrame": 4493,
+        "endFrame": 4494
+      },
+      {
+        "text": "new",
+        "startFrame": 4494,
+        "endFrame": 4499
+      }
+    ]
+  },
+  {
+    "text": "recommendation service. In the whole world,",
+    "startFrame": 4499,
+    "endFrame": 4578,
+    "words": [
+      {
+        "text": "recommendation",
+        "startFrame": 4499,
+        "endFrame": 4523
+      },
+      {
+        "text": "service.",
+        "startFrame": 4523,
+        "endFrame": 4541
+      },
+      {
+        "text": "In",
+        "startFrame": 4541,
+        "endFrame": 4545
+      },
+      {
+        "text": "the",
+        "startFrame": 4545,
+        "endFrame": 4552
+      },
+      {
+        "text": "whole",
+        "startFrame": 4552,
+        "endFrame": 4570
+      },
+      {
+        "text": "world,",
+        "startFrame": 4570,
+        "endFrame": 4578
+      }
+    ]
+  },
+  {
+    "text": "the team writes the docker file",
+    "startFrame": 4578,
+    "endFrame": 4640,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4578,
+        "endFrame": 4585
+      },
+      {
+        "text": "team",
+        "startFrame": 4585,
+        "endFrame": 4594
+      },
+      {
+        "text": "writes",
+        "startFrame": 4594,
+        "endFrame": 4607
+      },
+      {
+        "text": "the",
+        "startFrame": 4607,
+        "endFrame": 4614
+      },
+      {
+        "text": "docker",
+        "startFrame": 4614,
+        "endFrame": 4626
+      },
+      {
+        "text": "file",
+        "startFrame": 4626,
+        "endFrame": 4640
+      }
+    ]
+  },
+  {
+    "text": "by hand, sets up CI,",
+    "startFrame": 4640,
+    "endFrame": 4679,
+    "words": [
+      {
+        "text": "by",
+        "startFrame": 4640,
+        "endFrame": 4645
+      },
+      {
+        "text": "hand,",
+        "startFrame": 4645,
+        "endFrame": 4658
+      },
+      {
+        "text": "sets",
+        "startFrame": 4658,
+        "endFrame": 4663
+      },
+      {
+        "text": "up",
+        "startFrame": 4663,
+        "endFrame": 4672
+      },
+      {
+        "text": "CI,",
+        "startFrame": 4672,
+        "endFrame": 4679
+      }
+    ]
+  },
+  {
+    "text": "configure Kubernetes, build dashboard,",
+    "startFrame": 4679,
+    "endFrame": 4770,
+    "words": [
+      {
+        "text": "configure",
+        "startFrame": 4679,
+        "endFrame": 4696
+      },
+      {
+        "text": "Kubernetes,",
+        "startFrame": 4696,
+        "endFrame": 4730
+      },
+      {
+        "text": "build",
+        "startFrame": 4730,
+        "endFrame": 4742
+      },
+      {
+        "text": "dashboard,",
+        "startFrame": 4742,
+        "endFrame": 4770
+      }
+    ]
+  },
+  {
+    "text": "wires and logs,",
+    "startFrame": 4770,
+    "endFrame": 4805,
+    "words": [
+      {
+        "text": "wires",
+        "startFrame": 4770,
+        "endFrame": 4781
+      },
+      {
+        "text": "and",
+        "startFrame": 4781,
+        "endFrame": 4799
+      },
+      {
+        "text": "logs,",
+        "startFrame": 4799,
+        "endFrame": 4805
+      }
+    ]
+  },
+  {
+    "text": "alerts manually. In the platform world,",
+    "startFrame": 4805,
+    "endFrame": 4896,
+    "words": [
+      {
+        "text": "alerts",
+        "startFrame": 4805,
+        "endFrame": 4820
+      },
+      {
+        "text": "manually.",
+        "startFrame": 4820,
+        "endFrame": 4850
+      },
+      {
+        "text": "In",
+        "startFrame": 4850,
+        "endFrame": 4854
+      },
+      {
+        "text": "the",
+        "startFrame": 4854,
+        "endFrame": 4861
+      },
+      {
+        "text": "platform",
+        "startFrame": 4861,
+        "endFrame": 4883
+      },
+      {
+        "text": "world,",
+        "startFrame": 4883,
+        "endFrame": 4896
+      }
+    ]
+  },
+  {
+    "text": "they just use a template.",
+    "startFrame": 4896,
+    "endFrame": 4945,
+    "words": [
+      {
+        "text": "they",
+        "startFrame": 4896,
+        "endFrame": 4902
+      },
+      {
+        "text": "just",
+        "startFrame": 4902,
+        "endFrame": 4911
+      },
+      {
+        "text": "use",
+        "startFrame": 4911,
+        "endFrame": 4919
+      },
+      {
+        "text": "a",
+        "startFrame": 4919,
+        "endFrame": 4920
+      },
+      {
+        "text": "template.",
+        "startFrame": 4920,
+        "endFrame": 4945
+      }
+    ]
+  },
+  {
+    "text": "Click the runtime,",
+    "startFrame": 4945,
+    "endFrame": 4983,
+    "words": [
+      {
+        "text": "Click",
+        "startFrame": 4945,
+        "endFrame": 4955
+      },
+      {
+        "text": "the",
+        "startFrame": 4955,
+        "endFrame": 4960
+      },
+      {
+        "text": "runtime,",
+        "startFrame": 4960,
+        "endFrame": 4983
+      }
+    ]
+  },
+  {
+    "text": "name the service,",
+    "startFrame": 4983,
+    "endFrame": 5012,
+    "words": [
+      {
+        "text": "name",
+        "startFrame": 4983,
+        "endFrame": 4985
+      },
+      {
+        "text": "the",
+        "startFrame": 4985,
+        "endFrame": 4991
+      },
+      {
+        "text": "service,",
+        "startFrame": 4991,
+        "endFrame": 5012
+      }
+    ]
+  },
+  {
+    "text": "assign an owner,",
+    "startFrame": 5012,
+    "endFrame": 5038,
+    "words": [
+      {
+        "text": "assign",
+        "startFrame": 5012,
+        "endFrame": 5020
+      },
+      {
+        "text": "an",
+        "startFrame": 5020,
+        "endFrame": 5024
+      },
+      {
+        "text": "owner,",
+        "startFrame": 5024,
+        "endFrame": 5038
+      }
+    ]
+  },
+  {
+    "text": "the platform generates the boilerplate,",
+    "startFrame": 5038,
+    "endFrame": 5101,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 5038,
+        "endFrame": 5045
+      },
+      {
+        "text": "platform",
+        "startFrame": 5045,
+        "endFrame": 5052
+      },
+      {
+        "text": "generates",
+        "startFrame": 5052,
+        "endFrame": 5062
+      },
+      {
+        "text": "the",
+        "startFrame": 5062,
+        "endFrame": 5067
+      },
+      {
+        "text": "boilerplate,",
+        "startFrame": 5067,
+        "endFrame": 5101
+      }
+    ]
+  },
+  {
+    "text": "hooks up the pipeline,",
+    "startFrame": 5101,
+    "endFrame": 5147,
+    "words": [
+      {
+        "text": "hooks",
+        "startFrame": 5101,
+        "endFrame": 5114
+      },
+      {
+        "text": "up",
+        "startFrame": 5114,
+        "endFrame": 5117
+      },
+      {
+        "text": "the",
+        "startFrame": 5117,
+        "endFrame": 5124
+      },
+      {
+        "text": "pipeline,",
+        "startFrame": 5124,
+        "endFrame": 5147
+      }
+    ]
+  },
+  {
+    "text": "adds monitoring, registers it in the",
+    "startFrame": 5147,
+    "endFrame": 5222,
+    "words": [
+      {
+        "text": "adds",
+        "startFrame": 5147,
+        "endFrame": 5157
+      },
+      {
+        "text": "monitoring,",
+        "startFrame": 5157,
+        "endFrame": 5185
+      },
+      {
+        "text": "registers",
+        "startFrame": 5185,
+        "endFrame": 5206
+      },
+      {
+        "text": "it",
+        "startFrame": 5206,
+        "endFrame": 5214
+      },
+      {
+        "text": "in",
+        "startFrame": 5214,
+        "endFrame": 5215
+      },
+      {
+        "text": "the",
+        "startFrame": 5215,
+        "endFrame": 5222
+      }
+    ]
+  },
+  {
+    "text": "catalog automatically. Microservices",
+    "startFrame": 5222,
+    "endFrame": 5309,
+    "words": [
+      {
+        "text": "catalog",
+        "startFrame": 5222,
+        "endFrame": 5238
+      },
+      {
+        "text": "automatically.",
+        "startFrame": 5238,
+        "endFrame": 5291
+      },
+      {
+        "text": "Microservices",
+        "startFrame": 5291,
+        "endFrame": 5309
+      }
+    ]
+  },
+  {
+    "text": "aren't bad. The problem is they",
+    "startFrame": 5309,
+    "endFrame": 5366,
+    "words": [
+      {
+        "text": "aren't",
+        "startFrame": 5309,
+        "endFrame": 5317
+      },
+      {
+        "text": "bad.",
+        "startFrame": 5317,
+        "endFrame": 5326
+      },
+      {
+        "text": "The",
+        "startFrame": 5326,
+        "endFrame": 5332
+      },
+      {
+        "text": "problem",
+        "startFrame": 5332,
+        "endFrame": 5349
+      },
+      {
+        "text": "is",
+        "startFrame": 5349,
+        "endFrame": 5352
+      },
+      {
+        "text": "they",
+        "startFrame": 5352,
+        "endFrame": 5366
+      }
+    ]
+  },
+  {
+    "text": "don't scale operationally on their own.",
+    "startFrame": 5366,
+    "endFrame": 5440,
+    "words": [
+      {
+        "text": "don't",
+        "startFrame": 5366,
+        "endFrame": 5371
+      },
+      {
+        "text": "scale",
+        "startFrame": 5371,
+        "endFrame": 5382
+      },
+      {
+        "text": "operationally",
+        "startFrame": 5382,
+        "endFrame": 5410
+      },
+      {
+        "text": "on",
+        "startFrame": 5410,
+        "endFrame": 5426
+      },
+      {
+        "text": "their",
+        "startFrame": 5426,
+        "endFrame": 5427
+      },
+      {
+        "text": "own.",
+        "startFrame": 5427,
+        "endFrame": 5440
+      }
+    ]
+  },
+  {
+    "text": "Keep adding services without a platform",
+    "startFrame": 5440,
+    "endFrame": 5505,
+    "words": [
+      {
+        "text": "Keep",
+        "startFrame": 5440,
+        "endFrame": 5448
+      },
+      {
+        "text": "adding",
+        "startFrame": 5448,
+        "endFrame": 5459
+      },
+      {
+        "text": "services",
+        "startFrame": 5459,
+        "endFrame": 5474
+      },
+      {
+        "text": "without",
+        "startFrame": 5474,
+        "endFrame": 5489
+      },
+      {
+        "text": "a",
+        "startFrame": 5489,
+        "endFrame": 5490
+      },
+      {
+        "text": "platform",
+        "startFrame": 5490,
+        "endFrame": 5505
+      }
+    ]
+  },
+  {
+    "text": "and complexity outspaces the productivity fast.",
+    "startFrame": 5505,
+    "endFrame": 5591,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 5505,
+        "endFrame": 5511
+      },
+      {
+        "text": "complexity",
+        "startFrame": 5511,
+        "endFrame": 5536
+      },
+      {
+        "text": "outspaces",
+        "startFrame": 5536,
+        "endFrame": 5547
+      },
+      {
+        "text": "the",
+        "startFrame": 5547,
+        "endFrame": 5552
+      },
+      {
+        "text": "productivity",
+        "startFrame": 5552,
+        "endFrame": 5576
+      },
+      {
+        "text": "fast.",
+        "startFrame": 5576,
+        "endFrame": 5591
+      }
+    ]
+  },
+  {
+    "text": "Build the platform in early enough",
+    "startFrame": 5591,
+    "endFrame": 5644,
+    "words": [
+      {
+        "text": "Build",
+        "startFrame": 5591,
+        "endFrame": 5602
+      },
+      {
+        "text": "the",
+        "startFrame": 5602,
+        "endFrame": 5606
+      },
+      {
+        "text": "platform",
+        "startFrame": 5606,
+        "endFrame": 5623
+      },
+      {
+        "text": "in",
+        "startFrame": 5623,
+        "endFrame": 5624
+      },
+      {
+        "text": "early",
+        "startFrame": 5624,
+        "endFrame": 5633
+      },
+      {
+        "text": "enough",
+        "startFrame": 5633,
+        "endFrame": 5644
+      }
+    ]
+  },
+  {
+    "text": "and you keep everything good about",
+    "startFrame": 5644,
+    "endFrame": 5702,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 5644,
+        "endFrame": 5650
+      },
+      {
+        "text": "you",
+        "startFrame": 5650,
+        "endFrame": 5661
+      },
+      {
+        "text": "keep",
+        "startFrame": 5661,
+        "endFrame": 5663
+      },
+      {
+        "text": "everything",
+        "startFrame": 5663,
+        "endFrame": 5682
+      },
+      {
+        "text": "good",
+        "startFrame": 5682,
+        "endFrame": 5689
+      },
+      {
+        "text": "about",
+        "startFrame": 5689,
+        "endFrame": 5702
+      }
+    ]
+  },
+  {
+    "text": "microservices without drowning in the",
+    "startFrame": 5702,
+    "endFrame": 5798,
+    "words": [
+      {
+        "text": "microservices",
+        "startFrame": 5702,
+        "endFrame": 5723
+      },
+      {
+        "text": "without",
+        "startFrame": 5723,
+        "endFrame": 5738
+      },
+      {
+        "text": "drowning",
+        "startFrame": 5738,
+        "endFrame": 5761
+      },
+      {
+        "text": "in",
+        "startFrame": 5761,
+        "endFrame": 5767
+      },
+      {
+        "text": "the",
+        "startFrame": 5767,
+        "endFrame": 5798
+      }
+    ]
+  },
+  {
+    "text": "overhead. So here's the story,",
+    "startFrame": 5798,
+    "endFrame": 5851,
+    "words": [
+      {
+        "text": "overhead.",
+        "startFrame": 5798,
+        "endFrame": 5800
+      },
+      {
+        "text": "So",
+        "startFrame": 5800,
+        "endFrame": 5805
+      },
+      {
+        "text": "here's",
+        "startFrame": 5805,
+        "endFrame": 5823
+      },
+      {
+        "text": "the",
+        "startFrame": 5823,
+        "endFrame": 5835
+      },
+      {
+        "text": "story,",
+        "startFrame": 5835,
+        "endFrame": 5851
+      }
+    ]
+  },
+  {
+    "text": "boiled down. Microservices split your",
+    "startFrame": 5851,
+    "endFrame": 5929,
+    "words": [
+      {
+        "text": "boiled",
+        "startFrame": 5851,
+        "endFrame": 5874
+      },
+      {
+        "text": "down.",
+        "startFrame": 5874,
+        "endFrame": 5892
+      },
+      {
+        "text": "Microservices",
+        "startFrame": 5892,
+        "endFrame": 5913
+      },
+      {
+        "text": "split",
+        "startFrame": 5913,
+        "endFrame": 5922
+      },
+      {
+        "text": "your",
+        "startFrame": 5922,
+        "endFrame": 5929
+      }
+    ]
+  },
+  {
+    "text": "app into smaller pieces.",
+    "startFrame": 5929,
+    "endFrame": 5966,
+    "words": [
+      {
+        "text": "app",
+        "startFrame": 5929,
+        "endFrame": 5932
+      },
+      {
+        "text": "into",
+        "startFrame": 5932,
+        "endFrame": 5938
+      },
+      {
+        "text": "smaller",
+        "startFrame": 5938,
+        "endFrame": 5957
+      },
+      {
+        "text": "pieces.",
+        "startFrame": 5957,
+        "endFrame": 5966
+      }
+    ]
+  },
+  {
+    "text": "Platform engineering makes those pieces",
+    "startFrame": 5966,
+    "endFrame": 6050,
+    "words": [
+      {
+        "text": "Platform",
+        "startFrame": 5966,
+        "endFrame": 5983
+      },
+      {
+        "text": "engineering",
+        "startFrame": 5983,
+        "endFrame": 6007
+      },
+      {
+        "text": "makes",
+        "startFrame": 6007,
+        "endFrame": 6017
+      },
+      {
+        "text": "those",
+        "startFrame": 6017,
+        "endFrame": 6028
+      },
+      {
+        "text": "pieces",
+        "startFrame": 6028,
+        "endFrame": 6050
+      }
+    ]
+  },
+  {
+    "text": "manageable. Microservices give you team",
+    "startFrame": 6050,
+    "endFrame": 6129,
+    "words": [
+      {
+        "text": "manageable.",
+        "startFrame": 6050,
+        "endFrame": 6070
+      },
+      {
+        "text": "Microservices",
+        "startFrame": 6070,
+        "endFrame": 6096
+      },
+      {
+        "text": "give",
+        "startFrame": 6096,
+        "endFrame": 6104
+      },
+      {
+        "text": "you",
+        "startFrame": 6104,
+        "endFrame": 6107
+      },
+      {
+        "text": "team",
+        "startFrame": 6107,
+        "endFrame": 6129
+      }
+    ]
+  },
+  {
+    "text": "independence, platform engineering gives your team",
+    "startFrame": 6129,
+    "endFrame": 6221,
+    "words": [
+      {
+        "text": "independence,",
+        "startFrame": 6129,
+        "endFrame": 6146
+      },
+      {
+        "text": "platform",
+        "startFrame": 6146,
+        "endFrame": 6163
+      },
+      {
+        "text": "engineering",
+        "startFrame": 6163,
+        "endFrame": 6184
+      },
+      {
+        "text": "gives",
+        "startFrame": 6184,
+        "endFrame": 6194
+      },
+      {
+        "text": "your",
+        "startFrame": 6194,
+        "endFrame": 6201
+      },
+      {
+        "text": "team",
+        "startFrame": 6201,
+        "endFrame": 6221
+      }
+    ]
+  },
+  {
+    "text": "consistency. Microservices scale your architecture,",
+    "startFrame": 6221,
+    "endFrame": 6301,
+    "words": [
+      {
+        "text": "consistency.",
+        "startFrame": 6221,
+        "endFrame": 6240
+      },
+      {
+        "text": "Microservices",
+        "startFrame": 6240,
+        "endFrame": 6262
+      },
+      {
+        "text": "scale",
+        "startFrame": 6262,
+        "endFrame": 6270
+      },
+      {
+        "text": "your",
+        "startFrame": 6270,
+        "endFrame": 6277
+      },
+      {
+        "text": "architecture,",
+        "startFrame": 6277,
+        "endFrame": 6301
+      }
+    ]
+  },
+  {
+    "text": "platform engineering scales your organization.",
+    "startFrame": 6301,
+    "endFrame": 6377,
+    "words": [
+      {
+        "text": "platform",
+        "startFrame": 6301,
+        "endFrame": 6314
+      },
+      {
+        "text": "engineering",
+        "startFrame": 6314,
+        "endFrame": 6333
+      },
+      {
+        "text": "scales",
+        "startFrame": 6333,
+        "endFrame": 6343
+      },
+      {
+        "text": "your",
+        "startFrame": 6343,
+        "endFrame": 6349
+      },
+      {
+        "text": "organization.",
+        "startFrame": 6349,
+        "endFrame": 6377
+      }
+    ]
+  },
+  {
+    "text": "So if you have wondered why",
+    "startFrame": 6377,
+    "endFrame": 6411,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 6377,
+        "endFrame": 6383
+      },
+      {
+        "text": "if",
+        "startFrame": 6383,
+        "endFrame": 6383
+      },
+      {
+        "text": "you",
+        "startFrame": 6383,
+        "endFrame": 6388
+      },
+      {
+        "text": "have",
+        "startFrame": 6388,
+        "endFrame": 6394
+      },
+      {
+        "text": "wondered",
+        "startFrame": 6394,
+        "endFrame": 6409
+      },
+      {
+        "text": "why",
+        "startFrame": 6409,
+        "endFrame": 6411
+      }
+    ]
+  },
+  {
+    "text": "microservices gets hard over time,",
+    "startFrame": 6411,
+    "endFrame": 6460,
+    "words": [
+      {
+        "text": "microservices",
+        "startFrame": 6411,
+        "endFrame": 6432
+      },
+      {
+        "text": "gets",
+        "startFrame": 6432,
+        "endFrame": 6442
+      },
+      {
+        "text": "hard",
+        "startFrame": 6442,
+        "endFrame": 6444
+      },
+      {
+        "text": "over",
+        "startFrame": 6444,
+        "endFrame": 6451
+      },
+      {
+        "text": "time,",
+        "startFrame": 6451,
+        "endFrame": 6460
+      }
+    ]
+  },
+  {
+    "text": "it's not because the idea is",
+    "startFrame": 6460,
+    "endFrame": 6502,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 6460,
+        "endFrame": 6469
+      },
+      {
+        "text": "not",
+        "startFrame": 6469,
+        "endFrame": 6474
+      },
+      {
+        "text": "because",
+        "startFrame": 6474,
+        "endFrame": 6484
+      },
+      {
+        "text": "the",
+        "startFrame": 6484,
+        "endFrame": 6490
+      },
+      {
+        "text": "idea",
+        "startFrame": 6490,
+        "endFrame": 6498
+      },
+      {
+        "text": "is",
+        "startFrame": 6498,
+        "endFrame": 6502
+      }
+    ]
+  },
+  {
+    "text": "wrong. It's because the operational service",
+    "startFrame": 6502,
+    "endFrame": 6579,
+    "words": [
+      {
+        "text": "wrong.",
+        "startFrame": 6502,
+        "endFrame": 6520
+      },
+      {
+        "text": "It's",
+        "startFrame": 6520,
+        "endFrame": 6527
+      },
+      {
+        "text": "because",
+        "startFrame": 6527,
+        "endFrame": 6540
+      },
+      {
+        "text": "the",
+        "startFrame": 6540,
+        "endFrame": 6545
+      },
+      {
+        "text": "operational",
+        "startFrame": 6545,
+        "endFrame": 6566
+      },
+      {
+        "text": "service",
+        "startFrame": 6566,
+        "endFrame": 6579
+      }
+    ]
+  },
+  {
+    "text": "area grows faster than you expect.",
+    "startFrame": 6579,
+    "endFrame": 6637,
+    "words": [
+      {
+        "text": "area",
+        "startFrame": 6579,
+        "endFrame": 6586
+      },
+      {
+        "text": "grows",
+        "startFrame": 6586,
+        "endFrame": 6595
+      },
+      {
+        "text": "faster",
+        "startFrame": 6595,
+        "endFrame": 6606
+      },
+      {
+        "text": "than",
+        "startFrame": 6606,
+        "endFrame": 6613
+      },
+      {
+        "text": "you",
+        "startFrame": 6613,
+        "endFrame": 6617
+      },
+      {
+        "text": "expect.",
+        "startFrame": 6617,
+        "endFrame": 6637
+      }
+    ]
+  },
+  {
+    "text": "And that's why serious engineering orgs",
+    "startFrame": 6637,
+    "endFrame": 6704,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 6637,
+        "endFrame": 6644
+      },
+      {
+        "text": "that's",
+        "startFrame": 6644,
+        "endFrame": 6657
+      },
+      {
+        "text": "why",
+        "startFrame": 6657,
+        "endFrame": 6660
+      },
+      {
+        "text": "serious",
+        "startFrame": 6660,
+        "endFrame": 6674
+      },
+      {
+        "text": "engineering",
+        "startFrame": 6674,
+        "endFrame": 6697
+      },
+      {
+        "text": "orgs",
+        "startFrame": 6697,
+        "endFrame": 6704
+      }
+    ]
+  },
+  {
+    "text": "don't just build services,",
+    "startFrame": 6704,
+    "endFrame": 6754,
+    "words": [
+      {
+        "text": "don't",
+        "startFrame": 6704,
+        "endFrame": 6714
+      },
+      {
+        "text": "just",
+        "startFrame": 6714,
+        "endFrame": 6722
+      },
+      {
+        "text": "build",
+        "startFrame": 6722,
+        "endFrame": 6730
+      },
+      {
+        "text": "services,",
+        "startFrame": 6730,
+        "endFrame": 6754
+      }
+    ]
+  },
+  {
+    "text": "they build the platform underneath them.",
+    "startFrame": 6754,
+    "endFrame": 6808,
+    "words": [
+      {
+        "text": "they",
+        "startFrame": 6754,
+        "endFrame": 6757
+      },
+      {
+        "text": "build",
+        "startFrame": 6757,
+        "endFrame": 6760
+      },
+      {
+        "text": "the",
+        "startFrame": 6760,
+        "endFrame": 6763
+      },
+      {
+        "text": "platform",
+        "startFrame": 6763,
+        "endFrame": 6778
+      },
+      {
+        "text": "underneath",
+        "startFrame": 6778,
+        "endFrame": 6795
+      },
+      {
+        "text": "them.",
+        "startFrame": 6795,
+        "endFrame": 6808
+      }
+    ]
+  },
+  {
+    "text": "Thank you so much for watching",
+    "startFrame": 6808,
+    "endFrame": 6856,
+    "words": [
+      {
+        "text": "Thank",
+        "startFrame": 6808,
+        "endFrame": 6817
+      },
+      {
+        "text": "you",
+        "startFrame": 6817,
+        "endFrame": 6826
+      },
+      {
+        "text": "so",
+        "startFrame": 6826,
+        "endFrame": 6827
+      },
+      {
+        "text": "much",
+        "startFrame": 6827,
+        "endFrame": 6834
+      },
+      {
+        "text": "for",
+        "startFrame": 6834,
+        "endFrame": 6839
+      },
+      {
+        "text": "watching",
+        "startFrame": 6839,
+        "endFrame": 6856
+      }
+    ]
+  },
+  {
+    "text": "with this video.",
+    "startFrame": 6856,
+    "endFrame": 6884,
+    "words": [
+      {
+        "text": "with",
+        "startFrame": 6856,
+        "endFrame": 6860
+      },
+      {
+        "text": "this",
+        "startFrame": 6860,
+        "endFrame": 6868
+      },
+      {
+        "text": "video.",
+        "startFrame": 6868,
+        "endFrame": 6884
+      }
+    ]
+  },
+  {
+    "text": "If you like this video,",
+    "startFrame": 6884,
+    "endFrame": 6907,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 6884,
+        "endFrame": 6887
+      },
+      {
+        "text": "you",
+        "startFrame": 6887,
+        "endFrame": 6890
+      },
+      {
+        "text": "like",
+        "startFrame": 6890,
+        "endFrame": 6894
+      },
+      {
+        "text": "this",
+        "startFrame": 6894,
+        "endFrame": 6899
+      },
+      {
+        "text": "video,",
+        "startFrame": 6899,
+        "endFrame": 6907
+      }
+    ]
+  },
+  {
+    "text": "please like, share and subscribe.",
+    "startFrame": 6907,
+    "endFrame": 6946,
+    "words": [
+      {
+        "text": "please",
+        "startFrame": 6907,
+        "endFrame": 6914
+      },
+      {
+        "text": "like,",
+        "startFrame": 6914,
+        "endFrame": 6924
+      },
+      {
+        "text": "share",
+        "startFrame": 6924,
+        "endFrame": 6926
+      },
+      {
+        "text": "and",
+        "startFrame": 6926,
+        "endFrame": 6929
+      },
+      {
+        "text": "subscribe.",
+        "startFrame": 6929,
+        "endFrame": 6946
+      }
+    ]
+  },
+  {
+    "text": "Thank you. Peace.",
+    "startFrame": 6946,
+    "endFrame": 6976,
+    "words": [
+      {
+        "text": "Thank",
+        "startFrame": 6946,
+        "endFrame": 6963
+      },
+      {
+        "text": "you.",
+        "startFrame": 6963,
+        "endFrame": 6976
+      },
+      {
+        "text": "Peace.",
+        "startFrame": 6976,
+        "endFrame": 6976
+      }
+    ]
+  }
+]

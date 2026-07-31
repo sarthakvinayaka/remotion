@@ -1,0 +1,36 @@
+TITLE:
+I Built Microservices From Scratch Using Just a HashMap and a Queue (~70 Lines of Python)
+
+DESCRIPTION:
+
+You don't need Kafka, Redis, or Kubernetes to understand microservices. You need a HashMap and a Queue — and about 70 lines of real, working Python.
+
+In this video I build a complete microservices system from scratch, live: an order service, a payment service, an inventory service, and a notification service — all talking to each other through nothing but a Python dict and queue.Queue(). No frameworks, no infrastructure, no magic. Just the two data structures every "distributed system" is secretly built on, typed out and run for real, with the actual terminal output on screen.
+
+You'll see:
+✅ Why a HashMap (a plain Python dict) is really just your database, minus the ceremony
+✅ Why a Queue is the entire reason services don't have to wait on each other
+✅ A real order → payment → inventory → notification pipeline, built line by line
+✅ The whole thing actually running — real threads, real output, no fake demo
+✅ What happens when a "service" fails mid-request, and how a queue makes retries trivial
+✅ How this toy version maps directly onto real infrastructure: dict → Redis, queue.Queue() → Kafka/RabbitMQ, a Python thread → a container in the cloud
+
+This isn't a slide deck about microservices theory — it's the actual code, actually running, so you can see exactly what a "service," a "queue," and a "distributed system" really are underneath all the buzzwords.
+
+⏱️ TIMESTAMPS
+00:00 The hook — one click, four services, nobody waiting
+00:25 The two ideas doing all the work: a HashMap and a Queue
+01:05 Setting up the HashMap (our in-memory "database")
+01:39 The order service — creating and storing an order
+02:16 Queues + the payment service
+03:01 Inventory + notification services
+03:19 Wiring it all up and running it live
+03:44 Handling a failed payment (and retrying automatically)
+04:18 Mapping this to real infrastructure (Redis, Kafka, containers)
+04:49 Wrap-up — the whole system in ~70 lines
+
+🔑 KEYWORDS: microservices, python, hashmap, queue, data structures, system design, distributed systems, software architecture, backend engineering, python threading, queue.Queue, message queue, order service, payment service, coding tutorial, live coding, from scratch, redis, kafka, system design interview
+
+If this made microservices click for you, drop a like, and subscribe for more from-scratch builds that turn buzzwords into actual working code.
+
+#Microservices #Python #SystemDesign #SoftwareEngineering #CodingTutorial

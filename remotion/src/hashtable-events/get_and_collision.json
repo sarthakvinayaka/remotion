@@ -1,0 +1,20 @@
+[
+  {
+    "type": "insert",
+    "key": "apple",
+    "hash_value": 2,
+    "bucket_index": 2,
+    "capacity": 8,
+    "is_collision": false,
+    "order": 1
+  },
+  {
+    "type": "insert",
+    "key": "elderberry",
+    "hash_value": 2,
+    "bucket_index": 2,
+    "capacity": 8,
+    "is_collision": true,
+    "order": 3
+  }
+]

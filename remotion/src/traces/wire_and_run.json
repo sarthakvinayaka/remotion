@@ -1,0 +1,57 @@
+[
+  {
+    "line": "[Order Service] Created e56d9f09 -> Wireless Mouse x2",
+    "order": 1,
+    "service": "Order Service"
+  },
+  {
+    "line": "[Order Service] Created 21ef43f6 -> Mechanical Keyboard x1",
+    "order": 2,
+    "service": "Order Service"
+  },
+  {
+    "line": "[Payment Service] Payment done for e56d9f09",
+    "order": 3,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Inventory Service] Stock reserved for e56d9f09",
+    "order": 4,
+    "service": "Inventory Service"
+  },
+  {
+    "line": "[Payment Service] Payment done for 21ef43f6",
+    "order": 5,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Notification Service] Order e56d9f09 completed: {'item': 'Wireless Mouse', 'qty': 2, 'status': 'COMPLETED'}",
+    "order": 6,
+    "service": "Notification Service"
+  },
+  {
+    "line": "[Inventory Service] Stock reserved for 21ef43f6",
+    "order": 7,
+    "service": "Inventory Service"
+  },
+  {
+    "line": "[Notification Service] Order 21ef43f6 completed: {'item': 'Mechanical Keyboard', 'qty': 1, 'status': 'COMPLETED'}",
+    "order": 8,
+    "service": "Notification Service"
+  },
+  {
+    "line": "Final state:",
+    "order": 9,
+    "service": null
+  },
+  {
+    "line": "e56d9f09 {'item': 'Wireless Mouse', 'qty': 2, 'status': 'COMPLETED'}",
+    "order": 10,
+    "service": null
+  },
+  {
+    "line": "21ef43f6 {'item': 'Mechanical Keyboard', 'qty': 1, 'status': 'COMPLETED'}",
+    "order": 11,
+    "service": null
+  }
+]

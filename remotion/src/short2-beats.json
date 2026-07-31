@@ -1,0 +1,142 @@
+[
+  {
+    "text": "app into smaller",
+    "startFrame": 37,
+    "endFrame": 65
+  },
+  {
+    "text": "pieces. Platform engineering",
+    "startFrame": 65,
+    "endFrame": 115
+  },
+  {
+    "text": "makes those pieces",
+    "startFrame": 115,
+    "endFrame": 158
+  },
+  {
+    "text": "manageable. Microservices give",
+    "startFrame": 158,
+    "endFrame": 212
+  },
+  {
+    "text": "you team independence,",
+    "startFrame": 212,
+    "endFrame": 254
+  },
+  {
+    "text": "platform engineering gives",
+    "startFrame": 254,
+    "endFrame": 302
+  },
+  {
+    "text": "your team consistency.",
+    "startFrame": 302,
+    "endFrame": 348
+  },
+  {
+    "text": "Microservices scale your",
+    "startFrame": 348,
+    "endFrame": 385
+  },
+  {
+    "text": "architecture, platform engineering",
+    "startFrame": 385,
+    "endFrame": 441
+  },
+  {
+    "text": "scales your organization.",
+    "startFrame": 441,
+    "endFrame": 485
+  },
+  {
+    "text": "So if you",
+    "startFrame": 485,
+    "endFrame": 496
+  },
+  {
+    "text": "have wondered why",
+    "startFrame": 496,
+    "endFrame": 519
+  },
+  {
+    "text": "microservices gets hard",
+    "startFrame": 519,
+    "endFrame": 552
+  },
+  {
+    "text": "over time,",
+    "startFrame": 552,
+    "endFrame": 568
+  },
+  {
+    "text": "it's not because",
+    "startFrame": 568,
+    "endFrame": 592
+  },
+  {
+    "text": "the idea is",
+    "startFrame": 592,
+    "endFrame": 610
+  },
+  {
+    "text": "wrong. It's because",
+    "startFrame": 610,
+    "endFrame": 648
+  },
+  {
+    "text": "the operational service",
+    "startFrame": 648,
+    "endFrame": 687
+  },
+  {
+    "text": "area grows faster",
+    "startFrame": 687,
+    "endFrame": 714
+  },
+  {
+    "text": "than you expect.",
+    "startFrame": 714,
+    "endFrame": 745
+  },
+  {
+    "text": "And that's why",
+    "startFrame": 745,
+    "endFrame": 768
+  },
+  {
+    "text": "serious engineering orgs",
+    "startFrame": 768,
+    "endFrame": 812
+  },
+  {
+    "text": "don't just build",
+    "startFrame": 812,
+    "endFrame": 838
+  },
+  {
+    "text": "services, they build",
+    "startFrame": 838,
+    "endFrame": 868
+  },
+  {
+    "text": "the platform underneath",
+    "startFrame": 868,
+    "endFrame": 903
+  },
+  {
+    "text": "them. Thank you",
+    "startFrame": 903,
+    "endFrame": 934
+  },
+  {
+    "text": "so much for",
+    "startFrame": 934,
+    "endFrame": 947
+  },
+  {
+    "text": "watching",
+    "startFrame": 947,
+    "endFrame": 964
+  }
+]

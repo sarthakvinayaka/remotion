@@ -1,0 +1,12 @@
+[
+  {
+    "line": "context: ['the', 'cat']",
+    "order": 2,
+    "service": null
+  },
+  {
+    "line": "predicted next id: 7 -> likes",
+    "order": 3,
+    "service": null
+  }
+]

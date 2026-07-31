@@ -1,0 +1,12 @@
+[
+  ["hook", "narration", 0, 809],
+  ["core_idea", "narration", 809, 1691],
+  ["hash_function_code", "code", 1691, 3012],
+  ["insert_code", "code", 3012, 3869],
+  ["collision_explain", "narration", 3869, 4946],
+  ["get_and_collision_code", "code", 4946, 5804],
+  ["resize_explain", "narration", 5804, 6862],
+  ["resize_code", "code", 6862, 7718],
+  ["resize_demo_code", "code", 7718, 8518],
+  ["wrapup", "narration", 8518, 9319]
+]

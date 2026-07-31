@@ -1,0 +1,10 @@
+[
+  ["hook", "narration", 0, 962],
+  ["core_idea", "narration", 962, 1986],
+  ["why_breaks", "narration", 1986, 3084],
+  ["gcounter_code", "code", 3084, 3815],
+  ["merge_code", "code", 3815, 5147],
+  ["run_live", "code", 5147, 6280],
+  ["where_used", "narration", 6280, 7912],
+  ["wrapup", "narration", 7912, 8752]
+]

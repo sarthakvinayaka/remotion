@@ -1,0 +1,34 @@
+Microservices vs Platform Engineering: why "just split it into services" stops working at scale, and what actually fixes it.
+
+Microservices sound great at first — split the app into smaller pieces, let teams move faster, ship independently. But give it a few months, and most companies hit the same wall: the services are fine, it's everything AROUND them that starts to hurt. Deployments get messy, observability is inconsistent, and every team ends up solving the same infrastructure problem from scratch.
+
+At 10 services, you're not just building 10 services — you're building 10 services AND 10 copies of the same CI/CD, Docker, Kubernetes, logging, monitoring, alerts, secrets management, and API gateway setup. Every team now has to know how to deploy, monitor, secure, debug, and recover. The platform quietly becomes the product, even though nobody meant for that to happen.
+
+This is exactly where platform engineering comes in. Instead of every team reinventing the same setup, one platform team builds a single standard path — a "paved road" with service templates, automated deployments, standard logging and monitoring, secrets management, a service catalog, and self-service infrastructure. Microservices give you the building blocks. Platform engineering gives you the paved road.
+
+In this video, you'll learn:
+✅ Why microservices alone don't scale operationally, no matter how clean your code is
+✅ The hidden "10 services = 10x infrastructure" problem nobody warns you about
+✅ What an internal developer platform (IDP) actually provides
+✅ A real before/after example: spinning up a new service with vs without a platform
+✅ Why "serious engineering orgs don't just build services — they build the platform underneath them"
+
+Whether you're a backend engineer, DevOps/SRE, platform engineer, or engineering leader trying to decide when to invest in an internal developer platform, this breaks down the real tradeoff between microservices architecture and platform engineering — in plain terms, no buzzwords.
+
+⏱️ TIMESTAMPS
+00:00 Microservices sound great... at first
+00:23 The 10-services problem: 10x the infrastructure
+00:41 Why the code gets smaller but the system gets more complex
+01:05 What is platform engineering? (the "paved road")
+01:28 What a platform actually provides
+01:51 Developer experience: before vs after a platform
+02:11 Real example: shipping a new service with a platform
+02:29 Why microservices alone don't scale operationally
+02:56 Microservices vs Platform Engineering — the recap
+03:16 Serious engineering orgs build the platform underneath them
+
+🔑 KEYWORDS: microservices, platform engineering, internal developer platform, IDP, DevOps, developer experience, DevEx, service catalog, paved road, infrastructure as a product, Kubernetes, CI/CD, platform team, software architecture, backend engineering, SRE, cloud native
+
+If this helped clarify microservices vs platform engineering for you, drop a like, share it with a teammate who's drowning in infra tickets, and subscribe for more deep dives on software architecture, platform engineering, and developer experience.
+
+#MicroservicesArchitecture #PlatformEngineering #DevOps #InternalDeveloperPlatform #SoftwareArchitecture

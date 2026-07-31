@@ -1,0 +1,7 @@
+[
+  {
+    "line": "[Node A] increment -> {'A': 2, 'B': 0, 'C': 0}",
+    "order": 1,
+    "service": "Node A"
+  }
+]

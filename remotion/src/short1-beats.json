@@ -1,0 +1,422 @@
+[
+  {
+    "text": "Microservices sound great",
+    "startFrame": 18,
+    "endFrame": 55
+  },
+  {
+    "text": "at first,",
+    "startFrame": 55,
+    "endFrame": 75
+  },
+  {
+    "text": "right? You split",
+    "startFrame": 75,
+    "endFrame": 109
+  },
+  {
+    "text": "the app into",
+    "startFrame": 109,
+    "endFrame": 126
+  },
+  {
+    "text": "smaller pieces,",
+    "startFrame": 126,
+    "endFrame": 152
+  },
+  {
+    "text": "teams move fast,",
+    "startFrame": 152,
+    "endFrame": 194
+  },
+  {
+    "text": "everyone ships independently.",
+    "startFrame": 194,
+    "endFrame": 256
+  },
+  {
+    "text": "But give it",
+    "startFrame": 256,
+    "endFrame": 274
+  },
+  {
+    "text": "a few months,",
+    "startFrame": 274,
+    "endFrame": 297
+  },
+  {
+    "text": "most companies hit",
+    "startFrame": 297,
+    "endFrame": 330
+  },
+  {
+    "text": "the same wall.",
+    "startFrame": 330,
+    "endFrame": 357
+  },
+  {
+    "text": "The services are",
+    "startFrame": 357,
+    "endFrame": 384
+  },
+  {
+    "text": "fine, it's everything",
+    "startFrame": 384,
+    "endFrame": 421
+  },
+  {
+    "text": "around them that",
+    "startFrame": 421,
+    "endFrame": 448
+  },
+  {
+    "text": "start to hurt.",
+    "startFrame": 448,
+    "endFrame": 487
+  },
+  {
+    "text": "Deployments get messy,",
+    "startFrame": 487,
+    "endFrame": 531
+  },
+  {
+    "text": "observability is all",
+    "startFrame": 531,
+    "endFrame": 570
+  },
+  {
+    "text": "over the place,",
+    "startFrame": 570,
+    "endFrame": 603
+  },
+  {
+    "text": "every team ends",
+    "startFrame": 603,
+    "endFrame": 620
+  },
+  {
+    "text": "up solving the",
+    "startFrame": 620,
+    "endFrame": 638
+  },
+  {
+    "text": "same problem from",
+    "startFrame": 638,
+    "endFrame": 668
+  },
+  {
+    "text": "scratch. That's exactly",
+    "startFrame": 668,
+    "endFrame": 712
+  },
+  {
+    "text": "where platform engineering",
+    "startFrame": 712,
+    "endFrame": 753
+  },
+  {
+    "text": "comes in.",
+    "startFrame": 753,
+    "endFrame": 767
+  },
+  {
+    "text": "The pitch is",
+    "startFrame": 767,
+    "endFrame": 788
+  },
+  {
+    "text": "simple, smaller services,",
+    "startFrame": 788,
+    "endFrame": 852
+  },
+  {
+    "text": "cleaner ownership,",
+    "startFrame": 852,
+    "endFrame": 882
+  },
+  {
+    "text": "faster releases.",
+    "startFrame": 882,
+    "endFrame": 922
+  },
+  {
+    "text": "And early on,",
+    "startFrame": 922,
+    "endFrame": 948
+  },
+  {
+    "text": "that's real.",
+    "startFrame": 948,
+    "endFrame": 978
+  },
+  {
+    "text": "Microservices generally help.",
+    "startFrame": 978,
+    "endFrame": 1033
+  },
+  {
+    "text": "But here's the",
+    "startFrame": 1033,
+    "endFrame": 1074
+  },
+  {
+    "text": "catch. Microservices only",
+    "startFrame": 1074,
+    "endFrame": 1119
+  },
+  {
+    "text": "solve the core",
+    "startFrame": 1119,
+    "endFrame": 1135
+  },
+  {
+    "text": "organization problem,",
+    "startFrame": 1135,
+    "endFrame": 1167
+  },
+  {
+    "text": "they don't touch",
+    "startFrame": 1167,
+    "endFrame": 1183
+  },
+  {
+    "text": "the operational side",
+    "startFrame": 1183,
+    "endFrame": 1214
+  },
+  {
+    "text": "at all.",
+    "startFrame": 1214,
+    "endFrame": 1244
+  },
+  {
+    "text": "Say you are",
+    "startFrame": 1244,
+    "endFrame": 1265
+  },
+  {
+    "text": "at 10 services",
+    "startFrame": 1265,
+    "endFrame": 1301
+  },
+  {
+    "text": "now, users,",
+    "startFrame": 1301,
+    "endFrame": 1327
+  },
+  {
+    "text": "payments, orders,",
+    "startFrame": 1327,
+    "endFrame": 1367
+  },
+  {
+    "text": "notifications, search.",
+    "startFrame": 1367,
+    "endFrame": 1423
+  },
+  {
+    "text": "Every single team",
+    "startFrame": 1423,
+    "endFrame": 1453
+  },
+  {
+    "text": "needs the same",
+    "startFrame": 1453,
+    "endFrame": 1479
+  },
+  {
+    "text": "stuff. CICD,",
+    "startFrame": 1479,
+    "endFrame": 1507
+  },
+  {
+    "text": "Docker, Kubernetes,",
+    "startFrame": 1507,
+    "endFrame": 1573
+  },
+  {
+    "text": "logging, metrics,",
+    "startFrame": 1573,
+    "endFrame": 1613
+  },
+  {
+    "text": "alerts, secrets,",
+    "startFrame": 1613,
+    "endFrame": 1659
+  },
+  {
+    "text": "and API Gateway.",
+    "startFrame": 1659,
+    "endFrame": 1705
+  },
+  {
+    "text": "So you're not",
+    "startFrame": 1705,
+    "endFrame": 1731
+  },
+  {
+    "text": "really building 10",
+    "startFrame": 1731,
+    "endFrame": 1762
+  },
+  {
+    "text": "services, you're building",
+    "startFrame": 1762,
+    "endFrame": 1807
+  },
+  {
+    "text": "10 services and",
+    "startFrame": 1807,
+    "endFrame": 1838
+  },
+  {
+    "text": "10 copies of",
+    "startFrame": 1838,
+    "endFrame": 1868
+  },
+  {
+    "text": "the same infrastructure",
+    "startFrame": 1868,
+    "endFrame": 1932
+  },
+  {
+    "text": "work. That's the",
+    "startFrame": 1932,
+    "endFrame": 1958
+  },
+  {
+    "text": "real issue at",
+    "startFrame": 1958,
+    "endFrame": 1980
+  },
+  {
+    "text": "scale. The code",
+    "startFrame": 1980,
+    "endFrame": 2015
+  },
+  {
+    "text": "gets smaller,",
+    "startFrame": 2015,
+    "endFrame": 2045
+  },
+  {
+    "text": "but the system",
+    "startFrame": 2045,
+    "endFrame": 2074
+  },
+  {
+    "text": "gets way more",
+    "startFrame": 2074,
+    "endFrame": 2117
+  },
+  {
+    "text": "complex. Every team",
+    "startFrame": 2117,
+    "endFrame": 2147
+  },
+  {
+    "text": "now has to",
+    "startFrame": 2147,
+    "endFrame": 2168
+  },
+  {
+    "text": "know how to",
+    "startFrame": 2168,
+    "endFrame": 2186
+  },
+  {
+    "text": "deploy, how to",
+    "startFrame": 2186,
+    "endFrame": 2215
+  },
+  {
+    "text": "monitor, how to",
+    "startFrame": 2215,
+    "endFrame": 2247
+  },
+  {
+    "text": "secure, how to",
+    "startFrame": 2247,
+    "endFrame": 2290
+  },
+  {
+    "text": "debug, how to",
+    "startFrame": 2290,
+    "endFrame": 2304
+  },
+  {
+    "text": "recover when something",
+    "startFrame": 2304,
+    "endFrame": 2341
+  },
+  {
+    "text": "breaks. So instead",
+    "startFrame": 2341,
+    "endFrame": 2378
+  },
+  {
+    "text": "of focusing on",
+    "startFrame": 2378,
+    "endFrame": 2404
+  },
+  {
+    "text": "business logic,",
+    "startFrame": 2404,
+    "endFrame": 2433
+  },
+  {
+    "text": "engineers spend most",
+    "startFrame": 2433,
+    "endFrame": 2470
+  },
+  {
+    "text": "of their time",
+    "startFrame": 2470,
+    "endFrame": 2496
+  },
+  {
+    "text": "on plumbing.",
+    "startFrame": 2496,
+    "endFrame": 2515
+  },
+  {
+    "text": "The platform quietly",
+    "startFrame": 2515,
+    "endFrame": 2548
+  },
+  {
+    "text": "becomes the product,",
+    "startFrame": 2548,
+    "endFrame": 2582
+  },
+  {
+    "text": "even though nobody",
+    "startFrame": 2582,
+    "endFrame": 2611
+  },
+  {
+    "text": "meant for that",
+    "startFrame": 2611,
+    "endFrame": 2632
+  },
+  {
+    "text": "to happen.",
+    "startFrame": 2632,
+    "endFrame": 2655
+  },
+  {
+    "text": "This is exactly",
+    "startFrame": 2655,
+    "endFrame": 2680
+  },
+  {
+    "text": "why platform engineering",
+    "startFrame": 2680,
+    "endFrame": 2722
+  },
+  {
+    "text": "exists.",
+    "startFrame": 2722,
+    "endFrame": 2743
+  }
+]

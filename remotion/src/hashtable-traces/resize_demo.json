@@ -1,0 +1,17 @@
+[
+  {
+    "line": "after 'a': size=1, capacity=4",
+    "order": 2,
+    "service": null
+  },
+  {
+    "line": "after 'b': size=2, capacity=4",
+    "order": 4,
+    "service": null
+  },
+  {
+    "line": "after 'c': size=3, capacity=8",
+    "order": 10,
+    "service": null
+  }
+]

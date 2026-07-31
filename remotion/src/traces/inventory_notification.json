@@ -1,0 +1,22 @@
+[
+  {
+    "line": "[Order Service] Created 9615a207 -> Wireless Mouse x2",
+    "order": 1,
+    "service": "Order Service"
+  },
+  {
+    "line": "[Payment Service] Payment done for 9615a207",
+    "order": 2,
+    "service": "Payment Service"
+  },
+  {
+    "line": "[Inventory Service] Stock reserved for 9615a207",
+    "order": 3,
+    "service": "Inventory Service"
+  },
+  {
+    "line": "[Notification Service] Order 9615a207 completed: {'item': 'Wireless Mouse', 'qty': 2, 'status': 'COMPLETED'}",
+    "order": 4,
+    "service": "Notification Service"
+  }
+]

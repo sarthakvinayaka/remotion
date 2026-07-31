@@ -1,0 +1,12 @@
+[
+  {
+    "line": "word count: 46",
+    "order": 1,
+    "service": null
+  },
+  {
+    "line": "first 10 words: ['the', 'cat', 'sat', 'on', 'the', 'mat', '.', 'the', 'cat', 'likes']",
+    "order": 2,
+    "service": null
+  }
+]

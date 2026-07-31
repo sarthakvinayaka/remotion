@@ -1,0 +1,5434 @@
+[
+  {
+    "text": "Ok so think about python dictionary that thing you",
+    "startFrame": 27,
+    "endFrame": 123,
+    "words": [
+      {
+        "text": "Ok",
+        "startFrame": 27,
+        "endFrame": 32
+      },
+      {
+        "text": "so",
+        "startFrame": 44,
+        "endFrame": 48
+      },
+      {
+        "text": "think",
+        "startFrame": 53,
+        "endFrame": 74
+      },
+      {
+        "text": "about",
+        "startFrame": 61,
+        "endFrame": 64
+      },
+      {
+        "text": "python",
+        "startFrame": 70,
+        "endFrame": 88
+      },
+      {
+        "text": "dictionary",
+        "startFrame": 83,
+        "endFrame": 124
+      },
+      {
+        "text": "that",
+        "startFrame": 106,
+        "endFrame": 115
+      },
+      {
+        "text": "thing",
+        "startFrame": 114,
+        "endFrame": 126
+      },
+      {
+        "text": "you",
+        "startFrame": 118,
+        "endFrame": 123
+      }
+    ]
+  },
+  {
+    "text": "use every single day",
+    "startFrame": 124,
+    "endFrame": 151,
+    "words": [
+      {
+        "text": "use",
+        "startFrame": 124,
+        "endFrame": 130
+      },
+      {
+        "text": "every",
+        "startFrame": 131,
+        "endFrame": 155
+      },
+      {
+        "text": "single",
+        "startFrame": 139,
+        "endFrame": 147
+      },
+      {
+        "text": "day",
+        "startFrame": 147,
+        "endFrame": 151
+      }
+    ]
+  },
+  {
+    "text": "you write something like apple bracket equals 5 and",
+    "startFrame": 173,
+    "endFrame": 254,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 173,
+        "endFrame": 176
+      },
+      {
+        "text": "write",
+        "startFrame": 179,
+        "endFrame": 183
+      },
+      {
+        "text": "something",
+        "startFrame": 188,
+        "endFrame": 212
+      },
+      {
+        "text": "like",
+        "startFrame": 195,
+        "endFrame": 202
+      },
+      {
+        "text": "apple",
+        "startFrame": 203,
+        "endFrame": 215
+      },
+      {
+        "text": "bracket",
+        "startFrame": 213,
+        "endFrame": 230
+      },
+      {
+        "text": "equals",
+        "startFrame": 227,
+        "endFrame": 241
+      },
+      {
+        "text": "5",
+        "startFrame": 237,
+        "endFrame": 246
+      },
+      {
+        "text": "and",
+        "startFrame": 246,
+        "endFrame": 254
+      }
+    ]
+  },
+  {
+    "text": "it just works",
+    "startFrame": 251,
+    "endFrame": 274,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 251,
+        "endFrame": 255
+      },
+      {
+        "text": "just",
+        "startFrame": 256,
+        "endFrame": 281
+      },
+      {
+        "text": "works",
+        "startFrame": 270,
+        "endFrame": 274
+      }
+    ]
+  },
+  {
+    "text": "but have you ever wondered how it looks something",
+    "startFrame": 297,
+    "endFrame": 385,
+    "words": [
+      {
+        "text": "but",
+        "startFrame": 297,
+        "endFrame": 302
+      },
+      {
+        "text": "have",
+        "startFrame": 303,
+        "endFrame": 310
+      },
+      {
+        "text": "you",
+        "startFrame": 306,
+        "endFrame": 311
+      },
+      {
+        "text": "ever",
+        "startFrame": 312,
+        "endFrame": 320
+      },
+      {
+        "text": "wondered",
+        "startFrame": 322,
+        "endFrame": 337
+      },
+      {
+        "text": "how",
+        "startFrame": 344,
+        "endFrame": 350
+      },
+      {
+        "text": "it",
+        "startFrame": 350,
+        "endFrame": 355
+      },
+      {
+        "text": "looks",
+        "startFrame": 357,
+        "endFrame": 369
+      },
+      {
+        "text": "something",
+        "startFrame": 367,
+        "endFrame": 385
+      }
+    ]
+  },
+  {
+    "text": "up so fast no matter how many keys are",
+    "startFrame": 373,
+    "endFrame": 452,
+    "words": [
+      {
+        "text": "up",
+        "startFrame": 373,
+        "endFrame": 376
+      },
+      {
+        "text": "so",
+        "startFrame": 379,
+        "endFrame": 384
+      },
+      {
+        "text": "fast",
+        "startFrame": 390,
+        "endFrame": 398
+      },
+      {
+        "text": "no",
+        "startFrame": 412,
+        "endFrame": 415
+      },
+      {
+        "text": "matter",
+        "startFrame": 419,
+        "endFrame": 430
+      },
+      {
+        "text": "how",
+        "startFrame": 427,
+        "endFrame": 435
+      },
+      {
+        "text": "many",
+        "startFrame": 434,
+        "endFrame": 442
+      },
+      {
+        "text": "keys",
+        "startFrame": 440,
+        "endFrame": 448
+      },
+      {
+        "text": "are",
+        "startFrame": 446,
+        "endFrame": 452
+      }
+    ]
+  },
+  {
+    "text": "in there it 's not magic it 's a",
+    "startFrame": 450,
+    "endFrame": 527,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 450,
+        "endFrame": 454
+      },
+      {
+        "text": "there",
+        "startFrame": 460,
+        "endFrame": 472
+      },
+      {
+        "text": "it",
+        "startFrame": 481,
+        "endFrame": 491
+      },
+      {
+        "text": "'s",
+        "startFrame": 482,
+        "endFrame": 486
+      },
+      {
+        "text": "not",
+        "startFrame": 487,
+        "endFrame": 492
+      },
+      {
+        "text": "magic",
+        "startFrame": 497,
+        "endFrame": 509
+      },
+      {
+        "text": "it",
+        "startFrame": 518,
+        "endFrame": 522
+      },
+      {
+        "text": "'s",
+        "startFrame": 519,
+        "endFrame": 526
+      },
+      {
+        "text": "a",
+        "startFrame": 523,
+        "endFrame": 527
+      }
+    ]
+  },
+  {
+    "text": "hash table underneath today we are gonna build one",
+    "startFrame": 528,
+    "endFrame": 614,
+    "words": [
+      {
+        "text": "hash",
+        "startFrame": 528,
+        "endFrame": 533
+      },
+      {
+        "text": "table",
+        "startFrame": 535,
+        "endFrame": 546
+      },
+      {
+        "text": "underneath",
+        "startFrame": 548,
+        "endFrame": 571
+      },
+      {
+        "text": "today",
+        "startFrame": 580,
+        "endFrame": 596
+      },
+      {
+        "text": "we",
+        "startFrame": 584,
+        "endFrame": 587
+      },
+      {
+        "text": "are",
+        "startFrame": 587,
+        "endFrame": 594
+      },
+      {
+        "text": "gonna",
+        "startFrame": 592,
+        "endFrame": 603
+      },
+      {
+        "text": "build",
+        "startFrame": 599,
+        "endFrame": 611
+      },
+      {
+        "text": "one",
+        "startFrame": 607,
+        "endFrame": 614
+      }
+    ]
+  },
+  {
+    "text": "from scratch no dictionary no shortcut so you can",
+    "startFrame": 613,
+    "endFrame": 716,
+    "words": [
+      {
+        "text": "from",
+        "startFrame": 613,
+        "endFrame": 622
+      },
+      {
+        "text": "scratch",
+        "startFrame": 624,
+        "endFrame": 640
+      },
+      {
+        "text": "no",
+        "startFrame": 650,
+        "endFrame": 654
+      },
+      {
+        "text": "dictionary",
+        "startFrame": 661,
+        "endFrame": 689
+      },
+      {
+        "text": "no",
+        "startFrame": 680,
+        "endFrame": 684
+      },
+      {
+        "text": "shortcut",
+        "startFrame": 692,
+        "endFrame": 704
+      },
+      {
+        "text": "so",
+        "startFrame": 706,
+        "endFrame": 714
+      },
+      {
+        "text": "you",
+        "startFrame": 709,
+        "endFrame": 712
+      },
+      {
+        "text": "can",
+        "startFrame": 713,
+        "endFrame": 716
+      }
+    ]
+  },
+  {
+    "text": "actually see what 's happening inside",
+    "startFrame": 721,
+    "endFrame": 769,
+    "words": [
+      {
+        "text": "actually",
+        "startFrame": 721,
+        "endFrame": 734
+      },
+      {
+        "text": "see",
+        "startFrame": 728,
+        "endFrame": 732
+      },
+      {
+        "text": "what",
+        "startFrame": 733,
+        "endFrame": 739
+      },
+      {
+        "text": "'s",
+        "startFrame": 736,
+        "endFrame": 740
+      },
+      {
+        "text": "happening",
+        "startFrame": 743,
+        "endFrame": 758
+      },
+      {
+        "text": "inside",
+        "startFrame": 758,
+        "endFrame": 769
+      }
+    ]
+  },
+  {
+    "text": "So here 's the idea behind a hash table",
+    "startFrame": 791,
+    "endFrame": 845,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 791,
+        "endFrame": 794
+      },
+      {
+        "text": "here",
+        "startFrame": 796,
+        "endFrame": 803
+      },
+      {
+        "text": "'s",
+        "startFrame": 799,
+        "endFrame": 802
+      },
+      {
+        "text": "the",
+        "startFrame": 802,
+        "endFrame": 807
+      },
+      {
+        "text": "idea",
+        "startFrame": 809,
+        "endFrame": 817
+      },
+      {
+        "text": "behind",
+        "startFrame": 819,
+        "endFrame": 831
+      },
+      {
+        "text": "a",
+        "startFrame": 823,
+        "endFrame": 827
+      },
+      {
+        "text": "hash",
+        "startFrame": 826,
+        "endFrame": 832
+      },
+      {
+        "text": "table",
+        "startFrame": 836,
+        "endFrame": 845
+      }
+    ]
+  },
+  {
+    "text": "instead of storing your data in a list and",
+    "startFrame": 863,
+    "endFrame": 922,
+    "words": [
+      {
+        "text": "instead",
+        "startFrame": 863,
+        "endFrame": 868
+      },
+      {
+        "text": "of",
+        "startFrame": 868,
+        "endFrame": 872
+      },
+      {
+        "text": "storing",
+        "startFrame": 877,
+        "endFrame": 890
+      },
+      {
+        "text": "your",
+        "startFrame": 883,
+        "endFrame": 890
+      },
+      {
+        "text": "data",
+        "startFrame": 890,
+        "endFrame": 897
+      },
+      {
+        "text": "in",
+        "startFrame": 895,
+        "endFrame": 899
+      },
+      {
+        "text": "a",
+        "startFrame": 899,
+        "endFrame": 903
+      },
+      {
+        "text": "list",
+        "startFrame": 907,
+        "endFrame": 915
+      },
+      {
+        "text": "and",
+        "startFrame": 914,
+        "endFrame": 922
+      }
+    ]
+  },
+  {
+    "text": "scanning through it to find something you use a",
+    "startFrame": 925,
+    "endFrame": 996,
+    "words": [
+      {
+        "text": "scanning",
+        "startFrame": 925,
+        "endFrame": 940
+      },
+      {
+        "text": "through",
+        "startFrame": 932,
+        "endFrame": 944
+      },
+      {
+        "text": "it",
+        "startFrame": 938,
+        "endFrame": 942
+      },
+      {
+        "text": "to",
+        "startFrame": 945,
+        "endFrame": 950
+      },
+      {
+        "text": "find",
+        "startFrame": 953,
+        "endFrame": 957
+      },
+      {
+        "text": "something",
+        "startFrame": 965,
+        "endFrame": 983
+      },
+      {
+        "text": "you",
+        "startFrame": 982,
+        "endFrame": 986
+      },
+      {
+        "text": "use",
+        "startFrame": 988,
+        "endFrame": 991
+      },
+      {
+        "text": "a",
+        "startFrame": 992,
+        "endFrame": 996
+      }
+    ]
+  },
+  {
+    "text": "function that turns your key into a number that",
+    "startFrame": 1000,
+    "endFrame": 1084,
+    "words": [
+      {
+        "text": "function",
+        "startFrame": 1000,
+        "endFrame": 1014
+      },
+      {
+        "text": "that",
+        "startFrame": 1007,
+        "endFrame": 1013
+      },
+      {
+        "text": "turns",
+        "startFrame": 1016,
+        "endFrame": 1024
+      },
+      {
+        "text": "your",
+        "startFrame": 1024,
+        "endFrame": 1031
+      },
+      {
+        "text": "key",
+        "startFrame": 1027,
+        "endFrame": 1034
+      },
+      {
+        "text": "into",
+        "startFrame": 1033,
+        "endFrame": 1038
+      },
+      {
+        "text": "a",
+        "startFrame": 1037,
+        "endFrame": 1041
+      },
+      {
+        "text": "number",
+        "startFrame": 1046,
+        "endFrame": 1084
+      },
+      {
+        "text": "that",
+        "startFrame": 1076,
+        "endFrame": 1084
+      }
+    ]
+  },
+  {
+    "text": "numbers tell you exactly which slot to check",
+    "startFrame": 1087,
+    "endFrame": 1147,
+    "words": [
+      {
+        "text": "numbers",
+        "startFrame": 1087,
+        "endFrame": 1102
+      },
+      {
+        "text": "tell",
+        "startFrame": 1093,
+        "endFrame": 1103
+      },
+      {
+        "text": "you",
+        "startFrame": 1101,
+        "endFrame": 1107
+      },
+      {
+        "text": "exactly",
+        "startFrame": 1115,
+        "endFrame": 1133
+      },
+      {
+        "text": "which",
+        "startFrame": 1123,
+        "endFrame": 1134
+      },
+      {
+        "text": "slot",
+        "startFrame": 1129,
+        "endFrame": 1133
+      },
+      {
+        "text": "to",
+        "startFrame": 1135,
+        "endFrame": 1152
+      },
+      {
+        "text": "check",
+        "startFrame": 1143,
+        "endFrame": 1147
+      }
+    ]
+  },
+  {
+    "text": "no scanning no searching you just go straight to",
+    "startFrame": 1170,
+    "endFrame": 1259,
+    "words": [
+      {
+        "text": "no",
+        "startFrame": 1170,
+        "endFrame": 1175
+      },
+      {
+        "text": "scanning",
+        "startFrame": 1181,
+        "endFrame": 1198
+      },
+      {
+        "text": "no",
+        "startFrame": 1194,
+        "endFrame": 1198
+      },
+      {
+        "text": "searching",
+        "startFrame": 1204,
+        "endFrame": 1231
+      },
+      {
+        "text": "you",
+        "startFrame": 1230,
+        "endFrame": 1237
+      },
+      {
+        "text": "just",
+        "startFrame": 1235,
+        "endFrame": 1244
+      },
+      {
+        "text": "go",
+        "startFrame": 1242,
+        "endFrame": 1246
+      },
+      {
+        "text": "straight",
+        "startFrame": 1250,
+        "endFrame": 1268
+      },
+      {
+        "text": "to",
+        "startFrame": 1255,
+        "endFrame": 1259
+      }
+    ]
+  },
+  {
+    "text": "the slot",
+    "startFrame": 1259,
+    "endFrame": 1279,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 1259,
+        "endFrame": 1266
+      },
+      {
+        "text": "slot",
+        "startFrame": 1267,
+        "endFrame": 1275
+      }
+    ]
+  },
+  {
+    "text": "that 's why lookup are fast even with a",
+    "startFrame": 1298,
+    "endFrame": 1364,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 1298,
+        "endFrame": 1301
+      },
+      {
+        "text": "'s",
+        "startFrame": 1299,
+        "endFrame": 1304
+      },
+      {
+        "text": "why",
+        "startFrame": 1304,
+        "endFrame": 1309
+      },
+      {
+        "text": "lookup",
+        "startFrame": 1311,
+        "endFrame": 1328
+      },
+      {
+        "text": "are",
+        "startFrame": 1321,
+        "endFrame": 1324
+      },
+      {
+        "text": "fast",
+        "startFrame": 1333,
+        "endFrame": 1349
+      },
+      {
+        "text": "even",
+        "startFrame": 1349,
+        "endFrame": 1352
+      },
+      {
+        "text": "with",
+        "startFrame": 1355,
+        "endFrame": 1364
+      },
+      {
+        "text": "a",
+        "startFrame": 1361,
+        "endFrame": 1364
+      }
+    ]
+  },
+  {
+    "text": "million keys in there the function that does this",
+    "startFrame": 1366,
+    "endFrame": 1467,
+    "words": [
+      {
+        "text": "million",
+        "startFrame": 1366,
+        "endFrame": 1381
+      },
+      {
+        "text": "keys",
+        "startFrame": 1376,
+        "endFrame": 1388
+      },
+      {
+        "text": "in",
+        "startFrame": 1388,
+        "endFrame": 1393
+      },
+      {
+        "text": "there",
+        "startFrame": 1398,
+        "endFrame": 1415
+      },
+      {
+        "text": "the",
+        "startFrame": 1429,
+        "endFrame": 1449
+      },
+      {
+        "text": "function",
+        "startFrame": 1438,
+        "endFrame": 1445
+      },
+      {
+        "text": "that",
+        "startFrame": 1444,
+        "endFrame": 1454
+      },
+      {
+        "text": "does",
+        "startFrame": 1450,
+        "endFrame": 1460
+      },
+      {
+        "text": "this",
+        "startFrame": 1457,
+        "endFrame": 1467
+      }
+    ]
+  },
+  {
+    "text": "conversion is called a hash function",
+    "startFrame": 1469,
+    "endFrame": 1512,
+    "words": [
+      {
+        "text": "conversion",
+        "startFrame": 1469,
+        "endFrame": 1493
+      },
+      {
+        "text": "is",
+        "startFrame": 1477,
+        "endFrame": 1482
+      },
+      {
+        "text": "called",
+        "startFrame": 1486,
+        "endFrame": 1500
+      },
+      {
+        "text": "a",
+        "startFrame": 1490,
+        "endFrame": 1494
+      },
+      {
+        "text": "hash",
+        "startFrame": 1494,
+        "endFrame": 1518
+      },
+      {
+        "text": "function",
+        "startFrame": 1507,
+        "endFrame": 1512
+      }
+    ]
+  },
+  {
+    "text": "keys goes in numbers come out let 's build",
+    "startFrame": 1535,
+    "endFrame": 1662,
+    "words": [
+      {
+        "text": "keys",
+        "startFrame": 1535,
+        "endFrame": 1545
+      },
+      {
+        "text": "goes",
+        "startFrame": 1544,
+        "endFrame": 1558
+      },
+      {
+        "text": "in",
+        "startFrame": 1556,
+        "endFrame": 1560
+      },
+      {
+        "text": "numbers",
+        "startFrame": 1574,
+        "endFrame": 1577
+      },
+      {
+        "text": "come",
+        "startFrame": 1582,
+        "endFrame": 1602
+      },
+      {
+        "text": "out",
+        "startFrame": 1594,
+        "endFrame": 1614
+      },
+      {
+        "text": "let",
+        "startFrame": 1618,
+        "endFrame": 1642
+      },
+      {
+        "text": "'s",
+        "startFrame": 1619,
+        "endFrame": 1623
+      },
+      {
+        "text": "build",
+        "startFrame": 1624,
+        "endFrame": 1662
+      }
+    ]
+  },
+  {
+    "text": "one",
+    "startFrame": 1645,
+    "endFrame": 1665,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 1645,
+        "endFrame": 1649
+      }
+    ]
+  },
+  {
+    "text": "alright so first buckets this is just a list",
+    "startFrame": 1691,
+    "endFrame": 1802,
+    "words": [
+      {
+        "text": "alright",
+        "startFrame": 1691,
+        "endFrame": 1713
+      },
+      {
+        "text": "so",
+        "startFrame": 1713,
+        "endFrame": 1718
+      },
+      {
+        "text": "first",
+        "startFrame": 1723,
+        "endFrame": 1736
+      },
+      {
+        "text": "buckets",
+        "startFrame": 1736,
+        "endFrame": 1754
+      },
+      {
+        "text": "this",
+        "startFrame": 1766,
+        "endFrame": 1769
+      },
+      {
+        "text": "is",
+        "startFrame": 1769,
+        "endFrame": 1773
+      },
+      {
+        "text": "just",
+        "startFrame": 1777,
+        "endFrame": 1790
+      },
+      {
+        "text": "a",
+        "startFrame": 1784,
+        "endFrame": 1787
+      },
+      {
+        "text": "list",
+        "startFrame": 1790,
+        "endFrame": 1802
+      }
+    ]
+  },
+  {
+    "text": "of empty list one slot for every possible index",
+    "startFrame": 1797,
+    "endFrame": 1894,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 1797,
+        "endFrame": 1801
+      },
+      {
+        "text": "empty",
+        "startFrame": 1806,
+        "endFrame": 1817
+      },
+      {
+        "text": "list",
+        "startFrame": 1818,
+        "endFrame": 1851
+      },
+      {
+        "text": "one",
+        "startFrame": 1846,
+        "endFrame": 1853
+      },
+      {
+        "text": "slot",
+        "startFrame": 1854,
+        "endFrame": 1863
+      },
+      {
+        "text": "for",
+        "startFrame": 1861,
+        "endFrame": 1868
+      },
+      {
+        "text": "every",
+        "startFrame": 1869,
+        "endFrame": 1880
+      },
+      {
+        "text": "possible",
+        "startFrame": 1879,
+        "endFrame": 1909
+      },
+      {
+        "text": "index",
+        "startFrame": 1890,
+        "endFrame": 1894
+      }
+    ]
+  },
+  {
+    "text": "now the hash function itself",
+    "startFrame": 1917,
+    "endFrame": 1952,
+    "words": [
+      {
+        "text": "now",
+        "startFrame": 1917,
+        "endFrame": 1924
+      },
+      {
+        "text": "the",
+        "startFrame": 1922,
+        "endFrame": 1929
+      },
+      {
+        "text": "hash",
+        "startFrame": 1927,
+        "endFrame": 1937
+      },
+      {
+        "text": "function",
+        "startFrame": 1935,
+        "endFrame": 1967
+      },
+      {
+        "text": "itself",
+        "startFrame": 1949,
+        "endFrame": 1952
+      }
+    ]
+  },
+  {
+    "text": "it looks a bit m athy but it 's",
+    "startFrame": 1975,
+    "endFrame": 2038,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 1975,
+        "endFrame": 1980
+      },
+      {
+        "text": "looks",
+        "startFrame": 1982,
+        "endFrame": 1994
+      },
+      {
+        "text": "a",
+        "startFrame": 1989,
+        "endFrame": 1993
+      },
+      {
+        "text": "bit",
+        "startFrame": 1993,
+        "endFrame": 2000
+      },
+      {
+        "text": "m",
+        "startFrame": 1998,
+        "endFrame": 2002
+      },
+      {
+        "text": "athy",
+        "startFrame": 2003,
+        "endFrame": 2015
+      },
+      {
+        "text": "but",
+        "startFrame": 2021,
+        "endFrame": 2028
+      },
+      {
+        "text": "it",
+        "startFrame": 2029,
+        "endFrame": 2034
+      },
+      {
+        "text": "'s",
+        "startFrame": 2033,
+        "endFrame": 2038
+      }
+    ]
+  },
+  {
+    "text": "a simpler than it looks we walk through every",
+    "startFrame": 2035,
+    "endFrame": 2128,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 2035,
+        "endFrame": 2039
+      },
+      {
+        "text": "simpler",
+        "startFrame": 2044,
+        "endFrame": 2058
+      },
+      {
+        "text": "than",
+        "startFrame": 2049,
+        "endFrame": 2057
+      },
+      {
+        "text": "it",
+        "startFrame": 2054,
+        "endFrame": 2058
+      },
+      {
+        "text": "looks",
+        "startFrame": 2062,
+        "endFrame": 2074
+      },
+      {
+        "text": "we",
+        "startFrame": 2096,
+        "endFrame": 2108
+      },
+      {
+        "text": "walk",
+        "startFrame": 2101,
+        "endFrame": 2105
+      },
+      {
+        "text": "through",
+        "startFrame": 2107,
+        "endFrame": 2121
+      },
+      {
+        "text": "every",
+        "startFrame": 2117,
+        "endFrame": 2128
+      }
+    ]
+  },
+  {
+    "text": "character in a key and build up a number",
+    "startFrame": 2125,
+    "endFrame": 2200,
+    "words": [
+      {
+        "text": "character",
+        "startFrame": 2125,
+        "endFrame": 2144
+      },
+      {
+        "text": "in",
+        "startFrame": 2131,
+        "endFrame": 2134
+      },
+      {
+        "text": "a",
+        "startFrame": 2136,
+        "endFrame": 2140
+      },
+      {
+        "text": "key",
+        "startFrame": 2141,
+        "endFrame": 2154
+      },
+      {
+        "text": "and",
+        "startFrame": 2158,
+        "endFrame": 2162
+      },
+      {
+        "text": "build",
+        "startFrame": 2167,
+        "endFrame": 2177
+      },
+      {
+        "text": "up",
+        "startFrame": 2172,
+        "endFrame": 2180
+      },
+      {
+        "text": "a",
+        "startFrame": 2177,
+        "endFrame": 2181
+      },
+      {
+        "text": "number",
+        "startFrame": 2185,
+        "endFrame": 2200
+      }
+    ]
+  },
+  {
+    "text": "as we go we multiply by 31 each time",
+    "startFrame": 2192,
+    "endFrame": 2291,
+    "words": [
+      {
+        "text": "as",
+        "startFrame": 2192,
+        "endFrame": 2197
+      },
+      {
+        "text": "we",
+        "startFrame": 2197,
+        "endFrame": 2202
+      },
+      {
+        "text": "go",
+        "startFrame": 2205,
+        "endFrame": 2215
+      },
+      {
+        "text": "we",
+        "startFrame": 2231,
+        "endFrame": 2249
+      },
+      {
+        "text": "multiply",
+        "startFrame": 2242,
+        "endFrame": 2251
+      },
+      {
+        "text": "by",
+        "startFrame": 2251,
+        "endFrame": 2255
+      },
+      {
+        "text": "31",
+        "startFrame": 2262,
+        "endFrame": 2277
+      },
+      {
+        "text": "each",
+        "startFrame": 2271,
+        "endFrame": 2282
+      },
+      {
+        "text": "time",
+        "startFrame": 2281,
+        "endFrame": 2291
+      }
+    ]
+  },
+  {
+    "text": "and add one character code",
+    "startFrame": 2291,
+    "endFrame": 2333,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 2291,
+        "endFrame": 2302
+      },
+      {
+        "text": "add",
+        "startFrame": 2296,
+        "endFrame": 2300
+      },
+      {
+        "text": "one",
+        "startFrame": 2303,
+        "endFrame": 2311
+      },
+      {
+        "text": "character",
+        "startFrame": 2311,
+        "endFrame": 2335
+      },
+      {
+        "text": "code",
+        "startFrame": 2323,
+        "endFrame": 2333
+      }
+    ]
+  },
+  {
+    "text": "that big mod number in there just keeps the",
+    "startFrame": 2354,
+    "endFrame": 2434,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 2354,
+        "endFrame": 2358
+      },
+      {
+        "text": "big",
+        "startFrame": 2357,
+        "endFrame": 2366
+      },
+      {
+        "text": "mod",
+        "startFrame": 2365,
+        "endFrame": 2373
+      },
+      {
+        "text": "number",
+        "startFrame": 2377,
+        "endFrame": 2397
+      },
+      {
+        "text": "in",
+        "startFrame": 2395,
+        "endFrame": 2400
+      },
+      {
+        "text": "there",
+        "startFrame": 2403,
+        "endFrame": 2411
+      },
+      {
+        "text": "just",
+        "startFrame": 2411,
+        "endFrame": 2426
+      },
+      {
+        "text": "keeps",
+        "startFrame": 2420,
+        "endFrame": 2428
+      },
+      {
+        "text": "the",
+        "startFrame": 2426,
+        "endFrame": 2434
+      }
+    ]
+  },
+  {
+    "text": "value from getting too large",
+    "startFrame": 2432,
+    "endFrame": 2466,
+    "words": [
+      {
+        "text": "value",
+        "startFrame": 2432,
+        "endFrame": 2446
+      },
+      {
+        "text": "from",
+        "startFrame": 2439,
+        "endFrame": 2448
+      },
+      {
+        "text": "getting",
+        "startFrame": 2446,
+        "endFrame": 2464
+      },
+      {
+        "text": "too",
+        "startFrame": 2453,
+        "endFrame": 2473
+      },
+      {
+        "text": "large",
+        "startFrame": 2462,
+        "endFrame": 2466
+      }
+    ]
+  },
+  {
+    "text": "and this last line is the important part mod",
+    "startFrame": 2494,
+    "endFrame": 2572,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 2494,
+        "endFrame": 2498
+      },
+      {
+        "text": "this",
+        "startFrame": 2500,
+        "endFrame": 2505
+      },
+      {
+        "text": "last",
+        "startFrame": 2508,
+        "endFrame": 2513
+      },
+      {
+        "text": "line",
+        "startFrame": 2515,
+        "endFrame": 2522
+      },
+      {
+        "text": "is",
+        "startFrame": 2522,
+        "endFrame": 2526
+      },
+      {
+        "text": "the",
+        "startFrame": 2527,
+        "endFrame": 2531
+      },
+      {
+        "text": "important",
+        "startFrame": 2534,
+        "endFrame": 2563
+      },
+      {
+        "text": "part",
+        "startFrame": 2547,
+        "endFrame": 2551
+      },
+      {
+        "text": "mod",
+        "startFrame": 2566,
+        "endFrame": 2572
+      }
+    ]
+  },
+  {
+    "text": "self",
+    "startFrame": 2574,
+    "endFrame": 2594,
+    "words": [
+      {
+        "text": "self",
+        "startFrame": 2574,
+        "endFrame": 2583
+      }
+    ]
+  },
+  {
+    "text": "capacity it ske ws whatever number we build down",
+    "startFrame": 2595,
+    "endFrame": 2685,
+    "words": [
+      {
+        "text": "capacity",
+        "startFrame": 2595,
+        "endFrame": 2616
+      },
+      {
+        "text": "it",
+        "startFrame": 2626,
+        "endFrame": 2630
+      },
+      {
+        "text": "ske",
+        "startFrame": 2634,
+        "endFrame": 2641
+      },
+      {
+        "text": "ws",
+        "startFrame": 2636,
+        "endFrame": 2644
+      },
+      {
+        "text": "whatever",
+        "startFrame": 2645,
+        "endFrame": 2660
+      },
+      {
+        "text": "number",
+        "startFrame": 2654,
+        "endFrame": 2667
+      },
+      {
+        "text": "we",
+        "startFrame": 2661,
+        "endFrame": 2666
+      },
+      {
+        "text": "build",
+        "startFrame": 2668,
+        "endFrame": 2679
+      },
+      {
+        "text": "down",
+        "startFrame": 2676,
+        "endFrame": 2685
+      }
+    ]
+  },
+  {
+    "text": "into a valid slot index somewhere between 0 and",
+    "startFrame": 2686,
+    "endFrame": 2780,
+    "words": [
+      {
+        "text": "into",
+        "startFrame": 2686,
+        "endFrame": 2697
+      },
+      {
+        "text": "a",
+        "startFrame": 2692,
+        "endFrame": 2695
+      },
+      {
+        "text": "valid",
+        "startFrame": 2696,
+        "endFrame": 2705
+      },
+      {
+        "text": "slot",
+        "startFrame": 2704,
+        "endFrame": 2714
+      },
+      {
+        "text": "index",
+        "startFrame": 2716,
+        "endFrame": 2725
+      },
+      {
+        "text": "somewhere",
+        "startFrame": 2738,
+        "endFrame": 2753
+      },
+      {
+        "text": "between",
+        "startFrame": 2749,
+        "endFrame": 2764
+      },
+      {
+        "text": "0",
+        "startFrame": 2760,
+        "endFrame": 2767
+      },
+      {
+        "text": "and",
+        "startFrame": 2773,
+        "endFrame": 2780
+      }
+    ]
+  },
+  {
+    "text": "capacity-1 so no matter how long the",
+    "startFrame": 2786,
+    "endFrame": 2872,
+    "words": [
+      {
+        "text": "capacity-1",
+        "startFrame": 2786,
+        "endFrame": 2814
+      },
+      {
+        "text": "so",
+        "startFrame": 2831,
+        "endFrame": 2836
+      },
+      {
+        "text": "no",
+        "startFrame": 2837,
+        "endFrame": 2851
+      },
+      {
+        "text": "matter",
+        "startFrame": 2844,
+        "endFrame": 2849
+      },
+      {
+        "text": "how",
+        "startFrame": 2854,
+        "endFrame": 2862
+      },
+      {
+        "text": "long",
+        "startFrame": 2859,
+        "endFrame": 2867
+      },
+      {
+        "text": "the",
+        "startFrame": 2864,
+        "endFrame": 2872
+      }
+    ]
+  },
+  {
+    "text": "key is you always get back a valid slot",
+    "startFrame": 2869,
+    "endFrame": 2962,
+    "words": [
+      {
+        "text": "key",
+        "startFrame": 2869,
+        "endFrame": 2876
+      },
+      {
+        "text": "is",
+        "startFrame": 2876,
+        "endFrame": 2881
+      },
+      {
+        "text": "you",
+        "startFrame": 2887,
+        "endFrame": 2890
+      },
+      {
+        "text": "always",
+        "startFrame": 2896,
+        "endFrame": 2913
+      },
+      {
+        "text": "get",
+        "startFrame": 2902,
+        "endFrame": 2916
+      },
+      {
+        "text": "back",
+        "startFrame": 2912,
+        "endFrame": 2929
+      },
+      {
+        "text": "a",
+        "startFrame": 2918,
+        "endFrame": 2923
+      },
+      {
+        "text": "valid",
+        "startFrame": 2925,
+        "endFrame": 2936
+      },
+      {
+        "text": "slot",
+        "startFrame": 2933,
+        "endFrame": 2962
+      }
+    ]
+  },
+  {
+    "text": "to check",
+    "startFrame": 2939,
+    "endFrame": 2959,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 2939,
+        "endFrame": 2972
+      },
+      {
+        "text": "check",
+        "startFrame": 2948,
+        "endFrame": 2952
+      }
+    ]
+  },
+  {
+    "text": "to insert something we hash the key to get",
+    "startFrame": 3012,
+    "endFrame": 3076,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 3012,
+        "endFrame": 3016
+      },
+      {
+        "text": "insert",
+        "startFrame": 3023,
+        "endFrame": 3032
+      },
+      {
+        "text": "something",
+        "startFrame": 3034,
+        "endFrame": 3047
+      },
+      {
+        "text": "we",
+        "startFrame": 3044,
+        "endFrame": 3047
+      },
+      {
+        "text": "hash",
+        "startFrame": 3049,
+        "endFrame": 3057
+      },
+      {
+        "text": "the",
+        "startFrame": 3055,
+        "endFrame": 3061
+      },
+      {
+        "text": "key",
+        "startFrame": 3060,
+        "endFrame": 3064
+      },
+      {
+        "text": "to",
+        "startFrame": 3065,
+        "endFrame": 3069
+      },
+      {
+        "text": "get",
+        "startFrame": 3070,
+        "endFrame": 3076
+      }
+    ]
+  },
+  {
+    "text": "our index then we grab that bucket",
+    "startFrame": 3076,
+    "endFrame": 3138,
+    "words": [
+      {
+        "text": "our",
+        "startFrame": 3076,
+        "endFrame": 3088
+      },
+      {
+        "text": "index",
+        "startFrame": 3088,
+        "endFrame": 3111
+      },
+      {
+        "text": "then",
+        "startFrame": 3109,
+        "endFrame": 3117
+      },
+      {
+        "text": "we",
+        "startFrame": 3114,
+        "endFrame": 3120
+      },
+      {
+        "text": "grab",
+        "startFrame": 3119,
+        "endFrame": 3125
+      },
+      {
+        "text": "that",
+        "startFrame": 3125,
+        "endFrame": 3134
+      },
+      {
+        "text": "bucket",
+        "startFrame": 3134,
+        "endFrame": 3138
+      }
+    ]
+  },
+  {
+    "text": "one detail worth noting we loop through whatever already",
+    "startFrame": 3164,
+    "endFrame": 3268,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 3164,
+        "endFrame": 3167
+      },
+      {
+        "text": "detail",
+        "startFrame": 3170,
+        "endFrame": 3182
+      },
+      {
+        "text": "worth",
+        "startFrame": 3177,
+        "endFrame": 3188
+      },
+      {
+        "text": "noting",
+        "startFrame": 3188,
+        "endFrame": 3203
+      },
+      {
+        "text": "we",
+        "startFrame": 3222,
+        "endFrame": 3226
+      },
+      {
+        "text": "loop",
+        "startFrame": 3229,
+        "endFrame": 3248
+      },
+      {
+        "text": "through",
+        "startFrame": 3234,
+        "endFrame": 3238
+      },
+      {
+        "text": "whatever",
+        "startFrame": 3242,
+        "endFrame": 3258
+      },
+      {
+        "text": "already",
+        "startFrame": 3254,
+        "endFrame": 3268
+      }
+    ]
+  },
+  {
+    "text": "in that bucket first and check if that key",
+    "startFrame": 3256,
+    "endFrame": 3331,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 3256,
+        "endFrame": 3263
+      },
+      {
+        "text": "that",
+        "startFrame": 3264,
+        "endFrame": 3274
+      },
+      {
+        "text": "bucket",
+        "startFrame": 3271,
+        "endFrame": 3294
+      },
+      {
+        "text": "first",
+        "startFrame": 3281,
+        "endFrame": 3287
+      },
+      {
+        "text": "and",
+        "startFrame": 3294,
+        "endFrame": 3306
+      },
+      {
+        "text": "check",
+        "startFrame": 3302,
+        "endFrame": 3309
+      },
+      {
+        "text": "if",
+        "startFrame": 3311,
+        "endFrame": 3320
+      },
+      {
+        "text": "that",
+        "startFrame": 3320,
+        "endFrame": 3332
+      },
+      {
+        "text": "key",
+        "startFrame": 3328,
+        "endFrame": 3331
+      }
+    ]
+  },
+  {
+    "text": "already exists if it does we just update it",
+    "startFrame": 3341,
+    "endFrame": 3443,
+    "words": [
+      {
+        "text": "already",
+        "startFrame": 3341,
+        "endFrame": 3358
+      },
+      {
+        "text": "exists",
+        "startFrame": 3352,
+        "endFrame": 3373
+      },
+      {
+        "text": "if",
+        "startFrame": 3380,
+        "endFrame": 3384
+      },
+      {
+        "text": "it",
+        "startFrame": 3385,
+        "endFrame": 3391
+      },
+      {
+        "text": "does",
+        "startFrame": 3392,
+        "endFrame": 3405
+      },
+      {
+        "text": "we",
+        "startFrame": 3410,
+        "endFrame": 3413
+      },
+      {
+        "text": "just",
+        "startFrame": 3418,
+        "endFrame": 3424
+      },
+      {
+        "text": "update",
+        "startFrame": 3430,
+        "endFrame": 3445
+      },
+      {
+        "text": "it",
+        "startFrame": 3439,
+        "endFrame": 3443
+      }
+    ]
+  },
+  {
+    "text": "in place instead of adding a duplicate otherwise we",
+    "startFrame": 3447,
+    "endFrame": 3539,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 3447,
+        "endFrame": 3458
+      },
+      {
+        "text": "place",
+        "startFrame": 3455,
+        "endFrame": 3466
+      },
+      {
+        "text": "instead",
+        "startFrame": 3464,
+        "endFrame": 3479
+      },
+      {
+        "text": "of",
+        "startFrame": 3470,
+        "endFrame": 3473
+      },
+      {
+        "text": "adding",
+        "startFrame": 3476,
+        "endFrame": 3488
+      },
+      {
+        "text": "a",
+        "startFrame": 3481,
+        "endFrame": 3484
+      },
+      {
+        "text": "duplicate",
+        "startFrame": 3493,
+        "endFrame": 3509
+      },
+      {
+        "text": "otherwise",
+        "startFrame": 3525,
+        "endFrame": 3534
+      },
+      {
+        "text": "we",
+        "startFrame": 3534,
+        "endFrame": 3539
+      }
+    ]
+  },
+  {
+    "text": "append this new key value pair and increase our",
+    "startFrame": 3541,
+    "endFrame": 3619,
+    "words": [
+      {
+        "text": "append",
+        "startFrame": 3541,
+        "endFrame": 3551
+      },
+      {
+        "text": "this",
+        "startFrame": 3547,
+        "endFrame": 3556
+      },
+      {
+        "text": "new",
+        "startFrame": 3557,
+        "endFrame": 3562
+      },
+      {
+        "text": "key",
+        "startFrame": 3562,
+        "endFrame": 3567
+      },
+      {
+        "text": "value",
+        "startFrame": 3569,
+        "endFrame": 3579
+      },
+      {
+        "text": "pair",
+        "startFrame": 3579,
+        "endFrame": 3587
+      },
+      {
+        "text": "and",
+        "startFrame": 3593,
+        "endFrame": 3606
+      },
+      {
+        "text": "increase",
+        "startFrame": 3602,
+        "endFrame": 3612
+      },
+      {
+        "text": "our",
+        "startFrame": 3609,
+        "endFrame": 3619
+      }
+    ]
+  },
+  {
+    "text": "size counter",
+    "startFrame": 3614,
+    "endFrame": 3634,
+    "words": [
+      {
+        "text": "size",
+        "startFrame": 3614,
+        "endFrame": 3622
+      },
+      {
+        "text": "counter",
+        "startFrame": 3625,
+        "endFrame": 3633
+      }
+    ]
+  },
+  {
+    "text": "the bucket itself is a list not a single",
+    "startFrame": 3657,
+    "endFrame": 3734,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3657,
+        "endFrame": 3671
+      },
+      {
+        "text": "bucket",
+        "startFrame": 3665,
+        "endFrame": 3674
+      },
+      {
+        "text": "itself",
+        "startFrame": 3678,
+        "endFrame": 3691
+      },
+      {
+        "text": "is",
+        "startFrame": 3685,
+        "endFrame": 3690
+      },
+      {
+        "text": "a",
+        "startFrame": 3690,
+        "endFrame": 3694
+      },
+      {
+        "text": "list",
+        "startFrame": 3697,
+        "endFrame": 3706
+      },
+      {
+        "text": "not",
+        "startFrame": 3712,
+        "endFrame": 3722
+      },
+      {
+        "text": "a",
+        "startFrame": 3716,
+        "endFrame": 3719
+      },
+      {
+        "text": "single",
+        "startFrame": 3721,
+        "endFrame": 3734
+      }
+    ]
+  },
+  {
+    "text": "slot",
+    "startFrame": 3731,
+    "endFrame": 3751,
+    "words": [
+      {
+        "text": "slot",
+        "startFrame": 3731,
+        "endFrame": 3740
+      }
+    ]
+  },
+  {
+    "text": "that 's on purpose we 'll see why in",
+    "startFrame": 3763,
+    "endFrame": 3813,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 3763,
+        "endFrame": 3773
+      },
+      {
+        "text": "'s",
+        "startFrame": 3765,
+        "endFrame": 3775
+      },
+      {
+        "text": "on",
+        "startFrame": 3770,
+        "endFrame": 3774
+      },
+      {
+        "text": "purpose",
+        "startFrame": 3781,
+        "endFrame": 3794
+      },
+      {
+        "text": "we",
+        "startFrame": 3791,
+        "endFrame": 3799
+      },
+      {
+        "text": "'ll",
+        "startFrame": 3793,
+        "endFrame": 3801
+      },
+      {
+        "text": "see",
+        "startFrame": 3798,
+        "endFrame": 3812
+      },
+      {
+        "text": "why",
+        "startFrame": 3804,
+        "endFrame": 3827
+      },
+      {
+        "text": "in",
+        "startFrame": 3809,
+        "endFrame": 3813
+      }
+    ]
+  },
+  {
+    "text": "a second",
+    "startFrame": 3814,
+    "endFrame": 3835,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 3814,
+        "endFrame": 3847
+      },
+      {
+        "text": "second",
+        "startFrame": 3832,
+        "endFrame": 3835
+      }
+    ]
+  },
+  {
+    "text": "so what happens when two different keys hash to",
+    "startFrame": 3869,
+    "endFrame": 3938,
+    "words": [
+      {
+        "text": "so",
+        "startFrame": 3869,
+        "endFrame": 3872
+      },
+      {
+        "text": "what",
+        "startFrame": 3875,
+        "endFrame": 3881
+      },
+      {
+        "text": "happens",
+        "startFrame": 3885,
+        "endFrame": 3895
+      },
+      {
+        "text": "when",
+        "startFrame": 3890,
+        "endFrame": 3896
+      },
+      {
+        "text": "two",
+        "startFrame": 3896,
+        "endFrame": 3901
+      },
+      {
+        "text": "different",
+        "startFrame": 3905,
+        "endFrame": 3919
+      },
+      {
+        "text": "keys",
+        "startFrame": 3915,
+        "endFrame": 3925
+      },
+      {
+        "text": "hash",
+        "startFrame": 3926,
+        "endFrame": 3930
+      },
+      {
+        "text": "to",
+        "startFrame": 3932,
+        "endFrame": 3938
+      }
+    ]
+  },
+  {
+    "text": "the same index it 's going to happen eventually",
+    "startFrame": 3936,
+    "endFrame": 4038,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3936,
+        "endFrame": 3940
+      },
+      {
+        "text": "same",
+        "startFrame": 3942,
+        "endFrame": 3950
+      },
+      {
+        "text": "index",
+        "startFrame": 3953,
+        "endFrame": 3963
+      },
+      {
+        "text": "it",
+        "startFrame": 3982,
+        "endFrame": 3986
+      },
+      {
+        "text": "'s",
+        "startFrame": 3984,
+        "endFrame": 3988
+      },
+      {
+        "text": "going",
+        "startFrame": 3989,
+        "endFrame": 3998
+      },
+      {
+        "text": "to",
+        "startFrame": 3993,
+        "endFrame": 3997
+      },
+      {
+        "text": "happen",
+        "startFrame": 4000,
+        "endFrame": 4011
+      },
+      {
+        "text": "eventually",
+        "startFrame": 4014,
+        "endFrame": 4038
+      }
+    ]
+  },
+  {
+    "text": "no hash function avoids this forever that 's just",
+    "startFrame": 4046,
+    "endFrame": 4137,
+    "words": [
+      {
+        "text": "no",
+        "startFrame": 4046,
+        "endFrame": 4050
+      },
+      {
+        "text": "hash",
+        "startFrame": 4051,
+        "endFrame": 4059
+      },
+      {
+        "text": "function",
+        "startFrame": 4062,
+        "endFrame": 4078
+      },
+      {
+        "text": "avoids",
+        "startFrame": 4070,
+        "endFrame": 4085
+      },
+      {
+        "text": "this",
+        "startFrame": 4078,
+        "endFrame": 4083
+      },
+      {
+        "text": "forever",
+        "startFrame": 4090,
+        "endFrame": 4102
+      },
+      {
+        "text": "that",
+        "startFrame": 4115,
+        "endFrame": 4119
+      },
+      {
+        "text": "'s",
+        "startFrame": 4117,
+        "endFrame": 4121
+      },
+      {
+        "text": "just",
+        "startFrame": 4123,
+        "endFrame": 4137
+      }
+    ]
+  },
+  {
+    "text": "how the math work out this is called a",
+    "startFrame": 4130,
+    "endFrame": 4198,
+    "words": [
+      {
+        "text": "how",
+        "startFrame": 4130,
+        "endFrame": 4134
+      },
+      {
+        "text": "the",
+        "startFrame": 4137,
+        "endFrame": 4142
+      },
+      {
+        "text": "math",
+        "startFrame": 4137,
+        "endFrame": 4143
+      },
+      {
+        "text": "work",
+        "startFrame": 4146,
+        "endFrame": 4156
+      },
+      {
+        "text": "out",
+        "startFrame": 4157,
+        "endFrame": 4164
+      },
+      {
+        "text": "this",
+        "startFrame": 4180,
+        "endFrame": 4193
+      },
+      {
+        "text": "is",
+        "startFrame": 4182,
+        "endFrame": 4186
+      },
+      {
+        "text": "called",
+        "startFrame": 4190,
+        "endFrame": 4202
+      },
+      {
+        "text": "a",
+        "startFrame": 4194,
+        "endFrame": 4198
+      }
+    ]
+  },
+  {
+    "text": "collision and it 's not a bug every hash",
+    "startFrame": 4204,
+    "endFrame": 4288,
+    "words": [
+      {
+        "text": "collision",
+        "startFrame": 4204,
+        "endFrame": 4224
+      },
+      {
+        "text": "and",
+        "startFrame": 4228,
+        "endFrame": 4231
+      },
+      {
+        "text": "it",
+        "startFrame": 4231,
+        "endFrame": 4235
+      },
+      {
+        "text": "'s",
+        "startFrame": 4231,
+        "endFrame": 4236
+      },
+      {
+        "text": "not",
+        "startFrame": 4235,
+        "endFrame": 4243
+      },
+      {
+        "text": "a",
+        "startFrame": 4241,
+        "endFrame": 4245
+      },
+      {
+        "text": "bug",
+        "startFrame": 4246,
+        "endFrame": 4258
+      },
+      {
+        "text": "every",
+        "startFrame": 4278,
+        "endFrame": 4295
+      },
+      {
+        "text": "hash",
+        "startFrame": 4284,
+        "endFrame": 4288
+      }
+    ]
+  },
+  {
+    "text": "table had to handle this somehow the way we",
+    "startFrame": 4291,
+    "endFrame": 4373,
+    "words": [
+      {
+        "text": "table",
+        "startFrame": 4291,
+        "endFrame": 4303
+      },
+      {
+        "text": "had",
+        "startFrame": 4298,
+        "endFrame": 4307
+      },
+      {
+        "text": "to",
+        "startFrame": 4304,
+        "endFrame": 4310
+      },
+      {
+        "text": "handle",
+        "startFrame": 4312,
+        "endFrame": 4320
+      },
+      {
+        "text": "this",
+        "startFrame": 4318,
+        "endFrame": 4327
+      },
+      {
+        "text": "somehow",
+        "startFrame": 4330,
+        "endFrame": 4345
+      },
+      {
+        "text": "the",
+        "startFrame": 4361,
+        "endFrame": 4367
+      },
+      {
+        "text": "way",
+        "startFrame": 4365,
+        "endFrame": 4376
+      },
+      {
+        "text": "we",
+        "startFrame": 4370,
+        "endFrame": 4373
+      }
+    ]
+  },
+  {
+    "text": "are handling it here is called ch aining",
+    "startFrame": 4373,
+    "endFrame": 4433,
+    "words": [
+      {
+        "text": "are",
+        "startFrame": 4373,
+        "endFrame": 4378
+      },
+      {
+        "text": "handling",
+        "startFrame": 4381,
+        "endFrame": 4398
+      },
+      {
+        "text": "it",
+        "startFrame": 4390,
+        "endFrame": 4394
+      },
+      {
+        "text": "here",
+        "startFrame": 4396,
+        "endFrame": 4405
+      },
+      {
+        "text": "is",
+        "startFrame": 4402,
+        "endFrame": 4408
+      },
+      {
+        "text": "called",
+        "startFrame": 4410,
+        "endFrame": 4424
+      },
+      {
+        "text": "ch",
+        "startFrame": 4415,
+        "endFrame": 4419
+      },
+      {
+        "text": "aining",
+        "startFrame": 4420,
+        "endFrame": 4433
+      }
+    ]
+  },
+  {
+    "text": "that 's why each bucket is a list and",
+    "startFrame": 4453,
+    "endFrame": 4504,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 4453,
+        "endFrame": 4466
+      },
+      {
+        "text": "'s",
+        "startFrame": 4454,
+        "endFrame": 4458
+      },
+      {
+        "text": "why",
+        "startFrame": 4460,
+        "endFrame": 4467
+      },
+      {
+        "text": "each",
+        "startFrame": 4468,
+        "endFrame": 4475
+      },
+      {
+        "text": "bucket",
+        "startFrame": 4475,
+        "endFrame": 4490
+      },
+      {
+        "text": "is",
+        "startFrame": 4483,
+        "endFrame": 4488
+      },
+      {
+        "text": "a",
+        "startFrame": 4489,
+        "endFrame": 4493
+      },
+      {
+        "text": "list",
+        "startFrame": 4495,
+        "endFrame": 4508
+      },
+      {
+        "text": "and",
+        "startFrame": 4501,
+        "endFrame": 4504
+      }
+    ]
+  },
+  {
+    "text": "not just one value if two keys land in",
+    "startFrame": 4506,
+    "endFrame": 4591,
+    "words": [
+      {
+        "text": "not",
+        "startFrame": 4506,
+        "endFrame": 4513
+      },
+      {
+        "text": "just",
+        "startFrame": 4512,
+        "endFrame": 4522
+      },
+      {
+        "text": "one",
+        "startFrame": 4517,
+        "endFrame": 4525
+      },
+      {
+        "text": "value",
+        "startFrame": 4529,
+        "endFrame": 4541
+      },
+      {
+        "text": "if",
+        "startFrame": 4558,
+        "endFrame": 4570
+      },
+      {
+        "text": "two",
+        "startFrame": 4565,
+        "endFrame": 4569
+      },
+      {
+        "text": "keys",
+        "startFrame": 4572,
+        "endFrame": 4581
+      },
+      {
+        "text": "land",
+        "startFrame": 4580,
+        "endFrame": 4590
+      },
+      {
+        "text": "in",
+        "startFrame": 4586,
+        "endFrame": 4591
+      }
+    ]
+  },
+  {
+    "text": "the same slot they both just live in that",
+    "startFrame": 4591,
+    "endFrame": 4674,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4591,
+        "endFrame": 4598
+      },
+      {
+        "text": "same",
+        "startFrame": 4598,
+        "endFrame": 4607
+      },
+      {
+        "text": "slot",
+        "startFrame": 4606,
+        "endFrame": 4616
+      },
+      {
+        "text": "they",
+        "startFrame": 4626,
+        "endFrame": 4630
+      },
+      {
+        "text": "both",
+        "startFrame": 4633,
+        "endFrame": 4642
+      },
+      {
+        "text": "just",
+        "startFrame": 4642,
+        "endFrame": 4651
+      },
+      {
+        "text": "live",
+        "startFrame": 4651,
+        "endFrame": 4661
+      },
+      {
+        "text": "in",
+        "startFrame": 4655,
+        "endFrame": 4659
+      },
+      {
+        "text": "that",
+        "startFrame": 4663,
+        "endFrame": 4674
+      }
+    ]
+  },
+  {
+    "text": "list together side by side when you go looking",
+    "startFrame": 4669,
+    "endFrame": 4759,
+    "words": [
+      {
+        "text": "list",
+        "startFrame": 4669,
+        "endFrame": 4675
+      },
+      {
+        "text": "together",
+        "startFrame": 4682,
+        "endFrame": 4702
+      },
+      {
+        "text": "side",
+        "startFrame": 4692,
+        "endFrame": 4696
+      },
+      {
+        "text": "by",
+        "startFrame": 4696,
+        "endFrame": 4700
+      },
+      {
+        "text": "side",
+        "startFrame": 4714,
+        "endFrame": 4722
+      },
+      {
+        "text": "when",
+        "startFrame": 4735,
+        "endFrame": 4739
+      },
+      {
+        "text": "you",
+        "startFrame": 4739,
+        "endFrame": 4744
+      },
+      {
+        "text": "go",
+        "startFrame": 4743,
+        "endFrame": 4754
+      },
+      {
+        "text": "looking",
+        "startFrame": 4751,
+        "endFrame": 4759
+      }
+    ]
+  },
+  {
+    "text": "for one of them you check that slot and",
+    "startFrame": 4757,
+    "endFrame": 4822,
+    "words": [
+      {
+        "text": "for",
+        "startFrame": 4757,
+        "endFrame": 4762
+      },
+      {
+        "text": "one",
+        "startFrame": 4762,
+        "endFrame": 4768
+      },
+      {
+        "text": "of",
+        "startFrame": 4765,
+        "endFrame": 4769
+      },
+      {
+        "text": "them",
+        "startFrame": 4773,
+        "endFrame": 4780
+      },
+      {
+        "text": "you",
+        "startFrame": 4782,
+        "endFrame": 4788
+      },
+      {
+        "text": "check",
+        "startFrame": 4788,
+        "endFrame": 4800
+      },
+      {
+        "text": "that",
+        "startFrame": 4793,
+        "endFrame": 4801
+      },
+      {
+        "text": "slot",
+        "startFrame": 4802,
+        "endFrame": 4812
+      },
+      {
+        "text": "and",
+        "startFrame": 4813,
+        "endFrame": 4822
+      }
+    ]
+  },
+  {
+    "text": "then scan the short list",
+    "startFrame": 4817,
+    "endFrame": 4851,
+    "words": [
+      {
+        "text": "then",
+        "startFrame": 4817,
+        "endFrame": 4829
+      },
+      {
+        "text": "scan",
+        "startFrame": 4826,
+        "endFrame": 4832
+      },
+      {
+        "text": "the",
+        "startFrame": 4832,
+        "endFrame": 4839
+      },
+      {
+        "text": "short",
+        "startFrame": 4838,
+        "endFrame": 4859
+      },
+      {
+        "text": "list",
+        "startFrame": 4847,
+        "endFrame": 4851
+      }
+    ]
+  },
+  {
+    "text": "inside it for the exact match let 's just",
+    "startFrame": 4866,
+    "endFrame": 4955,
+    "words": [
+      {
+        "text": "inside",
+        "startFrame": 4866,
+        "endFrame": 4881
+      },
+      {
+        "text": "it",
+        "startFrame": 4878,
+        "endFrame": 4890
+      },
+      {
+        "text": "for",
+        "startFrame": 4894,
+        "endFrame": 4899
+      },
+      {
+        "text": "the",
+        "startFrame": 4898,
+        "endFrame": 4902
+      },
+      {
+        "text": "exact",
+        "startFrame": 4905,
+        "endFrame": 4919
+      },
+      {
+        "text": "match",
+        "startFrame": 4915,
+        "endFrame": 4931
+      },
+      {
+        "text": "let",
+        "startFrame": 4946,
+        "endFrame": 4954
+      },
+      {
+        "text": "'s",
+        "startFrame": 4949,
+        "endFrame": 4961
+      },
+      {
+        "text": "just",
+        "startFrame": 4952,
+        "endFrame": 4955
+      }
+    ]
+  },
+  {
+    "text": "watch this one",
+    "startFrame": 4957,
+    "endFrame": 4978,
+    "words": [
+      {
+        "text": "watch",
+        "startFrame": 4957,
+        "endFrame": 4969
+      },
+      {
+        "text": "this",
+        "startFrame": 4964,
+        "endFrame": 4977
+      },
+      {
+        "text": "one",
+        "startFrame": 4969,
+        "endFrame": 4978
+      }
+    ]
+  },
+  {
+    "text": "click get function first same idea hash the key",
+    "startFrame": 5020,
+    "endFrame": 5117,
+    "words": [
+      {
+        "text": "click",
+        "startFrame": 5020,
+        "endFrame": 5035
+      },
+      {
+        "text": "get",
+        "startFrame": 5026,
+        "endFrame": 5043
+      },
+      {
+        "text": "function",
+        "startFrame": 5034,
+        "endFrame": 5050
+      },
+      {
+        "text": "first",
+        "startFrame": 5047,
+        "endFrame": 5068
+      },
+      {
+        "text": "same",
+        "startFrame": 5071,
+        "endFrame": 5074
+      },
+      {
+        "text": "idea",
+        "startFrame": 5083,
+        "endFrame": 5094
+      },
+      {
+        "text": "hash",
+        "startFrame": 5099,
+        "endFrame": 5103
+      },
+      {
+        "text": "the",
+        "startFrame": 5105,
+        "endFrame": 5111
+      },
+      {
+        "text": "key",
+        "startFrame": 5111,
+        "endFrame": 5117
+      }
+    ]
+  },
+  {
+    "text": "then scan that bucket list for the match",
+    "startFrame": 5122,
+    "endFrame": 5188,
+    "words": [
+      {
+        "text": "then",
+        "startFrame": 5122,
+        "endFrame": 5126
+      },
+      {
+        "text": "scan",
+        "startFrame": 5132,
+        "endFrame": 5140
+      },
+      {
+        "text": "that",
+        "startFrame": 5138,
+        "endFrame": 5146
+      },
+      {
+        "text": "bucket",
+        "startFrame": 5144,
+        "endFrame": 5156
+      },
+      {
+        "text": "list",
+        "startFrame": 5154,
+        "endFrame": 5167
+      },
+      {
+        "text": "for",
+        "startFrame": 5164,
+        "endFrame": 5168
+      },
+      {
+        "text": "the",
+        "startFrame": 5170,
+        "endFrame": 5178
+      },
+      {
+        "text": "match",
+        "startFrame": 5183,
+        "endFrame": 5188
+      }
+    ]
+  },
+  {
+    "text": "apple and elderberry two different words both hash to",
+    "startFrame": 5218,
+    "endFrame": 5308,
+    "words": [
+      {
+        "text": "apple",
+        "startFrame": 5218,
+        "endFrame": 5230
+      },
+      {
+        "text": "and",
+        "startFrame": 5227,
+        "endFrame": 5230
+      },
+      {
+        "text": "elderberry",
+        "startFrame": 5236,
+        "endFrame": 5246
+      },
+      {
+        "text": "two",
+        "startFrame": 5260,
+        "endFrame": 5267
+      },
+      {
+        "text": "different",
+        "startFrame": 5267,
+        "endFrame": 5292
+      },
+      {
+        "text": "words",
+        "startFrame": 5277,
+        "endFrame": 5290
+      },
+      {
+        "text": "both",
+        "startFrame": 5294,
+        "endFrame": 5298
+      },
+      {
+        "text": "hash",
+        "startFrame": 5300,
+        "endFrame": 5313
+      },
+      {
+        "text": "to",
+        "startFrame": 5305,
+        "endFrame": 5308
+      }
+    ]
+  },
+  {
+    "text": "index too",
+    "startFrame": 5311,
+    "endFrame": 5331,
+    "words": [
+      {
+        "text": "index",
+        "startFrame": 5311,
+        "endFrame": 5324
+      },
+      {
+        "text": "too",
+        "startFrame": 5319,
+        "endFrame": 5325
+      }
+    ]
+  },
+  {
+    "text": "that 's the real collision happening right",
+    "startFrame": 5350,
+    "endFrame": 5400,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 5350,
+        "endFrame": 5353
+      },
+      {
+        "text": "'s",
+        "startFrame": 5352,
+        "endFrame": 5360
+      },
+      {
+        "text": "the",
+        "startFrame": 5356,
+        "endFrame": 5360
+      },
+      {
+        "text": "real",
+        "startFrame": 5360,
+        "endFrame": 5373
+      },
+      {
+        "text": "collision",
+        "startFrame": 5372,
+        "endFrame": 5384
+      },
+      {
+        "text": "happening",
+        "startFrame": 5390,
+        "endFrame": 5424
+      },
+      {
+        "text": "right",
+        "startFrame": 5396,
+        "endFrame": 5400
+      }
+    ]
+  },
+  {
+    "text": "there and get still works it hashes to slot",
+    "startFrame": 5428,
+    "endFrame": 5518,
+    "words": [
+      {
+        "text": "there",
+        "startFrame": 5428,
+        "endFrame": 5440
+      },
+      {
+        "text": "and",
+        "startFrame": 5442,
+        "endFrame": 5446
+      },
+      {
+        "text": "get",
+        "startFrame": 5446,
+        "endFrame": 5456
+      },
+      {
+        "text": "still",
+        "startFrame": 5453,
+        "endFrame": 5462
+      },
+      {
+        "text": "works",
+        "startFrame": 5464,
+        "endFrame": 5480
+      },
+      {
+        "text": "it",
+        "startFrame": 5483,
+        "endFrame": 5487
+      },
+      {
+        "text": "hashes",
+        "startFrame": 5488,
+        "endFrame": 5502
+      },
+      {
+        "text": "to",
+        "startFrame": 5498,
+        "endFrame": 5506
+      },
+      {
+        "text": "slot",
+        "startFrame": 5508,
+        "endFrame": 5518
+      }
+    ]
+  },
+  {
+    "text": "2 finds two entire settings there and picks",
+    "startFrame": 5519,
+    "endFrame": 5634,
+    "words": [
+      {
+        "text": "2",
+        "startFrame": 5519,
+        "endFrame": 5523
+      },
+      {
+        "text": "finds",
+        "startFrame": 5543,
+        "endFrame": 5547
+      },
+      {
+        "text": "two",
+        "startFrame": 5553,
+        "endFrame": 5557
+      },
+      {
+        "text": "entire",
+        "startFrame": 5567,
+        "endFrame": 5582
+      },
+      {
+        "text": "settings",
+        "startFrame": 5576,
+        "endFrame": 5598
+      },
+      {
+        "text": "there",
+        "startFrame": 5588,
+        "endFrame": 5612
+      },
+      {
+        "text": "and",
+        "startFrame": 5605,
+        "endFrame": 5609
+      },
+      {
+        "text": "picks",
+        "startFrame": 5617,
+        "endFrame": 5634
+      }
+    ]
+  },
+  {
+    "text": "out that one that matches",
+    "startFrame": 5629,
+    "endFrame": 5667,
+    "words": [
+      {
+        "text": "out",
+        "startFrame": 5629,
+        "endFrame": 5644
+      },
+      {
+        "text": "that",
+        "startFrame": 5643,
+        "endFrame": 5651
+      },
+      {
+        "text": "one",
+        "startFrame": 5648,
+        "endFrame": 5658
+      },
+      {
+        "text": "that",
+        "startFrame": 5654,
+        "endFrame": 5691
+      },
+      {
+        "text": "matches",
+        "startFrame": 5663,
+        "endFrame": 5667
+      }
+    ]
+  },
+  {
+    "text": "that 's how the collision get handled",
+    "startFrame": 5698,
+    "endFrame": 5760,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 5698,
+        "endFrame": 5709
+      },
+      {
+        "text": "'s",
+        "startFrame": 5699,
+        "endFrame": 5706
+      },
+      {
+        "text": "how",
+        "startFrame": 5704,
+        "endFrame": 5720
+      },
+      {
+        "text": "the",
+        "startFrame": 5708,
+        "endFrame": 5711
+      },
+      {
+        "text": "collision",
+        "startFrame": 5719,
+        "endFrame": 5734
+      },
+      {
+        "text": "get",
+        "startFrame": 5741,
+        "endFrame": 5789
+      },
+      {
+        "text": "handled",
+        "startFrame": 5756,
+        "endFrame": 5760
+      }
+    ]
+  },
+  {
+    "text": "one more piece and it matters just as much",
+    "startFrame": 5804,
+    "endFrame": 5878,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 5804,
+        "endFrame": 5807
+      },
+      {
+        "text": "more",
+        "startFrame": 5810,
+        "endFrame": 5819
+      },
+      {
+        "text": "piece",
+        "startFrame": 5820,
+        "endFrame": 5834
+      },
+      {
+        "text": "and",
+        "startFrame": 5830,
+        "endFrame": 5837
+      },
+      {
+        "text": "it",
+        "startFrame": 5834,
+        "endFrame": 5838
+      },
+      {
+        "text": "matters",
+        "startFrame": 5845,
+        "endFrame": 5859
+      },
+      {
+        "text": "just",
+        "startFrame": 5855,
+        "endFrame": 5864
+      },
+      {
+        "text": "as",
+        "startFrame": 5862,
+        "endFrame": 5866
+      },
+      {
+        "text": "much",
+        "startFrame": 5870,
+        "endFrame": 5878
+      }
+    ]
+  },
+  {
+    "text": "if you keep adding keys to a table that",
+    "startFrame": 5895,
+    "endFrame": 5954,
+    "words": [
+      {
+        "text": "if",
+        "startFrame": 5895,
+        "endFrame": 5899
+      },
+      {
+        "text": "you",
+        "startFrame": 5899,
+        "endFrame": 5909
+      },
+      {
+        "text": "keep",
+        "startFrame": 5907,
+        "endFrame": 5912
+      },
+      {
+        "text": "adding",
+        "startFrame": 5916,
+        "endFrame": 5929
+      },
+      {
+        "text": "keys",
+        "startFrame": 5924,
+        "endFrame": 5934
+      },
+      {
+        "text": "to",
+        "startFrame": 5930,
+        "endFrame": 5933
+      },
+      {
+        "text": "a",
+        "startFrame": 5935,
+        "endFrame": 5940
+      },
+      {
+        "text": "table",
+        "startFrame": 5941,
+        "endFrame": 5948
+      },
+      {
+        "text": "that",
+        "startFrame": 5946,
+        "endFrame": 5954
+      }
+    ]
+  },
+  {
+    "text": "never grows every bucket eventually turns into a long",
+    "startFrame": 5952,
+    "endFrame": 6035,
+    "words": [
+      {
+        "text": "never",
+        "startFrame": 5952,
+        "endFrame": 5965
+      },
+      {
+        "text": "grows",
+        "startFrame": 5962,
+        "endFrame": 5977
+      },
+      {
+        "text": "every",
+        "startFrame": 5981,
+        "endFrame": 5989
+      },
+      {
+        "text": "bucket",
+        "startFrame": 5990,
+        "endFrame": 6003
+      },
+      {
+        "text": "eventually",
+        "startFrame": 6001,
+        "endFrame": 6022
+      },
+      {
+        "text": "turns",
+        "startFrame": 6012,
+        "endFrame": 6022
+      },
+      {
+        "text": "into",
+        "startFrame": 6021,
+        "endFrame": 6029
+      },
+      {
+        "text": "a",
+        "startFrame": 6026,
+        "endFrame": 6029
+      },
+      {
+        "text": "long",
+        "startFrame": 6029,
+        "endFrame": 6035
+      }
+    ]
+  },
+  {
+    "text": "list and once bucket get too long you are",
+    "startFrame": 6040,
+    "endFrame": 6122,
+    "words": [
+      {
+        "text": "list",
+        "startFrame": 6040,
+        "endFrame": 6055
+      },
+      {
+        "text": "and",
+        "startFrame": 6064,
+        "endFrame": 6068
+      },
+      {
+        "text": "once",
+        "startFrame": 6072,
+        "endFrame": 6082
+      },
+      {
+        "text": "bucket",
+        "startFrame": 6080,
+        "endFrame": 6091
+      },
+      {
+        "text": "get",
+        "startFrame": 6086,
+        "endFrame": 6092
+      },
+      {
+        "text": "too",
+        "startFrame": 6094,
+        "endFrame": 6100
+      },
+      {
+        "text": "long",
+        "startFrame": 6101,
+        "endFrame": 6115
+      },
+      {
+        "text": "you",
+        "startFrame": 6113,
+        "endFrame": 6119
+      },
+      {
+        "text": "are",
+        "startFrame": 6116,
+        "endFrame": 6122
+      }
+    ]
+  },
+  {
+    "text": "basically back to scanning through a list one by",
+    "startFrame": 6126,
+    "endFrame": 6184,
+    "words": [
+      {
+        "text": "basically",
+        "startFrame": 6126,
+        "endFrame": 6142
+      },
+      {
+        "text": "back",
+        "startFrame": 6136,
+        "endFrame": 6143
+      },
+      {
+        "text": "to",
+        "startFrame": 6140,
+        "endFrame": 6143
+      },
+      {
+        "text": "scanning",
+        "startFrame": 6148,
+        "endFrame": 6163
+      },
+      {
+        "text": "through",
+        "startFrame": 6157,
+        "endFrame": 6169
+      },
+      {
+        "text": "a",
+        "startFrame": 6163,
+        "endFrame": 6167
+      },
+      {
+        "text": "list",
+        "startFrame": 6168,
+        "endFrame": 6175
+      },
+      {
+        "text": "one",
+        "startFrame": 6176,
+        "endFrame": 6185
+      },
+      {
+        "text": "by",
+        "startFrame": 6180,
+        "endFrame": 6184
+      }
+    ]
+  },
+  {
+    "text": "one that 's defeat the whole point of a",
+    "startFrame": 6202,
+    "endFrame": 6263,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 6202,
+        "endFrame": 6208
+      },
+      {
+        "text": "that",
+        "startFrame": 6218,
+        "endFrame": 6221
+      },
+      {
+        "text": "'s",
+        "startFrame": 6221,
+        "endFrame": 6224
+      },
+      {
+        "text": "defeat",
+        "startFrame": 6229,
+        "endFrame": 6242
+      },
+      {
+        "text": "the",
+        "startFrame": 6237,
+        "endFrame": 6242
+      },
+      {
+        "text": "whole",
+        "startFrame": 6243,
+        "endFrame": 6251
+      },
+      {
+        "text": "point",
+        "startFrame": 6251,
+        "endFrame": 6262
+      },
+      {
+        "text": "of",
+        "startFrame": 6256,
+        "endFrame": 6260
+      },
+      {
+        "text": "a",
+        "startFrame": 6259,
+        "endFrame": 6263
+      }
+    ]
+  },
+  {
+    "text": "hash table",
+    "startFrame": 6263,
+    "endFrame": 6283,
+    "words": [
+      {
+        "text": "hash",
+        "startFrame": 6263,
+        "endFrame": 6272
+      },
+      {
+        "text": "table",
+        "startFrame": 6271,
+        "endFrame": 6278
+      }
+    ]
+  },
+  {
+    "text": "so hash table tracks something called a load factor",
+    "startFrame": 6298,
+    "endFrame": 6377,
+    "words": [
+      {
+        "text": "so",
+        "startFrame": 6298,
+        "endFrame": 6310
+      },
+      {
+        "text": "hash",
+        "startFrame": 6307,
+        "endFrame": 6310
+      },
+      {
+        "text": "table",
+        "startFrame": 6313,
+        "endFrame": 6322
+      },
+      {
+        "text": "tracks",
+        "startFrame": 6323,
+        "endFrame": 6336
+      },
+      {
+        "text": "something",
+        "startFrame": 6333,
+        "endFrame": 6352
+      },
+      {
+        "text": "called",
+        "startFrame": 6342,
+        "endFrame": 6355
+      },
+      {
+        "text": "a",
+        "startFrame": 6348,
+        "endFrame": 6352
+      },
+      {
+        "text": "load",
+        "startFrame": 6353,
+        "endFrame": 6363
+      },
+      {
+        "text": "factor",
+        "startFrame": 6365,
+        "endFrame": 6377
+      }
+    ]
+  },
+  {
+    "text": "that 's just how full the table is size",
+    "startFrame": 6394,
+    "endFrame": 6464,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 6394,
+        "endFrame": 6402
+      },
+      {
+        "text": "'s",
+        "startFrame": 6397,
+        "endFrame": 6400
+      },
+      {
+        "text": "just",
+        "startFrame": 6403,
+        "endFrame": 6415
+      },
+      {
+        "text": "how",
+        "startFrame": 6410,
+        "endFrame": 6417
+      },
+      {
+        "text": "full",
+        "startFrame": 6418,
+        "endFrame": 6428
+      },
+      {
+        "text": "the",
+        "startFrame": 6424,
+        "endFrame": 6430
+      },
+      {
+        "text": "table",
+        "startFrame": 6428,
+        "endFrame": 6445
+      },
+      {
+        "text": "is",
+        "startFrame": 6443,
+        "endFrame": 6448
+      },
+      {
+        "text": "size",
+        "startFrame": 6458,
+        "endFrame": 6464
+      }
+    ]
+  },
+  {
+    "text": "divided by capacity once that crosses a threshold",
+    "startFrame": 6467,
+    "endFrame": 6578,
+    "words": [
+      {
+        "text": "divided",
+        "startFrame": 6467,
+        "endFrame": 6483
+      },
+      {
+        "text": "by",
+        "startFrame": 6473,
+        "endFrame": 6478
+      },
+      {
+        "text": "capacity",
+        "startFrame": 6486,
+        "endFrame": 6505
+      },
+      {
+        "text": "once",
+        "startFrame": 6522,
+        "endFrame": 6538
+      },
+      {
+        "text": "that",
+        "startFrame": 6527,
+        "endFrame": 6531
+      },
+      {
+        "text": "crosses",
+        "startFrame": 6535,
+        "endFrame": 6551
+      },
+      {
+        "text": "a",
+        "startFrame": 6541,
+        "endFrame": 6544
+      },
+      {
+        "text": "threshold",
+        "startFrame": 6557,
+        "endFrame": 6578
+      }
+    ]
+  },
+  {
+    "text": "usually around 20 % the table res izes itself",
+    "startFrame": 6577,
+    "endFrame": 6667,
+    "words": [
+      {
+        "text": "usually",
+        "startFrame": 6577,
+        "endFrame": 6586
+      },
+      {
+        "text": "around",
+        "startFrame": 6586,
+        "endFrame": 6603
+      },
+      {
+        "text": "20",
+        "startFrame": 6604,
+        "endFrame": 6616
+      },
+      {
+        "text": "%",
+        "startFrame": 6612,
+        "endFrame": 6616
+      },
+      {
+        "text": "the",
+        "startFrame": 6621,
+        "endFrame": 6627
+      },
+      {
+        "text": "table",
+        "startFrame": 6630,
+        "endFrame": 6640
+      },
+      {
+        "text": "res",
+        "startFrame": 6637,
+        "endFrame": 6644
+      },
+      {
+        "text": "izes",
+        "startFrame": 6640,
+        "endFrame": 6649
+      },
+      {
+        "text": "itself",
+        "startFrame": 6657,
+        "endFrame": 6667
+      }
+    ]
+  },
+  {
+    "text": "it doubles its capacity and re-h ashes",
+    "startFrame": 6685,
+    "endFrame": 6748,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 6685,
+        "endFrame": 6704
+      },
+      {
+        "text": "doubles",
+        "startFrame": 6692,
+        "endFrame": 6696
+      },
+      {
+        "text": "its",
+        "startFrame": 6700,
+        "endFrame": 6705
+      },
+      {
+        "text": "capacity",
+        "startFrame": 6715,
+        "endFrame": 6733
+      },
+      {
+        "text": "and",
+        "startFrame": 6728,
+        "endFrame": 6736
+      },
+      {
+        "text": "re-h",
+        "startFrame": 6735,
+        "endFrame": 6740
+      },
+      {
+        "text": "ashes",
+        "startFrame": 6737,
+        "endFrame": 6748
+      }
+    ]
+  },
+  {
+    "text": "everything into the new bigger hash table",
+    "startFrame": 6753,
+    "endFrame": 6810,
+    "words": [
+      {
+        "text": "everything",
+        "startFrame": 6753,
+        "endFrame": 6774
+      },
+      {
+        "text": "into",
+        "startFrame": 6764,
+        "endFrame": 6775
+      },
+      {
+        "text": "the",
+        "startFrame": 6769,
+        "endFrame": 6776
+      },
+      {
+        "text": "new",
+        "startFrame": 6775,
+        "endFrame": 6783
+      },
+      {
+        "text": "bigger",
+        "startFrame": 6782,
+        "endFrame": 6798
+      },
+      {
+        "text": "hash",
+        "startFrame": 6787,
+        "endFrame": 6798
+      },
+      {
+        "text": "table",
+        "startFrame": 6796,
+        "endFrame": 6810
+      }
+    ]
+  },
+  {
+    "text": "so we double the capacity clear the buckets and",
+    "startFrame": 6862,
+    "endFrame": 6935,
+    "words": [
+      {
+        "text": "so",
+        "startFrame": 6862,
+        "endFrame": 6868
+      },
+      {
+        "text": "we",
+        "startFrame": 6866,
+        "endFrame": 6872
+      },
+      {
+        "text": "double",
+        "startFrame": 6872,
+        "endFrame": 6888
+      },
+      {
+        "text": "the",
+        "startFrame": 6877,
+        "endFrame": 6891
+      },
+      {
+        "text": "capacity",
+        "startFrame": 6889,
+        "endFrame": 6905
+      },
+      {
+        "text": "clear",
+        "startFrame": 6907,
+        "endFrame": 6928
+      },
+      {
+        "text": "the",
+        "startFrame": 6913,
+        "endFrame": 6916
+      },
+      {
+        "text": "buckets",
+        "startFrame": 6921,
+        "endFrame": 6945
+      },
+      {
+        "text": "and",
+        "startFrame": 6932,
+        "endFrame": 6935
+      }
+    ]
+  },
+  {
+    "text": "re insert every key we had before we have",
+    "startFrame": 6937,
+    "endFrame": 7030,
+    "words": [
+      {
+        "text": "re",
+        "startFrame": 6937,
+        "endFrame": 6941
+      },
+      {
+        "text": "insert",
+        "startFrame": 6943,
+        "endFrame": 6955
+      },
+      {
+        "text": "every",
+        "startFrame": 6954,
+        "endFrame": 6964
+      },
+      {
+        "text": "key",
+        "startFrame": 6961,
+        "endFrame": 6967
+      },
+      {
+        "text": "we",
+        "startFrame": 6967,
+        "endFrame": 6971
+      },
+      {
+        "text": "had",
+        "startFrame": 6970,
+        "endFrame": 6977
+      },
+      {
+        "text": "before",
+        "startFrame": 6981,
+        "endFrame": 6995
+      },
+      {
+        "text": "we",
+        "startFrame": 7012,
+        "endFrame": 7016
+      },
+      {
+        "text": "have",
+        "startFrame": 7017,
+        "endFrame": 7030
+      }
+    ]
+  },
+  {
+    "text": "to actually re insert not just copy the old",
+    "startFrame": 7022,
+    "endFrame": 7096,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 7022,
+        "endFrame": 7025
+      },
+      {
+        "text": "actually",
+        "startFrame": 7030,
+        "endFrame": 7048
+      },
+      {
+        "text": "re",
+        "startFrame": 7036,
+        "endFrame": 7041
+      },
+      {
+        "text": "insert",
+        "startFrame": 7043,
+        "endFrame": 7060
+      },
+      {
+        "text": "not",
+        "startFrame": 7054,
+        "endFrame": 7059
+      },
+      {
+        "text": "just",
+        "startFrame": 7062,
+        "endFrame": 7072
+      },
+      {
+        "text": "copy",
+        "startFrame": 7073,
+        "endFrame": 7082
+      },
+      {
+        "text": "the",
+        "startFrame": 7087,
+        "endFrame": 7097
+      },
+      {
+        "text": "old",
+        "startFrame": 7092,
+        "endFrame": 7096
+      }
+    ]
+  },
+  {
+    "text": "bucket over that 's because the capacity changed and",
+    "startFrame": 7098,
+    "endFrame": 7194,
+    "words": [
+      {
+        "text": "bucket",
+        "startFrame": 7098,
+        "endFrame": 7112
+      },
+      {
+        "text": "over",
+        "startFrame": 7109,
+        "endFrame": 7123
+      },
+      {
+        "text": "that",
+        "startFrame": 7139,
+        "endFrame": 7149
+      },
+      {
+        "text": "'s",
+        "startFrame": 7141,
+        "endFrame": 7151
+      },
+      {
+        "text": "because",
+        "startFrame": 7149,
+        "endFrame": 7162
+      },
+      {
+        "text": "the",
+        "startFrame": 7155,
+        "endFrame": 7162
+      },
+      {
+        "text": "capacity",
+        "startFrame": 7165,
+        "endFrame": 7181
+      },
+      {
+        "text": "changed",
+        "startFrame": 7178,
+        "endFrame": 7191
+      },
+      {
+        "text": "and",
+        "startFrame": 7185,
+        "endFrame": 7194
+      }
+    ]
+  },
+  {
+    "text": "our hash function uses capacity in that final mod",
+    "startFrame": 7192,
+    "endFrame": 7266,
+    "words": [
+      {
+        "text": "our",
+        "startFrame": 7192,
+        "endFrame": 7196
+      },
+      {
+        "text": "hash",
+        "startFrame": 7199,
+        "endFrame": 7209
+      },
+      {
+        "text": "function",
+        "startFrame": 7208,
+        "endFrame": 7222
+      },
+      {
+        "text": "uses",
+        "startFrame": 7216,
+        "endFrame": 7224
+      },
+      {
+        "text": "capacity",
+        "startFrame": 7231,
+        "endFrame": 7247
+      },
+      {
+        "text": "in",
+        "startFrame": 7237,
+        "endFrame": 7241
+      },
+      {
+        "text": "that",
+        "startFrame": 7242,
+        "endFrame": 7251
+      },
+      {
+        "text": "final",
+        "startFrame": 7249,
+        "endFrame": 7253
+      },
+      {
+        "text": "mod",
+        "startFrame": 7255,
+        "endFrame": 7266
+      }
+    ]
+  },
+  {
+    "text": "step",
+    "startFrame": 7264,
+    "endFrame": 7284,
+    "words": [
+      {
+        "text": "step",
+        "startFrame": 7264,
+        "endFrame": 7271
+      }
+    ]
+  },
+  {
+    "text": "same key different capacity means a different index now",
+    "startFrame": 7297,
+    "endFrame": 7382,
+    "words": [
+      {
+        "text": "same",
+        "startFrame": 7297,
+        "endFrame": 7301
+      },
+      {
+        "text": "key",
+        "startFrame": 7305,
+        "endFrame": 7311
+      },
+      {
+        "text": "different",
+        "startFrame": 7318,
+        "endFrame": 7337
+      },
+      {
+        "text": "capacity",
+        "startFrame": 7331,
+        "endFrame": 7351
+      },
+      {
+        "text": "means",
+        "startFrame": 7345,
+        "endFrame": 7352
+      },
+      {
+        "text": "a",
+        "startFrame": 7349,
+        "endFrame": 7353
+      },
+      {
+        "text": "different",
+        "startFrame": 7356,
+        "endFrame": 7375
+      },
+      {
+        "text": "index",
+        "startFrame": 7365,
+        "endFrame": 7375
+      },
+      {
+        "text": "now",
+        "startFrame": 7376,
+        "endFrame": 7382
+      }
+    ]
+  },
+  {
+    "text": "so everything gets resh uff led into its new",
+    "startFrame": 7402,
+    "endFrame": 7470,
+    "words": [
+      {
+        "text": "so",
+        "startFrame": 7402,
+        "endFrame": 7414
+      },
+      {
+        "text": "everything",
+        "startFrame": 7410,
+        "endFrame": 7421
+      },
+      {
+        "text": "gets",
+        "startFrame": 7417,
+        "endFrame": 7425
+      },
+      {
+        "text": "resh",
+        "startFrame": 7427,
+        "endFrame": 7435
+      },
+      {
+        "text": "uff",
+        "startFrame": 7429,
+        "endFrame": 7435
+      },
+      {
+        "text": "led",
+        "startFrame": 7436,
+        "endFrame": 7444
+      },
+      {
+        "text": "into",
+        "startFrame": 7450,
+        "endFrame": 7456
+      },
+      {
+        "text": "its",
+        "startFrame": 7456,
+        "endFrame": 7464
+      },
+      {
+        "text": "new",
+        "startFrame": 7465,
+        "endFrame": 7470
+      }
+    ]
+  },
+  {
+    "text": "correct slot",
+    "startFrame": 7474,
+    "endFrame": 7494,
+    "words": [
+      {
+        "text": "correct",
+        "startFrame": 7474,
+        "endFrame": 7493
+      },
+      {
+        "text": "slot",
+        "startFrame": 7484,
+        "endFrame": 7490
+      }
+    ]
+  },
+  {
+    "text": "and this one checked at the end of insert",
+    "startFrame": 7516,
+    "endFrame": 7593,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 7516,
+        "endFrame": 7530
+      },
+      {
+        "text": "this",
+        "startFrame": 7522,
+        "endFrame": 7525
+      },
+      {
+        "text": "one",
+        "startFrame": 7528,
+        "endFrame": 7537
+      },
+      {
+        "text": "checked",
+        "startFrame": 7537,
+        "endFrame": 7554
+      },
+      {
+        "text": "at",
+        "startFrame": 7546,
+        "endFrame": 7550
+      },
+      {
+        "text": "the",
+        "startFrame": 7551,
+        "endFrame": 7558
+      },
+      {
+        "text": "end",
+        "startFrame": 7556,
+        "endFrame": 7564
+      },
+      {
+        "text": "of",
+        "startFrame": 7562,
+        "endFrame": 7567
+      },
+      {
+        "text": "insert",
+        "startFrame": 7573,
+        "endFrame": 7593
+      }
+    ]
+  },
+  {
+    "text": "now it grows itself automatically whenever it gets too",
+    "startFrame": 7589,
+    "endFrame": 7679,
+    "words": [
+      {
+        "text": "now",
+        "startFrame": 7589,
+        "endFrame": 7597
+      },
+      {
+        "text": "it",
+        "startFrame": 7594,
+        "endFrame": 7597
+      },
+      {
+        "text": "grows",
+        "startFrame": 7601,
+        "endFrame": 7620
+      },
+      {
+        "text": "itself",
+        "startFrame": 7626,
+        "endFrame": 7630
+      },
+      {
+        "text": "automatically",
+        "startFrame": 7640,
+        "endFrame": 7664
+      },
+      {
+        "text": "whenever",
+        "startFrame": 7652,
+        "endFrame": 7670
+      },
+      {
+        "text": "it",
+        "startFrame": 7661,
+        "endFrame": 7665
+      },
+      {
+        "text": "gets",
+        "startFrame": 7668,
+        "endFrame": 7675
+      },
+      {
+        "text": "too",
+        "startFrame": 7674,
+        "endFrame": 7679
+      }
+    ]
+  },
+  {
+    "text": "full",
+    "startFrame": 7684,
+    "endFrame": 7704,
+    "words": [
+      {
+        "text": "full",
+        "startFrame": 7684,
+        "endFrame": 7692
+      }
+    ]
+  },
+  {
+    "text": "let 's start a fresh table small capacity of",
+    "startFrame": 7718,
+    "endFrame": 7794,
+    "words": [
+      {
+        "text": "let",
+        "startFrame": 7718,
+        "endFrame": 7726
+      },
+      {
+        "text": "'s",
+        "startFrame": 7721,
+        "endFrame": 7733
+      },
+      {
+        "text": "start",
+        "startFrame": 7727,
+        "endFrame": 7734
+      },
+      {
+        "text": "a",
+        "startFrame": 7733,
+        "endFrame": 7736
+      },
+      {
+        "text": "fresh",
+        "startFrame": 7738,
+        "endFrame": 7750
+      },
+      {
+        "text": "table",
+        "startFrame": 7749,
+        "endFrame": 7761
+      },
+      {
+        "text": "small",
+        "startFrame": 7773,
+        "endFrame": 7777
+      },
+      {
+        "text": "capacity",
+        "startFrame": 7784,
+        "endFrame": 7802
+      },
+      {
+        "text": "of",
+        "startFrame": 7790,
+        "endFrame": 7794
+      }
+    ]
+  },
+  {
+    "text": "4 we 'll insert 3 keys one at a",
+    "startFrame": 7797,
+    "endFrame": 7865,
+    "words": [
+      {
+        "text": "4",
+        "startFrame": 7797,
+        "endFrame": 7808
+      },
+      {
+        "text": "we",
+        "startFrame": 7817,
+        "endFrame": 7820
+      },
+      {
+        "text": "'ll",
+        "startFrame": 7819,
+        "endFrame": 7830
+      },
+      {
+        "text": "insert",
+        "startFrame": 7826,
+        "endFrame": 7839
+      },
+      {
+        "text": "3",
+        "startFrame": 7834,
+        "endFrame": 7841
+      },
+      {
+        "text": "keys",
+        "startFrame": 7842,
+        "endFrame": 7849
+      },
+      {
+        "text": "one",
+        "startFrame": 7849,
+        "endFrame": 7855
+      },
+      {
+        "text": "at",
+        "startFrame": 7853,
+        "endFrame": 7857
+      },
+      {
+        "text": "a",
+        "startFrame": 7855,
+        "endFrame": 7865
+      }
+    ]
+  },
+  {
+    "text": "time and print the state after each one watch",
+    "startFrame": 7865,
+    "endFrame": 7956,
+    "words": [
+      {
+        "text": "time",
+        "startFrame": 7865,
+        "endFrame": 7869
+      },
+      {
+        "text": "and",
+        "startFrame": 7882,
+        "endFrame": 7888
+      },
+      {
+        "text": "print",
+        "startFrame": 7888,
+        "endFrame": 7900
+      },
+      {
+        "text": "the",
+        "startFrame": 7893,
+        "endFrame": 7898
+      },
+      {
+        "text": "state",
+        "startFrame": 7900,
+        "endFrame": 7910
+      },
+      {
+        "text": "after",
+        "startFrame": 7907,
+        "endFrame": 7917
+      },
+      {
+        "text": "each",
+        "startFrame": 7914,
+        "endFrame": 7922
+      },
+      {
+        "text": "one",
+        "startFrame": 7934,
+        "endFrame": 7941
+      },
+      {
+        "text": "watch",
+        "startFrame": 7952,
+        "endFrame": 7956
+      }
+    ]
+  },
+  {
+    "text": "the capacity column after a and b we are",
+    "startFrame": 7958,
+    "endFrame": 8035,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 7958,
+        "endFrame": 7965
+      },
+      {
+        "text": "capacity",
+        "startFrame": 7969,
+        "endFrame": 7985
+      },
+      {
+        "text": "column",
+        "startFrame": 7979,
+        "endFrame": 7996
+      },
+      {
+        "text": "after",
+        "startFrame": 8001,
+        "endFrame": 8015
+      },
+      {
+        "text": "a",
+        "startFrame": 8009,
+        "endFrame": 8012
+      },
+      {
+        "text": "and",
+        "startFrame": 8013,
+        "endFrame": 8020
+      },
+      {
+        "text": "b",
+        "startFrame": 8020,
+        "endFrame": 8023
+      },
+      {
+        "text": "we",
+        "startFrame": 8025,
+        "endFrame": 8030
+      },
+      {
+        "text": "are",
+        "startFrame": 8028,
+        "endFrame": 8035
+      }
+    ]
+  },
+  {
+    "text": "still at capacity 4 but once we insert c",
+    "startFrame": 8034,
+    "endFrame": 8111,
+    "words": [
+      {
+        "text": "still",
+        "startFrame": 8034,
+        "endFrame": 8047
+      },
+      {
+        "text": "at",
+        "startFrame": 8040,
+        "endFrame": 8044
+      },
+      {
+        "text": "capacity",
+        "startFrame": 8048,
+        "endFrame": 8075
+      },
+      {
+        "text": "4",
+        "startFrame": 8058,
+        "endFrame": 8062
+      },
+      {
+        "text": "but",
+        "startFrame": 8077,
+        "endFrame": 8083
+      },
+      {
+        "text": "once",
+        "startFrame": 8085,
+        "endFrame": 8095
+      },
+      {
+        "text": "we",
+        "startFrame": 8090,
+        "endFrame": 8095
+      },
+      {
+        "text": "insert",
+        "startFrame": 8098,
+        "endFrame": 8115
+      },
+      {
+        "text": "c",
+        "startFrame": 8108,
+        "endFrame": 8111
+      }
+    ]
+  },
+  {
+    "text": "size hits 3 load factor crosses that 70 %",
+    "startFrame": 8123,
+    "endFrame": 8219,
+    "words": [
+      {
+        "text": "size",
+        "startFrame": 8123,
+        "endFrame": 8132
+      },
+      {
+        "text": "hits",
+        "startFrame": 8131,
+        "endFrame": 8140
+      },
+      {
+        "text": "3",
+        "startFrame": 8142,
+        "endFrame": 8154
+      },
+      {
+        "text": "load",
+        "startFrame": 8172,
+        "endFrame": 8176
+      },
+      {
+        "text": "factor",
+        "startFrame": 8180,
+        "endFrame": 8194
+      },
+      {
+        "text": "crosses",
+        "startFrame": 8188,
+        "endFrame": 8207
+      },
+      {
+        "text": "that",
+        "startFrame": 8194,
+        "endFrame": 8200
+      },
+      {
+        "text": "70",
+        "startFrame": 8204,
+        "endFrame": 8218
+      },
+      {
+        "text": "%",
+        "startFrame": 8215,
+        "endFrame": 8219
+      }
+    ]
+  },
+  {
+    "text": "line and capacity jumps to it automatically right",
+    "startFrame": 8225,
+    "endFrame": 8342,
+    "words": [
+      {
+        "text": "line",
+        "startFrame": 8225,
+        "endFrame": 8234
+      },
+      {
+        "text": "and",
+        "startFrame": 8239,
+        "endFrame": 8248
+      },
+      {
+        "text": "capacity",
+        "startFrame": 8250,
+        "endFrame": 8265
+      },
+      {
+        "text": "jumps",
+        "startFrame": 8258,
+        "endFrame": 8269
+      },
+      {
+        "text": "to",
+        "startFrame": 8264,
+        "endFrame": 8268
+      },
+      {
+        "text": "it",
+        "startFrame": 8272,
+        "endFrame": 8277
+      },
+      {
+        "text": "automatically",
+        "startFrame": 8295,
+        "endFrame": 8317
+      },
+      {
+        "text": "right",
+        "startFrame": 8327,
+        "endFrame": 8342
+      }
+    ]
+  },
+  {
+    "text": "in the middle of that insert call",
+    "startFrame": 8333,
+    "endFrame": 8381,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 8333,
+        "endFrame": 8336
+      },
+      {
+        "text": "the",
+        "startFrame": 8337,
+        "endFrame": 8343
+      },
+      {
+        "text": "middle",
+        "startFrame": 8342,
+        "endFrame": 8354
+      },
+      {
+        "text": "of",
+        "startFrame": 8347,
+        "endFrame": 8355
+      },
+      {
+        "text": "that",
+        "startFrame": 8354,
+        "endFrame": 8360
+      },
+      {
+        "text": "insert",
+        "startFrame": 8361,
+        "endFrame": 8372
+      },
+      {
+        "text": "call",
+        "startFrame": 8370,
+        "endFrame": 8381
+      }
+    ]
+  },
+  {
+    "text": "that 's the resize happening exactly when the load",
+    "startFrame": 8401,
+    "endFrame": 8464,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 8401,
+        "endFrame": 8408
+      },
+      {
+        "text": "'s",
+        "startFrame": 8403,
+        "endFrame": 8412
+      },
+      {
+        "text": "the",
+        "startFrame": 8407,
+        "endFrame": 8410
+      },
+      {
+        "text": "resize",
+        "startFrame": 8414,
+        "endFrame": 8421
+      },
+      {
+        "text": "happening",
+        "startFrame": 8424,
+        "endFrame": 8442
+      },
+      {
+        "text": "exactly",
+        "startFrame": 8436,
+        "endFrame": 8449
+      },
+      {
+        "text": "when",
+        "startFrame": 8444,
+        "endFrame": 8451
+      },
+      {
+        "text": "the",
+        "startFrame": 8450,
+        "endFrame": 8457
+      },
+      {
+        "text": "load",
+        "startFrame": 8455,
+        "endFrame": 8464
+      }
+    ]
+  },
+  {
+    "text": "factor crosses the threshold",
+    "startFrame": 8462,
+    "endFrame": 8492,
+    "words": [
+      {
+        "text": "factor",
+        "startFrame": 8462,
+        "endFrame": 8476
+      },
+      {
+        "text": "crosses",
+        "startFrame": 8470,
+        "endFrame": 8486
+      },
+      {
+        "text": "the",
+        "startFrame": 8477,
+        "endFrame": 8506
+      },
+      {
+        "text": "threshold",
+        "startFrame": 8489,
+        "endFrame": 8492
+      }
+    ]
+  },
+  {
+    "text": "so that 's what inside every dictionary we have",
+    "startFrame": 8518,
+    "endFrame": 8591,
+    "words": [
+      {
+        "text": "so",
+        "startFrame": 8518,
+        "endFrame": 8522
+      },
+      {
+        "text": "that",
+        "startFrame": 8523,
+        "endFrame": 8530
+      },
+      {
+        "text": "'s",
+        "startFrame": 8525,
+        "endFrame": 8536
+      },
+      {
+        "text": "what",
+        "startFrame": 8534,
+        "endFrame": 8540
+      },
+      {
+        "text": "inside",
+        "startFrame": 8555,
+        "endFrame": 8561
+      },
+      {
+        "text": "every",
+        "startFrame": 8566,
+        "endFrame": 8574
+      },
+      {
+        "text": "dictionary",
+        "startFrame": 8576,
+        "endFrame": 8594
+      },
+      {
+        "text": "we",
+        "startFrame": 8581,
+        "endFrame": 8584
+      },
+      {
+        "text": "have",
+        "startFrame": 8584,
+        "endFrame": 8591
+      }
+    ]
+  },
+  {
+    "text": "used a hash function that turns key into a",
+    "startFrame": 8594,
+    "endFrame": 8666,
+    "words": [
+      {
+        "text": "used",
+        "startFrame": 8594,
+        "endFrame": 8602
+      },
+      {
+        "text": "a",
+        "startFrame": 8618,
+        "endFrame": 8622
+      },
+      {
+        "text": "hash",
+        "startFrame": 8622,
+        "endFrame": 8633
+      },
+      {
+        "text": "function",
+        "startFrame": 8631,
+        "endFrame": 8642
+      },
+      {
+        "text": "that",
+        "startFrame": 8636,
+        "endFrame": 8644
+      },
+      {
+        "text": "turns",
+        "startFrame": 8645,
+        "endFrame": 8654
+      },
+      {
+        "text": "key",
+        "startFrame": 8651,
+        "endFrame": 8658
+      },
+      {
+        "text": "into",
+        "startFrame": 8657,
+        "endFrame": 8665
+      },
+      {
+        "text": "a",
+        "startFrame": 8662,
+        "endFrame": 8666
+      }
+    ]
+  },
+  {
+    "text": "slot number buckets that hold a list to handle",
+    "startFrame": 8666,
+    "endFrame": 8752,
+    "words": [
+      {
+        "text": "slot",
+        "startFrame": 8666,
+        "endFrame": 8676
+      },
+      {
+        "text": "number",
+        "startFrame": 8677,
+        "endFrame": 8692
+      },
+      {
+        "text": "buckets",
+        "startFrame": 8701,
+        "endFrame": 8709
+      },
+      {
+        "text": "that",
+        "startFrame": 8708,
+        "endFrame": 8715
+      },
+      {
+        "text": "hold",
+        "startFrame": 8718,
+        "endFrame": 8726
+      },
+      {
+        "text": "a",
+        "startFrame": 8726,
+        "endFrame": 8729
+      },
+      {
+        "text": "list",
+        "startFrame": 8729,
+        "endFrame": 8738
+      },
+      {
+        "text": "to",
+        "startFrame": 8735,
+        "endFrame": 8739
+      },
+      {
+        "text": "handle",
+        "startFrame": 8740,
+        "endFrame": 8752
+      }
+    ]
+  },
+  {
+    "text": "collision and resize tab that keeps things fast as",
+    "startFrame": 8753,
+    "endFrame": 8837,
+    "words": [
+      {
+        "text": "collision",
+        "startFrame": 8753,
+        "endFrame": 8776
+      },
+      {
+        "text": "and",
+        "startFrame": 8776,
+        "endFrame": 8779
+      },
+      {
+        "text": "resize",
+        "startFrame": 8785,
+        "endFrame": 8795
+      },
+      {
+        "text": "tab",
+        "startFrame": 8792,
+        "endFrame": 8797
+      },
+      {
+        "text": "that",
+        "startFrame": 8797,
+        "endFrame": 8805
+      },
+      {
+        "text": "keeps",
+        "startFrame": 8807,
+        "endFrame": 8820
+      },
+      {
+        "text": "things",
+        "startFrame": 8815,
+        "endFrame": 8829
+      },
+      {
+        "text": "fast",
+        "startFrame": 8825,
+        "endFrame": 8834
+      },
+      {
+        "text": "as",
+        "startFrame": 8831,
+        "endFrame": 8837
+      }
+    ]
+  },
+  {
+    "text": "it grows",
+    "startFrame": 8835,
+    "endFrame": 8855,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 8835,
+        "endFrame": 8839
+      },
+      {
+        "text": "grows",
+        "startFrame": 8844,
+        "endFrame": 8849
+      }
+    ]
+  },
+  {
+    "text": "that 's the whole thing maybe 40 lines total",
+    "startFrame": 8874,
+    "endFrame": 8945,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 8874,
+        "endFrame": 8888
+      },
+      {
+        "text": "'s",
+        "startFrame": 8876,
+        "endFrame": 8879
+      },
+      {
+        "text": "the",
+        "startFrame": 8879,
+        "endFrame": 8886
+      },
+      {
+        "text": "whole",
+        "startFrame": 8885,
+        "endFrame": 8896
+      },
+      {
+        "text": "thing",
+        "startFrame": 8895,
+        "endFrame": 8911
+      },
+      {
+        "text": "maybe",
+        "startFrame": 8913,
+        "endFrame": 8924
+      },
+      {
+        "text": "40",
+        "startFrame": 8921,
+        "endFrame": 8936
+      },
+      {
+        "text": "lines",
+        "startFrame": 8929,
+        "endFrame": 8956
+      },
+      {
+        "text": "total",
+        "startFrame": 8941,
+        "endFrame": 8945
+      }
+    ]
+  },
+  {
+    "text": "full code in the description if you want the",
+    "startFrame": 8966,
+    "endFrame": 9050,
+    "words": [
+      {
+        "text": "full",
+        "startFrame": 8966,
+        "endFrame": 8973
+      },
+      {
+        "text": "code",
+        "startFrame": 8974,
+        "endFrame": 8983
+      },
+      {
+        "text": "in",
+        "startFrame": 8980,
+        "endFrame": 8984
+      },
+      {
+        "text": "the",
+        "startFrame": 8984,
+        "endFrame": 8994
+      },
+      {
+        "text": "description",
+        "startFrame": 8996,
+        "endFrame": 9032
+      },
+      {
+        "text": "if",
+        "startFrame": 9027,
+        "endFrame": 9031
+      },
+      {
+        "text": "you",
+        "startFrame": 9031,
+        "endFrame": 9037
+      },
+      {
+        "text": "want",
+        "startFrame": 9037,
+        "endFrame": 9045
+      },
+      {
+        "text": "the",
+        "startFrame": 9044,
+        "endFrame": 9050
+      }
+    ]
+  },
+  {
+    "text": "next one to cover open addressing the other way",
+    "startFrame": 9052,
+    "endFrame": 9130,
+    "words": [
+      {
+        "text": "next",
+        "startFrame": 9052,
+        "endFrame": 9060
+      },
+      {
+        "text": "one",
+        "startFrame": 9064,
+        "endFrame": 9072
+      },
+      {
+        "text": "to",
+        "startFrame": 9069,
+        "endFrame": 9074
+      },
+      {
+        "text": "cover",
+        "startFrame": 9077,
+        "endFrame": 9087
+      },
+      {
+        "text": "open",
+        "startFrame": 9088,
+        "endFrame": 9094
+      },
+      {
+        "text": "addressing",
+        "startFrame": 9100,
+        "endFrame": 9124
+      },
+      {
+        "text": "the",
+        "startFrame": 9116,
+        "endFrame": 9120
+      },
+      {
+        "text": "other",
+        "startFrame": 9122,
+        "endFrame": 9128
+      },
+      {
+        "text": "way",
+        "startFrame": 9126,
+        "endFrame": 9130
+      }
+    ]
+  },
+  {
+    "text": "to handle collision with no list involved let me",
+    "startFrame": 9126,
+    "endFrame": 9206,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 9126,
+        "endFrame": 9130
+      },
+      {
+        "text": "handle",
+        "startFrame": 9136,
+        "endFrame": 9147
+      },
+      {
+        "text": "collision",
+        "startFrame": 9148,
+        "endFrame": 9164
+      },
+      {
+        "text": "with",
+        "startFrame": 9159,
+        "endFrame": 9164
+      },
+      {
+        "text": "no",
+        "startFrame": 9166,
+        "endFrame": 9169
+      },
+      {
+        "text": "list",
+        "startFrame": 9172,
+        "endFrame": 9180
+      },
+      {
+        "text": "involved",
+        "startFrame": 9185,
+        "endFrame": 9201
+      },
+      {
+        "text": "let",
+        "startFrame": 9199,
+        "endFrame": 9202
+      },
+      {
+        "text": "me",
+        "startFrame": 9203,
+        "endFrame": 9206
+      }
+    ]
+  },
+  {
+    "text": "know in comments see you in the next one",
+    "startFrame": 9206,
+    "endFrame": 9283,
+    "words": [
+      {
+        "text": "know",
+        "startFrame": 9206,
+        "endFrame": 9213
+      },
+      {
+        "text": "in",
+        "startFrame": 9209,
+        "endFrame": 9212
+      },
+      {
+        "text": "comments",
+        "startFrame": 9221,
+        "endFrame": 9232
+      },
+      {
+        "text": "see",
+        "startFrame": 9245,
+        "endFrame": 9249
+      },
+      {
+        "text": "you",
+        "startFrame": 9248,
+        "endFrame": 9253
+      },
+      {
+        "text": "in",
+        "startFrame": 9250,
+        "endFrame": 9258
+      },
+      {
+        "text": "the",
+        "startFrame": 9251,
+        "endFrame": 9255
+      },
+      {
+        "text": "next",
+        "startFrame": 9256,
+        "endFrame": 9261
+      },
+      {
+        "text": "one",
+        "startFrame": 9274,
+        "endFrame": 9283
+      }
+    ]
+  },
+  {
+    "text": "peace",
+    "startFrame": 9286,
+    "endFrame": 9306,
+    "words": [
+      {
+        "text": "peace",
+        "startFrame": 9286,
+        "endFrame": 9298
+      }
+    ]
+  }
+]

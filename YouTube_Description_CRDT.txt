@@ -1,0 +1,36 @@
+TITLE:
+How Notion Merges Edits Without Conflicts — CRDTs in 10 Lines of Python
+
+DESCRIPTION:
+
+Imagine editing the same Notion page as a co-worker, both of you offline for a few seconds at a time. When your internet comes back, your edits just merge — no popup asking which version to keep, no conflict. That's not luck. That's a CRDT (Conflict-free Replicated Data Type), and the simplest version of one is about 10 lines of Python.
+
+In this video I build a G-Counter — the simplest CRDT there is — from scratch, live, in real Python that actually runs. You'll see exactly why a normal shared counter silently loses updates when two servers change it at the same time, and the one-line trick (taking the max, not the sum) that makes CRDTs mathematically guaranteed to converge no matter what order updates arrive in.
+
+You'll learn:
+✅ What a CRDT actually is, in plain terms (no distributed-systems jargon)
+✅ Why a normal counter breaks under concurrent updates — and how the bug hides in plain sight
+✅ How to build a G-Counter: each node tracks its own slot, increments only touch your own slot
+✅ Why merging takes the max per node (not the sum) — and why that's the whole trick
+✅ A real live run: two counters updating independently, then merging back to the same final answer
+✅ Where CRDTs are actually used in production: Notion, Linear, Yjs, Automerge, Riak, and Redis counters
+✅ The one thing Google Docs does NOT use (a common interview gotcha) and how it differs from CRDTs
+✅ The limitation of a plain counter (it can only go up) and how a PN-Counter fixes that
+
+This isn't a whiteboard explanation — it's the actual code, actually running, so you can see precisely what "eventual consistency" and "conflict-free merge" really mean underneath the buzzwords.
+
+⏱️ TIMESTAMPS
+00:00 The hook — how Notion merges your edits with zero conflicts
+00:32 What a CRDT actually is (the core idea)
+01:06 Why a normal counter breaks under concurrent updates
+01:42 Building the GCounter class in Python
+02:07 Merging two counters (the max-not-sum trick)
+02:51 Running it live — two counters converging to the same answer
+03:29 Where CRDTs are used in the real world (Notion, Redis, Riak, and more)
+04:23 Wrap-up — the whole algorithm in one picture
+
+🔑 KEYWORDS: CRDT, conflict-free replicated data type, distributed systems, eventual consistency, python, G-Counter, PN-Counter, Notion, Yjs, Automerge, Riak, Redis, operational transformation, system design, offline-first, collaborative editing, coding tutorial, live coding, from scratch, system design interview
+
+If this made CRDTs click for you, drop a like and subscribe — and let me know in the comments if you want the PN-Counter (increment + decrement) version next.
+
+#CRDT #Python #DistributedSystems #SystemDesign #SoftwareEngineering

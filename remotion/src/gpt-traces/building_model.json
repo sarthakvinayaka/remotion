@@ -1,0 +1,12 @@
+[
+  {
+    "line": "contexts learned: 27",
+    "order": 1,
+    "service": null
+  },
+  {
+    "line": "model[('the','cat')]: {12: 1, 7: 2, 1: 1}",
+    "order": 2,
+    "service": null
+  }
+]

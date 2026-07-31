@@ -1,0 +1,22 @@
+[
+  {
+    "line": "Same seed, three separate runs:",
+    "order": 1,
+    "service": null
+  },
+  {
+    "line": "Run 1: the cat likes to play in the yard . the cat likes",
+    "order": 24,
+    "service": null
+  },
+  {
+    "line": "Run 2: the cat sat on the rug . the dog .",
+    "order": 43,
+    "service": null
+  },
+  {
+    "line": "Run 3: the cat likes to play in the yard . the cat and",
+    "order": 66,
+    "service": null
+  }
+]

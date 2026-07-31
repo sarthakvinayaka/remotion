@@ -1,0 +1,57 @@
+[
+  {
+    "line": "hash('apple') = 2",
+    "order": 2,
+    "service": null
+  },
+  {
+    "line": "hash('elderberry') = 2",
+    "order": 4,
+    "service": null
+  },
+  {
+    "line": "  [0]: []",
+    "order": 5,
+    "service": null
+  },
+  {
+    "line": "  [1]: []",
+    "order": 6,
+    "service": null
+  },
+  {
+    "line": "  [2]: [('apple', 'APPLE'), ('elderberry', 'ELDERBERRY')]",
+    "order": 7,
+    "service": null
+  },
+  {
+    "line": "  [3]: []",
+    "order": 8,
+    "service": null
+  },
+  {
+    "line": "  [4]: []",
+    "order": 9,
+    "service": null
+  },
+  {
+    "line": "  [5]: []",
+    "order": 10,
+    "service": null
+  },
+  {
+    "line": "  [6]: []",
+    "order": 11,
+    "service": null
+  },
+  {
+    "line": "  [7]: []",
+    "order": 12,
+    "service": null
+  },
+  {
+    "line": "get('elderberry') = ELDERBERRY",
+    "order": 13,
+    "service": null
+  }
+]

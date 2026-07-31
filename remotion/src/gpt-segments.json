@@ -1,0 +1,13 @@
+[
+  ["hook", "narration", 0, 868],
+  ["core_idea", "narration", 868, 2102],
+  ["why_not_same", "narration", 2102, 2872],
+  ["setup_text", "code", 2872, 3457],
+  ["encoding", "code", 3457, 4255],
+  ["building_model", "code", 4255, 5365],
+  ["sampling", "code", 5365, 6194],
+  ["generating_live", "code", 6194, 7388],
+  ["three_runs", "code", 7388, 8278],
+  ["simplified", "narration", 8278, 9662],
+  ["wrapup", "narration", 9662, 10478]
+]

@@ -1,0 +1,23 @@
+{
+  "ten_services": 7,
+  "ten_teams": 46,
+  "ten_times": 82,
+  "setup_end": 152,
+  "cicd": 160,
+  "dockerfiles": 211,
+  "kubernetes": 266,
+  "logging": 323,
+  "secrets": 371,
+  "secrets_end": 450,
+  "every_team_start": 460,
+  "again_end": 554,
+  "this_is_why_start": 566,
+  "hard_end": 653,
+  "fix_start": 667,
+  "services_end": 710,
+  "paved_road_start": 726,
+  "road_end": 779,
+  "platform_start": 791,
+  "engineering_end": 817,
+  "total_frames": 875
+}

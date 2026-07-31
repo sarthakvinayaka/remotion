@@ -1,0 +1,5708 @@
+[
+  {
+    "text": "Ok, so think about this,",
+    "startFrame": 0,
+    "endFrame": 62,
+    "words": [
+      {
+        "text": "Ok,",
+        "startFrame": 0,
+        "endFrame": 15
+      },
+      {
+        "text": "so",
+        "startFrame": 15,
+        "endFrame": 20
+      },
+      {
+        "text": "think",
+        "startFrame": 20,
+        "endFrame": 32
+      },
+      {
+        "text": "about",
+        "startFrame": 32,
+        "endFrame": 47
+      },
+      {
+        "text": "this,",
+        "startFrame": 47,
+        "endFrame": 62
+      }
+    ]
+  },
+  {
+    "text": "you order something online,",
+    "startFrame": 62,
+    "endFrame": 96,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 62,
+        "endFrame": 66
+      },
+      {
+        "text": "order",
+        "startFrame": 66,
+        "endFrame": 72
+      },
+      {
+        "text": "something",
+        "startFrame": 72,
+        "endFrame": 83
+      },
+      {
+        "text": "online,",
+        "startFrame": 83,
+        "endFrame": 96
+      }
+    ]
+  },
+  {
+    "text": "just one click.",
+    "startFrame": 96,
+    "endFrame": 127,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 96,
+        "endFrame": 103
+      },
+      {
+        "text": "one",
+        "startFrame": 103,
+        "endFrame": 109
+      },
+      {
+        "text": "click.",
+        "startFrame": 109,
+        "endFrame": 127
+      }
+    ]
+  },
+  {
+    "text": "But that one click actually kicks",
+    "startFrame": 127,
+    "endFrame": 177,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 127,
+        "endFrame": 133
+      },
+      {
+        "text": "that",
+        "startFrame": 133,
+        "endFrame": 140
+      },
+      {
+        "text": "one",
+        "startFrame": 140,
+        "endFrame": 145
+      },
+      {
+        "text": "click",
+        "startFrame": 145,
+        "endFrame": 156
+      },
+      {
+        "text": "actually",
+        "startFrame": 156,
+        "endFrame": 169
+      },
+      {
+        "text": "kicks",
+        "startFrame": 169,
+        "endFrame": 177
+      }
+    ]
+  },
+  {
+    "text": "off 4 or 5 different services",
+    "startFrame": 177,
+    "endFrame": 226,
+    "words": [
+      {
+        "text": "off",
+        "startFrame": 177,
+        "endFrame": 182
+      },
+      {
+        "text": "4",
+        "startFrame": 182,
+        "endFrame": 188
+      },
+      {
+        "text": "or",
+        "startFrame": 188,
+        "endFrame": 191
+      },
+      {
+        "text": "5",
+        "startFrame": 191,
+        "endFrame": 199
+      },
+      {
+        "text": "different",
+        "startFrame": 199,
+        "endFrame": 212
+      },
+      {
+        "text": "services",
+        "startFrame": 212,
+        "endFrame": 226
+      }
+    ]
+  },
+  {
+    "text": "behind the scene.",
+    "startFrame": 226,
+    "endFrame": 259,
+    "words": [
+      {
+        "text": "behind",
+        "startFrame": 226,
+        "endFrame": 242
+      },
+      {
+        "text": "the",
+        "startFrame": 242,
+        "endFrame": 242
+      },
+      {
+        "text": "scene.",
+        "startFrame": 242,
+        "endFrame": 259
+      }
+    ]
+  },
+  {
+    "text": "One handles the order,",
+    "startFrame": 259,
+    "endFrame": 298,
+    "words": [
+      {
+        "text": "One",
+        "startFrame": 259,
+        "endFrame": 265
+      },
+      {
+        "text": "handles",
+        "startFrame": 265,
+        "endFrame": 278
+      },
+      {
+        "text": "the",
+        "startFrame": 278,
+        "endFrame": 294
+      },
+      {
+        "text": "order,",
+        "startFrame": 294,
+        "endFrame": 298
+      }
+    ]
+  },
+  {
+    "text": "one handles payment,",
+    "startFrame": 298,
+    "endFrame": 337,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 298,
+        "endFrame": 304
+      },
+      {
+        "text": "handles",
+        "startFrame": 304,
+        "endFrame": 318
+      },
+      {
+        "text": "payment,",
+        "startFrame": 318,
+        "endFrame": 337
+      }
+    ]
+  },
+  {
+    "text": "one checks stock,",
+    "startFrame": 337,
+    "endFrame": 374,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 337,
+        "endFrame": 342
+      },
+      {
+        "text": "checks",
+        "startFrame": 342,
+        "endFrame": 354
+      },
+      {
+        "text": "stock,",
+        "startFrame": 354,
+        "endFrame": 374
+      }
+    ]
+  },
+  {
+    "text": "one sends you a notification and",
+    "startFrame": 374,
+    "endFrame": 422,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 374,
+        "endFrame": 374
+      },
+      {
+        "text": "sends",
+        "startFrame": 374,
+        "endFrame": 383
+      },
+      {
+        "text": "you",
+        "startFrame": 383,
+        "endFrame": 389
+      },
+      {
+        "text": "a",
+        "startFrame": 389,
+        "endFrame": 391
+      },
+      {
+        "text": "notification",
+        "startFrame": 391,
+        "endFrame": 418
+      },
+      {
+        "text": "and",
+        "startFrame": 418,
+        "endFrame": 422
+      }
+    ]
+  },
+  {
+    "text": "here's the cool part.",
+    "startFrame": 422,
+    "endFrame": 448,
+    "words": [
+      {
+        "text": "here's",
+        "startFrame": 422,
+        "endFrame": 430
+      },
+      {
+        "text": "the",
+        "startFrame": 430,
+        "endFrame": 433
+      },
+      {
+        "text": "cool",
+        "startFrame": 433,
+        "endFrame": 438
+      },
+      {
+        "text": "part.",
+        "startFrame": 438,
+        "endFrame": 448
+      }
+    ]
+  },
+  {
+    "text": "None of them are waiting around",
+    "startFrame": 448,
+    "endFrame": 491,
+    "words": [
+      {
+        "text": "None",
+        "startFrame": 448,
+        "endFrame": 454
+      },
+      {
+        "text": "of",
+        "startFrame": 454,
+        "endFrame": 464
+      },
+      {
+        "text": "them",
+        "startFrame": 464,
+        "endFrame": 466
+      },
+      {
+        "text": "are",
+        "startFrame": 466,
+        "endFrame": 469
+      },
+      {
+        "text": "waiting",
+        "startFrame": 469,
+        "endFrame": 481
+      },
+      {
+        "text": "around",
+        "startFrame": 481,
+        "endFrame": 491
+      }
+    ]
+  },
+  {
+    "text": "for each other.",
+    "startFrame": 491,
+    "endFrame": 517,
+    "words": [
+      {
+        "text": "for",
+        "startFrame": 491,
+        "endFrame": 495
+      },
+      {
+        "text": "each",
+        "startFrame": 495,
+        "endFrame": 502
+      },
+      {
+        "text": "other.",
+        "startFrame": 502,
+        "endFrame": 517
+      }
+    ]
+  },
+  {
+    "text": "Today I'm gonna build this whole",
+    "startFrame": 517,
+    "endFrame": 560,
+    "words": [
+      {
+        "text": "Today",
+        "startFrame": 517,
+        "endFrame": 525
+      },
+      {
+        "text": "I'm",
+        "startFrame": 525,
+        "endFrame": 532
+      },
+      {
+        "text": "gonna",
+        "startFrame": 532,
+        "endFrame": 538
+      },
+      {
+        "text": "build",
+        "startFrame": 538,
+        "endFrame": 546
+      },
+      {
+        "text": "this",
+        "startFrame": 546,
+        "endFrame": 553
+      },
+      {
+        "text": "whole",
+        "startFrame": 553,
+        "endFrame": 560
+      }
+    ]
+  },
+  {
+    "text": "thing from scratch in python.",
+    "startFrame": 560,
+    "endFrame": 606,
+    "words": [
+      {
+        "text": "thing",
+        "startFrame": 560,
+        "endFrame": 568
+      },
+      {
+        "text": "from",
+        "startFrame": 568,
+        "endFrame": 575
+      },
+      {
+        "text": "scratch",
+        "startFrame": 575,
+        "endFrame": 588
+      },
+      {
+        "text": "in",
+        "startFrame": 588,
+        "endFrame": 589
+      },
+      {
+        "text": "python.",
+        "startFrame": 589,
+        "endFrame": 606
+      }
+    ]
+  },
+  {
+    "text": "We just need two things,",
+    "startFrame": 606,
+    "endFrame": 650,
+    "words": [
+      {
+        "text": "We",
+        "startFrame": 606,
+        "endFrame": 619
+      },
+      {
+        "text": "just",
+        "startFrame": 619,
+        "endFrame": 620
+      },
+      {
+        "text": "need",
+        "startFrame": 620,
+        "endFrame": 627
+      },
+      {
+        "text": "two",
+        "startFrame": 627,
+        "endFrame": 635
+      },
+      {
+        "text": "things,",
+        "startFrame": 635,
+        "endFrame": 650
+      }
+    ]
+  },
+  {
+    "text": "a hashmap and a queue.",
+    "startFrame": 650,
+    "endFrame": 692,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 650,
+        "endFrame": 659
+      },
+      {
+        "text": "hashmap",
+        "startFrame": 659,
+        "endFrame": 667
+      },
+      {
+        "text": "and",
+        "startFrame": 667,
+        "endFrame": 673
+      },
+      {
+        "text": "a",
+        "startFrame": 673,
+        "endFrame": 675
+      },
+      {
+        "text": "queue.",
+        "startFrame": 675,
+        "endFrame": 692
+      }
+    ]
+  },
+  {
+    "text": "That's it. Let's get into it.",
+    "startFrame": 692,
+    "endFrame": 763,
+    "words": [
+      {
+        "text": "That's",
+        "startFrame": 692,
+        "endFrame": 708
+      },
+      {
+        "text": "it.",
+        "startFrame": 708,
+        "endFrame": 722
+      },
+      {
+        "text": "Let's",
+        "startFrame": 722,
+        "endFrame": 733
+      },
+      {
+        "text": "get",
+        "startFrame": 733,
+        "endFrame": 740
+      },
+      {
+        "text": "into",
+        "startFrame": 740,
+        "endFrame": 747
+      },
+      {
+        "text": "it.",
+        "startFrame": 747,
+        "endFrame": 763
+      }
+    ]
+  },
+  {
+    "text": "So there's basically two ideas doing",
+    "startFrame": 763,
+    "endFrame": 818,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 763,
+        "endFrame": 767
+      },
+      {
+        "text": "there's",
+        "startFrame": 767,
+        "endFrame": 780
+      },
+      {
+        "text": "basically",
+        "startFrame": 780,
+        "endFrame": 795
+      },
+      {
+        "text": "two",
+        "startFrame": 795,
+        "endFrame": 800
+      },
+      {
+        "text": "ideas",
+        "startFrame": 800,
+        "endFrame": 811
+      },
+      {
+        "text": "doing",
+        "startFrame": 811,
+        "endFrame": 818
+      }
+    ]
+  },
+  {
+    "text": "all the heavy lifting here.",
+    "startFrame": 818,
+    "endFrame": 864,
+    "words": [
+      {
+        "text": "all",
+        "startFrame": 818,
+        "endFrame": 824
+      },
+      {
+        "text": "the",
+        "startFrame": 824,
+        "endFrame": 829
+      },
+      {
+        "text": "heavy",
+        "startFrame": 829,
+        "endFrame": 838
+      },
+      {
+        "text": "lifting",
+        "startFrame": 838,
+        "endFrame": 858
+      },
+      {
+        "text": "here.",
+        "startFrame": 858,
+        "endFrame": 864
+      }
+    ]
+  },
+  {
+    "text": "First one, hashmap.",
+    "startFrame": 867,
+    "endFrame": 900,
+    "words": [
+      {
+        "text": "First",
+        "startFrame": 867,
+        "endFrame": 876
+      },
+      {
+        "text": "one,",
+        "startFrame": 876,
+        "endFrame": 882
+      },
+      {
+        "text": "hashmap.",
+        "startFrame": 882,
+        "endFrame": 900
+      }
+    ]
+  },
+  {
+    "text": "In python, that's just a dictionary.",
+    "startFrame": 900,
+    "endFrame": 965,
+    "words": [
+      {
+        "text": "In",
+        "startFrame": 900,
+        "endFrame": 905
+      },
+      {
+        "text": "python,",
+        "startFrame": 905,
+        "endFrame": 919
+      },
+      {
+        "text": "that's",
+        "startFrame": 919,
+        "endFrame": 930
+      },
+      {
+        "text": "just",
+        "startFrame": 930,
+        "endFrame": 937
+      },
+      {
+        "text": "a",
+        "startFrame": 937,
+        "endFrame": 939
+      },
+      {
+        "text": "dictionary.",
+        "startFrame": 939,
+        "endFrame": 965
+      }
+    ]
+  },
+  {
+    "text": "We are using it to store",
+    "startFrame": 965,
+    "endFrame": 1006,
+    "words": [
+      {
+        "text": "We",
+        "startFrame": 965,
+        "endFrame": 969
+      },
+      {
+        "text": "are",
+        "startFrame": 969,
+        "endFrame": 976
+      },
+      {
+        "text": "using",
+        "startFrame": 976,
+        "endFrame": 987
+      },
+      {
+        "text": "it",
+        "startFrame": 987,
+        "endFrame": 991
+      },
+      {
+        "text": "to",
+        "startFrame": 991,
+        "endFrame": 995
+      },
+      {
+        "text": "store",
+        "startFrame": 995,
+        "endFrame": 1006
+      }
+    ]
+  },
+  {
+    "text": "the order status.",
+    "startFrame": 1006,
+    "endFrame": 1044,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 1006,
+        "endFrame": 1012
+      },
+      {
+        "text": "order",
+        "startFrame": 1012,
+        "endFrame": 1023
+      },
+      {
+        "text": "status.",
+        "startFrame": 1023,
+        "endFrame": 1044
+      }
+    ]
+  },
+  {
+    "text": "And the whole point is,",
+    "startFrame": 1044,
+    "endFrame": 1088,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 1044,
+        "endFrame": 1051
+      },
+      {
+        "text": "the",
+        "startFrame": 1051,
+        "endFrame": 1059
+      },
+      {
+        "text": "whole",
+        "startFrame": 1059,
+        "endFrame": 1068
+      },
+      {
+        "text": "point",
+        "startFrame": 1068,
+        "endFrame": 1080
+      },
+      {
+        "text": "is,",
+        "startFrame": 1080,
+        "endFrame": 1088
+      }
+    ]
+  },
+  {
+    "text": "it's super fast to look something",
+    "startFrame": 1088,
+    "endFrame": 1153,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 1088,
+        "endFrame": 1097
+      },
+      {
+        "text": "super",
+        "startFrame": 1097,
+        "endFrame": 1107
+      },
+      {
+        "text": "fast",
+        "startFrame": 1107,
+        "endFrame": 1117
+      },
+      {
+        "text": "to",
+        "startFrame": 1117,
+        "endFrame": 1121
+      },
+      {
+        "text": "look",
+        "startFrame": 1121,
+        "endFrame": 1128
+      },
+      {
+        "text": "something",
+        "startFrame": 1128,
+        "endFrame": 1153
+      }
+    ]
+  },
+  {
+    "text": "up. Doesn't matter if there's 10",
+    "startFrame": 1153,
+    "endFrame": 1222,
+    "words": [
+      {
+        "text": "up.",
+        "startFrame": 1153,
+        "endFrame": 1163
+      },
+      {
+        "text": "Doesn't",
+        "startFrame": 1163,
+        "endFrame": 1178
+      },
+      {
+        "text": "matter",
+        "startFrame": 1178,
+        "endFrame": 1189
+      },
+      {
+        "text": "if",
+        "startFrame": 1189,
+        "endFrame": 1192
+      },
+      {
+        "text": "there's",
+        "startFrame": 1192,
+        "endFrame": 1206
+      },
+      {
+        "text": "10",
+        "startFrame": 1206,
+        "endFrame": 1222
+      }
+    ]
+  },
+  {
+    "text": "orders or 10 million.",
+    "startFrame": 1222,
+    "endFrame": 1268,
+    "words": [
+      {
+        "text": "orders",
+        "startFrame": 1222,
+        "endFrame": 1230
+      },
+      {
+        "text": "or",
+        "startFrame": 1230,
+        "endFrame": 1234
+      },
+      {
+        "text": "10",
+        "startFrame": 1234,
+        "endFrame": 1246
+      },
+      {
+        "text": "million.",
+        "startFrame": 1246,
+        "endFrame": 1268
+      }
+    ]
+  },
+  {
+    "text": "It doesn't slow down.",
+    "startFrame": 1268,
+    "endFrame": 1316,
+    "words": [
+      {
+        "text": "It",
+        "startFrame": 1268,
+        "endFrame": 1273
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 1273,
+        "endFrame": 1289
+      },
+      {
+        "text": "slow",
+        "startFrame": 1289,
+        "endFrame": 1309
+      },
+      {
+        "text": "down.",
+        "startFrame": 1309,
+        "endFrame": 1316
+      }
+    ]
+  },
+  {
+    "text": "Second one, queue.",
+    "startFrame": 1316,
+    "endFrame": 1369,
+    "words": [
+      {
+        "text": "Second",
+        "startFrame": 1316,
+        "endFrame": 1334
+      },
+      {
+        "text": "one,",
+        "startFrame": 1334,
+        "endFrame": 1346
+      },
+      {
+        "text": "queue.",
+        "startFrame": 1346,
+        "endFrame": 1369
+      }
+    ]
+  },
+  {
+    "text": "This is the fun part.",
+    "startFrame": 1369,
+    "endFrame": 1412,
+    "words": [
+      {
+        "text": "This",
+        "startFrame": 1369,
+        "endFrame": 1380
+      },
+      {
+        "text": "is",
+        "startFrame": 1380,
+        "endFrame": 1383
+      },
+      {
+        "text": "the",
+        "startFrame": 1383,
+        "endFrame": 1389
+      },
+      {
+        "text": "fun",
+        "startFrame": 1389,
+        "endFrame": 1405
+      },
+      {
+        "text": "part.",
+        "startFrame": 1405,
+        "endFrame": 1412
+      }
+    ]
+  },
+  {
+    "text": "Instead of order services directly calling",
+    "startFrame": 1412,
+    "endFrame": 1479,
+    "words": [
+      {
+        "text": "Instead",
+        "startFrame": 1412,
+        "endFrame": 1425
+      },
+      {
+        "text": "of",
+        "startFrame": 1425,
+        "endFrame": 1431
+      },
+      {
+        "text": "order",
+        "startFrame": 1431,
+        "endFrame": 1438
+      },
+      {
+        "text": "services",
+        "startFrame": 1438,
+        "endFrame": 1452
+      },
+      {
+        "text": "directly",
+        "startFrame": 1452,
+        "endFrame": 1466
+      },
+      {
+        "text": "calling",
+        "startFrame": 1466,
+        "endFrame": 1479
+      }
+    ]
+  },
+  {
+    "text": "the payment service and waiting for",
+    "startFrame": 1479,
+    "endFrame": 1533,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 1479,
+        "endFrame": 1484
+      },
+      {
+        "text": "payment",
+        "startFrame": 1484,
+        "endFrame": 1507
+      },
+      {
+        "text": "service",
+        "startFrame": 1507,
+        "endFrame": 1510
+      },
+      {
+        "text": "and",
+        "startFrame": 1510,
+        "endFrame": 1515
+      },
+      {
+        "text": "waiting",
+        "startFrame": 1515,
+        "endFrame": 1529
+      },
+      {
+        "text": "for",
+        "startFrame": 1529,
+        "endFrame": 1533
+      }
+    ]
+  },
+  {
+    "text": "a reply, it just drops the",
+    "startFrame": 1533,
+    "endFrame": 1580,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 1533,
+        "endFrame": 1535
+      },
+      {
+        "text": "reply,",
+        "startFrame": 1535,
+        "endFrame": 1549
+      },
+      {
+        "text": "it",
+        "startFrame": 1549,
+        "endFrame": 1556
+      },
+      {
+        "text": "just",
+        "startFrame": 1556,
+        "endFrame": 1563
+      },
+      {
+        "text": "drops",
+        "startFrame": 1563,
+        "endFrame": 1574
+      },
+      {
+        "text": "the",
+        "startFrame": 1574,
+        "endFrame": 1580
+      }
+    ]
+  },
+  {
+    "text": "order in a queue and moves",
+    "startFrame": 1580,
+    "endFrame": 1631,
+    "words": [
+      {
+        "text": "order",
+        "startFrame": 1580,
+        "endFrame": 1592
+      },
+      {
+        "text": "in",
+        "startFrame": 1592,
+        "endFrame": 1596
+      },
+      {
+        "text": "a",
+        "startFrame": 1596,
+        "endFrame": 1598
+      },
+      {
+        "text": "queue",
+        "startFrame": 1598,
+        "endFrame": 1616
+      },
+      {
+        "text": "and",
+        "startFrame": 1616,
+        "endFrame": 1616
+      },
+      {
+        "text": "moves",
+        "startFrame": 1616,
+        "endFrame": 1631
+      }
+    ]
+  },
+  {
+    "text": "on. Payments pick it up whenever",
+    "startFrame": 1631,
+    "endFrame": 1687,
+    "words": [
+      {
+        "text": "on.",
+        "startFrame": 1631,
+        "endFrame": 1640
+      },
+      {
+        "text": "Payments",
+        "startFrame": 1640,
+        "endFrame": 1656
+      },
+      {
+        "text": "pick",
+        "startFrame": 1656,
+        "endFrame": 1664
+      },
+      {
+        "text": "it",
+        "startFrame": 1664,
+        "endFrame": 1668
+      },
+      {
+        "text": "up",
+        "startFrame": 1668,
+        "endFrame": 1672
+      },
+      {
+        "text": "whenever",
+        "startFrame": 1672,
+        "endFrame": 1687
+      }
+    ]
+  },
+  {
+    "text": "it's free. Nobody is sitting around",
+    "startFrame": 1687,
+    "endFrame": 1766,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 1687,
+        "endFrame": 1695
+      },
+      {
+        "text": "free.",
+        "startFrame": 1695,
+        "endFrame": 1710
+      },
+      {
+        "text": "Nobody",
+        "startFrame": 1710,
+        "endFrame": 1723
+      },
+      {
+        "text": "is",
+        "startFrame": 1723,
+        "endFrame": 1727
+      },
+      {
+        "text": "sitting",
+        "startFrame": 1727,
+        "endFrame": 1740
+      },
+      {
+        "text": "around",
+        "startFrame": 1740,
+        "endFrame": 1766
+      }
+    ]
+  },
+  {
+    "text": "waiting. That's basically the whole secret",
+    "startFrame": 1766,
+    "endFrame": 1816,
+    "words": [
+      {
+        "text": "waiting.",
+        "startFrame": 1766,
+        "endFrame": 1772
+      },
+      {
+        "text": "That's",
+        "startFrame": 1772,
+        "endFrame": 1781
+      },
+      {
+        "text": "basically",
+        "startFrame": 1781,
+        "endFrame": 1795
+      },
+      {
+        "text": "the",
+        "startFrame": 1795,
+        "endFrame": 1803
+      },
+      {
+        "text": "whole",
+        "startFrame": 1803,
+        "endFrame": 1807
+      },
+      {
+        "text": "secret",
+        "startFrame": 1807,
+        "endFrame": 1816
+      }
+    ]
+  },
+  {
+    "text": "behind microservices. Alright,",
+    "startFrame": 1816,
+    "endFrame": 1885,
+    "words": [
+      {
+        "text": "behind",
+        "startFrame": 1816,
+        "endFrame": 1826
+      },
+      {
+        "text": "microservices.",
+        "startFrame": 1826,
+        "endFrame": 1852
+      },
+      {
+        "text": "Alright,",
+        "startFrame": 1852,
+        "endFrame": 1885
+      }
+    ]
+  },
+  {
+    "text": "now let's actually build it.",
+    "startFrame": 1885,
+    "endFrame": 1950,
+    "words": [
+      {
+        "text": "now",
+        "startFrame": 1885,
+        "endFrame": 1886
+      },
+      {
+        "text": "let's",
+        "startFrame": 1886,
+        "endFrame": 1900
+      },
+      {
+        "text": "actually",
+        "startFrame": 1900,
+        "endFrame": 1935
+      },
+      {
+        "text": "build",
+        "startFrame": 1935,
+        "endFrame": 1935
+      },
+      {
+        "text": "it.",
+        "startFrame": 1935,
+        "endFrame": 1950
+      }
+    ]
+  },
+  {
+    "text": "Let's just import what we need.",
+    "startFrame": 1950,
+    "endFrame": 2005,
+    "words": [
+      {
+        "text": "Let's",
+        "startFrame": 1950,
+        "endFrame": 1964
+      },
+      {
+        "text": "just",
+        "startFrame": 1964,
+        "endFrame": 1967
+      },
+      {
+        "text": "import",
+        "startFrame": 1967,
+        "endFrame": 1982
+      },
+      {
+        "text": "what",
+        "startFrame": 1982,
+        "endFrame": 1987
+      },
+      {
+        "text": "we",
+        "startFrame": 1987,
+        "endFrame": 1991
+      },
+      {
+        "text": "need.",
+        "startFrame": 1991,
+        "endFrame": 2005
+      }
+    ]
+  },
+  {
+    "text": "uuid to generate orderids,",
+    "startFrame": 2005,
+    "endFrame": 2095,
+    "words": [
+      {
+        "text": "uuid",
+        "startFrame": 2005,
+        "endFrame": 2021
+      },
+      {
+        "text": "to",
+        "startFrame": 2021,
+        "endFrame": 2029
+      },
+      {
+        "text": "generate",
+        "startFrame": 2029,
+        "endFrame": 2060
+      },
+      {
+        "text": "orderids,",
+        "startFrame": 2060,
+        "endFrame": 2095
+      }
+    ]
+  },
+  {
+    "text": "threading because we'll need a lock",
+    "startFrame": 2095,
+    "endFrame": 2149,
+    "words": [
+      {
+        "text": "threading",
+        "startFrame": 2095,
+        "endFrame": 2113
+      },
+      {
+        "text": "because",
+        "startFrame": 2113,
+        "endFrame": 2126
+      },
+      {
+        "text": "we'll",
+        "startFrame": 2126,
+        "endFrame": 2133
+      },
+      {
+        "text": "need",
+        "startFrame": 2133,
+        "endFrame": 2140
+      },
+      {
+        "text": "a",
+        "startFrame": 2140,
+        "endFrame": 2142
+      },
+      {
+        "text": "lock",
+        "startFrame": 2142,
+        "endFrame": 2149
+      }
+    ]
+  },
+  {
+    "text": "in a second,",
+    "startFrame": 2149,
+    "endFrame": 2175,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 2149,
+        "endFrame": 2153
+      },
+      {
+        "text": "a",
+        "startFrame": 2153,
+        "endFrame": 2154
+      },
+      {
+        "text": "second,",
+        "startFrame": 2154,
+        "endFrame": 2175
+      }
+    ]
+  },
+  {
+    "text": "time so we can fake some",
+    "startFrame": 2175,
+    "endFrame": 2214,
+    "words": [
+      {
+        "text": "time",
+        "startFrame": 2175,
+        "endFrame": 2180
+      },
+      {
+        "text": "so",
+        "startFrame": 2180,
+        "endFrame": 2186
+      },
+      {
+        "text": "we",
+        "startFrame": 2186,
+        "endFrame": 2189
+      },
+      {
+        "text": "can",
+        "startFrame": 2189,
+        "endFrame": 2196
+      },
+      {
+        "text": "fake",
+        "startFrame": 2196,
+        "endFrame": 2206
+      },
+      {
+        "text": "some",
+        "startFrame": 2206,
+        "endFrame": 2214
+      }
+    ]
+  },
+  {
+    "text": "delay, like a real service would",
+    "startFrame": 2214,
+    "endFrame": 2279,
+    "words": [
+      {
+        "text": "delay,",
+        "startFrame": 2214,
+        "endFrame": 2239
+      },
+      {
+        "text": "like",
+        "startFrame": 2239,
+        "endFrame": 2240
+      },
+      {
+        "text": "a",
+        "startFrame": 2240,
+        "endFrame": 2242
+      },
+      {
+        "text": "real",
+        "startFrame": 2242,
+        "endFrame": 2251
+      },
+      {
+        "text": "service",
+        "startFrame": 2251,
+        "endFrame": 2267
+      },
+      {
+        "text": "would",
+        "startFrame": 2267,
+        "endFrame": 2279
+      }
+    ]
+  },
+  {
+    "text": "have, queue for our pipeline and",
+    "startFrame": 2279,
+    "endFrame": 2353,
+    "words": [
+      {
+        "text": "have,",
+        "startFrame": 2279,
+        "endFrame": 2301
+      },
+      {
+        "text": "queue",
+        "startFrame": 2301,
+        "endFrame": 2308
+      },
+      {
+        "text": "for",
+        "startFrame": 2308,
+        "endFrame": 2314
+      },
+      {
+        "text": "our",
+        "startFrame": 2314,
+        "endFrame": 2323
+      },
+      {
+        "text": "pipeline",
+        "startFrame": 2323,
+        "endFrame": 2347
+      },
+      {
+        "text": "and",
+        "startFrame": 2347,
+        "endFrame": 2353
+      }
+    ]
+  },
+  {
+    "text": "random we'll use that later.",
+    "startFrame": 2353,
+    "endFrame": 2408,
+    "words": [
+      {
+        "text": "random",
+        "startFrame": 2353,
+        "endFrame": 2365
+      },
+      {
+        "text": "we'll",
+        "startFrame": 2365,
+        "endFrame": 2378
+      },
+      {
+        "text": "use",
+        "startFrame": 2378,
+        "endFrame": 2384
+      },
+      {
+        "text": "that",
+        "startFrame": 2384,
+        "endFrame": 2393
+      },
+      {
+        "text": "later.",
+        "startFrame": 2393,
+        "endFrame": 2408
+      }
+    ]
+  },
+  {
+    "text": "Now here's the important line,",
+    "startFrame": 2408,
+    "endFrame": 2483,
+    "words": [
+      {
+        "text": "Now",
+        "startFrame": 2408,
+        "endFrame": 2420
+      },
+      {
+        "text": "here's",
+        "startFrame": 2420,
+        "endFrame": 2433
+      },
+      {
+        "text": "the",
+        "startFrame": 2433,
+        "endFrame": 2442
+      },
+      {
+        "text": "important",
+        "startFrame": 2442,
+        "endFrame": 2471
+      },
+      {
+        "text": "line,",
+        "startFrame": 2471,
+        "endFrame": 2483
+      }
+    ]
+  },
+  {
+    "text": "order store just an empty dict.",
+    "startFrame": 2483,
+    "endFrame": 2563,
+    "words": [
+      {
+        "text": "order",
+        "startFrame": 2483,
+        "endFrame": 2500
+      },
+      {
+        "text": "store",
+        "startFrame": 2500,
+        "endFrame": 2511
+      },
+      {
+        "text": "just",
+        "startFrame": 2511,
+        "endFrame": 2524
+      },
+      {
+        "text": "an",
+        "startFrame": 2524,
+        "endFrame": 2528
+      },
+      {
+        "text": "empty",
+        "startFrame": 2528,
+        "endFrame": 2541
+      },
+      {
+        "text": "dict.",
+        "startFrame": 2541,
+        "endFrame": 2563
+      }
+    ]
+  },
+  {
+    "text": "Here's our hashmap.",
+    "startFrame": 2563,
+    "endFrame": 2615,
+    "words": [
+      {
+        "text": "Here's",
+        "startFrame": 2563,
+        "endFrame": 2579
+      },
+      {
+        "text": "our",
+        "startFrame": 2579,
+        "endFrame": 2587
+      },
+      {
+        "text": "hashmap.",
+        "startFrame": 2587,
+        "endFrame": 2615
+      }
+    ]
+  },
+  {
+    "text": "This is where every order status",
+    "startFrame": 2615,
+    "endFrame": 2666,
+    "words": [
+      {
+        "text": "This",
+        "startFrame": 2615,
+        "endFrame": 2622
+      },
+      {
+        "text": "is",
+        "startFrame": 2622,
+        "endFrame": 2626
+      },
+      {
+        "text": "where",
+        "startFrame": 2626,
+        "endFrame": 2637
+      },
+      {
+        "text": "every",
+        "startFrame": 2637,
+        "endFrame": 2645
+      },
+      {
+        "text": "order",
+        "startFrame": 2645,
+        "endFrame": 2655
+      },
+      {
+        "text": "status",
+        "startFrame": 2655,
+        "endFrame": 2666
+      }
+    ]
+  },
+  {
+    "text": "is going to live.",
+    "startFrame": 2666,
+    "endFrame": 2698,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 2666,
+        "endFrame": 2670
+      },
+      {
+        "text": "going",
+        "startFrame": 2670,
+        "endFrame": 2680
+      },
+      {
+        "text": "to",
+        "startFrame": 2680,
+        "endFrame": 2683
+      },
+      {
+        "text": "live.",
+        "startFrame": 2683,
+        "endFrame": 2698
+      }
+    ]
+  },
+  {
+    "text": "And store lock,",
+    "startFrame": 2698,
+    "endFrame": 2722,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 2698,
+        "endFrame": 2704
+      },
+      {
+        "text": "store",
+        "startFrame": 2704,
+        "endFrame": 2711
+      },
+      {
+        "text": "lock,",
+        "startFrame": 2711,
+        "endFrame": 2722
+      }
+    ]
+  },
+  {
+    "text": "we are adding this now,",
+    "startFrame": 2722,
+    "endFrame": 2760,
+    "words": [
+      {
+        "text": "we",
+        "startFrame": 2722,
+        "endFrame": 2725
+      },
+      {
+        "text": "are",
+        "startFrame": 2725,
+        "endFrame": 2730
+      },
+      {
+        "text": "adding",
+        "startFrame": 2730,
+        "endFrame": 2740
+      },
+      {
+        "text": "this",
+        "startFrame": 2740,
+        "endFrame": 2752
+      },
+      {
+        "text": "now,",
+        "startFrame": 2752,
+        "endFrame": 2760
+      }
+    ]
+  },
+  {
+    "text": "because in a bit multiple services",
+    "startFrame": 2760,
+    "endFrame": 2806,
+    "words": [
+      {
+        "text": "because",
+        "startFrame": 2760,
+        "endFrame": 2768
+      },
+      {
+        "text": "in",
+        "startFrame": 2768,
+        "endFrame": 2772
+      },
+      {
+        "text": "a",
+        "startFrame": 2772,
+        "endFrame": 2773
+      },
+      {
+        "text": "bit",
+        "startFrame": 2773,
+        "endFrame": 2778
+      },
+      {
+        "text": "multiple",
+        "startFrame": 2778,
+        "endFrame": 2792
+      },
+      {
+        "text": "services",
+        "startFrame": 2792,
+        "endFrame": 2806
+      }
+    ]
+  },
+  {
+    "text": "are going to be touching the",
+    "startFrame": 2806,
+    "endFrame": 2849,
+    "words": [
+      {
+        "text": "are",
+        "startFrame": 2806,
+        "endFrame": 2811
+      },
+      {
+        "text": "going",
+        "startFrame": 2811,
+        "endFrame": 2819
+      },
+      {
+        "text": "to",
+        "startFrame": 2819,
+        "endFrame": 2823
+      },
+      {
+        "text": "be",
+        "startFrame": 2823,
+        "endFrame": 2830
+      },
+      {
+        "text": "touching",
+        "startFrame": 2830,
+        "endFrame": 2845
+      },
+      {
+        "text": "the",
+        "startFrame": 2845,
+        "endFrame": 2849
+      }
+    ]
+  },
+  {
+    "text": "same dict at the same time.",
+    "startFrame": 2849,
+    "endFrame": 2892,
+    "words": [
+      {
+        "text": "same",
+        "startFrame": 2849,
+        "endFrame": 2856
+      },
+      {
+        "text": "dict",
+        "startFrame": 2856,
+        "endFrame": 2863
+      },
+      {
+        "text": "at",
+        "startFrame": 2863,
+        "endFrame": 2868
+      },
+      {
+        "text": "the",
+        "startFrame": 2868,
+        "endFrame": 2872
+      },
+      {
+        "text": "same",
+        "startFrame": 2872,
+        "endFrame": 2878
+      },
+      {
+        "text": "time.",
+        "startFrame": 2878,
+        "endFrame": 2892
+      }
+    ]
+  },
+  {
+    "text": "So we need to make sure",
+    "startFrame": 2892,
+    "endFrame": 2933,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 2892,
+        "endFrame": 2896
+      },
+      {
+        "text": "we",
+        "startFrame": 2896,
+        "endFrame": 2910
+      },
+      {
+        "text": "need",
+        "startFrame": 2910,
+        "endFrame": 2912
+      },
+      {
+        "text": "to",
+        "startFrame": 2912,
+        "endFrame": 2915
+      },
+      {
+        "text": "make",
+        "startFrame": 2915,
+        "endFrame": 2924
+      },
+      {
+        "text": "sure",
+        "startFrame": 2924,
+        "endFrame": 2933
+      }
+    ]
+  },
+  {
+    "text": "they don't step on each other.",
+    "startFrame": 2933,
+    "endFrame": 2999,
+    "words": [
+      {
+        "text": "they",
+        "startFrame": 2933,
+        "endFrame": 2942
+      },
+      {
+        "text": "don't",
+        "startFrame": 2942,
+        "endFrame": 2954
+      },
+      {
+        "text": "step",
+        "startFrame": 2954,
+        "endFrame": 2963
+      },
+      {
+        "text": "on",
+        "startFrame": 2963,
+        "endFrame": 2968
+      },
+      {
+        "text": "each",
+        "startFrame": 2968,
+        "endFrame": 2989
+      },
+      {
+        "text": "other.",
+        "startFrame": 2989,
+        "endFrame": 2999
+      }
+    ]
+  },
+  {
+    "text": "Alright, so this function is our",
+    "startFrame": 2999,
+    "endFrame": 3067,
+    "words": [
+      {
+        "text": "Alright,",
+        "startFrame": 2999,
+        "endFrame": 3020
+      },
+      {
+        "text": "so",
+        "startFrame": 3020,
+        "endFrame": 3032
+      },
+      {
+        "text": "this",
+        "startFrame": 3032,
+        "endFrame": 3035
+      },
+      {
+        "text": "function",
+        "startFrame": 3035,
+        "endFrame": 3054
+      },
+      {
+        "text": "is",
+        "startFrame": 3054,
+        "endFrame": 3059
+      },
+      {
+        "text": "our",
+        "startFrame": 3059,
+        "endFrame": 3067
+      }
+    ]
+  },
+  {
+    "text": "order service. First,",
+    "startFrame": 3067,
+    "endFrame": 3123,
+    "words": [
+      {
+        "text": "order",
+        "startFrame": 3067,
+        "endFrame": 3078
+      },
+      {
+        "text": "service.",
+        "startFrame": 3078,
+        "endFrame": 3103
+      },
+      {
+        "text": "First,",
+        "startFrame": 3103,
+        "endFrame": 3123
+      }
+    ]
+  },
+  {
+    "text": "we make a short random ID",
+    "startFrame": 3123,
+    "endFrame": 3174,
+    "words": [
+      {
+        "text": "we",
+        "startFrame": 3123,
+        "endFrame": 3131
+      },
+      {
+        "text": "make",
+        "startFrame": 3131,
+        "endFrame": 3137
+      },
+      {
+        "text": "a",
+        "startFrame": 3137,
+        "endFrame": 3140
+      },
+      {
+        "text": "short",
+        "startFrame": 3140,
+        "endFrame": 3153
+      },
+      {
+        "text": "random",
+        "startFrame": 3153,
+        "endFrame": 3169
+      },
+      {
+        "text": "ID",
+        "startFrame": 3169,
+        "endFrame": 3174
+      }
+    ]
+  },
+  {
+    "text": "for the order,",
+    "startFrame": 3174,
+    "endFrame": 3218,
+    "words": [
+      {
+        "text": "for",
+        "startFrame": 3174,
+        "endFrame": 3182
+      },
+      {
+        "text": "the",
+        "startFrame": 3182,
+        "endFrame": 3189
+      },
+      {
+        "text": "order,",
+        "startFrame": 3189,
+        "endFrame": 3218
+      }
+    ]
+  },
+  {
+    "text": "then we grab the lock using",
+    "startFrame": 3218,
+    "endFrame": 3266,
+    "words": [
+      {
+        "text": "then",
+        "startFrame": 3218,
+        "endFrame": 3218
+      },
+      {
+        "text": "we",
+        "startFrame": 3218,
+        "endFrame": 3224
+      },
+      {
+        "text": "grab",
+        "startFrame": 3224,
+        "endFrame": 3236
+      },
+      {
+        "text": "the",
+        "startFrame": 3236,
+        "endFrame": 3242
+      },
+      {
+        "text": "lock",
+        "startFrame": 3242,
+        "endFrame": 3252
+      },
+      {
+        "text": "using",
+        "startFrame": 3252,
+        "endFrame": 3266
+      }
+    ]
+  },
+  {
+    "text": "the with block.",
+    "startFrame": 3266,
+    "endFrame": 3306,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3266,
+        "endFrame": 3273
+      },
+      {
+        "text": "with",
+        "startFrame": 3273,
+        "endFrame": 3302
+      },
+      {
+        "text": "block.",
+        "startFrame": 3302,
+        "endFrame": 3306
+      }
+    ]
+  },
+  {
+    "text": "It automatically lets go of the",
+    "startFrame": 3306,
+    "endFrame": 3364,
+    "words": [
+      {
+        "text": "It",
+        "startFrame": 3306,
+        "endFrame": 3310
+      },
+      {
+        "text": "automatically",
+        "startFrame": 3310,
+        "endFrame": 3340
+      },
+      {
+        "text": "lets",
+        "startFrame": 3340,
+        "endFrame": 3349
+      },
+      {
+        "text": "go",
+        "startFrame": 3349,
+        "endFrame": 3354
+      },
+      {
+        "text": "of",
+        "startFrame": 3354,
+        "endFrame": 3356
+      },
+      {
+        "text": "the",
+        "startFrame": 3356,
+        "endFrame": 3364
+      }
+    ]
+  },
+  {
+    "text": "lock when we are done.",
+    "startFrame": 3364,
+    "endFrame": 3408,
+    "words": [
+      {
+        "text": "lock",
+        "startFrame": 3364,
+        "endFrame": 3371
+      },
+      {
+        "text": "when",
+        "startFrame": 3371,
+        "endFrame": 3380
+      },
+      {
+        "text": "we",
+        "startFrame": 3380,
+        "endFrame": 3383
+      },
+      {
+        "text": "are",
+        "startFrame": 3383,
+        "endFrame": 3399
+      },
+      {
+        "text": "done.",
+        "startFrame": 3399,
+        "endFrame": 3408
+      }
+    ]
+  },
+  {
+    "text": "Even if something goes wrong in",
+    "startFrame": 3408,
+    "endFrame": 3455,
+    "words": [
+      {
+        "text": "Even",
+        "startFrame": 3408,
+        "endFrame": 3415
+      },
+      {
+        "text": "if",
+        "startFrame": 3415,
+        "endFrame": 3419
+      },
+      {
+        "text": "something",
+        "startFrame": 3419,
+        "endFrame": 3435
+      },
+      {
+        "text": "goes",
+        "startFrame": 3435,
+        "endFrame": 3444
+      },
+      {
+        "text": "wrong",
+        "startFrame": 3444,
+        "endFrame": 3454
+      },
+      {
+        "text": "in",
+        "startFrame": 3454,
+        "endFrame": 3455
+      }
+    ]
+  },
+  {
+    "text": "between. So we don't have to",
+    "startFrame": 3455,
+    "endFrame": 3510,
+    "words": [
+      {
+        "text": "between.",
+        "startFrame": 3455,
+        "endFrame": 3473
+      },
+      {
+        "text": "So",
+        "startFrame": 3473,
+        "endFrame": 3478
+      },
+      {
+        "text": "we",
+        "startFrame": 3478,
+        "endFrame": 3483
+      },
+      {
+        "text": "don't",
+        "startFrame": 3483,
+        "endFrame": 3495
+      },
+      {
+        "text": "have",
+        "startFrame": 3495,
+        "endFrame": 3505
+      },
+      {
+        "text": "to",
+        "startFrame": 3505,
+        "endFrame": 3510
+      }
+    ]
+  },
+  {
+    "text": "worry about it.",
+    "startFrame": 3510,
+    "endFrame": 3550,
+    "words": [
+      {
+        "text": "worry",
+        "startFrame": 3510,
+        "endFrame": 3522
+      },
+      {
+        "text": "about",
+        "startFrame": 3522,
+        "endFrame": 3540
+      },
+      {
+        "text": "it.",
+        "startFrame": 3540,
+        "endFrame": 3550
+      }
+    ]
+  },
+  {
+    "text": "Inside we save the order into",
+    "startFrame": 3550,
+    "endFrame": 3610,
+    "words": [
+      {
+        "text": "Inside",
+        "startFrame": 3550,
+        "endFrame": 3565
+      },
+      {
+        "text": "we",
+        "startFrame": 3565,
+        "endFrame": 3569
+      },
+      {
+        "text": "save",
+        "startFrame": 3569,
+        "endFrame": 3579
+      },
+      {
+        "text": "the",
+        "startFrame": 3579,
+        "endFrame": 3587
+      },
+      {
+        "text": "order",
+        "startFrame": 3587,
+        "endFrame": 3604
+      },
+      {
+        "text": "into",
+        "startFrame": 3604,
+        "endFrame": 3610
+      }
+    ]
+  },
+  {
+    "text": "a dict, item,",
+    "startFrame": 3610,
+    "endFrame": 3641,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 3610,
+        "endFrame": 3611
+      },
+      {
+        "text": "dict,",
+        "startFrame": 3611,
+        "endFrame": 3626
+      },
+      {
+        "text": "item,",
+        "startFrame": 3626,
+        "endFrame": 3641
+      }
+    ]
+  },
+  {
+    "text": "quantity and status,",
+    "startFrame": 3641,
+    "endFrame": 3688,
+    "words": [
+      {
+        "text": "quantity",
+        "startFrame": 3641,
+        "endFrame": 3668
+      },
+      {
+        "text": "and",
+        "startFrame": 3668,
+        "endFrame": 3676
+      },
+      {
+        "text": "status,",
+        "startFrame": 3676,
+        "endFrame": 3688
+      }
+    ]
+  },
+  {
+    "text": "which starts as created.",
+    "startFrame": 3688,
+    "endFrame": 3746,
+    "words": [
+      {
+        "text": "which",
+        "startFrame": 3688,
+        "endFrame": 3700
+      },
+      {
+        "text": "starts",
+        "startFrame": 3700,
+        "endFrame": 3715
+      },
+      {
+        "text": "as",
+        "startFrame": 3715,
+        "endFrame": 3740
+      },
+      {
+        "text": "created.",
+        "startFrame": 3740,
+        "endFrame": 3746
+      }
+    ]
+  },
+  {
+    "text": "Keep an eye on status field,",
+    "startFrame": 3746,
+    "endFrame": 3800,
+    "words": [
+      {
+        "text": "Keep",
+        "startFrame": 3746,
+        "endFrame": 3754
+      },
+      {
+        "text": "an",
+        "startFrame": 3754,
+        "endFrame": 3758
+      },
+      {
+        "text": "eye",
+        "startFrame": 3758,
+        "endFrame": 3767
+      },
+      {
+        "text": "on",
+        "startFrame": 3767,
+        "endFrame": 3769
+      },
+      {
+        "text": "status",
+        "startFrame": 3769,
+        "endFrame": 3782
+      },
+      {
+        "text": "field,",
+        "startFrame": 3782,
+        "endFrame": 3800
+      }
+    ]
+  },
+  {
+    "text": "by the way,",
+    "startFrame": 3800,
+    "endFrame": 3817,
+    "words": [
+      {
+        "text": "by",
+        "startFrame": 3800,
+        "endFrame": 3800
+      },
+      {
+        "text": "the",
+        "startFrame": 3800,
+        "endFrame": 3813
+      },
+      {
+        "text": "way,",
+        "startFrame": 3813,
+        "endFrame": 3817
+      }
+    ]
+  },
+  {
+    "text": "every service coming up is going",
+    "startFrame": 3817,
+    "endFrame": 3874,
+    "words": [
+      {
+        "text": "every",
+        "startFrame": 3817,
+        "endFrame": 3828
+      },
+      {
+        "text": "service",
+        "startFrame": 3828,
+        "endFrame": 3842
+      },
+      {
+        "text": "coming",
+        "startFrame": 3842,
+        "endFrame": 3855
+      },
+      {
+        "text": "up",
+        "startFrame": 3855,
+        "endFrame": 3859
+      },
+      {
+        "text": "is",
+        "startFrame": 3859,
+        "endFrame": 3866
+      },
+      {
+        "text": "going",
+        "startFrame": 3866,
+        "endFrame": 3874
+      }
+    ]
+  },
+  {
+    "text": "to change it.",
+    "startFrame": 3874,
+    "endFrame": 3902,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 3874,
+        "endFrame": 3879
+      },
+      {
+        "text": "change",
+        "startFrame": 3879,
+        "endFrame": 3890
+      },
+      {
+        "text": "it.",
+        "startFrame": 3890,
+        "endFrame": 3902
+      }
+    ]
+  },
+  {
+    "text": "It's basically how we track whether",
+    "startFrame": 3902,
+    "endFrame": 3975,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 3902,
+        "endFrame": 3911
+      },
+      {
+        "text": "basically",
+        "startFrame": 3911,
+        "endFrame": 3931
+      },
+      {
+        "text": "how",
+        "startFrame": 3931,
+        "endFrame": 3942
+      },
+      {
+        "text": "we",
+        "startFrame": 3942,
+        "endFrame": 3943
+      },
+      {
+        "text": "track",
+        "startFrame": 3943,
+        "endFrame": 3956
+      },
+      {
+        "text": "whether",
+        "startFrame": 3956,
+        "endFrame": 3975
+      }
+    ]
+  },
+  {
+    "text": "the order is at any point.",
+    "startFrame": 3975,
+    "endFrame": 4025,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3975,
+        "endFrame": 3977
+      },
+      {
+        "text": "order",
+        "startFrame": 3977,
+        "endFrame": 3989
+      },
+      {
+        "text": "is",
+        "startFrame": 3989,
+        "endFrame": 3993
+      },
+      {
+        "text": "at",
+        "startFrame": 3993,
+        "endFrame": 3998
+      },
+      {
+        "text": "any",
+        "startFrame": 3998,
+        "endFrame": 4007
+      },
+      {
+        "text": "point.",
+        "startFrame": 4007,
+        "endFrame": 4025
+      }
+    ]
+  },
+  {
+    "text": "Okay, so we make three queues,",
+    "startFrame": 4025,
+    "endFrame": 4101,
+    "words": [
+      {
+        "text": "Okay,",
+        "startFrame": 4025,
+        "endFrame": 4047
+      },
+      {
+        "text": "so",
+        "startFrame": 4047,
+        "endFrame": 4052
+      },
+      {
+        "text": "we",
+        "startFrame": 4052,
+        "endFrame": 4056
+      },
+      {
+        "text": "make",
+        "startFrame": 4056,
+        "endFrame": 4063
+      },
+      {
+        "text": "three",
+        "startFrame": 4063,
+        "endFrame": 4080
+      },
+      {
+        "text": "queues,",
+        "startFrame": 4080,
+        "endFrame": 4101
+      }
+    ]
+  },
+  {
+    "text": "one for each step.",
+    "startFrame": 4101,
+    "endFrame": 4150,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 4101,
+        "endFrame": 4109
+      },
+      {
+        "text": "for",
+        "startFrame": 4109,
+        "endFrame": 4116
+      },
+      {
+        "text": "each",
+        "startFrame": 4116,
+        "endFrame": 4138
+      },
+      {
+        "text": "step.",
+        "startFrame": 4138,
+        "endFrame": 4150
+      }
+    ]
+  },
+  {
+    "text": "Think of this like a stand",
+    "startFrame": 4150,
+    "endFrame": 4195,
+    "words": [
+      {
+        "text": "Think",
+        "startFrame": 4150,
+        "endFrame": 4160
+      },
+      {
+        "text": "of",
+        "startFrame": 4160,
+        "endFrame": 4170
+      },
+      {
+        "text": "this",
+        "startFrame": 4170,
+        "endFrame": 4173
+      },
+      {
+        "text": "like",
+        "startFrame": 4173,
+        "endFrame": 4184
+      },
+      {
+        "text": "a",
+        "startFrame": 4184,
+        "endFrame": 4187
+      },
+      {
+        "text": "stand",
+        "startFrame": 4187,
+        "endFrame": 4195
+      }
+    ]
+  },
+  {
+    "text": "in for something like Kafka in",
+    "startFrame": 4195,
+    "endFrame": 4249,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 4195,
+        "endFrame": 4199
+      },
+      {
+        "text": "for",
+        "startFrame": 4199,
+        "endFrame": 4210
+      },
+      {
+        "text": "something",
+        "startFrame": 4210,
+        "endFrame": 4226
+      },
+      {
+        "text": "like",
+        "startFrame": 4226,
+        "endFrame": 4234
+      },
+      {
+        "text": "Kafka",
+        "startFrame": 4234,
+        "endFrame": 4245
+      },
+      {
+        "text": "in",
+        "startFrame": 4245,
+        "endFrame": 4249
+      }
+    ]
+  },
+  {
+    "text": "a real company.",
+    "startFrame": 4249,
+    "endFrame": 4285,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 4249,
+        "endFrame": 4253
+      },
+      {
+        "text": "real",
+        "startFrame": 4253,
+        "endFrame": 4260
+      },
+      {
+        "text": "company.",
+        "startFrame": 4260,
+        "endFrame": 4285
+      }
+    ]
+  },
+  {
+    "text": "Now this payment service function is",
+    "startFrame": 4285,
+    "endFrame": 4354,
+    "words": [
+      {
+        "text": "Now",
+        "startFrame": 4285,
+        "endFrame": 4292
+      },
+      {
+        "text": "this",
+        "startFrame": 4292,
+        "endFrame": 4300
+      },
+      {
+        "text": "payment",
+        "startFrame": 4300,
+        "endFrame": 4317
+      },
+      {
+        "text": "service",
+        "startFrame": 4317,
+        "endFrame": 4336
+      },
+      {
+        "text": "function",
+        "startFrame": 4336,
+        "endFrame": 4353
+      },
+      {
+        "text": "is",
+        "startFrame": 4353,
+        "endFrame": 4354
+      }
+    ]
+  },
+  {
+    "text": "just run forever in a loop",
+    "startFrame": 4354,
+    "endFrame": 4411,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 4354,
+        "endFrame": 4368
+      },
+      {
+        "text": "run",
+        "startFrame": 4368,
+        "endFrame": 4370
+      },
+      {
+        "text": "forever",
+        "startFrame": 4370,
+        "endFrame": 4386
+      },
+      {
+        "text": "in",
+        "startFrame": 4386,
+        "endFrame": 4390
+      },
+      {
+        "text": "a",
+        "startFrame": 4390,
+        "endFrame": 4393
+      },
+      {
+        "text": "loop",
+        "startFrame": 4393,
+        "endFrame": 4411
+      }
+    ]
+  },
+  {
+    "text": "that gets called basically just wait",
+    "startFrame": 4411,
+    "endFrame": 4476,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 4411,
+        "endFrame": 4411
+      },
+      {
+        "text": "gets",
+        "startFrame": 4411,
+        "endFrame": 4425
+      },
+      {
+        "text": "called",
+        "startFrame": 4425,
+        "endFrame": 4433
+      },
+      {
+        "text": "basically",
+        "startFrame": 4433,
+        "endFrame": 4456
+      },
+      {
+        "text": "just",
+        "startFrame": 4456,
+        "endFrame": 4467
+      },
+      {
+        "text": "wait",
+        "startFrame": 4467,
+        "endFrame": 4476
+      }
+    ]
+  },
+  {
+    "text": "patiently until something shows up.",
+    "startFrame": 4476,
+    "endFrame": 4546,
+    "words": [
+      {
+        "text": "patiently",
+        "startFrame": 4476,
+        "endFrame": 4493
+      },
+      {
+        "text": "until",
+        "startFrame": 4493,
+        "endFrame": 4504
+      },
+      {
+        "text": "something",
+        "startFrame": 4504,
+        "endFrame": 4534
+      },
+      {
+        "text": "shows",
+        "startFrame": 4534,
+        "endFrame": 4534
+      },
+      {
+        "text": "up.",
+        "startFrame": 4534,
+        "endFrame": 4546
+      }
+    ]
+  },
+  {
+    "text": "It's not wasting any CPU checking",
+    "startFrame": 4546,
+    "endFrame": 4608,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 4546,
+        "endFrame": 4556
+      },
+      {
+        "text": "not",
+        "startFrame": 4556,
+        "endFrame": 4563
+      },
+      {
+        "text": "wasting",
+        "startFrame": 4563,
+        "endFrame": 4577
+      },
+      {
+        "text": "any",
+        "startFrame": 4577,
+        "endFrame": 4583
+      },
+      {
+        "text": "CPU",
+        "startFrame": 4583,
+        "endFrame": 4592
+      },
+      {
+        "text": "checking",
+        "startFrame": 4592,
+        "endFrame": 4608
+      }
+    ]
+  },
+  {
+    "text": "again and again.",
+    "startFrame": 4608,
+    "endFrame": 4645,
+    "words": [
+      {
+        "text": "again",
+        "startFrame": 4608,
+        "endFrame": 4616
+      },
+      {
+        "text": "and",
+        "startFrame": 4616,
+        "endFrame": 4631
+      },
+      {
+        "text": "again.",
+        "startFrame": 4631,
+        "endFrame": 4645
+      }
+    ]
+  },
+  {
+    "text": "Once an order comes up,",
+    "startFrame": 4645,
+    "endFrame": 4682,
+    "words": [
+      {
+        "text": "Once",
+        "startFrame": 4645,
+        "endFrame": 4653
+      },
+      {
+        "text": "an",
+        "startFrame": 4653,
+        "endFrame": 4656
+      },
+      {
+        "text": "order",
+        "startFrame": 4656,
+        "endFrame": 4666
+      },
+      {
+        "text": "comes",
+        "startFrame": 4666,
+        "endFrame": 4678
+      },
+      {
+        "text": "up,",
+        "startFrame": 4678,
+        "endFrame": 4682
+      }
+    ]
+  },
+  {
+    "text": "we sleep for half a second,",
+    "startFrame": 4682,
+    "endFrame": 4725,
+    "words": [
+      {
+        "text": "we",
+        "startFrame": 4682,
+        "endFrame": 4687
+      },
+      {
+        "text": "sleep",
+        "startFrame": 4687,
+        "endFrame": 4696
+      },
+      {
+        "text": "for",
+        "startFrame": 4696,
+        "endFrame": 4701
+      },
+      {
+        "text": "half",
+        "startFrame": 4701,
+        "endFrame": 4708
+      },
+      {
+        "text": "a",
+        "startFrame": 4708,
+        "endFrame": 4710
+      },
+      {
+        "text": "second,",
+        "startFrame": 4710,
+        "endFrame": 4725
+      }
+    ]
+  },
+  {
+    "text": "just to pretend like it's actually",
+    "startFrame": 4725,
+    "endFrame": 4782,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 4725,
+        "endFrame": 4733
+      },
+      {
+        "text": "to",
+        "startFrame": 4733,
+        "endFrame": 4739
+      },
+      {
+        "text": "pretend",
+        "startFrame": 4739,
+        "endFrame": 4749
+      },
+      {
+        "text": "like",
+        "startFrame": 4749,
+        "endFrame": 4756
+      },
+      {
+        "text": "it's",
+        "startFrame": 4756,
+        "endFrame": 4764
+      },
+      {
+        "text": "actually",
+        "startFrame": 4764,
+        "endFrame": 4782
+      }
+    ]
+  },
+  {
+    "text": "processing a payment.",
+    "startFrame": 4782,
+    "endFrame": 4842,
+    "words": [
+      {
+        "text": "processing",
+        "startFrame": 4782,
+        "endFrame": 4810
+      },
+      {
+        "text": "a",
+        "startFrame": 4810,
+        "endFrame": 4813
+      },
+      {
+        "text": "payment.",
+        "startFrame": 4813,
+        "endFrame": 4842
+      }
+    ]
+  },
+  {
+    "text": "Then we update our hashmap,",
+    "startFrame": 4842,
+    "endFrame": 4900,
+    "words": [
+      {
+        "text": "Then",
+        "startFrame": 4842,
+        "endFrame": 4852
+      },
+      {
+        "text": "we",
+        "startFrame": 4852,
+        "endFrame": 4857
+      },
+      {
+        "text": "update",
+        "startFrame": 4857,
+        "endFrame": 4871
+      },
+      {
+        "text": "our",
+        "startFrame": 4871,
+        "endFrame": 4888
+      },
+      {
+        "text": "hashmap,",
+        "startFrame": 4888,
+        "endFrame": 4900
+      }
+    ]
+  },
+  {
+    "text": "print it out and push it",
+    "startFrame": 4900,
+    "endFrame": 4945,
+    "words": [
+      {
+        "text": "print",
+        "startFrame": 4900,
+        "endFrame": 4912
+      },
+      {
+        "text": "it",
+        "startFrame": 4912,
+        "endFrame": 4920
+      },
+      {
+        "text": "out",
+        "startFrame": 4920,
+        "endFrame": 4924
+      },
+      {
+        "text": "and",
+        "startFrame": 4924,
+        "endFrame": 4931
+      },
+      {
+        "text": "push",
+        "startFrame": 4931,
+        "endFrame": 4942
+      },
+      {
+        "text": "it",
+        "startFrame": 4942,
+        "endFrame": 4945
+      }
+    ]
+  },
+  {
+    "text": "onto the next queue inventory and",
+    "startFrame": 4945,
+    "endFrame": 5016,
+    "words": [
+      {
+        "text": "onto",
+        "startFrame": 4945,
+        "endFrame": 4955
+      },
+      {
+        "text": "the",
+        "startFrame": 4955,
+        "endFrame": 4962
+      },
+      {
+        "text": "next",
+        "startFrame": 4962,
+        "endFrame": 4969
+      },
+      {
+        "text": "queue",
+        "startFrame": 4969,
+        "endFrame": 4993
+      },
+      {
+        "text": "inventory",
+        "startFrame": 4993,
+        "endFrame": 5006
+      },
+      {
+        "text": "and",
+        "startFrame": 5006,
+        "endFrame": 5016
+      }
+    ]
+  },
+  {
+    "text": "that's it. Payments done,",
+    "startFrame": 5016,
+    "endFrame": 5087,
+    "words": [
+      {
+        "text": "that's",
+        "startFrame": 5016,
+        "endFrame": 5032
+      },
+      {
+        "text": "it.",
+        "startFrame": 5032,
+        "endFrame": 5046
+      },
+      {
+        "text": "Payments",
+        "startFrame": 5050,
+        "endFrame": 5077
+      },
+      {
+        "text": "done,",
+        "startFrame": 5077,
+        "endFrame": 5087
+      }
+    ]
+  },
+  {
+    "text": "is job and moved on just",
+    "startFrame": 5087,
+    "endFrame": 5144,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 5087,
+        "endFrame": 5095
+      },
+      {
+        "text": "job",
+        "startFrame": 5095,
+        "endFrame": 5102
+      },
+      {
+        "text": "and",
+        "startFrame": 5102,
+        "endFrame": 5109
+      },
+      {
+        "text": "moved",
+        "startFrame": 5109,
+        "endFrame": 5124
+      },
+      {
+        "text": "on",
+        "startFrame": 5124,
+        "endFrame": 5140
+      },
+      {
+        "text": "just",
+        "startFrame": 5140,
+        "endFrame": 5144
+      }
+    ]
+  },
+  {
+    "text": "adding one line up here.",
+    "startFrame": 5144,
+    "endFrame": 5210,
+    "words": [
+      {
+        "text": "adding",
+        "startFrame": 5144,
+        "endFrame": 5160
+      },
+      {
+        "text": "one",
+        "startFrame": 5160,
+        "endFrame": 5169
+      },
+      {
+        "text": "line",
+        "startFrame": 5169,
+        "endFrame": 5180
+      },
+      {
+        "text": "up",
+        "startFrame": 5180,
+        "endFrame": 5198
+      },
+      {
+        "text": "here.",
+        "startFrame": 5198,
+        "endFrame": 5210
+      }
+    ]
+  },
+  {
+    "text": "After we save the order,",
+    "startFrame": 5210,
+    "endFrame": 5250,
+    "words": [
+      {
+        "text": "After",
+        "startFrame": 5210,
+        "endFrame": 5220
+      },
+      {
+        "text": "we",
+        "startFrame": 5220,
+        "endFrame": 5226
+      },
+      {
+        "text": "save",
+        "startFrame": 5226,
+        "endFrame": 5231
+      },
+      {
+        "text": "the",
+        "startFrame": 5231,
+        "endFrame": 5237
+      },
+      {
+        "text": "order,",
+        "startFrame": 5237,
+        "endFrame": 5250
+      }
+    ]
+  },
+  {
+    "text": "we drop it straight onto the",
+    "startFrame": 5250,
+    "endFrame": 5293,
+    "words": [
+      {
+        "text": "we",
+        "startFrame": 5250,
+        "endFrame": 5254
+      },
+      {
+        "text": "drop",
+        "startFrame": 5254,
+        "endFrame": 5261
+      },
+      {
+        "text": "it",
+        "startFrame": 5261,
+        "endFrame": 5269
+      },
+      {
+        "text": "straight",
+        "startFrame": 5269,
+        "endFrame": 5280
+      },
+      {
+        "text": "onto",
+        "startFrame": 5280,
+        "endFrame": 5289
+      },
+      {
+        "text": "the",
+        "startFrame": 5289,
+        "endFrame": 5293
+      }
+    ]
+  },
+  {
+    "text": "payment queue. That's literally the whole",
+    "startFrame": 5293,
+    "endFrame": 5378,
+    "words": [
+      {
+        "text": "payment",
+        "startFrame": 5293,
+        "endFrame": 5309
+      },
+      {
+        "text": "queue.",
+        "startFrame": 5309,
+        "endFrame": 5324
+      },
+      {
+        "text": "That's",
+        "startFrame": 5324,
+        "endFrame": 5338
+      },
+      {
+        "text": "literally",
+        "startFrame": 5338,
+        "endFrame": 5362
+      },
+      {
+        "text": "the",
+        "startFrame": 5362,
+        "endFrame": 5366
+      },
+      {
+        "text": "whole",
+        "startFrame": 5366,
+        "endFrame": 5378
+      }
+    ]
+  },
+  {
+    "text": "handoff. Same idea again,",
+    "startFrame": 5378,
+    "endFrame": 5432,
+    "words": [
+      {
+        "text": "handoff.",
+        "startFrame": 5378,
+        "endFrame": 5395
+      },
+      {
+        "text": "Same",
+        "startFrame": 5395,
+        "endFrame": 5405
+      },
+      {
+        "text": "idea",
+        "startFrame": 5405,
+        "endFrame": 5415
+      },
+      {
+        "text": "again,",
+        "startFrame": 5415,
+        "endFrame": 5432
+      }
+    ]
+  },
+  {
+    "text": "just two more times.",
+    "startFrame": 5432,
+    "endFrame": 5480,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 5432,
+        "endFrame": 5441
+      },
+      {
+        "text": "two",
+        "startFrame": 5441,
+        "endFrame": 5456
+      },
+      {
+        "text": "more",
+        "startFrame": 5456,
+        "endFrame": 5469
+      },
+      {
+        "text": "times.",
+        "startFrame": 5469,
+        "endFrame": 5480
+      }
+    ]
+  },
+  {
+    "text": "Inventory wait for something to show",
+    "startFrame": 5480,
+    "endFrame": 5559,
+    "words": [
+      {
+        "text": "Inventory",
+        "startFrame": 5480,
+        "endFrame": 5503
+      },
+      {
+        "text": "wait",
+        "startFrame": 5503,
+        "endFrame": 5515
+      },
+      {
+        "text": "for",
+        "startFrame": 5515,
+        "endFrame": 5521
+      },
+      {
+        "text": "something",
+        "startFrame": 5521,
+        "endFrame": 5543
+      },
+      {
+        "text": "to",
+        "startFrame": 5543,
+        "endFrame": 5548
+      },
+      {
+        "text": "show",
+        "startFrame": 5548,
+        "endFrame": 5559
+      }
+    ]
+  },
+  {
+    "text": "up, mark it as reserved and",
+    "startFrame": 5559,
+    "endFrame": 5616,
+    "words": [
+      {
+        "text": "up,",
+        "startFrame": 5559,
+        "endFrame": 5568
+      },
+      {
+        "text": "mark",
+        "startFrame": 5568,
+        "endFrame": 5583
+      },
+      {
+        "text": "it",
+        "startFrame": 5583,
+        "endFrame": 5588
+      },
+      {
+        "text": "as",
+        "startFrame": 5588,
+        "endFrame": 5590
+      },
+      {
+        "text": "reserved",
+        "startFrame": 5590,
+        "endFrame": 5608
+      },
+      {
+        "text": "and",
+        "startFrame": 5608,
+        "endFrame": 5616
+      }
+    ]
+  },
+  {
+    "text": "hence it off.",
+    "startFrame": 5616,
+    "endFrame": 5651,
+    "words": [
+      {
+        "text": "hence",
+        "startFrame": 5616,
+        "endFrame": 5633
+      },
+      {
+        "text": "it",
+        "startFrame": 5633,
+        "endFrame": 5634
+      },
+      {
+        "text": "off.",
+        "startFrame": 5634,
+        "endFrame": 5651
+      }
+    ]
+  },
+  {
+    "text": "Notification waits, mark the order as",
+    "startFrame": 5651,
+    "endFrame": 5713,
+    "words": [
+      {
+        "text": "Notification",
+        "startFrame": 5651,
+        "endFrame": 5679
+      },
+      {
+        "text": "waits,",
+        "startFrame": 5679,
+        "endFrame": 5687
+      },
+      {
+        "text": "mark",
+        "startFrame": 5687,
+        "endFrame": 5694
+      },
+      {
+        "text": "the",
+        "startFrame": 5694,
+        "endFrame": 5700
+      },
+      {
+        "text": "order",
+        "startFrame": 5700,
+        "endFrame": 5710
+      },
+      {
+        "text": "as",
+        "startFrame": 5710,
+        "endFrame": 5713
+      }
+    ]
+  },
+  {
+    "text": "completed. So now we have got",
+    "startFrame": 5713,
+    "endFrame": 5766,
+    "words": [
+      {
+        "text": "completed.",
+        "startFrame": 5713,
+        "endFrame": 5737
+      },
+      {
+        "text": "So",
+        "startFrame": 5737,
+        "endFrame": 5741
+      },
+      {
+        "text": "now",
+        "startFrame": 5741,
+        "endFrame": 5747
+      },
+      {
+        "text": "we",
+        "startFrame": 5747,
+        "endFrame": 5751
+      },
+      {
+        "text": "have",
+        "startFrame": 5751,
+        "endFrame": 5759
+      },
+      {
+        "text": "got",
+        "startFrame": 5759,
+        "endFrame": 5766
+      }
+    ]
+  },
+  {
+    "text": "four services running and none of",
+    "startFrame": 5766,
+    "endFrame": 5822,
+    "words": [
+      {
+        "text": "four",
+        "startFrame": 5766,
+        "endFrame": 5773
+      },
+      {
+        "text": "services",
+        "startFrame": 5773,
+        "endFrame": 5789
+      },
+      {
+        "text": "running",
+        "startFrame": 5789,
+        "endFrame": 5803
+      },
+      {
+        "text": "and",
+        "startFrame": 5803,
+        "endFrame": 5814
+      },
+      {
+        "text": "none",
+        "startFrame": 5814,
+        "endFrame": 5818
+      },
+      {
+        "text": "of",
+        "startFrame": 5818,
+        "endFrame": 5822
+      }
+    ]
+  },
+  {
+    "text": "them are directly calling each other.",
+    "startFrame": 5822,
+    "endFrame": 5899,
+    "words": [
+      {
+        "text": "them",
+        "startFrame": 5822,
+        "endFrame": 5830
+      },
+      {
+        "text": "are",
+        "startFrame": 5830,
+        "endFrame": 5836
+      },
+      {
+        "text": "directly",
+        "startFrame": 5836,
+        "endFrame": 5852
+      },
+      {
+        "text": "calling",
+        "startFrame": 5852,
+        "endFrame": 5866
+      },
+      {
+        "text": "each",
+        "startFrame": 5866,
+        "endFrame": 5887
+      },
+      {
+        "text": "other.",
+        "startFrame": 5887,
+        "endFrame": 5899
+      }
+    ]
+  },
+  {
+    "text": "Everything just flow through the dict",
+    "startFrame": 5899,
+    "endFrame": 5952,
+    "words": [
+      {
+        "text": "Everything",
+        "startFrame": 5899,
+        "endFrame": 5920
+      },
+      {
+        "text": "just",
+        "startFrame": 5920,
+        "endFrame": 5924
+      },
+      {
+        "text": "flow",
+        "startFrame": 5924,
+        "endFrame": 5931
+      },
+      {
+        "text": "through",
+        "startFrame": 5931,
+        "endFrame": 5945
+      },
+      {
+        "text": "the",
+        "startFrame": 5945,
+        "endFrame": 5948
+      },
+      {
+        "text": "dict",
+        "startFrame": 5948,
+        "endFrame": 5952
+      }
+    ]
+  },
+  {
+    "text": "and the queues.",
+    "startFrame": 5952,
+    "endFrame": 5983,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 5952,
+        "endFrame": 5959
+      },
+      {
+        "text": "the",
+        "startFrame": 5959,
+        "endFrame": 5965
+      },
+      {
+        "text": "queues.",
+        "startFrame": 5965,
+        "endFrame": 5983
+      }
+    ]
+  },
+  {
+    "text": "Now let's actually start all these",
+    "startFrame": 5983,
+    "endFrame": 6045,
+    "words": [
+      {
+        "text": "Now",
+        "startFrame": 5983,
+        "endFrame": 5990
+      },
+      {
+        "text": "let's",
+        "startFrame": 5990,
+        "endFrame": 6000
+      },
+      {
+        "text": "actually",
+        "startFrame": 6000,
+        "endFrame": 6017
+      },
+      {
+        "text": "start",
+        "startFrame": 6017,
+        "endFrame": 6030
+      },
+      {
+        "text": "all",
+        "startFrame": 6030,
+        "endFrame": 6034
+      },
+      {
+        "text": "these",
+        "startFrame": 6034,
+        "endFrame": 6045
+      }
+    ]
+  },
+  {
+    "text": "services as thread.",
+    "startFrame": 6045,
+    "endFrame": 6088,
+    "words": [
+      {
+        "text": "services",
+        "startFrame": 6045,
+        "endFrame": 6063
+      },
+      {
+        "text": "as",
+        "startFrame": 6063,
+        "endFrame": 6066
+      },
+      {
+        "text": "thread.",
+        "startFrame": 6066,
+        "endFrame": 6088
+      }
+    ]
+  },
+  {
+    "text": "In real company,",
+    "startFrame": 6088,
+    "endFrame": 6118,
+    "words": [
+      {
+        "text": "In",
+        "startFrame": 6088,
+        "endFrame": 6092
+      },
+      {
+        "text": "real",
+        "startFrame": 6092,
+        "endFrame": 6100
+      },
+      {
+        "text": "company,",
+        "startFrame": 6100,
+        "endFrame": 6118
+      }
+    ]
+  },
+  {
+    "text": "each of this would be in",
+    "startFrame": 6118,
+    "endFrame": 6157,
+    "words": [
+      {
+        "text": "each",
+        "startFrame": 6118,
+        "endFrame": 6125
+      },
+      {
+        "text": "of",
+        "startFrame": 6125,
+        "endFrame": 6129
+      },
+      {
+        "text": "this",
+        "startFrame": 6129,
+        "endFrame": 6137
+      },
+      {
+        "text": "would",
+        "startFrame": 6137,
+        "endFrame": 6147
+      },
+      {
+        "text": "be",
+        "startFrame": 6147,
+        "endFrame": 6155
+      },
+      {
+        "text": "in",
+        "startFrame": 6155,
+        "endFrame": 6157
+      }
+    ]
+  },
+  {
+    "text": "its own container running somewhere,",
+    "startFrame": 6157,
+    "endFrame": 6225,
+    "words": [
+      {
+        "text": "its",
+        "startFrame": 6157,
+        "endFrame": 6160
+      },
+      {
+        "text": "own",
+        "startFrame": 6160,
+        "endFrame": 6167
+      },
+      {
+        "text": "container",
+        "startFrame": 6167,
+        "endFrame": 6184
+      },
+      {
+        "text": "running",
+        "startFrame": 6184,
+        "endFrame": 6198
+      },
+      {
+        "text": "somewhere,",
+        "startFrame": 6198,
+        "endFrame": 6225
+      }
+    ]
+  },
+  {
+    "text": "but same idea.",
+    "startFrame": 6225,
+    "endFrame": 6265,
+    "words": [
+      {
+        "text": "but",
+        "startFrame": 6225,
+        "endFrame": 6226
+      },
+      {
+        "text": "same",
+        "startFrame": 6226,
+        "endFrame": 6235
+      },
+      {
+        "text": "idea.",
+        "startFrame": 6235,
+        "endFrame": 6265
+      }
+    ]
+  },
+  {
+    "text": "Let's create two orders and give",
+    "startFrame": 6265,
+    "endFrame": 6324,
+    "words": [
+      {
+        "text": "Let's",
+        "startFrame": 6265,
+        "endFrame": 6276
+      },
+      {
+        "text": "create",
+        "startFrame": 6276,
+        "endFrame": 6289
+      },
+      {
+        "text": "two",
+        "startFrame": 6289,
+        "endFrame": 6296
+      },
+      {
+        "text": "orders",
+        "startFrame": 6296,
+        "endFrame": 6309
+      },
+      {
+        "text": "and",
+        "startFrame": 6309,
+        "endFrame": 6316
+      },
+      {
+        "text": "give",
+        "startFrame": 6316,
+        "endFrame": 6324
+      }
+    ]
+  },
+  {
+    "text": "it a few seconds to finish.",
+    "startFrame": 6324,
+    "endFrame": 6379,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 6324,
+        "endFrame": 6329
+      },
+      {
+        "text": "a",
+        "startFrame": 6329,
+        "endFrame": 6331
+      },
+      {
+        "text": "few",
+        "startFrame": 6331,
+        "endFrame": 6337
+      },
+      {
+        "text": "seconds",
+        "startFrame": 6337,
+        "endFrame": 6357
+      },
+      {
+        "text": "to",
+        "startFrame": 6357,
+        "endFrame": 6357
+      },
+      {
+        "text": "finish.",
+        "startFrame": 6357,
+        "endFrame": 6379
+      }
+    ]
+  },
+  {
+    "text": "And look at that,",
+    "startFrame": 6379,
+    "endFrame": 6413,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 6379,
+        "endFrame": 6385
+      },
+      {
+        "text": "look",
+        "startFrame": 6385,
+        "endFrame": 6392
+      },
+      {
+        "text": "at",
+        "startFrame": 6392,
+        "endFrame": 6404
+      },
+      {
+        "text": "that,",
+        "startFrame": 6404,
+        "endFrame": 6413
+      }
+    ]
+  },
+  {
+    "text": "two orders going through all four",
+    "startFrame": 6413,
+    "endFrame": 6464,
+    "words": [
+      {
+        "text": "two",
+        "startFrame": 6413,
+        "endFrame": 6414
+      },
+      {
+        "text": "orders",
+        "startFrame": 6414,
+        "endFrame": 6429
+      },
+      {
+        "text": "going",
+        "startFrame": 6429,
+        "endFrame": 6437
+      },
+      {
+        "text": "through",
+        "startFrame": 6437,
+        "endFrame": 6450
+      },
+      {
+        "text": "all",
+        "startFrame": 6450,
+        "endFrame": 6455
+      },
+      {
+        "text": "four",
+        "startFrame": 6455,
+        "endFrame": 6464
+      }
+    ]
+  },
+  {
+    "text": "services, nobody's blocking anybody and our",
+    "startFrame": 6464,
+    "endFrame": 6544,
+    "words": [
+      {
+        "text": "services,",
+        "startFrame": 6464,
+        "endFrame": 6483
+      },
+      {
+        "text": "nobody's",
+        "startFrame": 6483,
+        "endFrame": 6499
+      },
+      {
+        "text": "blocking",
+        "startFrame": 6499,
+        "endFrame": 6514
+      },
+      {
+        "text": "anybody",
+        "startFrame": 6514,
+        "endFrame": 6530
+      },
+      {
+        "text": "and",
+        "startFrame": 6530,
+        "endFrame": 6537
+      },
+      {
+        "text": "our",
+        "startFrame": 6537,
+        "endFrame": 6544
+      }
+    ]
+  },
+  {
+    "text": "hashmap showing up exactly where each",
+    "startFrame": 6544,
+    "endFrame": 6619,
+    "words": [
+      {
+        "text": "hashmap",
+        "startFrame": 6544,
+        "endFrame": 6560
+      },
+      {
+        "text": "showing",
+        "startFrame": 6560,
+        "endFrame": 6580
+      },
+      {
+        "text": "up",
+        "startFrame": 6580,
+        "endFrame": 6581
+      },
+      {
+        "text": "exactly",
+        "startFrame": 6581,
+        "endFrame": 6601
+      },
+      {
+        "text": "where",
+        "startFrame": 6601,
+        "endFrame": 6611
+      },
+      {
+        "text": "each",
+        "startFrame": 6611,
+        "endFrame": 6619
+      }
+    ]
+  },
+  {
+    "text": "order ended up.",
+    "startFrame": 6619,
+    "endFrame": 6656,
+    "words": [
+      {
+        "text": "order",
+        "startFrame": 6619,
+        "endFrame": 6628
+      },
+      {
+        "text": "ended",
+        "startFrame": 6628,
+        "endFrame": 6642
+      },
+      {
+        "text": "up.",
+        "startFrame": 6642,
+        "endFrame": 6656
+      }
+    ]
+  },
+  {
+    "text": "One more thing before we finish",
+    "startFrame": 6656,
+    "endFrame": 6713,
+    "words": [
+      {
+        "text": "One",
+        "startFrame": 6656,
+        "endFrame": 6662
+      },
+      {
+        "text": "more",
+        "startFrame": 6662,
+        "endFrame": 6671
+      },
+      {
+        "text": "thing",
+        "startFrame": 6671,
+        "endFrame": 6682
+      },
+      {
+        "text": "before",
+        "startFrame": 6682,
+        "endFrame": 6695
+      },
+      {
+        "text": "we",
+        "startFrame": 6695,
+        "endFrame": 6713
+      },
+      {
+        "text": "finish",
+        "startFrame": 6713,
+        "endFrame": 6713
+      }
+    ]
+  },
+  {
+    "text": "up. This whole run assumed everything",
+    "startFrame": 6713,
+    "endFrame": 6786,
+    "words": [
+      {
+        "text": "up.",
+        "startFrame": 6713,
+        "endFrame": 6725
+      },
+      {
+        "text": "This",
+        "startFrame": 6725,
+        "endFrame": 6734
+      },
+      {
+        "text": "whole",
+        "startFrame": 6734,
+        "endFrame": 6744
+      },
+      {
+        "text": "run",
+        "startFrame": 6744,
+        "endFrame": 6750
+      },
+      {
+        "text": "assumed",
+        "startFrame": 6750,
+        "endFrame": 6765
+      },
+      {
+        "text": "everything",
+        "startFrame": 6765,
+        "endFrame": 6786
+      }
+    ]
+  },
+  {
+    "text": "just worked perfectly.",
+    "startFrame": 6786,
+    "endFrame": 6834,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 6786,
+        "endFrame": 6796
+      },
+      {
+        "text": "worked",
+        "startFrame": 6796,
+        "endFrame": 6815
+      },
+      {
+        "text": "perfectly.",
+        "startFrame": 6815,
+        "endFrame": 6834
+      }
+    ]
+  },
+  {
+    "text": "But in the real system,",
+    "startFrame": 6834,
+    "endFrame": 6874,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 6834,
+        "endFrame": 6840
+      },
+      {
+        "text": "in",
+        "startFrame": 6840,
+        "endFrame": 6844
+      },
+      {
+        "text": "the",
+        "startFrame": 6844,
+        "endFrame": 6851
+      },
+      {
+        "text": "real",
+        "startFrame": 6851,
+        "endFrame": 6858
+      },
+      {
+        "text": "system,",
+        "startFrame": 6858,
+        "endFrame": 6874
+      }
+    ]
+  },
+  {
+    "text": "payment gateway time out all the",
+    "startFrame": 6874,
+    "endFrame": 6928,
+    "words": [
+      {
+        "text": "payment",
+        "startFrame": 6874,
+        "endFrame": 6888
+      },
+      {
+        "text": "gateway",
+        "startFrame": 6888,
+        "endFrame": 6902
+      },
+      {
+        "text": "time",
+        "startFrame": 6902,
+        "endFrame": 6910
+      },
+      {
+        "text": "out",
+        "startFrame": 6910,
+        "endFrame": 6917
+      },
+      {
+        "text": "all",
+        "startFrame": 6917,
+        "endFrame": 6922
+      },
+      {
+        "text": "the",
+        "startFrame": 6922,
+        "endFrame": 6928
+      }
+    ]
+  },
+  {
+    "text": "time. So here's a super simple",
+    "startFrame": 6928,
+    "endFrame": 6979,
+    "words": [
+      {
+        "text": "time.",
+        "startFrame": 6928,
+        "endFrame": 6944
+      },
+      {
+        "text": "So",
+        "startFrame": 6944,
+        "endFrame": 6948
+      },
+      {
+        "text": "here's",
+        "startFrame": 6948,
+        "endFrame": 6958
+      },
+      {
+        "text": "a",
+        "startFrame": 6958,
+        "endFrame": 6959
+      },
+      {
+        "text": "super",
+        "startFrame": 6959,
+        "endFrame": 6968
+      },
+      {
+        "text": "simple",
+        "startFrame": 6968,
+        "endFrame": 6979
+      }
+    ]
+  },
+  {
+    "text": "way to handle that.",
+    "startFrame": 6979,
+    "endFrame": 7012,
+    "words": [
+      {
+        "text": "way",
+        "startFrame": 6979,
+        "endFrame": 6984
+      },
+      {
+        "text": "to",
+        "startFrame": 6984,
+        "endFrame": 6987
+      },
+      {
+        "text": "handle",
+        "startFrame": 6987,
+        "endFrame": 6997
+      },
+      {
+        "text": "that.",
+        "startFrame": 6997,
+        "endFrame": 7012
+      }
+    ]
+  },
+  {
+    "text": "We just wrap the whole work",
+    "startFrame": 7012,
+    "endFrame": 7078,
+    "words": [
+      {
+        "text": "We",
+        "startFrame": 7012,
+        "endFrame": 7026
+      },
+      {
+        "text": "just",
+        "startFrame": 7026,
+        "endFrame": 7029
+      },
+      {
+        "text": "wrap",
+        "startFrame": 7029,
+        "endFrame": 7041
+      },
+      {
+        "text": "the",
+        "startFrame": 7041,
+        "endFrame": 7052
+      },
+      {
+        "text": "whole",
+        "startFrame": 7052,
+        "endFrame": 7064
+      },
+      {
+        "text": "work",
+        "startFrame": 7064,
+        "endFrame": 7078
+      }
+    ]
+  },
+  {
+    "text": "in a try as accept.",
+    "startFrame": 7078,
+    "endFrame": 7127,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 7078,
+        "endFrame": 7082
+      },
+      {
+        "text": "a",
+        "startFrame": 7082,
+        "endFrame": 7084
+      },
+      {
+        "text": "try",
+        "startFrame": 7084,
+        "endFrame": 7093
+      },
+      {
+        "text": "as",
+        "startFrame": 7093,
+        "endFrame": 7099
+      },
+      {
+        "text": "accept.",
+        "startFrame": 7099,
+        "endFrame": 7127
+      }
+    ]
+  },
+  {
+    "text": "If it fails,",
+    "startFrame": 7127,
+    "endFrame": 7158,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 7127,
+        "endFrame": 7136
+      },
+      {
+        "text": "it",
+        "startFrame": 7136,
+        "endFrame": 7136
+      },
+      {
+        "text": "fails,",
+        "startFrame": 7136,
+        "endFrame": 7158
+      }
+    ]
+  },
+  {
+    "text": "we throw it right back on",
+    "startFrame": 7158,
+    "endFrame": 7208,
+    "words": [
+      {
+        "text": "we",
+        "startFrame": 7158,
+        "endFrame": 7159
+      },
+      {
+        "text": "throw",
+        "startFrame": 7159,
+        "endFrame": 7170
+      },
+      {
+        "text": "it",
+        "startFrame": 7170,
+        "endFrame": 7176
+      },
+      {
+        "text": "right",
+        "startFrame": 7176,
+        "endFrame": 7187
+      },
+      {
+        "text": "back",
+        "startFrame": 7187,
+        "endFrame": 7196
+      },
+      {
+        "text": "on",
+        "startFrame": 7196,
+        "endFrame": 7208
+      }
+    ]
+  },
+  {
+    "text": "the queue and try again.",
+    "startFrame": 7208,
+    "endFrame": 7256,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 7208,
+        "endFrame": 7211
+      },
+      {
+        "text": "queue",
+        "startFrame": 7211,
+        "endFrame": 7220
+      },
+      {
+        "text": "and",
+        "startFrame": 7220,
+        "endFrame": 7228
+      },
+      {
+        "text": "try",
+        "startFrame": 7228,
+        "endFrame": 7234
+      },
+      {
+        "text": "again.",
+        "startFrame": 7234,
+        "endFrame": 7256
+      }
+    ]
+  },
+  {
+    "text": "That's pretty basic retry.",
+    "startFrame": 7256,
+    "endFrame": 7301,
+    "words": [
+      {
+        "text": "That's",
+        "startFrame": 7256,
+        "endFrame": 7266
+      },
+      {
+        "text": "pretty",
+        "startFrame": 7266,
+        "endFrame": 7277
+      },
+      {
+        "text": "basic",
+        "startFrame": 7277,
+        "endFrame": 7286
+      },
+      {
+        "text": "retry.",
+        "startFrame": 7286,
+        "endFrame": 7301
+      }
+    ]
+  },
+  {
+    "text": "Real system usually add some delay",
+    "startFrame": 7301,
+    "endFrame": 7370,
+    "words": [
+      {
+        "text": "Real",
+        "startFrame": 7301,
+        "endFrame": 7310
+      },
+      {
+        "text": "system",
+        "startFrame": 7310,
+        "endFrame": 7324
+      },
+      {
+        "text": "usually",
+        "startFrame": 7324,
+        "endFrame": 7344
+      },
+      {
+        "text": "add",
+        "startFrame": 7344,
+        "endFrame": 7348
+      },
+      {
+        "text": "some",
+        "startFrame": 7348,
+        "endFrame": 7369
+      },
+      {
+        "text": "delay",
+        "startFrame": 7369,
+        "endFrame": 7370
+      }
+    ]
+  },
+  {
+    "text": "and eventually gave up after a",
+    "startFrame": 7370,
+    "endFrame": 7427,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 7370,
+        "endFrame": 7376
+      },
+      {
+        "text": "eventually",
+        "startFrame": 7376,
+        "endFrame": 7402
+      },
+      {
+        "text": "gave",
+        "startFrame": 7402,
+        "endFrame": 7408
+      },
+      {
+        "text": "up",
+        "startFrame": 7408,
+        "endFrame": 7414
+      },
+      {
+        "text": "after",
+        "startFrame": 7414,
+        "endFrame": 7425
+      },
+      {
+        "text": "a",
+        "startFrame": 7425,
+        "endFrame": 7427
+      }
+    ]
+  },
+  {
+    "text": "few retries. But the idea stays",
+    "startFrame": 7427,
+    "endFrame": 7490,
+    "words": [
+      {
+        "text": "few",
+        "startFrame": 7427,
+        "endFrame": 7441
+      },
+      {
+        "text": "retries.",
+        "startFrame": 7441,
+        "endFrame": 7460
+      },
+      {
+        "text": "But",
+        "startFrame": 7460,
+        "endFrame": 7466
+      },
+      {
+        "text": "the",
+        "startFrame": 7466,
+        "endFrame": 7471
+      },
+      {
+        "text": "idea",
+        "startFrame": 7471,
+        "endFrame": 7479
+      },
+      {
+        "text": "stays",
+        "startFrame": 7479,
+        "endFrame": 7490
+      }
+    ]
+  },
+  {
+    "text": "the same, a failure should have",
+    "startFrame": 7490,
+    "endFrame": 7540,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 7490,
+        "endFrame": 7494
+      },
+      {
+        "text": "same,",
+        "startFrame": 7494,
+        "endFrame": 7508
+      },
+      {
+        "text": "a",
+        "startFrame": 7508,
+        "endFrame": 7510
+      },
+      {
+        "text": "failure",
+        "startFrame": 7510,
+        "endFrame": 7521
+      },
+      {
+        "text": "should",
+        "startFrame": 7521,
+        "endFrame": 7532
+      },
+      {
+        "text": "have",
+        "startFrame": 7532,
+        "endFrame": 7540
+      }
+    ]
+  },
+  {
+    "text": "crashed the whole pipeline.",
+    "startFrame": 7540,
+    "endFrame": 7592,
+    "words": [
+      {
+        "text": "crashed",
+        "startFrame": 7540,
+        "endFrame": 7554
+      },
+      {
+        "text": "the",
+        "startFrame": 7554,
+        "endFrame": 7559
+      },
+      {
+        "text": "whole",
+        "startFrame": 7559,
+        "endFrame": 7569
+      },
+      {
+        "text": "pipeline.",
+        "startFrame": 7569,
+        "endFrame": 7592
+      }
+    ]
+  },
+  {
+    "text": "It should get retried.",
+    "startFrame": 7592,
+    "endFrame": 7661,
+    "words": [
+      {
+        "text": "It",
+        "startFrame": 7592,
+        "endFrame": 7599
+      },
+      {
+        "text": "should",
+        "startFrame": 7599,
+        "endFrame": 7619
+      },
+      {
+        "text": "get",
+        "startFrame": 7619,
+        "endFrame": 7637
+      },
+      {
+        "text": "retried.",
+        "startFrame": 7637,
+        "endFrame": 7661
+      }
+    ]
+  },
+  {
+    "text": "So let's connect this to what",
+    "startFrame": 7661,
+    "endFrame": 7702,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 7661,
+        "endFrame": 7664
+      },
+      {
+        "text": "let's",
+        "startFrame": 7664,
+        "endFrame": 7674
+      },
+      {
+        "text": "connect",
+        "startFrame": 7674,
+        "endFrame": 7685
+      },
+      {
+        "text": "this",
+        "startFrame": 7685,
+        "endFrame": 7695
+      },
+      {
+        "text": "to",
+        "startFrame": 7695,
+        "endFrame": 7699
+      },
+      {
+        "text": "what",
+        "startFrame": 7699,
+        "endFrame": 7702
+      }
+    ]
+  },
+  {
+    "text": "actually happened in the real world.",
+    "startFrame": 7702,
+    "endFrame": 7763,
+    "words": [
+      {
+        "text": "actually",
+        "startFrame": 7702,
+        "endFrame": 7716
+      },
+      {
+        "text": "happened",
+        "startFrame": 7716,
+        "endFrame": 7730
+      },
+      {
+        "text": "in",
+        "startFrame": 7730,
+        "endFrame": 7733
+      },
+      {
+        "text": "the",
+        "startFrame": 7733,
+        "endFrame": 7738
+      },
+      {
+        "text": "real",
+        "startFrame": 7738,
+        "endFrame": 7744
+      },
+      {
+        "text": "world.",
+        "startFrame": 7744,
+        "endFrame": 7763
+      }
+    ]
+  },
+  {
+    "text": "Our dictionary basically becomes something",
+    "startFrame": 7763,
+    "endFrame": 7847,
+    "words": [
+      {
+        "text": "Our",
+        "startFrame": 7763,
+        "endFrame": 7769
+      },
+      {
+        "text": "dictionary",
+        "startFrame": 7769,
+        "endFrame": 7791
+      },
+      {
+        "text": "basically",
+        "startFrame": 7791,
+        "endFrame": 7811
+      },
+      {
+        "text": "becomes",
+        "startFrame": 7811,
+        "endFrame": 7826
+      },
+      {
+        "text": "something",
+        "startFrame": 7826,
+        "endFrame": 7847
+      }
+    ]
+  },
+  {
+    "text": "like redis or rowing database,",
+    "startFrame": 7847,
+    "endFrame": 7903,
+    "words": [
+      {
+        "text": "like",
+        "startFrame": 7847,
+        "endFrame": 7860
+      },
+      {
+        "text": "redis",
+        "startFrame": 7860,
+        "endFrame": 7864
+      },
+      {
+        "text": "or",
+        "startFrame": 7864,
+        "endFrame": 7868
+      },
+      {
+        "text": "rowing",
+        "startFrame": 7868,
+        "endFrame": 7881
+      },
+      {
+        "text": "database,",
+        "startFrame": 7881,
+        "endFrame": 7903
+      }
+    ]
+  },
+  {
+    "text": "our queue becomes something like Kafka",
+    "startFrame": 7903,
+    "endFrame": 7970,
+    "words": [
+      {
+        "text": "our",
+        "startFrame": 7903,
+        "endFrame": 7913
+      },
+      {
+        "text": "queue",
+        "startFrame": 7913,
+        "endFrame": 7922
+      },
+      {
+        "text": "becomes",
+        "startFrame": 7922,
+        "endFrame": 7937
+      },
+      {
+        "text": "something",
+        "startFrame": 7937,
+        "endFrame": 7954
+      },
+      {
+        "text": "like",
+        "startFrame": 7954,
+        "endFrame": 7961
+      },
+      {
+        "text": "Kafka",
+        "startFrame": 7961,
+        "endFrame": 7970
+      }
+    ]
+  },
+  {
+    "text": "or RabbitMQ, our thread become an",
+    "startFrame": 7970,
+    "endFrame": 8024,
+    "words": [
+      {
+        "text": "or",
+        "startFrame": 7970,
+        "endFrame": 7974
+      },
+      {
+        "text": "RabbitMQ,",
+        "startFrame": 7974,
+        "endFrame": 7994
+      },
+      {
+        "text": "our",
+        "startFrame": 7994,
+        "endFrame": 7998
+      },
+      {
+        "text": "thread",
+        "startFrame": 7998,
+        "endFrame": 8020
+      },
+      {
+        "text": "become",
+        "startFrame": 8020,
+        "endFrame": 8021
+      },
+      {
+        "text": "an",
+        "startFrame": 8021,
+        "endFrame": 8024
+      }
+    ]
+  },
+  {
+    "text": "actual container running somewhere in the",
+    "startFrame": 8024,
+    "endFrame": 8096,
+    "words": [
+      {
+        "text": "actual",
+        "startFrame": 8024,
+        "endFrame": 8035
+      },
+      {
+        "text": "container",
+        "startFrame": 8035,
+        "endFrame": 8053
+      },
+      {
+        "text": "running",
+        "startFrame": 8053,
+        "endFrame": 8065
+      },
+      {
+        "text": "somewhere",
+        "startFrame": 8065,
+        "endFrame": 8084
+      },
+      {
+        "text": "in",
+        "startFrame": 8084,
+        "endFrame": 8089
+      },
+      {
+        "text": "the",
+        "startFrame": 8089,
+        "endFrame": 8096
+      }
+    ]
+  },
+  {
+    "text": "cloud. Even our log becomes some",
+    "startFrame": 8096,
+    "endFrame": 8165,
+    "words": [
+      {
+        "text": "cloud.",
+        "startFrame": 8096,
+        "endFrame": 8114
+      },
+      {
+        "text": "Even",
+        "startFrame": 8114,
+        "endFrame": 8123
+      },
+      {
+        "text": "our",
+        "startFrame": 8123,
+        "endFrame": 8130
+      },
+      {
+        "text": "log",
+        "startFrame": 8130,
+        "endFrame": 8136
+      },
+      {
+        "text": "becomes",
+        "startFrame": 8136,
+        "endFrame": 8152
+      },
+      {
+        "text": "some",
+        "startFrame": 8152,
+        "endFrame": 8165
+      }
+    ]
+  },
+  {
+    "text": "some kind of distributed log at",
+    "startFrame": 8165,
+    "endFrame": 8217,
+    "words": [
+      {
+        "text": "some",
+        "startFrame": 8165,
+        "endFrame": 8171
+      },
+      {
+        "text": "kind",
+        "startFrame": 8171,
+        "endFrame": 8178
+      },
+      {
+        "text": "of",
+        "startFrame": 8178,
+        "endFrame": 8183
+      },
+      {
+        "text": "distributed",
+        "startFrame": 8183,
+        "endFrame": 8207
+      },
+      {
+        "text": "log",
+        "startFrame": 8207,
+        "endFrame": 8213
+      },
+      {
+        "text": "at",
+        "startFrame": 8213,
+        "endFrame": 8217
+      }
+    ]
+  },
+  {
+    "text": "a distributed level.",
+    "startFrame": 8217,
+    "endFrame": 8264,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 8217,
+        "endFrame": 8219
+      },
+      {
+        "text": "distributed",
+        "startFrame": 8219,
+        "endFrame": 8242
+      },
+      {
+        "text": "level.",
+        "startFrame": 8242,
+        "endFrame": 8264
+      }
+    ]
+  },
+  {
+    "text": "So the whole shape of the",
+    "startFrame": 8264,
+    "endFrame": 8305,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 8264,
+        "endFrame": 8268
+      },
+      {
+        "text": "the",
+        "startFrame": 8268,
+        "endFrame": 8276
+      },
+      {
+        "text": "whole",
+        "startFrame": 8276,
+        "endFrame": 8284
+      },
+      {
+        "text": "shape",
+        "startFrame": 8284,
+        "endFrame": 8295
+      },
+      {
+        "text": "of",
+        "startFrame": 8295,
+        "endFrame": 8299
+      },
+      {
+        "text": "the",
+        "startFrame": 8299,
+        "endFrame": 8305
+      }
+    ]
+  },
+  {
+    "text": "thing doesn't really change.",
+    "startFrame": 8305,
+    "endFrame": 8363,
+    "words": [
+      {
+        "text": "thing",
+        "startFrame": 8305,
+        "endFrame": 8315
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 8315,
+        "endFrame": 8329
+      },
+      {
+        "text": "really",
+        "startFrame": 8329,
+        "endFrame": 8341
+      },
+      {
+        "text": "change.",
+        "startFrame": 8341,
+        "endFrame": 8363
+      }
+    ]
+  },
+  {
+    "text": "It's just the tool that gets",
+    "startFrame": 8363,
+    "endFrame": 8415,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 8363,
+        "endFrame": 8372
+      },
+      {
+        "text": "just",
+        "startFrame": 8372,
+        "endFrame": 8383
+      },
+      {
+        "text": "the",
+        "startFrame": 8383,
+        "endFrame": 8388
+      },
+      {
+        "text": "tool",
+        "startFrame": 8388,
+        "endFrame": 8396
+      },
+      {
+        "text": "that",
+        "startFrame": 8396,
+        "endFrame": 8405
+      },
+      {
+        "text": "gets",
+        "startFrame": 8405,
+        "endFrame": 8415
+      }
+    ]
+  },
+  {
+    "text": "bigger. So next time someone asks",
+    "startFrame": 8415,
+    "endFrame": 8481,
+    "words": [
+      {
+        "text": "bigger.",
+        "startFrame": 8415,
+        "endFrame": 8437
+      },
+      {
+        "text": "So",
+        "startFrame": 8437,
+        "endFrame": 8440
+      },
+      {
+        "text": "next",
+        "startFrame": 8440,
+        "endFrame": 8449
+      },
+      {
+        "text": "time",
+        "startFrame": 8449,
+        "endFrame": 8465
+      },
+      {
+        "text": "someone",
+        "startFrame": 8465,
+        "endFrame": 8471
+      },
+      {
+        "text": "asks",
+        "startFrame": 8471,
+        "endFrame": 8481
+      }
+    ]
+  },
+  {
+    "text": "you in an interview,",
+    "startFrame": 8481,
+    "endFrame": 8516,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 8481,
+        "endFrame": 8485
+      },
+      {
+        "text": "in",
+        "startFrame": 8485,
+        "endFrame": 8489
+      },
+      {
+        "text": "an",
+        "startFrame": 8489,
+        "endFrame": 8493
+      },
+      {
+        "text": "interview,",
+        "startFrame": 8493,
+        "endFrame": 8516
+      }
+    ]
+  },
+  {
+    "text": "hey, how would you decouple payment",
+    "startFrame": 8516,
+    "endFrame": 8568,
+    "words": [
+      {
+        "text": "hey,",
+        "startFrame": 8516,
+        "endFrame": 8524
+      },
+      {
+        "text": "how",
+        "startFrame": 8524,
+        "endFrame": 8538
+      },
+      {
+        "text": "would",
+        "startFrame": 8538,
+        "endFrame": 8539
+      },
+      {
+        "text": "you",
+        "startFrame": 8539,
+        "endFrame": 8543
+      },
+      {
+        "text": "decouple",
+        "startFrame": 8543,
+        "endFrame": 8558
+      },
+      {
+        "text": "payment",
+        "startFrame": 8558,
+        "endFrame": 8568
+      }
+    ]
+  },
+  {
+    "text": "from the order flow?",
+    "startFrame": 8568,
+    "endFrame": 8611,
+    "words": [
+      {
+        "text": "from",
+        "startFrame": 8568,
+        "endFrame": 8576
+      },
+      {
+        "text": "the",
+        "startFrame": 8576,
+        "endFrame": 8581
+      },
+      {
+        "text": "order",
+        "startFrame": 8581,
+        "endFrame": 8594
+      },
+      {
+        "text": "flow?",
+        "startFrame": 8594,
+        "endFrame": 8611
+      }
+    ]
+  },
+  {
+    "text": "You already know what exactly you",
+    "startFrame": 8611,
+    "endFrame": 8666,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 8611,
+        "endFrame": 8617
+      },
+      {
+        "text": "already",
+        "startFrame": 8617,
+        "endFrame": 8631
+      },
+      {
+        "text": "know",
+        "startFrame": 8631,
+        "endFrame": 8639
+      },
+      {
+        "text": "what",
+        "startFrame": 8639,
+        "endFrame": 8647
+      },
+      {
+        "text": "exactly",
+        "startFrame": 8647,
+        "endFrame": 8659
+      },
+      {
+        "text": "you",
+        "startFrame": 8659,
+        "endFrame": 8666
+      }
+    ]
+  },
+  {
+    "text": "have to say.",
+    "startFrame": 8666,
+    "endFrame": 8692,
+    "words": [
+      {
+        "text": "have",
+        "startFrame": 8666,
+        "endFrame": 8674
+      },
+      {
+        "text": "to",
+        "startFrame": 8674,
+        "endFrame": 8678
+      },
+      {
+        "text": "say.",
+        "startFrame": 8678,
+        "endFrame": 8692
+      }
+    ]
+  },
+  {
+    "text": "A full working microservices set up",
+    "startFrame": 8692,
+    "endFrame": 8764,
+    "words": [
+      {
+        "text": "A",
+        "startFrame": 8692,
+        "endFrame": 8694
+      },
+      {
+        "text": "full",
+        "startFrame": 8694,
+        "endFrame": 8704
+      },
+      {
+        "text": "working",
+        "startFrame": 8704,
+        "endFrame": 8720
+      },
+      {
+        "text": "microservices",
+        "startFrame": 8720,
+        "endFrame": 8752
+      },
+      {
+        "text": "set",
+        "startFrame": 8752,
+        "endFrame": 8760
+      },
+      {
+        "text": "up",
+        "startFrame": 8760,
+        "endFrame": 8764
+      }
+    ]
+  },
+  {
+    "text": "in like 70 lines of Python,",
+    "startFrame": 8764,
+    "endFrame": 8828,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 8764,
+        "endFrame": 8768
+      },
+      {
+        "text": "like",
+        "startFrame": 8768,
+        "endFrame": 8778
+      },
+      {
+        "text": "70",
+        "startFrame": 8778,
+        "endFrame": 8795
+      },
+      {
+        "text": "lines",
+        "startFrame": 8795,
+        "endFrame": 8804
+      },
+      {
+        "text": "of",
+        "startFrame": 8804,
+        "endFrame": 8824
+      },
+      {
+        "text": "Python,",
+        "startFrame": 8824,
+        "endFrame": 8828
+      }
+    ]
+  },
+  {
+    "text": "hashmap for keeping track of stuff,",
+    "startFrame": 8828,
+    "endFrame": 8887,
+    "words": [
+      {
+        "text": "hashmap",
+        "startFrame": 8828,
+        "endFrame": 8837
+      },
+      {
+        "text": "for",
+        "startFrame": 8837,
+        "endFrame": 8844
+      },
+      {
+        "text": "keeping",
+        "startFrame": 8844,
+        "endFrame": 8853
+      },
+      {
+        "text": "track",
+        "startFrame": 8853,
+        "endFrame": 8862
+      },
+      {
+        "text": "of",
+        "startFrame": 8862,
+        "endFrame": 8866
+      },
+      {
+        "text": "stuff,",
+        "startFrame": 8866,
+        "endFrame": 8887
+      }
+    ]
+  },
+  {
+    "text": "queue for keeping everything decoupled.",
+    "startFrame": 8887,
+    "endFrame": 8946,
+    "words": [
+      {
+        "text": "queue",
+        "startFrame": 8887,
+        "endFrame": 8889
+      },
+      {
+        "text": "for",
+        "startFrame": 8889,
+        "endFrame": 8897
+      },
+      {
+        "text": "keeping",
+        "startFrame": 8897,
+        "endFrame": 8906
+      },
+      {
+        "text": "everything",
+        "startFrame": 8906,
+        "endFrame": 8923
+      },
+      {
+        "text": "decoupled.",
+        "startFrame": 8923,
+        "endFrame": 8946
+      }
+    ]
+  },
+  {
+    "text": "I'll drop the full code below.",
+    "startFrame": 8946,
+    "endFrame": 9023,
+    "words": [
+      {
+        "text": "I'll",
+        "startFrame": 8946,
+        "endFrame": 8958
+      },
+      {
+        "text": "drop",
+        "startFrame": 8958,
+        "endFrame": 8972
+      },
+      {
+        "text": "the",
+        "startFrame": 8972,
+        "endFrame": 8977
+      },
+      {
+        "text": "full",
+        "startFrame": 8977,
+        "endFrame": 8988
+      },
+      {
+        "text": "code",
+        "startFrame": 8988,
+        "endFrame": 8999
+      },
+      {
+        "text": "below.",
+        "startFrame": 8999,
+        "endFrame": 9023
+      }
+    ]
+  },
+  {
+    "text": "Let me know if you want",
+    "startFrame": 9023,
+    "endFrame": 9062,
+    "words": [
+      {
+        "text": "Let",
+        "startFrame": 9023,
+        "endFrame": 9029
+      },
+      {
+        "text": "me",
+        "startFrame": 9029,
+        "endFrame": 9033
+      },
+      {
+        "text": "know",
+        "startFrame": 9033,
+        "endFrame": 9042
+      },
+      {
+        "text": "if",
+        "startFrame": 9042,
+        "endFrame": 9046
+      },
+      {
+        "text": "you",
+        "startFrame": 9046,
+        "endFrame": 9052
+      },
+      {
+        "text": "want",
+        "startFrame": 9052,
+        "endFrame": 9062
+      }
+    ]
+  },
+  {
+    "text": "me to redo this with actual",
+    "startFrame": 9062,
+    "endFrame": 9107,
+    "words": [
+      {
+        "text": "me",
+        "startFrame": 9062,
+        "endFrame": 9065
+      },
+      {
+        "text": "to",
+        "startFrame": 9065,
+        "endFrame": 9069
+      },
+      {
+        "text": "redo",
+        "startFrame": 9069,
+        "endFrame": 9077
+      },
+      {
+        "text": "this",
+        "startFrame": 9077,
+        "endFrame": 9086
+      },
+      {
+        "text": "with",
+        "startFrame": 9086,
+        "endFrame": 9094
+      },
+      {
+        "text": "actual",
+        "startFrame": 9094,
+        "endFrame": 9107
+      }
+    ]
+  },
+  {
+    "text": "Kafka and Redis.",
+    "startFrame": 9107,
+    "endFrame": 9142,
+    "words": [
+      {
+        "text": "Kafka",
+        "startFrame": 9107,
+        "endFrame": 9118
+      },
+      {
+        "text": "and",
+        "startFrame": 9118,
+        "endFrame": 9130
+      },
+      {
+        "text": "Redis.",
+        "startFrame": 9130,
+        "endFrame": 9142
+      }
+    ]
+  },
+  {
+    "text": "See you in the next one.",
+    "startFrame": 9142,
+    "endFrame": 9172,
+    "words": [
+      {
+        "text": "See",
+        "startFrame": 9142,
+        "endFrame": 9146
+      },
+      {
+        "text": "you",
+        "startFrame": 9146,
+        "endFrame": 9151
+      },
+      {
+        "text": "in",
+        "startFrame": 9151,
+        "endFrame": 9157
+      },
+      {
+        "text": "the",
+        "startFrame": 9157,
+        "endFrame": 9158
+      },
+      {
+        "text": "next",
+        "startFrame": 9158,
+        "endFrame": 9167
+      },
+      {
+        "text": "one.",
+        "startFrame": 9167,
+        "endFrame": 9172
+      }
+    ]
+  },
+  {
+    "text": "Peace.",
+    "startFrame": 9172,
+    "endFrame": 9185,
+    "words": [
+      {
+        "text": "Peace.",
+        "startFrame": 9172,
+        "endFrame": 9185
+      }
+    ]
+  },
+  {
+    "text": "[BLANK_AUDIO]",
+    "startFrame": 9204,
+    "endFrame": 9427,
+    "words": [
+      {
+        "text": "[BLANK_AUDIO]",
+        "startFrame": 9204,
+        "endFrame": 9427
+      }
+    ]
+  }
+]

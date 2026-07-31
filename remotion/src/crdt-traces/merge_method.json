@@ -1,0 +1,7 @@
+[
+  {
+    "line": "[Merge] B took max per-node -> {'A': 2, 'B': 1, 'C': 0} total=3",
+    "order": 1,
+    "service": "Merge"
+  }
+]

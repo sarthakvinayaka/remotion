@@ -1,0 +1,27 @@
+[
+  {
+    "type": "candidates",
+    "context_ids": [
+      14,
+      3
+    ],
+    "candidates": [
+      {
+        "id": 12,
+        "word": "sat",
+        "probability": 0.25
+      },
+      {
+        "id": 7,
+        "word": "likes",
+        "probability": 0.5
+      },
+      {
+        "id": 1,
+        "word": "and",
+        "probability": 0.25
+      }
+    ],
+    "order": 1
+  }
+]
