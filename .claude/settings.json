@@ -1,0 +1,39 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(ffprobe -v error -show_entries stream=codec_type,codec_name,width,height,r_frame_rate,nb_frames,sample_rate,channels -show_entries format=duration,bit_rate -of default=noprint_wrappers=1 /Users/sarthakvinayaka/Desktop/remotion/remotion/out/search-video-4k.mp4)",
+      "Bash(ffmpeg -v error -i /Users/sarthakvinayaka/Desktop/remotion/remotion/out/search-video-4k.mp4 -f null -)",
+      "Bash(ffprobe -v error -show_entries stream=codec_type,codec_name,width,height,nb_frames,sample_rate,channels -show_entries format=duration -of default=noprint_wrappers=1 /Users/sarthakvinayaka/Desktop/remotion/remotion/out/search-video-4k.mp4)",
+      "Bash(sips -Z 246 thumb/f_00000.png --out thumb_mobile.png)",
+      "Bash(sips -g pixelWidth -g pixelHeight thumb_mobile.png)",
+      "Bash(sips -Z 246 nv2_google/f_00000.png --out mg.png)",
+      "Bash(sips -Z 246 nv2_instant/f_00000.png --out mi.png)",
+      "Bash(sips -Z 246 g3/f_00000.png --out mg3.png)",
+      "Bash(cp /private/tmp/claude-501/-Users-sarthakvinayaka-Desktop-remotion/3a0a1279-4e29-4d58-a836-e9e9c1e682ba/scratchpad/g3/f_00000.png _tmp.png)",
+      "Bash(sips -s format jpeg -s formatOptions 92 _tmp.png --out Thumbnail_SearchEngine_GOOGLE.jpg)",
+      "Bash(rm -f _tmp.png)",
+      "Bash(sips -g pixelWidth -g pixelHeight Thumbnail_SearchEngine_GOOGLE.jpg)",
+      "Bash(cp /private/tmp/claude-501/-Users-sarthakvinayaka-Desktop-remotion/3a0a1279-4e29-4d58-a836-e9e9c1e682ba/scratchpad/g4/f_00000.png _t.png)",
+      "Bash(sips -s format jpeg -s formatOptions 92 _t.png --out Thumbnail_SearchEngine_GOOGLE.jpg)",
+      "Bash(rm -f _t.png)",
+      "Bash(sips -Z 246 /private/tmp/claude-501/-Users-sarthakvinayaka-Desktop-remotion/3a0a1279-4e29-4d58-a836-e9e9c1e682ba/scratchpad/g4/f_00000.png --out /private/tmp/claude-501/-Users-sarthakvinayaka-Desktop-remotion/3a0a1279-4e29-4d58-a836-e9e9c1e682ba/scratchpad/mg4.png)",
+      "Bash(sips -g pixelWidth -g pixelHeight -g format Thumbnail_SearchEngine_GOOGLE.jpg)",
+      "Bash(awk '{print \"size:\",$5}')",
+      "Bash(ffprobe -v error -show_entries format=duration -of csv=p=0 oop.wav)",
+      "Bash(sed -e 's/searchengine\\\\.m4a/oop.wav/' -e 's/search_vo\\\\.wav/oop_vo.wav/' -e 's/search-raw-transcription\\\\.json/oop-raw-transcription.json/' -e 's/search-captions\\\\.json/oop-captions.json/' scripts/transcribe-search.mjs)",
+      "Bash(ffmpeg -y -v error -i ../oop.wav -c:a aac -b:a 192k public/oop_vo.m4a)",
+      "Bash(sed -e 's/search-captions\\\\.json/oop-captions.json/' -e 's/search-subtitles\\\\.json/oop-subtitles.json/' -e 's/searchengine\\\\.m4a/oop.wav/' scripts/build-search-subtitles.py)",
+      "Bash(python3 scripts/build-oop-subtitles.py)",
+      "Bash(cat -n OpenClosedScene.tsx CaveatScene.tsx WrapUpScene.tsx)",
+      "Bash(cat -n oopCodeSegments.ts oopTypingSchedule.ts)",
+      "Bash(ffprobe -v error -show_entries stream=codec_type,codec_name,width,height,r_frame_rate,nb_frames,sample_rate,channels -show_entries format=duration,bit_rate -of default=noprint_wrappers=1 /Users/sarthakvinayaka/Desktop/remotion/remotion/out/oop-video-4k.mp4)",
+      "Bash(ffmpeg -v error -i /Users/sarthakvinayaka/Desktop/remotion/remotion/out/oop-video-4k.mp4 -f null -)",
+      "Bash(sips -Z 246 oopthumb/f_00000.png --out m_oop.png)",
+      "Bash(sips -s format jpeg -s formatOptions 92 _t.png --out Thumbnail_OOP.jpg)",
+      "Bash(sips -g pixelWidth -g pixelHeight Thumbnail_OOP.jpg)",
+      "Bash(sed -e 's/oop-captions/imggpt-captions/' -e 's/oop-subtitles/imggpt-subtitles/' -e 's/oop\\\\.wav/image_gpt.m4a/' scripts/build-oop-subtitles.py)",
+      "Bash(python3 scripts/build-imggpt-subtitles.py)"
+    ]
+  }
+}

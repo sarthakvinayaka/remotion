@@ -1,0 +1,17 @@
+[
+  {
+    "line": "[EMAIL] to sarthak@example.com: Your order shipped",
+    "order": 0,
+    "service": null
+  },
+  {
+    "line": "[SMS] to +91999999999: Your order shipped",
+    "order": 1,
+    "service": null
+  },
+  {
+    "line": "[PUSH] to device-123: Your order shipped",
+    "order": 2,
+    "service": null
+  }
+]

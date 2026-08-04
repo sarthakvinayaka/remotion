@@ -1,0 +1,5699 @@
+[
+  {
+    "text": "You type something into Google and get results back",
+    "startFrame": 0,
+    "endFrame": 99,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 0,
+        "endFrame": 8
+      },
+      {
+        "text": "type",
+        "startFrame": 8,
+        "endFrame": 23
+      },
+      {
+        "text": "something",
+        "startFrame": 23,
+        "endFrame": 42
+      },
+      {
+        "text": "into",
+        "startFrame": 42,
+        "endFrame": 52
+      },
+      {
+        "text": "Google",
+        "startFrame": 52,
+        "endFrame": 70
+      },
+      {
+        "text": "and",
+        "startFrame": 70,
+        "endFrame": 74
+      },
+      {
+        "text": "get",
+        "startFrame": 73,
+        "endFrame": 80
+      },
+      {
+        "text": "results",
+        "startFrame": 80,
+        "endFrame": 90
+      },
+      {
+        "text": "back",
+        "startFrame": 90,
+        "endFrame": 99
+      }
+    ]
+  },
+  {
+    "text": "in about half a second out of billions of pages",
+    "startFrame": 99,
+    "endFrame": 188,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 99,
+        "endFrame": 103
+      },
+      {
+        "text": "about",
+        "startFrame": 103,
+        "endFrame": 112
+      },
+      {
+        "text": "half",
+        "startFrame": 112,
+        "endFrame": 118
+      },
+      {
+        "text": "a",
+        "startFrame": 118,
+        "endFrame": 122
+      },
+      {
+        "text": "second",
+        "startFrame": 120,
+        "endFrame": 137
+      },
+      {
+        "text": "out",
+        "startFrame": 143,
+        "endFrame": 146
+      },
+      {
+        "text": "of",
+        "startFrame": 145,
+        "endFrame": 149
+      },
+      {
+        "text": "billions",
+        "startFrame": 149,
+        "endFrame": 158
+      },
+      {
+        "text": "of",
+        "startFrame": 158,
+        "endFrame": 166
+      },
+      {
+        "text": "pages",
+        "startFrame": 166,
+        "endFrame": 188
+      }
+    ]
+  },
+  {
+    "text": "Now here's the thing that should feel strange about that",
+    "startFrame": 188,
+    "endFrame": 260,
+    "words": [
+      {
+        "text": "Now",
+        "startFrame": 188,
+        "endFrame": 197
+      },
+      {
+        "text": "here's",
+        "startFrame": 197,
+        "endFrame": 204
+      },
+      {
+        "text": "the",
+        "startFrame": 204,
+        "endFrame": 208
+      },
+      {
+        "text": "thing",
+        "startFrame": 206,
+        "endFrame": 216
+      },
+      {
+        "text": "that",
+        "startFrame": 216,
+        "endFrame": 220
+      },
+      {
+        "text": "should",
+        "startFrame": 220,
+        "endFrame": 232
+      },
+      {
+        "text": "feel",
+        "startFrame": 232,
+        "endFrame": 235
+      },
+      {
+        "text": "strange",
+        "startFrame": 235,
+        "endFrame": 245
+      },
+      {
+        "text": "about",
+        "startFrame": 245,
+        "endFrame": 254
+      },
+      {
+        "text": "that",
+        "startFrame": 254,
+        "endFrame": 260
+      }
+    ]
+  },
+  {
+    "text": "There is no way it read billions of pages",
+    "startFrame": 266,
+    "endFrame": 340,
+    "words": [
+      {
+        "text": "There",
+        "startFrame": 266,
+        "endFrame": 281
+      },
+      {
+        "text": "is",
+        "startFrame": 281,
+        "endFrame": 285
+      },
+      {
+        "text": "no",
+        "startFrame": 281,
+        "endFrame": 285
+      },
+      {
+        "text": "way",
+        "startFrame": 285,
+        "endFrame": 292
+      },
+      {
+        "text": "it",
+        "startFrame": 292,
+        "endFrame": 302
+      },
+      {
+        "text": "read",
+        "startFrame": 302,
+        "endFrame": 311
+      },
+      {
+        "text": "billions",
+        "startFrame": 311,
+        "endFrame": 321
+      },
+      {
+        "text": "of",
+        "startFrame": 321,
+        "endFrame": 330
+      },
+      {
+        "text": "pages",
+        "startFrame": 330,
+        "endFrame": 340
+      }
+    ]
+  },
+  {
+    "text": "after you hit enter",
+    "startFrame": 340,
+    "endFrame": 378,
+    "words": [
+      {
+        "text": "after",
+        "startFrame": 340,
+        "endFrame": 348
+      },
+      {
+        "text": "you",
+        "startFrame": 348,
+        "endFrame": 355
+      },
+      {
+        "text": "hit",
+        "startFrame": 355,
+        "endFrame": 361
+      },
+      {
+        "text": "enter",
+        "startFrame": 361,
+        "endFrame": 378
+      }
+    ]
+  },
+  {
+    "text": "It couldn't not in half a second",
+    "startFrame": 379,
+    "endFrame": 441,
+    "words": [
+      {
+        "text": "It",
+        "startFrame": 379,
+        "endFrame": 383
+      },
+      {
+        "text": "couldn't",
+        "startFrame": 383,
+        "endFrame": 400
+      },
+      {
+        "text": "not",
+        "startFrame": 403,
+        "endFrame": 410
+      },
+      {
+        "text": "in",
+        "startFrame": 410,
+        "endFrame": 414
+      },
+      {
+        "text": "half",
+        "startFrame": 412,
+        "endFrame": 421
+      },
+      {
+        "text": "a",
+        "startFrame": 421,
+        "endFrame": 435
+      },
+      {
+        "text": "second",
+        "startFrame": 435,
+        "endFrame": 441
+      }
+    ]
+  },
+  {
+    "text": "So it must have done most of the work before you ever searched",
+    "startFrame": 443,
+    "endFrame": 519,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 443,
+        "endFrame": 447
+      },
+      {
+        "text": "it",
+        "startFrame": 447,
+        "endFrame": 452
+      },
+      {
+        "text": "must",
+        "startFrame": 452,
+        "endFrame": 455
+      },
+      {
+        "text": "have",
+        "startFrame": 455,
+        "endFrame": 461
+      },
+      {
+        "text": "done",
+        "startFrame": 461,
+        "endFrame": 467
+      },
+      {
+        "text": "most",
+        "startFrame": 467,
+        "endFrame": 473
+      },
+      {
+        "text": "of",
+        "startFrame": 473,
+        "endFrame": 477
+      },
+      {
+        "text": "the",
+        "startFrame": 477,
+        "endFrame": 481
+      },
+      {
+        "text": "work",
+        "startFrame": 481,
+        "endFrame": 486
+      },
+      {
+        "text": "before",
+        "startFrame": 486,
+        "endFrame": 498
+      },
+      {
+        "text": "you",
+        "startFrame": 498,
+        "endFrame": 501
+      },
+      {
+        "text": "ever",
+        "startFrame": 500,
+        "endFrame": 506
+      },
+      {
+        "text": "searched",
+        "startFrame": 506,
+        "endFrame": 519
+      }
+    ]
+  },
+  {
+    "text": "Today we are going to build a tiny search",
+    "startFrame": 524,
+    "endFrame": 598,
+    "words": [
+      {
+        "text": "Today",
+        "startFrame": 524,
+        "endFrame": 536
+      },
+      {
+        "text": "we",
+        "startFrame": 536,
+        "endFrame": 544
+      },
+      {
+        "text": "are",
+        "startFrame": 544,
+        "endFrame": 548
+      },
+      {
+        "text": "going",
+        "startFrame": 547,
+        "endFrame": 558
+      },
+      {
+        "text": "to",
+        "startFrame": 558,
+        "endFrame": 564
+      },
+      {
+        "text": "build",
+        "startFrame": 564,
+        "endFrame": 573
+      },
+      {
+        "text": "a",
+        "startFrame": 573,
+        "endFrame": 579
+      },
+      {
+        "text": "tiny",
+        "startFrame": 579,
+        "endFrame": 584
+      },
+      {
+        "text": "search",
+        "startFrame": 584,
+        "endFrame": 598
+      }
+    ]
+  },
+  {
+    "text": "engine that works the same way",
+    "startFrame": 598,
+    "endFrame": 659,
+    "words": [
+      {
+        "text": "engine",
+        "startFrame": 598,
+        "endFrame": 614
+      },
+      {
+        "text": "that",
+        "startFrame": 614,
+        "endFrame": 622
+      },
+      {
+        "text": "works",
+        "startFrame": 622,
+        "endFrame": 632
+      },
+      {
+        "text": "the",
+        "startFrame": 632,
+        "endFrame": 647
+      },
+      {
+        "text": "same",
+        "startFrame": 647,
+        "endFrame": 651
+      },
+      {
+        "text": "way",
+        "startFrame": 648,
+        "endFrame": 659
+      }
+    ]
+  },
+  {
+    "text": "It's about 30 lines of Python and we",
+    "startFrame": 662,
+    "endFrame": 719,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 662,
+        "endFrame": 669
+      },
+      {
+        "text": "about",
+        "startFrame": 669,
+        "endFrame": 678
+      },
+      {
+        "text": "30",
+        "startFrame": 678,
+        "endFrame": 689
+      },
+      {
+        "text": "lines",
+        "startFrame": 689,
+        "endFrame": 697
+      },
+      {
+        "text": "of",
+        "startFrame": 697,
+        "endFrame": 700
+      },
+      {
+        "text": "Python",
+        "startFrame": 700,
+        "endFrame": 716
+      },
+      {
+        "text": "and",
+        "startFrame": 716,
+        "endFrame": 719
+      },
+      {
+        "text": "we",
+        "startFrame": 716,
+        "endFrame": 719
+      }
+    ]
+  },
+  {
+    "text": "'ll watch it get an answer wrong first and",
+    "startFrame": 719,
+    "endFrame": 783,
+    "words": [
+      {
+        "text": "'ll",
+        "startFrame": 719,
+        "endFrame": 725
+      },
+      {
+        "text": "watch",
+        "startFrame": 725,
+        "endFrame": 733
+      },
+      {
+        "text": "it",
+        "startFrame": 733,
+        "endFrame": 737
+      },
+      {
+        "text": "get",
+        "startFrame": 737,
+        "endFrame": 741
+      },
+      {
+        "text": "an",
+        "startFrame": 741,
+        "endFrame": 745
+      },
+      {
+        "text": "answer",
+        "startFrame": 745,
+        "endFrame": 756
+      },
+      {
+        "text": "wrong",
+        "startFrame": 756,
+        "endFrame": 764
+      },
+      {
+        "text": "first",
+        "startFrame": 764,
+        "endFrame": 772
+      },
+      {
+        "text": "and",
+        "startFrame": 772,
+        "endFrame": 783
+      }
+    ]
+  },
+  {
+    "text": "then we fix it",
+    "startFrame": 783,
+    "endFrame": 847,
+    "words": [
+      {
+        "text": "then",
+        "startFrame": 783,
+        "endFrame": 790
+      },
+      {
+        "text": "we",
+        "startFrame": 790,
+        "endFrame": 795
+      },
+      {
+        "text": "fix",
+        "startFrame": 795,
+        "endFrame": 799
+      },
+      {
+        "text": "it",
+        "startFrame": 798,
+        "endFrame": 847
+      }
+    ]
+  },
+  {
+    "text": "Think about a textbook for a second",
+    "startFrame": 851,
+    "endFrame": 909,
+    "words": [
+      {
+        "text": "Think",
+        "startFrame": 851,
+        "endFrame": 860
+      },
+      {
+        "text": "about",
+        "startFrame": 860,
+        "endFrame": 870
+      },
+      {
+        "text": "a",
+        "startFrame": 870,
+        "endFrame": 873
+      },
+      {
+        "text": "textbook",
+        "startFrame": 871,
+        "endFrame": 886
+      },
+      {
+        "text": "for",
+        "startFrame": 886,
+        "endFrame": 893
+      },
+      {
+        "text": "a",
+        "startFrame": 893,
+        "endFrame": 897
+      },
+      {
+        "text": "second",
+        "startFrame": 896,
+        "endFrame": 909
+      }
+    ]
+  },
+  {
+    "text": "If I ask you to find every page that",
+    "startFrame": 911,
+    "endFrame": 968,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 911,
+        "endFrame": 915
+      },
+      {
+        "text": "I",
+        "startFrame": 915,
+        "endFrame": 918
+      },
+      {
+        "text": "ask",
+        "startFrame": 918,
+        "endFrame": 926
+      },
+      {
+        "text": "you",
+        "startFrame": 926,
+        "endFrame": 929
+      },
+      {
+        "text": "to",
+        "startFrame": 929,
+        "endFrame": 934
+      },
+      {
+        "text": "find",
+        "startFrame": 934,
+        "endFrame": 940
+      },
+      {
+        "text": "every",
+        "startFrame": 940,
+        "endFrame": 949
+      },
+      {
+        "text": "page",
+        "startFrame": 949,
+        "endFrame": 959
+      },
+      {
+        "text": "that",
+        "startFrame": 959,
+        "endFrame": 968
+      }
+    ]
+  },
+  {
+    "text": "mentions photosynthesis you have two options",
+    "startFrame": 968,
+    "endFrame": 1057,
+    "words": [
+      {
+        "text": "mentions",
+        "startFrame": 968,
+        "endFrame": 984
+      },
+      {
+        "text": "photosynthesis",
+        "startFrame": 984,
+        "endFrame": 1012
+      },
+      {
+        "text": "you",
+        "startFrame": 1018,
+        "endFrame": 1021
+      },
+      {
+        "text": "have",
+        "startFrame": 1021,
+        "endFrame": 1028
+      },
+      {
+        "text": "two",
+        "startFrame": 1028,
+        "endFrame": 1032
+      },
+      {
+        "text": "options",
+        "startFrame": 1032,
+        "endFrame": 1057
+      }
+    ]
+  },
+  {
+    "text": "You could flip through all 400 pages and check",
+    "startFrame": 1057,
+    "endFrame": 1146,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 1057,
+        "endFrame": 1067
+      },
+      {
+        "text": "could",
+        "startFrame": 1067,
+        "endFrame": 1074
+      },
+      {
+        "text": "flip",
+        "startFrame": 1074,
+        "endFrame": 1082
+      },
+      {
+        "text": "through",
+        "startFrame": 1082,
+        "endFrame": 1099
+      },
+      {
+        "text": "all",
+        "startFrame": 1099,
+        "endFrame": 1102
+      },
+      {
+        "text": "400",
+        "startFrame": 1102,
+        "endFrame": 1122
+      },
+      {
+        "text": "pages",
+        "startFrame": 1122,
+        "endFrame": 1131
+      },
+      {
+        "text": "and",
+        "startFrame": 1131,
+        "endFrame": 1137
+      },
+      {
+        "text": "check",
+        "startFrame": 1137,
+        "endFrame": 1146
+      }
+    ]
+  },
+  {
+    "text": "each one or you could go to the index",
+    "startFrame": 1146,
+    "endFrame": 1200,
+    "words": [
+      {
+        "text": "each",
+        "startFrame": 1146,
+        "endFrame": 1164
+      },
+      {
+        "text": "one",
+        "startFrame": 1164,
+        "endFrame": 1168
+      },
+      {
+        "text": "or",
+        "startFrame": 1167,
+        "endFrame": 1170
+      },
+      {
+        "text": "you",
+        "startFrame": 1169,
+        "endFrame": 1174
+      },
+      {
+        "text": "could",
+        "startFrame": 1174,
+        "endFrame": 1180
+      },
+      {
+        "text": "go",
+        "startFrame": 1180,
+        "endFrame": 1185
+      },
+      {
+        "text": "to",
+        "startFrame": 1185,
+        "endFrame": 1188
+      },
+      {
+        "text": "the",
+        "startFrame": 1186,
+        "endFrame": 1190
+      },
+      {
+        "text": "index",
+        "startFrame": 1190,
+        "endFrame": 1200
+      }
+    ]
+  },
+  {
+    "text": "at the back, find photosynthesis and it tells",
+    "startFrame": 1200,
+    "endFrame": 1280,
+    "words": [
+      {
+        "text": "at",
+        "startFrame": 1200,
+        "endFrame": 1208
+      },
+      {
+        "text": "the",
+        "startFrame": 1208,
+        "endFrame": 1215
+      },
+      {
+        "text": "back,",
+        "startFrame": 1215,
+        "endFrame": 1222
+      },
+      {
+        "text": "find",
+        "startFrame": 1222,
+        "endFrame": 1230
+      },
+      {
+        "text": "photosynthesis",
+        "startFrame": 1230,
+        "endFrame": 1257
+      },
+      {
+        "text": "and",
+        "startFrame": 1257,
+        "endFrame": 1269
+      },
+      {
+        "text": "it",
+        "startFrame": 1269,
+        "endFrame": 1272
+      },
+      {
+        "text": "tells",
+        "startFrame": 1271,
+        "endFrame": 1280
+      }
+    ]
+  },
+  {
+    "text": "you exactly which pages to look",
+    "startFrame": 1280,
+    "endFrame": 1344,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 1280,
+        "endFrame": 1287
+      },
+      {
+        "text": "exactly",
+        "startFrame": 1287,
+        "endFrame": 1304
+      },
+      {
+        "text": "which",
+        "startFrame": 1304,
+        "endFrame": 1314
+      },
+      {
+        "text": "pages",
+        "startFrame": 1314,
+        "endFrame": 1324
+      },
+      {
+        "text": "to",
+        "startFrame": 1324,
+        "endFrame": 1334
+      },
+      {
+        "text": "look",
+        "startFrame": 1334,
+        "endFrame": 1344
+      }
+    ]
+  },
+  {
+    "text": "at The index is faster because someone already did the",
+    "startFrame": 1344,
+    "endFrame": 1426,
+    "words": [
+      {
+        "text": "at",
+        "startFrame": 1344,
+        "endFrame": 1354
+      },
+      {
+        "text": "The",
+        "startFrame": 1354,
+        "endFrame": 1359
+      },
+      {
+        "text": "index",
+        "startFrame": 1359,
+        "endFrame": 1368
+      },
+      {
+        "text": "is",
+        "startFrame": 1368,
+        "endFrame": 1373
+      },
+      {
+        "text": "faster",
+        "startFrame": 1373,
+        "endFrame": 1381
+      },
+      {
+        "text": "because",
+        "startFrame": 1381,
+        "endFrame": 1393
+      },
+      {
+        "text": "someone",
+        "startFrame": 1393,
+        "endFrame": 1405
+      },
+      {
+        "text": "already",
+        "startFrame": 1405,
+        "endFrame": 1416
+      },
+      {
+        "text": "did",
+        "startFrame": 1416,
+        "endFrame": 1422
+      },
+      {
+        "text": "the",
+        "startFrame": 1422,
+        "endFrame": 1426
+      }
+    ]
+  },
+  {
+    "text": "reading They read the book once ahead of time",
+    "startFrame": 1426,
+    "endFrame": 1514,
+    "words": [
+      {
+        "text": "reading",
+        "startFrame": 1426,
+        "endFrame": 1438
+      },
+      {
+        "text": "They",
+        "startFrame": 1445,
+        "endFrame": 1461
+      },
+      {
+        "text": "read",
+        "startFrame": 1461,
+        "endFrame": 1465
+      },
+      {
+        "text": "the",
+        "startFrame": 1463,
+        "endFrame": 1470
+      },
+      {
+        "text": "book",
+        "startFrame": 1470,
+        "endFrame": 1480
+      },
+      {
+        "text": "once",
+        "startFrame": 1480,
+        "endFrame": 1489
+      },
+      {
+        "text": "ahead",
+        "startFrame": 1489,
+        "endFrame": 1501
+      },
+      {
+        "text": "of",
+        "startFrame": 1501,
+        "endFrame": 1505
+      },
+      {
+        "text": "time",
+        "startFrame": 1505,
+        "endFrame": 1514
+      }
+    ]
+  },
+  {
+    "text": "and wrote down where every word",
+    "startFrame": 1514,
+    "endFrame": 1573,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 1514,
+        "endFrame": 1524
+      },
+      {
+        "text": "wrote",
+        "startFrame": 1524,
+        "endFrame": 1533
+      },
+      {
+        "text": "down",
+        "startFrame": 1533,
+        "endFrame": 1542
+      },
+      {
+        "text": "where",
+        "startFrame": 1542,
+        "endFrame": 1554
+      },
+      {
+        "text": "every",
+        "startFrame": 1554,
+        "endFrame": 1566
+      },
+      {
+        "text": "word",
+        "startFrame": 1566,
+        "endFrame": 1573
+      }
+    ]
+  },
+  {
+    "text": "appears That's what a search engine",
+    "startFrame": 1573,
+    "endFrame": 1644,
+    "words": [
+      {
+        "text": "appears",
+        "startFrame": 1573,
+        "endFrame": 1598
+      },
+      {
+        "text": "That's",
+        "startFrame": 1601,
+        "endFrame": 1614
+      },
+      {
+        "text": "what",
+        "startFrame": 1614,
+        "endFrame": 1619
+      },
+      {
+        "text": "a",
+        "startFrame": 1619,
+        "endFrame": 1623
+      },
+      {
+        "text": "search",
+        "startFrame": 1621,
+        "endFrame": 1633
+      },
+      {
+        "text": "engine",
+        "startFrame": 1633,
+        "endFrame": 1644
+      }
+    ]
+  },
+  {
+    "text": "does It reads everything in advance and builds an",
+    "startFrame": 1644,
+    "endFrame": 1746,
+    "words": [
+      {
+        "text": "does",
+        "startFrame": 1644,
+        "endFrame": 1657
+      },
+      {
+        "text": "It",
+        "startFrame": 1658,
+        "endFrame": 1663
+      },
+      {
+        "text": "reads",
+        "startFrame": 1663,
+        "endFrame": 1674
+      },
+      {
+        "text": "everything",
+        "startFrame": 1674,
+        "endFrame": 1700
+      },
+      {
+        "text": "in",
+        "startFrame": 1700,
+        "endFrame": 1703
+      },
+      {
+        "text": "advance",
+        "startFrame": 1701,
+        "endFrame": 1717
+      },
+      {
+        "text": "and",
+        "startFrame": 1717,
+        "endFrame": 1727
+      },
+      {
+        "text": "builds",
+        "startFrame": 1727,
+        "endFrame": 1737
+      },
+      {
+        "text": "an",
+        "startFrame": 1737,
+        "endFrame": 1746
+      }
+    ]
+  },
+  {
+    "text": "index Then when you search it just looks things",
+    "startFrame": 1746,
+    "endFrame": 1817,
+    "words": [
+      {
+        "text": "index",
+        "startFrame": 1746,
+        "endFrame": 1756
+      },
+      {
+        "text": "Then",
+        "startFrame": 1758,
+        "endFrame": 1765
+      },
+      {
+        "text": "when",
+        "startFrame": 1765,
+        "endFrame": 1771
+      },
+      {
+        "text": "you",
+        "startFrame": 1771,
+        "endFrame": 1777
+      },
+      {
+        "text": "search",
+        "startFrame": 1777,
+        "endFrame": 1788
+      },
+      {
+        "text": "it",
+        "startFrame": 1789,
+        "endFrame": 1796
+      },
+      {
+        "text": "just",
+        "startFrame": 1796,
+        "endFrame": 1799
+      },
+      {
+        "text": "looks",
+        "startFrame": 1799,
+        "endFrame": 1810
+      },
+      {
+        "text": "things",
+        "startFrame": 1810,
+        "endFrame": 1817
+      }
+    ]
+  },
+  {
+    "text": "up This is called an inverted index and",
+    "startFrame": 1817,
+    "endFrame": 1890,
+    "words": [
+      {
+        "text": "up",
+        "startFrame": 1817,
+        "endFrame": 1828
+      },
+      {
+        "text": "This",
+        "startFrame": 1828,
+        "endFrame": 1836
+      },
+      {
+        "text": "is",
+        "startFrame": 1836,
+        "endFrame": 1846
+      },
+      {
+        "text": "called",
+        "startFrame": 1846,
+        "endFrame": 1856
+      },
+      {
+        "text": "an",
+        "startFrame": 1856,
+        "endFrame": 1859
+      },
+      {
+        "text": "inverted",
+        "startFrame": 1858,
+        "endFrame": 1875
+      },
+      {
+        "text": "index",
+        "startFrame": 1875,
+        "endFrame": 1886
+      },
+      {
+        "text": "and",
+        "startFrame": 1886,
+        "endFrame": 1890
+      }
+    ]
+  },
+  {
+    "text": "that's the first thing we are",
+    "startFrame": 1890,
+    "endFrame": 1943,
+    "words": [
+      {
+        "text": "that's",
+        "startFrame": 1890,
+        "endFrame": 1909
+      },
+      {
+        "text": "the",
+        "startFrame": 1907,
+        "endFrame": 1911
+      },
+      {
+        "text": "first",
+        "startFrame": 1911,
+        "endFrame": 1922
+      },
+      {
+        "text": "thing",
+        "startFrame": 1922,
+        "endFrame": 1933
+      },
+      {
+        "text": "we",
+        "startFrame": 1933,
+        "endFrame": 1937
+      },
+      {
+        "text": "are",
+        "startFrame": 1937,
+        "endFrame": 1943
+      }
+    ]
+  },
+  {
+    "text": "building We need something to search",
+    "startFrame": 1943,
+    "endFrame": 2029,
+    "words": [
+      {
+        "text": "building",
+        "startFrame": 1943,
+        "endFrame": 1952
+      },
+      {
+        "text": "We",
+        "startFrame": 1970,
+        "endFrame": 1983
+      },
+      {
+        "text": "need",
+        "startFrame": 1983,
+        "endFrame": 1988
+      },
+      {
+        "text": "something",
+        "startFrame": 1988,
+        "endFrame": 2004
+      },
+      {
+        "text": "to",
+        "startFrame": 2004,
+        "endFrame": 2016
+      },
+      {
+        "text": "search",
+        "startFrame": 2016,
+        "endFrame": 2029
+      }
+    ]
+  },
+  {
+    "text": "through So here are five short",
+    "startFrame": 2029,
+    "endFrame": 2078,
+    "words": [
+      {
+        "text": "through",
+        "startFrame": 2029,
+        "endFrame": 2041
+      },
+      {
+        "text": "So",
+        "startFrame": 2041,
+        "endFrame": 2045
+      },
+      {
+        "text": "here",
+        "startFrame": 2045,
+        "endFrame": 2053
+      },
+      {
+        "text": "are",
+        "startFrame": 2053,
+        "endFrame": 2060
+      },
+      {
+        "text": "five",
+        "startFrame": 2060,
+        "endFrame": 2069
+      },
+      {
+        "text": "short",
+        "startFrame": 2069,
+        "endFrame": 2078
+      }
+    ]
+  },
+  {
+    "text": "documents Think of each one as a webpage just much",
+    "startFrame": 2078,
+    "endFrame": 2181,
+    "words": [
+      {
+        "text": "documents",
+        "startFrame": 2078,
+        "endFrame": 2104
+      },
+      {
+        "text": "Think",
+        "startFrame": 2107,
+        "endFrame": 2119
+      },
+      {
+        "text": "of",
+        "startFrame": 2119,
+        "endFrame": 2123
+      },
+      {
+        "text": "each",
+        "startFrame": 2123,
+        "endFrame": 2132
+      },
+      {
+        "text": "one",
+        "startFrame": 2132,
+        "endFrame": 2140
+      },
+      {
+        "text": "as",
+        "startFrame": 2140,
+        "endFrame": 2146
+      },
+      {
+        "text": "a",
+        "startFrame": 2146,
+        "endFrame": 2152
+      },
+      {
+        "text": "webpage",
+        "startFrame": 2152,
+        "endFrame": 2162
+      },
+      {
+        "text": "just",
+        "startFrame": 2162,
+        "endFrame": 2172
+      },
+      {
+        "text": "much",
+        "startFrame": 2172,
+        "endFrame": 2181
+      }
+    ]
+  },
+  {
+    "text": "smaller Each has an ID number and some",
+    "startFrame": 2181,
+    "endFrame": 2266,
+    "words": [
+      {
+        "text": "smaller",
+        "startFrame": 2181,
+        "endFrame": 2203
+      },
+      {
+        "text": "Each",
+        "startFrame": 2206,
+        "endFrame": 2216
+      },
+      {
+        "text": "has",
+        "startFrame": 2216,
+        "endFrame": 2224
+      },
+      {
+        "text": "an",
+        "startFrame": 2224,
+        "endFrame": 2229
+      },
+      {
+        "text": "ID",
+        "startFrame": 2229,
+        "endFrame": 2234
+      },
+      {
+        "text": "number",
+        "startFrame": 2234,
+        "endFrame": 2249
+      },
+      {
+        "text": "and",
+        "startFrame": 2249,
+        "endFrame": 2258
+      },
+      {
+        "text": "some",
+        "startFrame": 2258,
+        "endFrame": 2266
+      }
+    ]
+  },
+  {
+    "text": "text Then we need a tokenize",
+    "startFrame": 2266,
+    "endFrame": 2336,
+    "words": [
+      {
+        "text": "text",
+        "startFrame": 2266,
+        "endFrame": 2283
+      },
+      {
+        "text": "Then",
+        "startFrame": 2286,
+        "endFrame": 2294
+      },
+      {
+        "text": "we",
+        "startFrame": 2294,
+        "endFrame": 2297
+      },
+      {
+        "text": "need",
+        "startFrame": 2297,
+        "endFrame": 2305
+      },
+      {
+        "text": "a",
+        "startFrame": 2305,
+        "endFrame": 2308
+      },
+      {
+        "text": "tokenize",
+        "startFrame": 2306,
+        "endFrame": 2336
+      }
+    ]
+  },
+  {
+    "text": "function All it does is lower case the text",
+    "startFrame": 2336,
+    "endFrame": 2390,
+    "words": [
+      {
+        "text": "function",
+        "startFrame": 2336,
+        "endFrame": 2345
+      },
+      {
+        "text": "All",
+        "startFrame": 2346,
+        "endFrame": 2351
+      },
+      {
+        "text": "it",
+        "startFrame": 2351,
+        "endFrame": 2354
+      },
+      {
+        "text": "does",
+        "startFrame": 2354,
+        "endFrame": 2361
+      },
+      {
+        "text": "is",
+        "startFrame": 2361,
+        "endFrame": 2364
+      },
+      {
+        "text": "lower",
+        "startFrame": 2364,
+        "endFrame": 2373
+      },
+      {
+        "text": "case",
+        "startFrame": 2373,
+        "endFrame": 2379
+      },
+      {
+        "text": "the",
+        "startFrame": 2379,
+        "endFrame": 2384
+      },
+      {
+        "text": "text",
+        "startFrame": 2384,
+        "endFrame": 2390
+      }
+    ]
+  },
+  {
+    "text": "and split it into individual",
+    "startFrame": 2390,
+    "endFrame": 2430,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 2390,
+        "endFrame": 2395
+      },
+      {
+        "text": "split",
+        "startFrame": 2395,
+        "endFrame": 2404
+      },
+      {
+        "text": "it",
+        "startFrame": 2404,
+        "endFrame": 2408
+      },
+      {
+        "text": "into",
+        "startFrame": 2408,
+        "endFrame": 2414
+      },
+      {
+        "text": "individual",
+        "startFrame": 2414,
+        "endFrame": 2430
+      }
+    ]
+  },
+  {
+    "text": "words We lower case so that Cat and cat",
+    "startFrame": 2430,
+    "endFrame": 2525,
+    "words": [
+      {
+        "text": "words",
+        "startFrame": 2430,
+        "endFrame": 2437
+      },
+      {
+        "text": "We",
+        "startFrame": 2446,
+        "endFrame": 2457
+      },
+      {
+        "text": "lower",
+        "startFrame": 2457,
+        "endFrame": 2466
+      },
+      {
+        "text": "case",
+        "startFrame": 2466,
+        "endFrame": 2477
+      },
+      {
+        "text": "so",
+        "startFrame": 2477,
+        "endFrame": 2487
+      },
+      {
+        "text": "that",
+        "startFrame": 2487,
+        "endFrame": 2496
+      },
+      {
+        "text": "Cat",
+        "startFrame": 2496,
+        "endFrame": 2505
+      },
+      {
+        "text": "and",
+        "startFrame": 2505,
+        "endFrame": 2515
+      },
+      {
+        "text": "cat",
+        "startFrame": 2515,
+        "endFrame": 2525
+      }
+    ]
+  },
+  {
+    "text": "count as the same",
+    "startFrame": 2525,
+    "endFrame": 2557,
+    "words": [
+      {
+        "text": "count",
+        "startFrame": 2525,
+        "endFrame": 2534
+      },
+      {
+        "text": "as",
+        "startFrame": 2534,
+        "endFrame": 2540
+      },
+      {
+        "text": "the",
+        "startFrame": 2540,
+        "endFrame": 2549
+      },
+      {
+        "text": "same",
+        "startFrame": 2549,
+        "endFrame": 2557
+      }
+    ]
+  },
+  {
+    "text": "word This is the whole index It's four",
+    "startFrame": 2557,
+    "endFrame": 2638,
+    "words": [
+      {
+        "text": "word",
+        "startFrame": 2557,
+        "endFrame": 2580
+      },
+      {
+        "text": "This",
+        "startFrame": 2582,
+        "endFrame": 2590
+      },
+      {
+        "text": "is",
+        "startFrame": 2590,
+        "endFrame": 2593
+      },
+      {
+        "text": "the",
+        "startFrame": 2593,
+        "endFrame": 2598
+      },
+      {
+        "text": "whole",
+        "startFrame": 2598,
+        "endFrame": 2607
+      },
+      {
+        "text": "index",
+        "startFrame": 2607,
+        "endFrame": 2620
+      },
+      {
+        "text": "It's",
+        "startFrame": 2623,
+        "endFrame": 2631
+      },
+      {
+        "text": "four",
+        "startFrame": 2630,
+        "endFrame": 2638
+      }
+    ]
+  },
+  {
+    "text": "lines We go through every document and then through",
+    "startFrame": 2638,
+    "endFrame": 2727,
+    "words": [
+      {
+        "text": "lines",
+        "startFrame": 2638,
+        "endFrame": 2645
+      },
+      {
+        "text": "We",
+        "startFrame": 2653,
+        "endFrame": 2657
+      },
+      {
+        "text": "go",
+        "startFrame": 2657,
+        "endFrame": 2666
+      },
+      {
+        "text": "through",
+        "startFrame": 2666,
+        "endFrame": 2674
+      },
+      {
+        "text": "every",
+        "startFrame": 2674,
+        "endFrame": 2684
+      },
+      {
+        "text": "document",
+        "startFrame": 2684,
+        "endFrame": 2703
+      },
+      {
+        "text": "and",
+        "startFrame": 2703,
+        "endFrame": 2707
+      },
+      {
+        "text": "then",
+        "startFrame": 2705,
+        "endFrame": 2714
+      },
+      {
+        "text": "through",
+        "startFrame": 2714,
+        "endFrame": 2727
+      }
+    ]
+  },
+  {
+    "text": "every word in that",
+    "startFrame": 2727,
+    "endFrame": 2756,
+    "words": [
+      {
+        "text": "every",
+        "startFrame": 2727,
+        "endFrame": 2737
+      },
+      {
+        "text": "word",
+        "startFrame": 2737,
+        "endFrame": 2744
+      },
+      {
+        "text": "in",
+        "startFrame": 2744,
+        "endFrame": 2750
+      },
+      {
+        "text": "that",
+        "startFrame": 2750,
+        "endFrame": 2756
+      }
+    ]
+  },
+  {
+    "text": "document For each word we record which document it",
+    "startFrame": 2756,
+    "endFrame": 2859,
+    "words": [
+      {
+        "text": "document",
+        "startFrame": 2756,
+        "endFrame": 2777
+      },
+      {
+        "text": "For",
+        "startFrame": 2779,
+        "endFrame": 2784
+      },
+      {
+        "text": "each",
+        "startFrame": 2784,
+        "endFrame": 2792
+      },
+      {
+        "text": "word",
+        "startFrame": 2792,
+        "endFrame": 2800
+      },
+      {
+        "text": "we",
+        "startFrame": 2804,
+        "endFrame": 2808
+      },
+      {
+        "text": "record",
+        "startFrame": 2808,
+        "endFrame": 2819
+      },
+      {
+        "text": "which",
+        "startFrame": 2819,
+        "endFrame": 2830
+      },
+      {
+        "text": "document",
+        "startFrame": 2830,
+        "endFrame": 2845
+      },
+      {
+        "text": "it",
+        "startFrame": 2845,
+        "endFrame": 2859
+      }
+    ]
+  },
+  {
+    "text": "appeared in and how many",
+    "startFrame": 2859,
+    "endFrame": 2888,
+    "words": [
+      {
+        "text": "appeared",
+        "startFrame": 2859,
+        "endFrame": 2864
+      },
+      {
+        "text": "in",
+        "startFrame": 2864,
+        "endFrame": 2868
+      },
+      {
+        "text": "and",
+        "startFrame": 2868,
+        "endFrame": 2874
+      },
+      {
+        "text": "how",
+        "startFrame": 2874,
+        "endFrame": 2878
+      },
+      {
+        "text": "many",
+        "startFrame": 2878,
+        "endFrame": 2888
+      }
+    ]
+  },
+  {
+    "text": "times So the structure we end up with is",
+    "startFrame": 2888,
+    "endFrame": 2964,
+    "words": [
+      {
+        "text": "times",
+        "startFrame": 2888,
+        "endFrame": 2905
+      },
+      {
+        "text": "So",
+        "startFrame": 2905,
+        "endFrame": 2909
+      },
+      {
+        "text": "the",
+        "startFrame": 2909,
+        "endFrame": 2916
+      },
+      {
+        "text": "structure",
+        "startFrame": 2916,
+        "endFrame": 2936
+      },
+      {
+        "text": "we",
+        "startFrame": 2936,
+        "endFrame": 2942
+      },
+      {
+        "text": "end",
+        "startFrame": 2942,
+        "endFrame": 2951
+      },
+      {
+        "text": "up",
+        "startFrame": 2951,
+        "endFrame": 2958
+      },
+      {
+        "text": "with",
+        "startFrame": 2958,
+        "endFrame": 2962
+      },
+      {
+        "text": "is",
+        "startFrame": 2960,
+        "endFrame": 2964
+      }
+    ]
+  },
+  {
+    "text": "a word pointing to a list of",
+    "startFrame": 2964,
+    "endFrame": 3011,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 2964,
+        "endFrame": 2967
+      },
+      {
+        "text": "word",
+        "startFrame": 2967,
+        "endFrame": 2975
+      },
+      {
+        "text": "pointing",
+        "startFrame": 2975,
+        "endFrame": 2992
+      },
+      {
+        "text": "to",
+        "startFrame": 2992,
+        "endFrame": 2997
+      },
+      {
+        "text": "a",
+        "startFrame": 2997,
+        "endFrame": 3001
+      },
+      {
+        "text": "list",
+        "startFrame": 2998,
+        "endFrame": 3007
+      },
+      {
+        "text": "of",
+        "startFrame": 3007,
+        "endFrame": 3011
+      }
+    ]
+  },
+  {
+    "text": "documents Let me show you what it actually looks",
+    "startFrame": 3011,
+    "endFrame": 3131,
+    "words": [
+      {
+        "text": "documents",
+        "startFrame": 3011,
+        "endFrame": 3037
+      },
+      {
+        "text": "Let",
+        "startFrame": 3041,
+        "endFrame": 3050
+      },
+      {
+        "text": "me",
+        "startFrame": 3050,
+        "endFrame": 3054
+      },
+      {
+        "text": "show",
+        "startFrame": 3054,
+        "endFrame": 3065
+      },
+      {
+        "text": "you",
+        "startFrame": 3065,
+        "endFrame": 3084
+      },
+      {
+        "text": "what",
+        "startFrame": 3084,
+        "endFrame": 3088
+      },
+      {
+        "text": "it",
+        "startFrame": 3086,
+        "endFrame": 3089
+      },
+      {
+        "text": "actually",
+        "startFrame": 3089,
+        "endFrame": 3111
+      },
+      {
+        "text": "looks",
+        "startFrame": 3111,
+        "endFrame": 3131
+      }
+    ]
+  },
+  {
+    "text": "like So cat appears in document one twice and",
+    "startFrame": 3131,
+    "endFrame": 3221,
+    "words": [
+      {
+        "text": "like",
+        "startFrame": 3131,
+        "endFrame": 3146
+      },
+      {
+        "text": "So",
+        "startFrame": 3146,
+        "endFrame": 3151
+      },
+      {
+        "text": "cat",
+        "startFrame": 3151,
+        "endFrame": 3157
+      },
+      {
+        "text": "appears",
+        "startFrame": 3157,
+        "endFrame": 3175
+      },
+      {
+        "text": "in",
+        "startFrame": 3175,
+        "endFrame": 3178
+      },
+      {
+        "text": "document",
+        "startFrame": 3178,
+        "endFrame": 3196
+      },
+      {
+        "text": "one",
+        "startFrame": 3196,
+        "endFrame": 3214
+      },
+      {
+        "text": "twice",
+        "startFrame": 3214,
+        "endFrame": 3218
+      },
+      {
+        "text": "and",
+        "startFrame": 3216,
+        "endFrame": 3221
+      }
+    ]
+  },
+  {
+    "text": "dog appears in document three",
+    "startFrame": 3221,
+    "endFrame": 3278,
+    "words": [
+      {
+        "text": "dog",
+        "startFrame": 3221,
+        "endFrame": 3228
+      },
+      {
+        "text": "appears",
+        "startFrame": 3228,
+        "endFrame": 3244
+      },
+      {
+        "text": "in",
+        "startFrame": 3244,
+        "endFrame": 3250
+      },
+      {
+        "text": "document",
+        "startFrame": 3250,
+        "endFrame": 3268
+      },
+      {
+        "text": "three",
+        "startFrame": 3268,
+        "endFrame": 3278
+      }
+    ]
+  },
+  {
+    "text": "once Now if someone searches for cat we",
+    "startFrame": 3278,
+    "endFrame": 3347,
+    "words": [
+      {
+        "text": "once",
+        "startFrame": 3278,
+        "endFrame": 3294
+      },
+      {
+        "text": "Now",
+        "startFrame": 3296,
+        "endFrame": 3305
+      },
+      {
+        "text": "if",
+        "startFrame": 3305,
+        "endFrame": 3313
+      },
+      {
+        "text": "someone",
+        "startFrame": 3313,
+        "endFrame": 3320
+      },
+      {
+        "text": "searches",
+        "startFrame": 3320,
+        "endFrame": 3328
+      },
+      {
+        "text": "for",
+        "startFrame": 3328,
+        "endFrame": 3335
+      },
+      {
+        "text": "cat",
+        "startFrame": 3335,
+        "endFrame": 3343
+      },
+      {
+        "text": "we",
+        "startFrame": 3343,
+        "endFrame": 3347
+      }
+    ]
+  },
+  {
+    "text": "don't touch documents two four or five at",
+    "startFrame": 3347,
+    "endFrame": 3412,
+    "words": [
+      {
+        "text": "don't",
+        "startFrame": 3347,
+        "endFrame": 3356
+      },
+      {
+        "text": "touch",
+        "startFrame": 3356,
+        "endFrame": 3365
+      },
+      {
+        "text": "documents",
+        "startFrame": 3365,
+        "endFrame": 3381
+      },
+      {
+        "text": "two",
+        "startFrame": 3381,
+        "endFrame": 3388
+      },
+      {
+        "text": "four",
+        "startFrame": 3390,
+        "endFrame": 3397
+      },
+      {
+        "text": "or",
+        "startFrame": 3397,
+        "endFrame": 3401
+      },
+      {
+        "text": "five",
+        "startFrame": 3401,
+        "endFrame": 3408
+      },
+      {
+        "text": "at",
+        "startFrame": 3408,
+        "endFrame": 3412
+      }
+    ]
+  },
+  {
+    "text": "all We already know they are",
+    "startFrame": 3412,
+    "endFrame": 3474,
+    "words": [
+      {
+        "text": "all",
+        "startFrame": 3412,
+        "endFrame": 3420
+      },
+      {
+        "text": "We",
+        "startFrame": 3425,
+        "endFrame": 3431
+      },
+      {
+        "text": "already",
+        "startFrame": 3431,
+        "endFrame": 3447
+      },
+      {
+        "text": "know",
+        "startFrame": 3447,
+        "endFrame": 3457
+      },
+      {
+        "text": "they",
+        "startFrame": 3457,
+        "endFrame": 3467
+      },
+      {
+        "text": "are",
+        "startFrame": 3467,
+        "endFrame": 3474
+      }
+    ]
+  },
+  {
+    "text": "irrelevant That's the speed trick and it's",
+    "startFrame": 3474,
+    "endFrame": 3562,
+    "words": [
+      {
+        "text": "irrelevant",
+        "startFrame": 3474,
+        "endFrame": 3503
+      },
+      {
+        "text": "That's",
+        "startFrame": 3508,
+        "endFrame": 3520
+      },
+      {
+        "text": "the",
+        "startFrame": 3520,
+        "endFrame": 3526
+      },
+      {
+        "text": "speed",
+        "startFrame": 3526,
+        "endFrame": 3540
+      },
+      {
+        "text": "trick",
+        "startFrame": 3540,
+        "endFrame": 3548
+      },
+      {
+        "text": "and",
+        "startFrame": 3548,
+        "endFrame": 3554
+      },
+      {
+        "text": "it's",
+        "startFrame": 3554,
+        "endFrame": 3562
+      }
+    ]
+  },
+  {
+    "text": "the entire reason search feels",
+    "startFrame": 3562,
+    "endFrame": 3616,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3562,
+        "endFrame": 3568
+      },
+      {
+        "text": "entire",
+        "startFrame": 3568,
+        "endFrame": 3584
+      },
+      {
+        "text": "reason",
+        "startFrame": 3584,
+        "endFrame": 3593
+      },
+      {
+        "text": "search",
+        "startFrame": 3593,
+        "endFrame": 3604
+      },
+      {
+        "text": "feels",
+        "startFrame": 3604,
+        "endFrame": 3616
+      }
+    ]
+  },
+  {
+    "text": "instant Now we need to rank the",
+    "startFrame": 3616,
+    "endFrame": 3675,
+    "words": [
+      {
+        "text": "instant",
+        "startFrame": 3616,
+        "endFrame": 3638
+      },
+      {
+        "text": "Now",
+        "startFrame": 3641,
+        "endFrame": 3646
+      },
+      {
+        "text": "we",
+        "startFrame": 3646,
+        "endFrame": 3650
+      },
+      {
+        "text": "need",
+        "startFrame": 3650,
+        "endFrame": 3658
+      },
+      {
+        "text": "to",
+        "startFrame": 3658,
+        "endFrame": 3662
+      },
+      {
+        "text": "rank",
+        "startFrame": 3662,
+        "endFrame": 3671
+      },
+      {
+        "text": "the",
+        "startFrame": 3671,
+        "endFrame": 3675
+      }
+    ]
+  },
+  {
+    "text": "results The obvious approach is to just count",
+    "startFrame": 3675,
+    "endFrame": 3754,
+    "words": [
+      {
+        "text": "results",
+        "startFrame": 3675,
+        "endFrame": 3695
+      },
+      {
+        "text": "The",
+        "startFrame": 3697,
+        "endFrame": 3702
+      },
+      {
+        "text": "obvious",
+        "startFrame": 3702,
+        "endFrame": 3716
+      },
+      {
+        "text": "approach",
+        "startFrame": 3716,
+        "endFrame": 3731
+      },
+      {
+        "text": "is",
+        "startFrame": 3731,
+        "endFrame": 3738
+      },
+      {
+        "text": "to",
+        "startFrame": 3738,
+        "endFrame": 3741
+      },
+      {
+        "text": "just",
+        "startFrame": 3739,
+        "endFrame": 3746
+      },
+      {
+        "text": "count",
+        "startFrame": 3746,
+        "endFrame": 3754
+      }
+    ]
+  },
+  {
+    "text": "matches Whichever document contains the search words the most times",
+    "startFrame": 3754,
+    "endFrame": 3890,
+    "words": [
+      {
+        "text": "matches",
+        "startFrame": 3754,
+        "endFrame": 3774
+      },
+      {
+        "text": "Whichever",
+        "startFrame": 3776,
+        "endFrame": 3796
+      },
+      {
+        "text": "document",
+        "startFrame": 3796,
+        "endFrame": 3814
+      },
+      {
+        "text": "contains",
+        "startFrame": 3814,
+        "endFrame": 3825
+      },
+      {
+        "text": "the",
+        "startFrame": 3825,
+        "endFrame": 3836
+      },
+      {
+        "text": "search",
+        "startFrame": 3836,
+        "endFrame": 3847
+      },
+      {
+        "text": "words",
+        "startFrame": 3847,
+        "endFrame": 3858
+      },
+      {
+        "text": "the",
+        "startFrame": 3858,
+        "endFrame": 3868
+      },
+      {
+        "text": "most",
+        "startFrame": 3868,
+        "endFrame": 3879
+      },
+      {
+        "text": "times",
+        "startFrame": 3879,
+        "endFrame": 3890
+      }
+    ]
+  },
+  {
+    "text": "wins For each word in the search we look",
+    "startFrame": 3890,
+    "endFrame": 3974,
+    "words": [
+      {
+        "text": "wins",
+        "startFrame": 3890,
+        "endFrame": 3901
+      },
+      {
+        "text": "For",
+        "startFrame": 3902,
+        "endFrame": 3909
+      },
+      {
+        "text": "each",
+        "startFrame": 3909,
+        "endFrame": 3919
+      },
+      {
+        "text": "word",
+        "startFrame": 3919,
+        "endFrame": 3930
+      },
+      {
+        "text": "in",
+        "startFrame": 3930,
+        "endFrame": 3933
+      },
+      {
+        "text": "the",
+        "startFrame": 3933,
+        "endFrame": 3945
+      },
+      {
+        "text": "search",
+        "startFrame": 3945,
+        "endFrame": 3955
+      },
+      {
+        "text": "we",
+        "startFrame": 3961,
+        "endFrame": 3965
+      },
+      {
+        "text": "look",
+        "startFrame": 3964,
+        "endFrame": 3974
+      }
+    ]
+  },
+  {
+    "text": "it up in our",
+    "startFrame": 3974,
+    "endFrame": 3995,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 3974,
+        "endFrame": 3979
+      },
+      {
+        "text": "up",
+        "startFrame": 3979,
+        "endFrame": 3983
+      },
+      {
+        "text": "in",
+        "startFrame": 3983,
+        "endFrame": 3987
+      },
+      {
+        "text": "our",
+        "startFrame": 3987,
+        "endFrame": 3995
+      }
+    ]
+  },
+  {
+    "text": "index Then for every document containing that word we",
+    "startFrame": 3995,
+    "endFrame": 4093,
+    "words": [
+      {
+        "text": "index",
+        "startFrame": 3995,
+        "endFrame": 4014
+      },
+      {
+        "text": "Then",
+        "startFrame": 4017,
+        "endFrame": 4024
+      },
+      {
+        "text": "for",
+        "startFrame": 4024,
+        "endFrame": 4029
+      },
+      {
+        "text": "every",
+        "startFrame": 4029,
+        "endFrame": 4038
+      },
+      {
+        "text": "document",
+        "startFrame": 4038,
+        "endFrame": 4052
+      },
+      {
+        "text": "containing",
+        "startFrame": 4052,
+        "endFrame": 4076
+      },
+      {
+        "text": "that",
+        "startFrame": 4076,
+        "endFrame": 4080
+      },
+      {
+        "text": "word",
+        "startFrame": 4076,
+        "endFrame": 4083
+      },
+      {
+        "text": "we",
+        "startFrame": 4087,
+        "endFrame": 4093
+      }
+    ]
+  },
+  {
+    "text": "add up how many times it",
+    "startFrame": 4093,
+    "endFrame": 4122,
+    "words": [
+      {
+        "text": "add",
+        "startFrame": 4093,
+        "endFrame": 4096
+      },
+      {
+        "text": "up",
+        "startFrame": 4095,
+        "endFrame": 4099
+      },
+      {
+        "text": "how",
+        "startFrame": 4098,
+        "endFrame": 4103
+      },
+      {
+        "text": "many",
+        "startFrame": 4103,
+        "endFrame": 4110
+      },
+      {
+        "text": "times",
+        "startFrame": 4110,
+        "endFrame": 4119
+      },
+      {
+        "text": "it",
+        "startFrame": 4119,
+        "endFrame": 4122
+      }
+    ]
+  },
+  {
+    "text": "appeared Then we sort highest count",
+    "startFrame": 4122,
+    "endFrame": 4194,
+    "words": [
+      {
+        "text": "appeared",
+        "startFrame": 4122,
+        "endFrame": 4144
+      },
+      {
+        "text": "Then",
+        "startFrame": 4145,
+        "endFrame": 4154
+      },
+      {
+        "text": "we",
+        "startFrame": 4154,
+        "endFrame": 4161
+      },
+      {
+        "text": "sort",
+        "startFrame": 4161,
+        "endFrame": 4168
+      },
+      {
+        "text": "highest",
+        "startFrame": 4168,
+        "endFrame": 4180
+      },
+      {
+        "text": "count",
+        "startFrame": 4180,
+        "endFrame": 4194
+      }
+    ]
+  },
+  {
+    "text": "first That sounds completely",
+    "startFrame": 4194,
+    "endFrame": 4250,
+    "words": [
+      {
+        "text": "first",
+        "startFrame": 4194,
+        "endFrame": 4212
+      },
+      {
+        "text": "That",
+        "startFrame": 4214,
+        "endFrame": 4221
+      },
+      {
+        "text": "sounds",
+        "startFrame": 4221,
+        "endFrame": 4233
+      },
+      {
+        "text": "completely",
+        "startFrame": 4233,
+        "endFrame": 4250
+      }
+    ]
+  },
+  {
+    "text": "reasonable Let's see it",
+    "startFrame": 4250,
+    "endFrame": 4304,
+    "words": [
+      {
+        "text": "reasonable",
+        "startFrame": 4250,
+        "endFrame": 4270
+      },
+      {
+        "text": "Let's",
+        "startFrame": 4274,
+        "endFrame": 4289
+      },
+      {
+        "text": "see",
+        "startFrame": 4288,
+        "endFrame": 4295
+      },
+      {
+        "text": "it",
+        "startFrame": 4295,
+        "endFrame": 4304
+      }
+    ]
+  },
+  {
+    "text": "fail So I searched for the dog and the",
+    "startFrame": 4304,
+    "endFrame": 4381,
+    "words": [
+      {
+        "text": "fail",
+        "startFrame": 4304,
+        "endFrame": 4326
+      },
+      {
+        "text": "So",
+        "startFrame": 4326,
+        "endFrame": 4330
+      },
+      {
+        "text": "I",
+        "startFrame": 4330,
+        "endFrame": 4336
+      },
+      {
+        "text": "searched",
+        "startFrame": 4336,
+        "endFrame": 4349
+      },
+      {
+        "text": "for",
+        "startFrame": 4349,
+        "endFrame": 4355
+      },
+      {
+        "text": "the",
+        "startFrame": 4355,
+        "endFrame": 4368
+      },
+      {
+        "text": "dog",
+        "startFrame": 4368,
+        "endFrame": 4372
+      },
+      {
+        "text": "and",
+        "startFrame": 4368,
+        "endFrame": 4380
+      },
+      {
+        "text": "the",
+        "startFrame": 4380,
+        "endFrame": 4381
+      }
+    ]
+  },
+  {
+    "text": "top result is a document about a cat sleeping on a",
+    "startFrame": 4381,
+    "endFrame": 4464,
+    "words": [
+      {
+        "text": "top",
+        "startFrame": 4381,
+        "endFrame": 4388
+      },
+      {
+        "text": "result",
+        "startFrame": 4388,
+        "endFrame": 4400
+      },
+      {
+        "text": "is",
+        "startFrame": 4400,
+        "endFrame": 4405
+      },
+      {
+        "text": "a",
+        "startFrame": 4405,
+        "endFrame": 4408
+      },
+      {
+        "text": "document",
+        "startFrame": 4406,
+        "endFrame": 4423
+      },
+      {
+        "text": "about",
+        "startFrame": 4423,
+        "endFrame": 4433
+      },
+      {
+        "text": "a",
+        "startFrame": 4433,
+        "endFrame": 4437
+      },
+      {
+        "text": "cat",
+        "startFrame": 4437,
+        "endFrame": 4442
+      },
+      {
+        "text": "sleeping",
+        "startFrame": 4442,
+        "endFrame": 4458
+      },
+      {
+        "text": "on",
+        "startFrame": 4458,
+        "endFrame": 4462
+      },
+      {
+        "text": "a",
+        "startFrame": 4462,
+        "endFrame": 4464
+      }
+    ]
+  },
+  {
+    "text": "mat There is no dog in it",
+    "startFrame": 4464,
+    "endFrame": 4528,
+    "words": [
+      {
+        "text": "mat",
+        "startFrame": 4464,
+        "endFrame": 4479
+      },
+      {
+        "text": "There",
+        "startFrame": 4479,
+        "endFrame": 4495
+      },
+      {
+        "text": "is",
+        "startFrame": 4495,
+        "endFrame": 4501
+      },
+      {
+        "text": "no",
+        "startFrame": 4501,
+        "endFrame": 4506
+      },
+      {
+        "text": "dog",
+        "startFrame": 4506,
+        "endFrame": 4516
+      },
+      {
+        "text": "in",
+        "startFrame": 4516,
+        "endFrame": 4522
+      },
+      {
+        "text": "it",
+        "startFrame": 4522,
+        "endFrame": 4528
+      }
+    ]
+  },
+  {
+    "text": "anywhere The actual dog document came",
+    "startFrame": 4528,
+    "endFrame": 4611,
+    "words": [
+      {
+        "text": "anywhere",
+        "startFrame": 4528,
+        "endFrame": 4562
+      },
+      {
+        "text": "The",
+        "startFrame": 4564,
+        "endFrame": 4571
+      },
+      {
+        "text": "actual",
+        "startFrame": 4571,
+        "endFrame": 4581
+      },
+      {
+        "text": "dog",
+        "startFrame": 4581,
+        "endFrame": 4587
+      },
+      {
+        "text": "document",
+        "startFrame": 4587,
+        "endFrame": 4602
+      },
+      {
+        "text": "came",
+        "startFrame": 4602,
+        "endFrame": 4611
+      }
+    ]
+  },
+  {
+    "text": "second Here's what",
+    "startFrame": 4611,
+    "endFrame": 4666,
+    "words": [
+      {
+        "text": "second",
+        "startFrame": 4611,
+        "endFrame": 4626
+      },
+      {
+        "text": "Here's",
+        "startFrame": 4628,
+        "endFrame": 4642
+      },
+      {
+        "text": "what",
+        "startFrame": 4642,
+        "endFrame": 4666
+      }
+    ]
+  },
+  {
+    "text": "happened Document one contains the word\" the\" four",
+    "startFrame": 4666,
+    "endFrame": 4756,
+    "words": [
+      {
+        "text": "happened",
+        "startFrame": 4666,
+        "endFrame": 4670
+      },
+      {
+        "text": "Document",
+        "startFrame": 4676,
+        "endFrame": 4693
+      },
+      {
+        "text": "one",
+        "startFrame": 4693,
+        "endFrame": 4699
+      },
+      {
+        "text": "contains",
+        "startFrame": 4699,
+        "endFrame": 4716
+      },
+      {
+        "text": "the",
+        "startFrame": 4716,
+        "endFrame": 4723
+      },
+      {
+        "text": "word\"",
+        "startFrame": 4723,
+        "endFrame": 4734
+      },
+      {
+        "text": "the\"",
+        "startFrame": 4733,
+        "endFrame": 4745
+      },
+      {
+        "text": "four",
+        "startFrame": 4742,
+        "endFrame": 4756
+      }
+    ]
+  },
+  {
+    "text": "times Document three only has\" the\" once",
+    "startFrame": 4756,
+    "endFrame": 4842,
+    "words": [
+      {
+        "text": "times",
+        "startFrame": 4756,
+        "endFrame": 4760
+      },
+      {
+        "text": "Document",
+        "startFrame": 4768,
+        "endFrame": 4788
+      },
+      {
+        "text": "three",
+        "startFrame": 4788,
+        "endFrame": 4801
+      },
+      {
+        "text": "only",
+        "startFrame": 4801,
+        "endFrame": 4811
+      },
+      {
+        "text": "has\"",
+        "startFrame": 4811,
+        "endFrame": 4828
+      },
+      {
+        "text": "the\"",
+        "startFrame": 4828,
+        "endFrame": 4836
+      },
+      {
+        "text": "once",
+        "startFrame": 4836,
+        "endFrame": 4842
+      }
+    ]
+  },
+  {
+    "text": "plus the word\" dog\" once so it scores",
+    "startFrame": 4842,
+    "endFrame": 4921,
+    "words": [
+      {
+        "text": "plus",
+        "startFrame": 4842,
+        "endFrame": 4851
+      },
+      {
+        "text": "the",
+        "startFrame": 4851,
+        "endFrame": 4859
+      },
+      {
+        "text": "word\"",
+        "startFrame": 4859,
+        "endFrame": 4879
+      },
+      {
+        "text": "dog\"",
+        "startFrame": 4879,
+        "endFrame": 4886
+      },
+      {
+        "text": "once",
+        "startFrame": 4886,
+        "endFrame": 4895
+      },
+      {
+        "text": "so",
+        "startFrame": 4896,
+        "endFrame": 4901
+      },
+      {
+        "text": "it",
+        "startFrame": 4901,
+        "endFrame": 4906
+      },
+      {
+        "text": "scores",
+        "startFrame": 4906,
+        "endFrame": 4921
+      }
+    ]
+  },
+  {
+    "text": "two Four beats two so the cat document",
+    "startFrame": 4921,
+    "endFrame": 5014,
+    "words": [
+      {
+        "text": "two",
+        "startFrame": 4921,
+        "endFrame": 4936
+      },
+      {
+        "text": "Four",
+        "startFrame": 4939,
+        "endFrame": 4951
+      },
+      {
+        "text": "beats",
+        "startFrame": 4951,
+        "endFrame": 4968
+      },
+      {
+        "text": "two",
+        "startFrame": 4968,
+        "endFrame": 4971
+      },
+      {
+        "text": "so",
+        "startFrame": 4975,
+        "endFrame": 4985
+      },
+      {
+        "text": "the",
+        "startFrame": 4985,
+        "endFrame": 4995
+      },
+      {
+        "text": "cat",
+        "startFrame": 4995,
+        "endFrame": 5004
+      },
+      {
+        "text": "document",
+        "startFrame": 5004,
+        "endFrame": 5014
+      }
+    ]
+  },
+  {
+    "text": "wins The word\" the\" completely drowned out",
+    "startFrame": 5014,
+    "endFrame": 5108,
+    "words": [
+      {
+        "text": "wins",
+        "startFrame": 5014,
+        "endFrame": 5024
+      },
+      {
+        "text": "The",
+        "startFrame": 5026,
+        "endFrame": 5033
+      },
+      {
+        "text": "word\"",
+        "startFrame": 5033,
+        "endFrame": 5047
+      },
+      {
+        "text": "the\"",
+        "startFrame": 5046,
+        "endFrame": 5060
+      },
+      {
+        "text": "completely",
+        "startFrame": 5058,
+        "endFrame": 5082
+      },
+      {
+        "text": "drowned",
+        "startFrame": 5082,
+        "endFrame": 5108
+      },
+      {
+        "text": "out",
+        "startFrame": 5108,
+        "endFrame": 5108
+      }
+    ]
+  },
+  {
+    "text": "the word we actually cared",
+    "startFrame": 5108,
+    "endFrame": 5179,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 5108,
+        "endFrame": 5116
+      },
+      {
+        "text": "word",
+        "startFrame": 5116,
+        "endFrame": 5126
+      },
+      {
+        "text": "we",
+        "startFrame": 5126,
+        "endFrame": 5131
+      },
+      {
+        "text": "actually",
+        "startFrame": 5131,
+        "endFrame": 5150
+      },
+      {
+        "text": "cared",
+        "startFrame": 5150,
+        "endFrame": 5179
+      }
+    ]
+  },
+  {
+    "text": "about So let's think about what went",
+    "startFrame": 5179,
+    "endFrame": 5226,
+    "words": [
+      {
+        "text": "about",
+        "startFrame": 5179,
+        "endFrame": 5183
+      },
+      {
+        "text": "So",
+        "startFrame": 5179,
+        "endFrame": 5183
+      },
+      {
+        "text": "let's",
+        "startFrame": 5183,
+        "endFrame": 5196
+      },
+      {
+        "text": "think",
+        "startFrame": 5192,
+        "endFrame": 5201
+      },
+      {
+        "text": "about",
+        "startFrame": 5201,
+        "endFrame": 5212
+      },
+      {
+        "text": "what",
+        "startFrame": 5212,
+        "endFrame": 5218
+      },
+      {
+        "text": "went",
+        "startFrame": 5218,
+        "endFrame": 5226
+      }
+    ]
+  },
+  {
+    "text": "wrong The word\" the\" is in almost every",
+    "startFrame": 5226,
+    "endFrame": 5301,
+    "words": [
+      {
+        "text": "wrong",
+        "startFrame": 5226,
+        "endFrame": 5240
+      },
+      {
+        "text": "The",
+        "startFrame": 5242,
+        "endFrame": 5249
+      },
+      {
+        "text": "word\"",
+        "startFrame": 5249,
+        "endFrame": 5261
+      },
+      {
+        "text": "the\"",
+        "startFrame": 5260,
+        "endFrame": 5272
+      },
+      {
+        "text": "is",
+        "startFrame": 5272,
+        "endFrame": 5276
+      },
+      {
+        "text": "in",
+        "startFrame": 5272,
+        "endFrame": 5277
+      },
+      {
+        "text": "almost",
+        "startFrame": 5277,
+        "endFrame": 5290
+      },
+      {
+        "text": "every",
+        "startFrame": 5290,
+        "endFrame": 5301
+      }
+    ]
+  },
+  {
+    "text": "document That means it tells us almost nothing about",
+    "startFrame": 5301,
+    "endFrame": 5394,
+    "words": [
+      {
+        "text": "document",
+        "startFrame": 5301,
+        "endFrame": 5324
+      },
+      {
+        "text": "That",
+        "startFrame": 5327,
+        "endFrame": 5334
+      },
+      {
+        "text": "means",
+        "startFrame": 5334,
+        "endFrame": 5347
+      },
+      {
+        "text": "it",
+        "startFrame": 5347,
+        "endFrame": 5350
+      },
+      {
+        "text": "tells",
+        "startFrame": 5347,
+        "endFrame": 5359
+      },
+      {
+        "text": "us",
+        "startFrame": 5359,
+        "endFrame": 5362
+      },
+      {
+        "text": "almost",
+        "startFrame": 5360,
+        "endFrame": 5372
+      },
+      {
+        "text": "nothing",
+        "startFrame": 5372,
+        "endFrame": 5385
+      },
+      {
+        "text": "about",
+        "startFrame": 5385,
+        "endFrame": 5394
+      }
+    ]
+  },
+  {
+    "text": "which document is",
+    "startFrame": 5394,
+    "endFrame": 5422,
+    "words": [
+      {
+        "text": "which",
+        "startFrame": 5394,
+        "endFrame": 5403
+      },
+      {
+        "text": "document",
+        "startFrame": 5403,
+        "endFrame": 5419
+      },
+      {
+        "text": "is",
+        "startFrame": 5419,
+        "endFrame": 5422
+      }
+    ]
+  },
+  {
+    "text": "relevant The word\" dog\" is in exactly one",
+    "startFrame": 5422,
+    "endFrame": 5502,
+    "words": [
+      {
+        "text": "relevant",
+        "startFrame": 5422,
+        "endFrame": 5445
+      },
+      {
+        "text": "The",
+        "startFrame": 5446,
+        "endFrame": 5452
+      },
+      {
+        "text": "word\"",
+        "startFrame": 5452,
+        "endFrame": 5470
+      },
+      {
+        "text": "dog\"",
+        "startFrame": 5470,
+        "endFrame": 5475
+      },
+      {
+        "text": "is",
+        "startFrame": 5472,
+        "endFrame": 5476
+      },
+      {
+        "text": "in",
+        "startFrame": 5476,
+        "endFrame": 5480
+      },
+      {
+        "text": "exactly",
+        "startFrame": 5480,
+        "endFrame": 5496
+      },
+      {
+        "text": "one",
+        "startFrame": 5496,
+        "endFrame": 5502
+      }
+    ]
+  },
+  {
+    "text": "document That makes it extremely",
+    "startFrame": 5502,
+    "endFrame": 5571,
+    "words": [
+      {
+        "text": "document",
+        "startFrame": 5502,
+        "endFrame": 5526
+      },
+      {
+        "text": "That",
+        "startFrame": 5528,
+        "endFrame": 5537
+      },
+      {
+        "text": "makes",
+        "startFrame": 5537,
+        "endFrame": 5548
+      },
+      {
+        "text": "it",
+        "startFrame": 5548,
+        "endFrame": 5552
+      },
+      {
+        "text": "extremely",
+        "startFrame": 5552,
+        "endFrame": 5571
+      }
+    ]
+  },
+  {
+    "text": "informative so common words should count for less and",
+    "startFrame": 5571,
+    "endFrame": 5672,
+    "words": [
+      {
+        "text": "informative",
+        "startFrame": 5571,
+        "endFrame": 5599
+      },
+      {
+        "text": "so",
+        "startFrame": 5600,
+        "endFrame": 5609
+      },
+      {
+        "text": "common",
+        "startFrame": 5609,
+        "endFrame": 5618
+      },
+      {
+        "text": "words",
+        "startFrame": 5618,
+        "endFrame": 5628
+      },
+      {
+        "text": "should",
+        "startFrame": 5628,
+        "endFrame": 5637
+      },
+      {
+        "text": "count",
+        "startFrame": 5637,
+        "endFrame": 5646
+      },
+      {
+        "text": "for",
+        "startFrame": 5646,
+        "endFrame": 5652
+      },
+      {
+        "text": "less",
+        "startFrame": 5652,
+        "endFrame": 5664
+      },
+      {
+        "text": "and",
+        "startFrame": 5664,
+        "endFrame": 5672
+      }
+    ]
+  },
+  {
+    "text": "rare words should count for",
+    "startFrame": 5672,
+    "endFrame": 5719,
+    "words": [
+      {
+        "text": "rare",
+        "startFrame": 5672,
+        "endFrame": 5680
+      },
+      {
+        "text": "words",
+        "startFrame": 5680,
+        "endFrame": 5688
+      },
+      {
+        "text": "should",
+        "startFrame": 5688,
+        "endFrame": 5696
+      },
+      {
+        "text": "count",
+        "startFrame": 5696,
+        "endFrame": 5704
+      },
+      {
+        "text": "for",
+        "startFrame": 5704,
+        "endFrame": 5719
+      }
+    ]
+  },
+  {
+    "text": "more That's the fix And it has a",
+    "startFrame": 5719,
+    "endFrame": 5779,
+    "words": [
+      {
+        "text": "more",
+        "startFrame": 5719,
+        "endFrame": 5723
+      },
+      {
+        "text": "That's",
+        "startFrame": 5726,
+        "endFrame": 5740
+      },
+      {
+        "text": "the",
+        "startFrame": 5740,
+        "endFrame": 5747
+      },
+      {
+        "text": "fix",
+        "startFrame": 5747,
+        "endFrame": 5760
+      },
+      {
+        "text": "And",
+        "startFrame": 5762,
+        "endFrame": 5768
+      },
+      {
+        "text": "it",
+        "startFrame": 5768,
+        "endFrame": 5772
+      },
+      {
+        "text": "has",
+        "startFrame": 5771,
+        "endFrame": 5777
+      },
+      {
+        "text": "a",
+        "startFrame": 5777,
+        "endFrame": 5779
+      }
+    ]
+  },
+  {
+    "text": "name It's called TF-IDF which",
+    "startFrame": 5779,
+    "endFrame": 5859,
+    "words": [
+      {
+        "text": "name",
+        "startFrame": 5779,
+        "endFrame": 5792
+      },
+      {
+        "text": "It's",
+        "startFrame": 5793,
+        "endFrame": 5805
+      },
+      {
+        "text": "called",
+        "startFrame": 5804,
+        "endFrame": 5816
+      },
+      {
+        "text": "TF-IDF",
+        "startFrame": 5816,
+        "endFrame": 5831
+      },
+      {
+        "text": "which",
+        "startFrame": 5833,
+        "endFrame": 5859
+      }
+    ]
+  },
+  {
+    "text": "stands for term frequency, inverse document",
+    "startFrame": 5859,
+    "endFrame": 5937,
+    "words": [
+      {
+        "text": "stands",
+        "startFrame": 5859,
+        "endFrame": 5863
+      },
+      {
+        "text": "for",
+        "startFrame": 5859,
+        "endFrame": 5871
+      },
+      {
+        "text": "term",
+        "startFrame": 5871,
+        "endFrame": 5887
+      },
+      {
+        "text": "frequency,",
+        "startFrame": 5887,
+        "endFrame": 5904
+      },
+      {
+        "text": "inverse",
+        "startFrame": 5904,
+        "endFrame": 5920
+      },
+      {
+        "text": "document",
+        "startFrame": 5920,
+        "endFrame": 5937
+      }
+    ]
+  },
+  {
+    "text": "frequency Two parts and both are simpler than the name",
+    "startFrame": 5937,
+    "endFrame": 6043,
+    "words": [
+      {
+        "text": "frequency",
+        "startFrame": 5937,
+        "endFrame": 5953
+      },
+      {
+        "text": "Two",
+        "startFrame": 5965,
+        "endFrame": 5978
+      },
+      {
+        "text": "parts",
+        "startFrame": 5978,
+        "endFrame": 5984
+      },
+      {
+        "text": "and",
+        "startFrame": 5984,
+        "endFrame": 5989
+      },
+      {
+        "text": "both",
+        "startFrame": 5989,
+        "endFrame": 5999
+      },
+      {
+        "text": "are",
+        "startFrame": 5999,
+        "endFrame": 6008
+      },
+      {
+        "text": "simpler",
+        "startFrame": 6008,
+        "endFrame": 6017
+      },
+      {
+        "text": "than",
+        "startFrame": 6017,
+        "endFrame": 6027
+      },
+      {
+        "text": "the",
+        "startFrame": 6027,
+        "endFrame": 6034
+      },
+      {
+        "text": "name",
+        "startFrame": 6034,
+        "endFrame": 6043
+      }
+    ]
+  },
+  {
+    "text": "suggests Term frequency is how often the word appears",
+    "startFrame": 6043,
+    "endFrame": 6147,
+    "words": [
+      {
+        "text": "suggests",
+        "startFrame": 6043,
+        "endFrame": 6061
+      },
+      {
+        "text": "Term",
+        "startFrame": 6068,
+        "endFrame": 6084
+      },
+      {
+        "text": "frequency",
+        "startFrame": 6084,
+        "endFrame": 6095
+      },
+      {
+        "text": "is",
+        "startFrame": 6095,
+        "endFrame": 6099
+      },
+      {
+        "text": "how",
+        "startFrame": 6099,
+        "endFrame": 6105
+      },
+      {
+        "text": "often",
+        "startFrame": 6105,
+        "endFrame": 6116
+      },
+      {
+        "text": "the",
+        "startFrame": 6116,
+        "endFrame": 6122
+      },
+      {
+        "text": "word",
+        "startFrame": 6122,
+        "endFrame": 6132
+      },
+      {
+        "text": "appears",
+        "startFrame": 6132,
+        "endFrame": 6147
+      }
+    ]
+  },
+  {
+    "text": "in this document, relative to the document's",
+    "startFrame": 6147,
+    "endFrame": 6248,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 6147,
+        "endFrame": 6162
+      },
+      {
+        "text": "this",
+        "startFrame": 6162,
+        "endFrame": 6176
+      },
+      {
+        "text": "document,",
+        "startFrame": 6176,
+        "endFrame": 6191
+      },
+      {
+        "text": "relative",
+        "startFrame": 6191,
+        "endFrame": 6206
+      },
+      {
+        "text": "to",
+        "startFrame": 6204,
+        "endFrame": 6207
+      },
+      {
+        "text": "the",
+        "startFrame": 6207,
+        "endFrame": 6213
+      },
+      {
+        "text": "document's",
+        "startFrame": 6213,
+        "endFrame": 6248
+      }
+    ]
+  },
+  {
+    "text": "length We divide by length so a long document",
+    "startFrame": 6248,
+    "endFrame": 6339,
+    "words": [
+      {
+        "text": "length",
+        "startFrame": 6248,
+        "endFrame": 6268
+      },
+      {
+        "text": "We",
+        "startFrame": 6278,
+        "endFrame": 6282
+      },
+      {
+        "text": "divide",
+        "startFrame": 6282,
+        "endFrame": 6294
+      },
+      {
+        "text": "by",
+        "startFrame": 6294,
+        "endFrame": 6302
+      },
+      {
+        "text": "length",
+        "startFrame": 6302,
+        "endFrame": 6310
+      },
+      {
+        "text": "so",
+        "startFrame": 6310,
+        "endFrame": 6314
+      },
+      {
+        "text": "a",
+        "startFrame": 6314,
+        "endFrame": 6317
+      },
+      {
+        "text": "long",
+        "startFrame": 6315,
+        "endFrame": 6323
+      },
+      {
+        "text": "document",
+        "startFrame": 6323,
+        "endFrame": 6339
+      }
+    ]
+  },
+  {
+    "text": "doesn 't win just for being",
+    "startFrame": 6339,
+    "endFrame": 6389,
+    "words": [
+      {
+        "text": "doesn",
+        "startFrame": 6339,
+        "endFrame": 6350
+      },
+      {
+        "text": "'t",
+        "startFrame": 6350,
+        "endFrame": 6353
+      },
+      {
+        "text": "win",
+        "startFrame": 6352,
+        "endFrame": 6358
+      },
+      {
+        "text": "just",
+        "startFrame": 6358,
+        "endFrame": 6365
+      },
+      {
+        "text": "for",
+        "startFrame": 6365,
+        "endFrame": 6379
+      },
+      {
+        "text": "being",
+        "startFrame": 6379,
+        "endFrame": 6389
+      }
+    ]
+  },
+  {
+    "text": "long inverse document frequency is a measure of",
+    "startFrame": 6389,
+    "endFrame": 6462,
+    "words": [
+      {
+        "text": "long",
+        "startFrame": 6389,
+        "endFrame": 6392
+      },
+      {
+        "text": "inverse",
+        "startFrame": 6397,
+        "endFrame": 6410
+      },
+      {
+        "text": "document",
+        "startFrame": 6410,
+        "endFrame": 6425
+      },
+      {
+        "text": "frequency",
+        "startFrame": 6425,
+        "endFrame": 6440
+      },
+      {
+        "text": "is",
+        "startFrame": 6440,
+        "endFrame": 6444
+      },
+      {
+        "text": "a",
+        "startFrame": 6444,
+        "endFrame": 6453
+      },
+      {
+        "text": "measure",
+        "startFrame": 6453,
+        "endFrame": 6458
+      },
+      {
+        "text": "of",
+        "startFrame": 6458,
+        "endFrame": 6462
+      }
+    ]
+  },
+  {
+    "text": "how rare the word is across all",
+    "startFrame": 6462,
+    "endFrame": 6511,
+    "words": [
+      {
+        "text": "how",
+        "startFrame": 6462,
+        "endFrame": 6470
+      },
+      {
+        "text": "rare",
+        "startFrame": 6470,
+        "endFrame": 6477
+      },
+      {
+        "text": "the",
+        "startFrame": 6477,
+        "endFrame": 6485
+      },
+      {
+        "text": "word",
+        "startFrame": 6485,
+        "endFrame": 6493
+      },
+      {
+        "text": "is",
+        "startFrame": 6493,
+        "endFrame": 6500
+      },
+      {
+        "text": "across",
+        "startFrame": 6500,
+        "endFrame": 6508
+      },
+      {
+        "text": "all",
+        "startFrame": 6508,
+        "endFrame": 6511
+      }
+    ]
+  },
+  {
+    "text": "documents If a word is in every document this value goes to",
+    "startFrame": 6511,
+    "endFrame": 6636,
+    "words": [
+      {
+        "text": "documents",
+        "startFrame": 6511,
+        "endFrame": 6537
+      },
+      {
+        "text": "If",
+        "startFrame": 6538,
+        "endFrame": 6544
+      },
+      {
+        "text": "a",
+        "startFrame": 6544,
+        "endFrame": 6548
+      },
+      {
+        "text": "word",
+        "startFrame": 6545,
+        "endFrame": 6554
+      },
+      {
+        "text": "is",
+        "startFrame": 6554,
+        "endFrame": 6560
+      },
+      {
+        "text": "in",
+        "startFrame": 6560,
+        "endFrame": 6564
+      },
+      {
+        "text": "every",
+        "startFrame": 6564,
+        "endFrame": 6576
+      },
+      {
+        "text": "document",
+        "startFrame": 6576,
+        "endFrame": 6596
+      },
+      {
+        "text": "this",
+        "startFrame": 6600,
+        "endFrame": 6610
+      },
+      {
+        "text": "value",
+        "startFrame": 6610,
+        "endFrame": 6622
+      },
+      {
+        "text": "goes",
+        "startFrame": 6622,
+        "endFrame": 6632
+      },
+      {
+        "text": "to",
+        "startFrame": 6632,
+        "endFrame": 6636
+      }
+    ]
+  },
+  {
+    "text": "zero If it's in only one the value is",
+    "startFrame": 6636,
+    "endFrame": 6717,
+    "words": [
+      {
+        "text": "zero",
+        "startFrame": 6636,
+        "endFrame": 6654
+      },
+      {
+        "text": "If",
+        "startFrame": 6655,
+        "endFrame": 6660
+      },
+      {
+        "text": "it's",
+        "startFrame": 6660,
+        "endFrame": 6669
+      },
+      {
+        "text": "in",
+        "startFrame": 6669,
+        "endFrame": 6674
+      },
+      {
+        "text": "only",
+        "startFrame": 6674,
+        "endFrame": 6682
+      },
+      {
+        "text": "one",
+        "startFrame": 6682,
+        "endFrame": 6689
+      },
+      {
+        "text": "the",
+        "startFrame": 6697,
+        "endFrame": 6701
+      },
+      {
+        "text": "value",
+        "startFrame": 6701,
+        "endFrame": 6714
+      },
+      {
+        "text": "is",
+        "startFrame": 6714,
+        "endFrame": 6717
+      }
+    ]
+  },
+  {
+    "text": "high Multiply those two together and you",
+    "startFrame": 6717,
+    "endFrame": 6794,
+    "words": [
+      {
+        "text": "high",
+        "startFrame": 6717,
+        "endFrame": 6726
+      },
+      {
+        "text": "Multiply",
+        "startFrame": 6736,
+        "endFrame": 6751
+      },
+      {
+        "text": "those",
+        "startFrame": 6751,
+        "endFrame": 6761
+      },
+      {
+        "text": "two",
+        "startFrame": 6761,
+        "endFrame": 6764
+      },
+      {
+        "text": "together",
+        "startFrame": 6764,
+        "endFrame": 6779
+      },
+      {
+        "text": "and",
+        "startFrame": 6779,
+        "endFrame": 6784
+      },
+      {
+        "text": "you",
+        "startFrame": 6784,
+        "endFrame": 6794
+      }
+    ]
+  },
+  {
+    "text": "get a score that rewards words that are both",
+    "startFrame": 6794,
+    "endFrame": 6855,
+    "words": [
+      {
+        "text": "get",
+        "startFrame": 6794,
+        "endFrame": 6798
+      },
+      {
+        "text": "a",
+        "startFrame": 6795,
+        "endFrame": 6799
+      },
+      {
+        "text": "score",
+        "startFrame": 6797,
+        "endFrame": 6806
+      },
+      {
+        "text": "that",
+        "startFrame": 6806,
+        "endFrame": 6813
+      },
+      {
+        "text": "rewards",
+        "startFrame": 6813,
+        "endFrame": 6826
+      },
+      {
+        "text": "words",
+        "startFrame": 6826,
+        "endFrame": 6835
+      },
+      {
+        "text": "that",
+        "startFrame": 6835,
+        "endFrame": 6842
+      },
+      {
+        "text": "are",
+        "startFrame": 6842,
+        "endFrame": 6849
+      },
+      {
+        "text": "both",
+        "startFrame": 6849,
+        "endFrame": 6855
+      }
+    ]
+  },
+  {
+    "text": "frequent here and rare",
+    "startFrame": 6855,
+    "endFrame": 6907,
+    "words": [
+      {
+        "text": "frequent",
+        "startFrame": 6855,
+        "endFrame": 6873
+      },
+      {
+        "text": "here",
+        "startFrame": 6873,
+        "endFrame": 6887
+      },
+      {
+        "text": "and",
+        "startFrame": 6887,
+        "endFrame": 6895
+      },
+      {
+        "text": "rare",
+        "startFrame": 6895,
+        "endFrame": 6907
+      }
+    ]
+  },
+  {
+    "text": "elsewhere The score function is those two ideas, one line",
+    "startFrame": 6907,
+    "endFrame": 7022,
+    "words": [
+      {
+        "text": "elsewhere",
+        "startFrame": 6907,
+        "endFrame": 6942
+      },
+      {
+        "text": "The",
+        "startFrame": 6944,
+        "endFrame": 6953
+      },
+      {
+        "text": "score",
+        "startFrame": 6953,
+        "endFrame": 6961
+      },
+      {
+        "text": "function",
+        "startFrame": 6961,
+        "endFrame": 6977
+      },
+      {
+        "text": "is",
+        "startFrame": 6977,
+        "endFrame": 6981
+      },
+      {
+        "text": "those",
+        "startFrame": 6981,
+        "endFrame": 6989
+      },
+      {
+        "text": "two",
+        "startFrame": 6989,
+        "endFrame": 6997
+      },
+      {
+        "text": "ideas,",
+        "startFrame": 6997,
+        "endFrame": 7006
+      },
+      {
+        "text": "one",
+        "startFrame": 7006,
+        "endFrame": 7014
+      },
+      {
+        "text": "line",
+        "startFrame": 7014,
+        "endFrame": 7022
+      }
+    ]
+  },
+  {
+    "text": "each Term frequency is the word count divided by the document",
+    "startFrame": 7022,
+    "endFrame": 7150,
+    "words": [
+      {
+        "text": "each",
+        "startFrame": 7022,
+        "endFrame": 7031
+      },
+      {
+        "text": "Term",
+        "startFrame": 7039,
+        "endFrame": 7048
+      },
+      {
+        "text": "frequency",
+        "startFrame": 7048,
+        "endFrame": 7067
+      },
+      {
+        "text": "is",
+        "startFrame": 7067,
+        "endFrame": 7071
+      },
+      {
+        "text": "the",
+        "startFrame": 7071,
+        "endFrame": 7077
+      },
+      {
+        "text": "word",
+        "startFrame": 7077,
+        "endFrame": 7086
+      },
+      {
+        "text": "count",
+        "startFrame": 7086,
+        "endFrame": 7096
+      },
+      {
+        "text": "divided",
+        "startFrame": 7096,
+        "endFrame": 7112
+      },
+      {
+        "text": "by",
+        "startFrame": 7112,
+        "endFrame": 7116
+      },
+      {
+        "text": "the",
+        "startFrame": 7115,
+        "endFrame": 7121
+      },
+      {
+        "text": "document",
+        "startFrame": 7121,
+        "endFrame": 7150
+      }
+    ]
+  },
+  {
+    "text": "length inverse document frequency is the log of",
+    "startFrame": 7150,
+    "endFrame": 7215,
+    "words": [
+      {
+        "text": "length",
+        "startFrame": 7150,
+        "endFrame": 7154
+      },
+      {
+        "text": "inverse",
+        "startFrame": 7159,
+        "endFrame": 7171
+      },
+      {
+        "text": "document",
+        "startFrame": 7171,
+        "endFrame": 7185
+      },
+      {
+        "text": "frequency",
+        "startFrame": 7185,
+        "endFrame": 7199
+      },
+      {
+        "text": "is",
+        "startFrame": 7199,
+        "endFrame": 7202
+      },
+      {
+        "text": "the",
+        "startFrame": 7202,
+        "endFrame": 7207
+      },
+      {
+        "text": "log",
+        "startFrame": 7207,
+        "endFrame": 7212
+      },
+      {
+        "text": "of",
+        "startFrame": 7212,
+        "endFrame": 7215
+      }
+    ]
+  },
+  {
+    "text": "total documents divided by how many contain the",
+    "startFrame": 7215,
+    "endFrame": 7283,
+    "words": [
+      {
+        "text": "total",
+        "startFrame": 7215,
+        "endFrame": 7224
+      },
+      {
+        "text": "documents",
+        "startFrame": 7224,
+        "endFrame": 7238
+      },
+      {
+        "text": "divided",
+        "startFrame": 7238,
+        "endFrame": 7250
+      },
+      {
+        "text": "by",
+        "startFrame": 7250,
+        "endFrame": 7254
+      },
+      {
+        "text": "how",
+        "startFrame": 7254,
+        "endFrame": 7258
+      },
+      {
+        "text": "many",
+        "startFrame": 7258,
+        "endFrame": 7267
+      },
+      {
+        "text": "contain",
+        "startFrame": 7267,
+        "endFrame": 7276
+      },
+      {
+        "text": "the",
+        "startFrame": 7276,
+        "endFrame": 7283
+      }
+    ]
+  },
+  {
+    "text": "word The log just keeps that number from growing too",
+    "startFrame": 7283,
+    "endFrame": 7402,
+    "words": [
+      {
+        "text": "word",
+        "startFrame": 7283,
+        "endFrame": 7312
+      },
+      {
+        "text": "The",
+        "startFrame": 7313,
+        "endFrame": 7319
+      },
+      {
+        "text": "log",
+        "startFrame": 7319,
+        "endFrame": 7325
+      },
+      {
+        "text": "just",
+        "startFrame": 7325,
+        "endFrame": 7333
+      },
+      {
+        "text": "keeps",
+        "startFrame": 7333,
+        "endFrame": 7345
+      },
+      {
+        "text": "that",
+        "startFrame": 7345,
+        "endFrame": 7350
+      },
+      {
+        "text": "number",
+        "startFrame": 7350,
+        "endFrame": 7362
+      },
+      {
+        "text": "from",
+        "startFrame": 7362,
+        "endFrame": 7370
+      },
+      {
+        "text": "growing",
+        "startFrame": 7370,
+        "endFrame": 7386
+      },
+      {
+        "text": "too",
+        "startFrame": 7386,
+        "endFrame": 7402
+      }
+    ]
+  },
+  {
+    "text": "aggressively Then search is almost identical to",
+    "startFrame": 7402,
+    "endFrame": 7474,
+    "words": [
+      {
+        "text": "aggressively",
+        "startFrame": 7402,
+        "endFrame": 7418
+      },
+      {
+        "text": "Then",
+        "startFrame": 7420,
+        "endFrame": 7430
+      },
+      {
+        "text": "search",
+        "startFrame": 7430,
+        "endFrame": 7440
+      },
+      {
+        "text": "is",
+        "startFrame": 7440,
+        "endFrame": 7451
+      },
+      {
+        "text": "almost",
+        "startFrame": 7451,
+        "endFrame": 7461
+      },
+      {
+        "text": "identical",
+        "startFrame": 7461,
+        "endFrame": 7471
+      },
+      {
+        "text": "to",
+        "startFrame": 7471,
+        "endFrame": 7474
+      }
+    ]
+  },
+  {
+    "text": "before The only change is that we add up",
+    "startFrame": 7474,
+    "endFrame": 7561,
+    "words": [
+      {
+        "text": "before",
+        "startFrame": 7474,
+        "endFrame": 7492
+      },
+      {
+        "text": "The",
+        "startFrame": 7493,
+        "endFrame": 7501
+      },
+      {
+        "text": "only",
+        "startFrame": 7501,
+        "endFrame": 7511
+      },
+      {
+        "text": "change",
+        "startFrame": 7511,
+        "endFrame": 7529
+      },
+      {
+        "text": "is",
+        "startFrame": 7529,
+        "endFrame": 7533
+      },
+      {
+        "text": "that",
+        "startFrame": 7532,
+        "endFrame": 7543
+      },
+      {
+        "text": "we",
+        "startFrame": 7543,
+        "endFrame": 7553
+      },
+      {
+        "text": "add",
+        "startFrame": 7553,
+        "endFrame": 7557
+      },
+      {
+        "text": "up",
+        "startFrame": 7556,
+        "endFrame": 7561
+      }
+    ]
+  },
+  {
+    "text": "scores instead of raw",
+    "startFrame": 7561,
+    "endFrame": 7627,
+    "words": [
+      {
+        "text": "scores",
+        "startFrame": 7561,
+        "endFrame": 7577
+      },
+      {
+        "text": "instead",
+        "startFrame": 7577,
+        "endFrame": 7582
+      },
+      {
+        "text": "of",
+        "startFrame": 7582,
+        "endFrame": 7600
+      },
+      {
+        "text": "raw",
+        "startFrame": 7600,
+        "endFrame": 7627
+      }
+    ]
+  },
+  {
+    "text": "counts Now the dog document is first same query",
+    "startFrame": 7627,
+    "endFrame": 7714,
+    "words": [
+      {
+        "text": "counts",
+        "startFrame": 7627,
+        "endFrame": 7630
+      },
+      {
+        "text": "Now",
+        "startFrame": 7630,
+        "endFrame": 7640
+      },
+      {
+        "text": "the",
+        "startFrame": 7640,
+        "endFrame": 7650
+      },
+      {
+        "text": "dog",
+        "startFrame": 7650,
+        "endFrame": 7660
+      },
+      {
+        "text": "document",
+        "startFrame": 7660,
+        "endFrame": 7669
+      },
+      {
+        "text": "is",
+        "startFrame": 7669,
+        "endFrame": 7679
+      },
+      {
+        "text": "first",
+        "startFrame": 7679,
+        "endFrame": 7689
+      },
+      {
+        "text": "same",
+        "startFrame": 7692,
+        "endFrame": 7699
+      },
+      {
+        "text": "query",
+        "startFrame": 7699,
+        "endFrame": 7714
+      }
+    ]
+  },
+  {
+    "text": "same index same 5",
+    "startFrame": 7716,
+    "endFrame": 7756,
+    "words": [
+      {
+        "text": "same",
+        "startFrame": 7716,
+        "endFrame": 7723
+      },
+      {
+        "text": "index",
+        "startFrame": 7723,
+        "endFrame": 7739
+      },
+      {
+        "text": "same",
+        "startFrame": 7741,
+        "endFrame": 7748
+      },
+      {
+        "text": "5",
+        "startFrame": 7748,
+        "endFrame": 7756
+      }
+    ]
+  },
+  {
+    "text": "documents The only thing that changed is how we weighted the",
+    "startFrame": 7756,
+    "endFrame": 7877,
+    "words": [
+      {
+        "text": "documents",
+        "startFrame": 7756,
+        "endFrame": 7784
+      },
+      {
+        "text": "The",
+        "startFrame": 7784,
+        "endFrame": 7790
+      },
+      {
+        "text": "only",
+        "startFrame": 7790,
+        "endFrame": 7798
+      },
+      {
+        "text": "thing",
+        "startFrame": 7798,
+        "endFrame": 7808
+      },
+      {
+        "text": "that",
+        "startFrame": 7808,
+        "endFrame": 7817
+      },
+      {
+        "text": "changed",
+        "startFrame": 7817,
+        "endFrame": 7830
+      },
+      {
+        "text": "is",
+        "startFrame": 7830,
+        "endFrame": 7834
+      },
+      {
+        "text": "how",
+        "startFrame": 7834,
+        "endFrame": 7840
+      },
+      {
+        "text": "we",
+        "startFrame": 7840,
+        "endFrame": 7844
+      },
+      {
+        "text": "weighted",
+        "startFrame": 7844,
+        "endFrame": 7859
+      },
+      {
+        "text": "the",
+        "startFrame": 7859,
+        "endFrame": 7877
+      }
+    ]
+  },
+  {
+    "text": "words So what we built is a real search",
+    "startFrame": 7877,
+    "endFrame": 7934,
+    "words": [
+      {
+        "text": "words",
+        "startFrame": 7877,
+        "endFrame": 7880
+      },
+      {
+        "text": "So",
+        "startFrame": 7878,
+        "endFrame": 7882
+      },
+      {
+        "text": "what",
+        "startFrame": 7882,
+        "endFrame": 7891
+      },
+      {
+        "text": "we",
+        "startFrame": 7891,
+        "endFrame": 7895
+      },
+      {
+        "text": "built",
+        "startFrame": 7895,
+        "endFrame": 7908
+      },
+      {
+        "text": "is",
+        "startFrame": 7908,
+        "endFrame": 7911
+      },
+      {
+        "text": "a",
+        "startFrame": 7910,
+        "endFrame": 7914
+      },
+      {
+        "text": "real",
+        "startFrame": 7912,
+        "endFrame": 7923
+      },
+      {
+        "text": "search",
+        "startFrame": 7923,
+        "endFrame": 7934
+      }
+    ]
+  },
+  {
+    "text": "engine just a very small",
+    "startFrame": 7934,
+    "endFrame": 7981,
+    "words": [
+      {
+        "text": "engine",
+        "startFrame": 7934,
+        "endFrame": 7946
+      },
+      {
+        "text": "just",
+        "startFrame": 7960,
+        "endFrame": 7963
+      },
+      {
+        "text": "a",
+        "startFrame": 7962,
+        "endFrame": 7965
+      },
+      {
+        "text": "very",
+        "startFrame": 7962,
+        "endFrame": 7970
+      },
+      {
+        "text": "small",
+        "startFrame": 7970,
+        "endFrame": 7981
+      }
+    ]
+  },
+  {
+    "text": "one Real ones add a lot on top of this",
+    "startFrame": 7981,
+    "endFrame": 8098,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 7981,
+        "endFrame": 7988
+      },
+      {
+        "text": "Real",
+        "startFrame": 7997,
+        "endFrame": 8008
+      },
+      {
+        "text": "ones",
+        "startFrame": 8008,
+        "endFrame": 8018
+      },
+      {
+        "text": "add",
+        "startFrame": 8018,
+        "endFrame": 8029
+      },
+      {
+        "text": "a",
+        "startFrame": 8029,
+        "endFrame": 8039
+      },
+      {
+        "text": "lot",
+        "startFrame": 8039,
+        "endFrame": 8050
+      },
+      {
+        "text": "on",
+        "startFrame": 8050,
+        "endFrame": 8061
+      },
+      {
+        "text": "top",
+        "startFrame": 8061,
+        "endFrame": 8067
+      },
+      {
+        "text": "of",
+        "startFrame": 8067,
+        "endFrame": 8072
+      },
+      {
+        "text": "this",
+        "startFrame": 8072,
+        "endFrame": 8098
+      }
+    ]
+  },
+  {
+    "text": "They crawl the web to find documents in the first place",
+    "startFrame": 8099,
+    "endFrame": 8191,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 8099,
+        "endFrame": 8107
+      },
+      {
+        "text": "crawl",
+        "startFrame": 8107,
+        "endFrame": 8116
+      },
+      {
+        "text": "the",
+        "startFrame": 8116,
+        "endFrame": 8122
+      },
+      {
+        "text": "web",
+        "startFrame": 8122,
+        "endFrame": 8128
+      },
+      {
+        "text": "to",
+        "startFrame": 8128,
+        "endFrame": 8132
+      },
+      {
+        "text": "find",
+        "startFrame": 8132,
+        "endFrame": 8139
+      },
+      {
+        "text": "documents",
+        "startFrame": 8139,
+        "endFrame": 8159
+      },
+      {
+        "text": "in",
+        "startFrame": 8159,
+        "endFrame": 8163
+      },
+      {
+        "text": "the",
+        "startFrame": 8161,
+        "endFrame": 8166
+      },
+      {
+        "text": "first",
+        "startFrame": 8166,
+        "endFrame": 8176
+      },
+      {
+        "text": "place",
+        "startFrame": 8176,
+        "endFrame": 8191
+      }
+    ]
+  },
+  {
+    "text": "They handle word variations so that running and run match",
+    "startFrame": 8192,
+    "endFrame": 8300,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 8192,
+        "endFrame": 8201
+      },
+      {
+        "text": "handle",
+        "startFrame": 8201,
+        "endFrame": 8213
+      },
+      {
+        "text": "word",
+        "startFrame": 8213,
+        "endFrame": 8222
+      },
+      {
+        "text": "variations",
+        "startFrame": 8222,
+        "endFrame": 8243
+      },
+      {
+        "text": "so",
+        "startFrame": 8243,
+        "endFrame": 8247
+      },
+      {
+        "text": "that",
+        "startFrame": 8247,
+        "endFrame": 8255
+      },
+      {
+        "text": "running",
+        "startFrame": 8255,
+        "endFrame": 8270
+      },
+      {
+        "text": "and",
+        "startFrame": 8270,
+        "endFrame": 8276
+      },
+      {
+        "text": "run",
+        "startFrame": 8276,
+        "endFrame": 8282
+      },
+      {
+        "text": "match",
+        "startFrame": 8282,
+        "endFrame": 8300
+      }
+    ]
+  },
+  {
+    "text": "They factor in how many other pages link to",
+    "startFrame": 8300,
+    "endFrame": 8382,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 8300,
+        "endFrame": 8312
+      },
+      {
+        "text": "factor",
+        "startFrame": 8312,
+        "endFrame": 8323
+      },
+      {
+        "text": "in",
+        "startFrame": 8323,
+        "endFrame": 8327
+      },
+      {
+        "text": "how",
+        "startFrame": 8327,
+        "endFrame": 8334
+      },
+      {
+        "text": "many",
+        "startFrame": 8334,
+        "endFrame": 8343
+      },
+      {
+        "text": "other",
+        "startFrame": 8343,
+        "endFrame": 8355
+      },
+      {
+        "text": "pages",
+        "startFrame": 8355,
+        "endFrame": 8366
+      },
+      {
+        "text": "link",
+        "startFrame": 8366,
+        "endFrame": 8380
+      },
+      {
+        "text": "to",
+        "startFrame": 8380,
+        "endFrame": 8382
+      }
+    ]
+  },
+  {
+    "text": "a page which is what PageRank did",
+    "startFrame": 8382,
+    "endFrame": 8452,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 8382,
+        "endFrame": 8385
+      },
+      {
+        "text": "page",
+        "startFrame": 8385,
+        "endFrame": 8391
+      },
+      {
+        "text": "which",
+        "startFrame": 8395,
+        "endFrame": 8407
+      },
+      {
+        "text": "is",
+        "startFrame": 8407,
+        "endFrame": 8411
+      },
+      {
+        "text": "what",
+        "startFrame": 8411,
+        "endFrame": 8420
+      },
+      {
+        "text": "PageRank",
+        "startFrame": 8420,
+        "endFrame": 8438
+      },
+      {
+        "text": "did",
+        "startFrame": 8438,
+        "endFrame": 8452
+      }
+    ]
+  },
+  {
+    "text": "And they consider your location your history and hundreds of other signals",
+    "startFrame": 8455,
+    "endFrame": 8577,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 8455,
+        "endFrame": 8461
+      },
+      {
+        "text": "they",
+        "startFrame": 8461,
+        "endFrame": 8467
+      },
+      {
+        "text": "consider",
+        "startFrame": 8467,
+        "endFrame": 8482
+      },
+      {
+        "text": "your",
+        "startFrame": 8482,
+        "endFrame": 8489
+      },
+      {
+        "text": "location",
+        "startFrame": 8489,
+        "endFrame": 8503
+      },
+      {
+        "text": "your",
+        "startFrame": 8508,
+        "endFrame": 8517
+      },
+      {
+        "text": "history",
+        "startFrame": 8517,
+        "endFrame": 8527
+      },
+      {
+        "text": "and",
+        "startFrame": 8533,
+        "endFrame": 8536
+      },
+      {
+        "text": "hundreds",
+        "startFrame": 8536,
+        "endFrame": 8546
+      },
+      {
+        "text": "of",
+        "startFrame": 8546,
+        "endFrame": 8556
+      },
+      {
+        "text": "other",
+        "startFrame": 8556,
+        "endFrame": 8567
+      },
+      {
+        "text": "signals",
+        "startFrame": 8567,
+        "endFrame": 8577
+      }
+    ]
+  },
+  {
+    "text": "But underneath all of that the two ideas we",
+    "startFrame": 8581,
+    "endFrame": 8664,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 8581,
+        "endFrame": 8587
+      },
+      {
+        "text": "underneath",
+        "startFrame": 8587,
+        "endFrame": 8610
+      },
+      {
+        "text": "all",
+        "startFrame": 8610,
+        "endFrame": 8620
+      },
+      {
+        "text": "of",
+        "startFrame": 8620,
+        "endFrame": 8624
+      },
+      {
+        "text": "that",
+        "startFrame": 8621,
+        "endFrame": 8630
+      },
+      {
+        "text": "the",
+        "startFrame": 8635,
+        "endFrame": 8641
+      },
+      {
+        "text": "two",
+        "startFrame": 8641,
+        "endFrame": 8648
+      },
+      {
+        "text": "ideas",
+        "startFrame": 8648,
+        "endFrame": 8662
+      },
+      {
+        "text": "we",
+        "startFrame": 8662,
+        "endFrame": 8664
+      }
+    ]
+  },
+  {
+    "text": "just built are still there",
+    "startFrame": 8664,
+    "endFrame": 8717,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 8664,
+        "endFrame": 8676
+      },
+      {
+        "text": "built",
+        "startFrame": 8676,
+        "endFrame": 8684
+      },
+      {
+        "text": "are",
+        "startFrame": 8684,
+        "endFrame": 8702
+      },
+      {
+        "text": "still",
+        "startFrame": 8702,
+        "endFrame": 8714
+      },
+      {
+        "text": "there",
+        "startFrame": 8714,
+        "endFrame": 8717
+      }
+    ]
+  },
+  {
+    "text": "Index everything ahead of time so lookups are fast",
+    "startFrame": 8722,
+    "endFrame": 8809,
+    "words": [
+      {
+        "text": "Index",
+        "startFrame": 8722,
+        "endFrame": 8733
+      },
+      {
+        "text": "everything",
+        "startFrame": 8733,
+        "endFrame": 8752
+      },
+      {
+        "text": "ahead",
+        "startFrame": 8752,
+        "endFrame": 8762
+      },
+      {
+        "text": "of",
+        "startFrame": 8762,
+        "endFrame": 8766
+      },
+      {
+        "text": "time",
+        "startFrame": 8766,
+        "endFrame": 8774
+      },
+      {
+        "text": "so",
+        "startFrame": 8774,
+        "endFrame": 8777
+      },
+      {
+        "text": "lookups",
+        "startFrame": 8777,
+        "endFrame": 8790
+      },
+      {
+        "text": "are",
+        "startFrame": 8790,
+        "endFrame": 8806
+      },
+      {
+        "text": "fast",
+        "startFrame": 8806,
+        "endFrame": 8809
+      }
+    ]
+  },
+  {
+    "text": "And weight rare words more heavily than common ones",
+    "startFrame": 8810,
+    "endFrame": 8914,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 8810,
+        "endFrame": 8817
+      },
+      {
+        "text": "weight",
+        "startFrame": 8817,
+        "endFrame": 8831
+      },
+      {
+        "text": "rare",
+        "startFrame": 8831,
+        "endFrame": 8841
+      },
+      {
+        "text": "words",
+        "startFrame": 8841,
+        "endFrame": 8852
+      },
+      {
+        "text": "more",
+        "startFrame": 8852,
+        "endFrame": 8862
+      },
+      {
+        "text": "heavily",
+        "startFrame": 8862,
+        "endFrame": 8876
+      },
+      {
+        "text": "than",
+        "startFrame": 8876,
+        "endFrame": 8882
+      },
+      {
+        "text": "common",
+        "startFrame": 8882,
+        "endFrame": 8911
+      },
+      {
+        "text": "ones",
+        "startFrame": 8911,
+        "endFrame": 8914
+      }
+    ]
+  },
+  {
+    "text": "That's a working search engine in about 30 lines",
+    "startFrame": 8920,
+    "endFrame": 9006,
+    "words": [
+      {
+        "text": "That's",
+        "startFrame": 8920,
+        "endFrame": 8932
+      },
+      {
+        "text": "a",
+        "startFrame": 8932,
+        "endFrame": 8936
+      },
+      {
+        "text": "working",
+        "startFrame": 8933,
+        "endFrame": 8946
+      },
+      {
+        "text": "search",
+        "startFrame": 8946,
+        "endFrame": 8957
+      },
+      {
+        "text": "engine",
+        "startFrame": 8957,
+        "endFrame": 8968
+      },
+      {
+        "text": "in",
+        "startFrame": 8968,
+        "endFrame": 8972
+      },
+      {
+        "text": "about",
+        "startFrame": 8971,
+        "endFrame": 8980
+      },
+      {
+        "text": "30",
+        "startFrame": 8980,
+        "endFrame": 9003
+      },
+      {
+        "text": "lines",
+        "startFrame": 9003,
+        "endFrame": 9006
+      }
+    ]
+  },
+  {
+    "text": "An inverted index so you never scan everything",
+    "startFrame": 9006,
+    "endFrame": 9091,
+    "words": [
+      {
+        "text": "An",
+        "startFrame": 9006,
+        "endFrame": 9010
+      },
+      {
+        "text": "inverted",
+        "startFrame": 9010,
+        "endFrame": 9027
+      },
+      {
+        "text": "index",
+        "startFrame": 9027,
+        "endFrame": 9039
+      },
+      {
+        "text": "so",
+        "startFrame": 9039,
+        "endFrame": 9043
+      },
+      {
+        "text": "you",
+        "startFrame": 9041,
+        "endFrame": 9048
+      },
+      {
+        "text": "never",
+        "startFrame": 9048,
+        "endFrame": 9058
+      },
+      {
+        "text": "scan",
+        "startFrame": 9058,
+        "endFrame": 9067
+      },
+      {
+        "text": "everything",
+        "startFrame": 9067,
+        "endFrame": 9091
+      }
+    ]
+  },
+  {
+    "text": "And TF-IDF so the ranking actually makes sense",
+    "startFrame": 9094,
+    "endFrame": 9184,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 9094,
+        "endFrame": 9101
+      },
+      {
+        "text": "TF-IDF",
+        "startFrame": 9101,
+        "endFrame": 9116
+      },
+      {
+        "text": "so",
+        "startFrame": 9114,
+        "endFrame": 9118
+      },
+      {
+        "text": "the",
+        "startFrame": 9118,
+        "endFrame": 9134
+      },
+      {
+        "text": "ranking",
+        "startFrame": 9134,
+        "endFrame": 9141
+      },
+      {
+        "text": "actually",
+        "startFrame": 9141,
+        "endFrame": 9159
+      },
+      {
+        "text": "makes",
+        "startFrame": 9159,
+        "endFrame": 9169
+      },
+      {
+        "text": "sense",
+        "startFrame": 9169,
+        "endFrame": 9184
+      }
+    ]
+  },
+  {
+    "text": "Full code is in the description if you want",
+    "startFrame": 9194,
+    "endFrame": 9250,
+    "words": [
+      {
+        "text": "Full",
+        "startFrame": 9194,
+        "endFrame": 9198
+      },
+      {
+        "text": "code",
+        "startFrame": 9196,
+        "endFrame": 9203
+      },
+      {
+        "text": "is",
+        "startFrame": 9203,
+        "endFrame": 9207
+      },
+      {
+        "text": "in",
+        "startFrame": 9207,
+        "endFrame": 9210
+      },
+      {
+        "text": "the",
+        "startFrame": 9210,
+        "endFrame": 9215
+      },
+      {
+        "text": "description",
+        "startFrame": 9215,
+        "endFrame": 9235
+      },
+      {
+        "text": "if",
+        "startFrame": 9235,
+        "endFrame": 9238
+      },
+      {
+        "text": "you",
+        "startFrame": 9238,
+        "endFrame": 9243
+      },
+      {
+        "text": "want",
+        "startFrame": 9243,
+        "endFrame": 9250
+      }
+    ]
+  },
+  {
+    "text": "to run it yourself",
+    "startFrame": 9250,
+    "endFrame": 9284,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 9250,
+        "endFrame": 9254
+      },
+      {
+        "text": "run",
+        "startFrame": 9253,
+        "endFrame": 9260
+      },
+      {
+        "text": "it",
+        "startFrame": 9260,
+        "endFrame": 9263
+      },
+      {
+        "text": "yourself",
+        "startFrame": 9262,
+        "endFrame": 9284
+      }
+    ]
+  },
+  {
+    "text": "If you want a follow-up where we add page",
+    "startFrame": 9284,
+    "endFrame": 9341,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 9284,
+        "endFrame": 9291
+      },
+      {
+        "text": "you",
+        "startFrame": 9291,
+        "endFrame": 9298
+      },
+      {
+        "text": "want",
+        "startFrame": 9298,
+        "endFrame": 9304
+      },
+      {
+        "text": "a",
+        "startFrame": 9304,
+        "endFrame": 9311
+      },
+      {
+        "text": "follow-up",
+        "startFrame": 9311,
+        "endFrame": 9318
+      },
+      {
+        "text": "where",
+        "startFrame": 9318,
+        "endFrame": 9325
+      },
+      {
+        "text": "we",
+        "startFrame": 9325,
+        "endFrame": 9330
+      },
+      {
+        "text": "add",
+        "startFrame": 9330,
+        "endFrame": 9336
+      },
+      {
+        "text": "page",
+        "startFrame": 9336,
+        "endFrame": 9341
+      }
+    ]
+  },
+  {
+    "text": "rank and rank pages by links let me know in the",
+    "startFrame": 9341,
+    "endFrame": 9420,
+    "words": [
+      {
+        "text": "rank",
+        "startFrame": 9341,
+        "endFrame": 9352
+      },
+      {
+        "text": "and",
+        "startFrame": 9352,
+        "endFrame": 9356
+      },
+      {
+        "text": "rank",
+        "startFrame": 9356,
+        "endFrame": 9366
+      },
+      {
+        "text": "pages",
+        "startFrame": 9366,
+        "endFrame": 9374
+      },
+      {
+        "text": "by",
+        "startFrame": 9374,
+        "endFrame": 9378
+      },
+      {
+        "text": "links",
+        "startFrame": 9376,
+        "endFrame": 9390
+      },
+      {
+        "text": "let",
+        "startFrame": 9390,
+        "endFrame": 9396
+      },
+      {
+        "text": "me",
+        "startFrame": 9396,
+        "endFrame": 9402
+      },
+      {
+        "text": "know",
+        "startFrame": 9402,
+        "endFrame": 9408
+      },
+      {
+        "text": "in",
+        "startFrame": 9408,
+        "endFrame": 9414
+      },
+      {
+        "text": "the",
+        "startFrame": 9414,
+        "endFrame": 9420
+      }
+    ]
+  },
+  {
+    "text": "comments See you in the next one",
+    "startFrame": 9420,
+    "endFrame": 9458,
+    "words": [
+      {
+        "text": "comments",
+        "startFrame": 9420,
+        "endFrame": 9426
+      },
+      {
+        "text": "See",
+        "startFrame": 9430,
+        "endFrame": 9434
+      },
+      {
+        "text": "you",
+        "startFrame": 9434,
+        "endFrame": 9437
+      },
+      {
+        "text": "in",
+        "startFrame": 9437,
+        "endFrame": 9441
+      },
+      {
+        "text": "the",
+        "startFrame": 9440,
+        "endFrame": 9446
+      },
+      {
+        "text": "next",
+        "startFrame": 9446,
+        "endFrame": 9449
+      },
+      {
+        "text": "one",
+        "startFrame": 9449,
+        "endFrame": 9458
+      }
+    ]
+  }
+]

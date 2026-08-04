@@ -1,0 +1,117 @@
+TITLE:
+I Built a Search Engine in 30 Lines of Python
+
+ALTERNATE TITLES (A/B test these):
+- Building a Search Engine From Scratch in 30 Lines of Python
+- How Search Engines Actually Work — Built From Scratch in Python
+- Inverted Index + TF-IDF, Built Live in 30 Lines of Python
+
+DESCRIPTION:
+
+Google returns results in about half a second, out of billions of pages. Here's what should feel strange about that: there is no way it read billions of pages after you hit enter. It couldn't. Not in half a second.
+
+So it must have done almost all of the work *before* you ever searched.
+
+That one idea is the whole foundation of search, and in this video I build a working search engine on top of it — from scratch, in about thirty lines of real Python that actually runs. No libraries, no vector database, no embeddings. Just the standard library.
+
+And instead of handing you the formula, we watch it get an answer badly wrong first. We search for "the dog" and the #1 result is a document about a cat sleeping on a mat. There is no dog in it anywhere. Fixing that failure is how TF-IDF stops being something you memorize and starts being obvious.
+
+WHAT YOU'LL LEARN
+✅ Why search feels instant — the inverted index, and why the reading happens ahead of time
+✅ How to build that index in four lines of Python (word → which documents, and how many times)
+✅ The obvious first ranking attempt: just count the matches
+✅ Exactly why counting fails — "the" appears 4 times in the wrong document and drowns out "dog"
+✅ Why common words should count for less and rare words should count for more
+✅ TF-IDF without the jargon — term frequency and inverse document frequency, one line each
+✅ Why we divide by document length, so long documents don't win just for being long
+✅ The same query, the same index, ranked correctly — only the weighting changed
+✅ What real search engines add on top: crawling, word variations, PageRank, and hundreds of other signals
+
+Everything on screen is real output from the code as it runs — the index lookups, the wrong ranking, and the corrected one. Nothing is mocked up.
+
+TIMESTAMPS
+00:00 Half a second, billions of pages — what's actually going on
+00:28 The core idea: a textbook index
+01:06 Setting up our five documents
+01:26 Building the inverted index (4 lines)
+01:45 What the index actually looks like
+02:01 Attempt 1 — just count the matches
+02:24 Watching it fail (a cat wins a search for "the dog")
+02:53 Why rare words matter more
+03:13 TF-IDF, both halves explained
+03:51 Writing the fix
+04:14 Same query, correct answer
+04:23 What real search engines add
+04:57 Wrap-up
+
+FULL CODE
+
+import math
+from collections import defaultdict
+
+documents = {
+    1: "the cat sat on the mat and then the cat slept on the mat",
+    2: "dogs are loyal pets and dogs love to play outside",
+    3: "the dog barked loudly at night",
+    4: "python is a great programming language for beginners",
+    5: "learning python programming takes practice and patience",
+}
+
+
+def tokenize(text):
+    return text.lower().split()
+
+
+# Build the inverted index: word maps to {doc_id: count}
+index = defaultdict(lambda: defaultdict(int))
+for doc_id, text in documents.items():
+    for word in tokenize(text):
+        index[word][doc_id] += 1
+
+
+def score(word, doc_id):
+    tf = index[word][doc_id] / len(tokenize(documents[doc_id]))
+    idf = math.log(len(documents) / len(index[word]))
+    return tf * idf
+
+
+def search(query):
+    results = defaultdict(float)
+    for word in tokenize(query):
+        if word not in index:
+            continue
+        for doc_id in index[word]:
+            results[doc_id] += score(word, doc_id)
+    return sorted(results.items(), key=lambda x: x[1], reverse=True)
+
+
+if __name__ == "__main__":
+    print("Index for 'cat':", dict(index["cat"]))
+    print("Index for 'dog':", dict(index["dog"]))
+    print()
+    for q in ["the dog", "python programming", "cat"]:
+        print(f"Search: '{q}'")
+        for doc_id, s in search(q):
+            print(f"   [{s:.4f}] {documents[doc_id]}")
+        print()
+
+THE FAILURE, IN NUMBERS
+
+Naive counting on "the dog":
+  [4] the cat sat on the mat and then the cat slept on the mat   ..... WRONG
+  [2] the dog barked loudly at night
+
+TF-IDF on "the dog":
+  [0.4210] the dog barked loudly at night   ..... CORRECT
+  [0.2618] the cat sat on the mat and then the cat slept on the mat
+
+Same query. Same index. Same five documents. Only the weighting changed.
+
+WHO THIS IS FOR
+If you've used Elasticsearch, Algolia, or a vector database without knowing what's underneath — this is the thirty-line version of the idea. It's also a good interview-prep watch: inverted indexes and TF-IDF come up constantly in system design rounds, and building one is the fastest way to actually understand them.
+
+KEYWORDS: search engine, inverted index, TF-IDF, term frequency, inverse document frequency, information retrieval, python, python tutorial, python projects, build a search engine, from scratch, elasticsearch, lucene, BM25, PageRank, ranking algorithm, text search, full text search, coding tutorial, live coding, computer science, system design, system design interview, algorithms, data structures, learn python
+
+If this made search click for you, drop a like and subscribe. And if you want a follow-up where we add PageRank and rank pages by links — let me know in the comments.
+
+#Python #SearchEngine #TFIDF #Algorithms #Programming #ComputerScience #SoftwareEngineering #SystemDesign #LearnToCode

@@ -1,0 +1,6198 @@
+[
+  {
+    "text": "5 years ago if you wanted",
+    "startFrame": 0,
+    "endFrame": 50,
+    "words": [
+      {
+        "text": "5",
+        "startFrame": 0,
+        "endFrame": 6
+      },
+      {
+        "text": "years",
+        "startFrame": 6,
+        "endFrame": 20
+      },
+      {
+        "text": "ago",
+        "startFrame": 20,
+        "endFrame": 22
+      },
+      {
+        "text": "if",
+        "startFrame": 27,
+        "endFrame": 30
+      },
+      {
+        "text": "you",
+        "startFrame": 30,
+        "endFrame": 35
+      },
+      {
+        "text": "wanted",
+        "startFrame": 35,
+        "endFrame": 50
+      }
+    ]
+  },
+  {
+    "text": "to add a major feature to",
+    "startFrame": 50,
+    "endFrame": 87,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 50,
+        "endFrame": 54
+      },
+      {
+        "text": "add",
+        "startFrame": 54,
+        "endFrame": 57
+      },
+      {
+        "text": "a",
+        "startFrame": 57,
+        "endFrame": 59
+      },
+      {
+        "text": "major",
+        "startFrame": 59,
+        "endFrame": 69
+      },
+      {
+        "text": "feature",
+        "startFrame": 69,
+        "endFrame": 83
+      },
+      {
+        "text": "to",
+        "startFrame": 83,
+        "endFrame": 87
+      }
+    ]
+  },
+  {
+    "text": "a software project you need an",
+    "startFrame": 87,
+    "endFrame": 152,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 87,
+        "endFrame": 88
+      },
+      {
+        "text": "software",
+        "startFrame": 88,
+        "endFrame": 106
+      },
+      {
+        "text": "project",
+        "startFrame": 106,
+        "endFrame": 131
+      },
+      {
+        "text": "you",
+        "startFrame": 131,
+        "endFrame": 138
+      },
+      {
+        "text": "need",
+        "startFrame": 138,
+        "endFrame": 147
+      },
+      {
+        "text": "an",
+        "startFrame": 147,
+        "endFrame": 152
+      }
+    ]
+  },
+  {
+    "text": "engineer Someone who could read 1000",
+    "startFrame": 152,
+    "endFrame": 236,
+    "words": [
+      {
+        "text": "engineer",
+        "startFrame": 152,
+        "endFrame": 185
+      },
+      {
+        "text": "Someone",
+        "startFrame": 191,
+        "endFrame": 201
+      },
+      {
+        "text": "who",
+        "startFrame": 201,
+        "endFrame": 205
+      },
+      {
+        "text": "could",
+        "startFrame": 205,
+        "endFrame": 212
+      },
+      {
+        "text": "read",
+        "startFrame": 212,
+        "endFrame": 218
+      },
+      {
+        "text": "1000",
+        "startFrame": 218,
+        "endFrame": 236
+      }
+    ]
+  },
+  {
+    "text": "lines of code understand the architecture",
+    "startFrame": 236,
+    "endFrame": 293,
+    "words": [
+      {
+        "text": "lines",
+        "startFrame": 236,
+        "endFrame": 245
+      },
+      {
+        "text": "of",
+        "startFrame": 245,
+        "endFrame": 248
+      },
+      {
+        "text": "code",
+        "startFrame": 248,
+        "endFrame": 251
+      },
+      {
+        "text": "understand",
+        "startFrame": 256,
+        "endFrame": 268
+      },
+      {
+        "text": "the",
+        "startFrame": 268,
+        "endFrame": 273
+      },
+      {
+        "text": "architecture",
+        "startFrame": 273,
+        "endFrame": 293
+      }
+    ]
+  },
+  {
+    "text": "find the right files make changes",
+    "startFrame": 294,
+    "endFrame": 371,
+    "words": [
+      {
+        "text": "find",
+        "startFrame": 294,
+        "endFrame": 298
+      },
+      {
+        "text": "the",
+        "startFrame": 298,
+        "endFrame": 303
+      },
+      {
+        "text": "right",
+        "startFrame": 303,
+        "endFrame": 313
+      },
+      {
+        "text": "files",
+        "startFrame": 313,
+        "endFrame": 334
+      },
+      {
+        "text": "make",
+        "startFrame": 335,
+        "endFrame": 348
+      },
+      {
+        "text": "changes",
+        "startFrame": 348,
+        "endFrame": 371
+      }
+    ]
+  },
+  {
+    "text": "run tests fix errors But today",
+    "startFrame": 378,
+    "endFrame": 467,
+    "words": [
+      {
+        "text": "run",
+        "startFrame": 378,
+        "endFrame": 403
+      },
+      {
+        "text": "tests",
+        "startFrame": 403,
+        "endFrame": 404
+      },
+      {
+        "text": "fix",
+        "startFrame": 410,
+        "endFrame": 418
+      },
+      {
+        "text": "errors",
+        "startFrame": 418,
+        "endFrame": 445
+      },
+      {
+        "text": "But",
+        "startFrame": 449,
+        "endFrame": 454
+      },
+      {
+        "text": "today",
+        "startFrame": 454,
+        "endFrame": 467
+      }
+    ]
+  },
+  {
+    "text": "a developer can open cursor and",
+    "startFrame": 469,
+    "endFrame": 513,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 469,
+        "endFrame": 471
+      },
+      {
+        "text": "developer",
+        "startFrame": 471,
+        "endFrame": 486
+      },
+      {
+        "text": "can",
+        "startFrame": 486,
+        "endFrame": 490
+      },
+      {
+        "text": "open",
+        "startFrame": 490,
+        "endFrame": 497
+      },
+      {
+        "text": "cursor",
+        "startFrame": 497,
+        "endFrame": 508
+      },
+      {
+        "text": "and",
+        "startFrame": 508,
+        "endFrame": 513
+      }
+    ]
+  },
+  {
+    "text": "simply type \" add google authentication",
+    "startFrame": 513,
+    "endFrame": 568,
+    "words": [
+      {
+        "text": "simply",
+        "startFrame": 513,
+        "endFrame": 524
+      },
+      {
+        "text": "type",
+        "startFrame": 524,
+        "endFrame": 534
+      },
+      {
+        "text": "\"",
+        "startFrame": 534,
+        "endFrame": 537
+      },
+      {
+        "text": "add",
+        "startFrame": 537,
+        "endFrame": 538
+      },
+      {
+        "text": "google",
+        "startFrame": 538,
+        "endFrame": 548
+      },
+      {
+        "text": "authentication",
+        "startFrame": 548,
+        "endFrame": 568
+      }
+    ]
+  },
+  {
+    "text": "to my application \". And an",
+    "startFrame": 568,
+    "endFrame": 626,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 568,
+        "endFrame": 570
+      },
+      {
+        "text": "my",
+        "startFrame": 570,
+        "endFrame": 575
+      },
+      {
+        "text": "application",
+        "startFrame": 575,
+        "endFrame": 615
+      },
+      {
+        "text": "\".",
+        "startFrame": 615,
+        "endFrame": 617
+      },
+      {
+        "text": "And",
+        "startFrame": 617,
+        "endFrame": 625
+      },
+      {
+        "text": "an",
+        "startFrame": 625,
+        "endFrame": 626
+      }
+    ]
+  },
+  {
+    "text": "AI agent can explore the code",
+    "startFrame": 626,
+    "endFrame": 670,
+    "words": [
+      {
+        "text": "AI",
+        "startFrame": 626,
+        "endFrame": 630
+      },
+      {
+        "text": "agent",
+        "startFrame": 630,
+        "endFrame": 639
+      },
+      {
+        "text": "can",
+        "startFrame": 639,
+        "endFrame": 645
+      },
+      {
+        "text": "explore",
+        "startFrame": 645,
+        "endFrame": 658
+      },
+      {
+        "text": "the",
+        "startFrame": 658,
+        "endFrame": 663
+      },
+      {
+        "text": "code",
+        "startFrame": 663,
+        "endFrame": 670
+      }
+    ]
+  },
+  {
+    "text": "base modify multiple files create new",
+    "startFrame": 670,
+    "endFrame": 739,
+    "words": [
+      {
+        "text": "base",
+        "startFrame": 670,
+        "endFrame": 676
+      },
+      {
+        "text": "modify",
+        "startFrame": 686,
+        "endFrame": 693
+      },
+      {
+        "text": "multiple",
+        "startFrame": 693,
+        "endFrame": 708
+      },
+      {
+        "text": "files",
+        "startFrame": 708,
+        "endFrame": 717
+      },
+      {
+        "text": "create",
+        "startFrame": 730,
+        "endFrame": 732
+      },
+      {
+        "text": "new",
+        "startFrame": 732,
+        "endFrame": 739
+      }
+    ]
+  },
+  {
+    "text": "components run commands and help complete",
+    "startFrame": 739,
+    "endFrame": 837,
+    "words": [
+      {
+        "text": "components",
+        "startFrame": 739,
+        "endFrame": 771
+      },
+      {
+        "text": "run",
+        "startFrame": 774,
+        "endFrame": 781
+      },
+      {
+        "text": "commands",
+        "startFrame": 781,
+        "endFrame": 801
+      },
+      {
+        "text": "and",
+        "startFrame": 801,
+        "endFrame": 811
+      },
+      {
+        "text": "help",
+        "startFrame": 811,
+        "endFrame": 818
+      },
+      {
+        "text": "complete",
+        "startFrame": 818,
+        "endFrame": 837
+      }
+    ]
+  },
+  {
+    "text": "the task But the interesting question",
+    "startFrame": 837,
+    "endFrame": 901,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 837,
+        "endFrame": 855
+      },
+      {
+        "text": "task",
+        "startFrame": 855,
+        "endFrame": 857
+      },
+      {
+        "text": "But",
+        "startFrame": 860,
+        "endFrame": 865
+      },
+      {
+        "text": "the",
+        "startFrame": 865,
+        "endFrame": 870
+      },
+      {
+        "text": "interesting",
+        "startFrame": 870,
+        "endFrame": 891
+      },
+      {
+        "text": "question",
+        "startFrame": 891,
+        "endFrame": 901
+      }
+    ]
+  },
+  {
+    "text": "is not what can cursor do",
+    "startFrame": 901,
+    "endFrame": 934,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 901,
+        "endFrame": 906
+      },
+      {
+        "text": "not",
+        "startFrame": 906,
+        "endFrame": 909
+      },
+      {
+        "text": "what",
+        "startFrame": 909,
+        "endFrame": 918
+      },
+      {
+        "text": "can",
+        "startFrame": 918,
+        "endFrame": 921
+      },
+      {
+        "text": "cursor",
+        "startFrame": 921,
+        "endFrame": 931
+      },
+      {
+        "text": "do",
+        "startFrame": 931,
+        "endFrame": 934
+      }
+    ]
+  },
+  {
+    "text": "the interesting question is what architecture",
+    "startFrame": 938,
+    "endFrame": 1025,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 938,
+        "endFrame": 950
+      },
+      {
+        "text": "interesting",
+        "startFrame": 950,
+        "endFrame": 968
+      },
+      {
+        "text": "question",
+        "startFrame": 968,
+        "endFrame": 989
+      },
+      {
+        "text": "is",
+        "startFrame": 989,
+        "endFrame": 992
+      },
+      {
+        "text": "what",
+        "startFrame": 992,
+        "endFrame": 996
+      },
+      {
+        "text": "architecture",
+        "startFrame": 996,
+        "endFrame": 1025
+      }
+    ]
+  },
+  {
+    "text": "allows an AI system to behave",
+    "startFrame": 1025,
+    "endFrame": 1077,
+    "words": [
+      {
+        "text": "allows",
+        "startFrame": 1025,
+        "endFrame": 1036
+      },
+      {
+        "text": "an",
+        "startFrame": 1036,
+        "endFrame": 1044
+      },
+      {
+        "text": "AI",
+        "startFrame": 1044,
+        "endFrame": 1046
+      },
+      {
+        "text": "system",
+        "startFrame": 1046,
+        "endFrame": 1059
+      },
+      {
+        "text": "to",
+        "startFrame": 1059,
+        "endFrame": 1064
+      },
+      {
+        "text": "behave",
+        "startFrame": 1064,
+        "endFrame": 1077
+      }
+    ]
+  },
+  {
+    "text": "like a software engineer Because cursor",
+    "startFrame": 1077,
+    "endFrame": 1159,
+    "words": [
+      {
+        "text": "like",
+        "startFrame": 1077,
+        "endFrame": 1087
+      },
+      {
+        "text": "a",
+        "startFrame": 1087,
+        "endFrame": 1088
+      },
+      {
+        "text": "software",
+        "startFrame": 1088,
+        "endFrame": 1124
+      },
+      {
+        "text": "engineer",
+        "startFrame": 1124,
+        "endFrame": 1125
+      },
+      {
+        "text": "Because",
+        "startFrame": 1132,
+        "endFrame": 1147
+      },
+      {
+        "text": "cursor",
+        "startFrame": 1147,
+        "endFrame": 1159
+      }
+    ]
+  },
+  {
+    "text": "is not just a chat bot",
+    "startFrame": 1159,
+    "endFrame": 1193,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 1159,
+        "endFrame": 1163
+      },
+      {
+        "text": "not",
+        "startFrame": 1163,
+        "endFrame": 1169
+      },
+      {
+        "text": "just",
+        "startFrame": 1169,
+        "endFrame": 1177
+      },
+      {
+        "text": "a",
+        "startFrame": 1177,
+        "endFrame": 1179
+      },
+      {
+        "text": "chat",
+        "startFrame": 1179,
+        "endFrame": 1187
+      },
+      {
+        "text": "bot",
+        "startFrame": 1187,
+        "endFrame": 1193
+      }
+    ]
+  },
+  {
+    "text": "inside an editor Behind that simple",
+    "startFrame": 1193,
+    "endFrame": 1262,
+    "words": [
+      {
+        "text": "inside",
+        "startFrame": 1193,
+        "endFrame": 1205
+      },
+      {
+        "text": "an",
+        "startFrame": 1205,
+        "endFrame": 1223
+      },
+      {
+        "text": "editor",
+        "startFrame": 1223,
+        "endFrame": 1226
+      },
+      {
+        "text": "Behind",
+        "startFrame": 1235,
+        "endFrame": 1245
+      },
+      {
+        "text": "that",
+        "startFrame": 1245,
+        "endFrame": 1252
+      },
+      {
+        "text": "simple",
+        "startFrame": 1252,
+        "endFrame": 1262
+      }
+    ]
+  },
+  {
+    "text": "interface is a collection of systems",
+    "startFrame": 1262,
+    "endFrame": 1315,
+    "words": [
+      {
+        "text": "interface",
+        "startFrame": 1262,
+        "endFrame": 1278
+      },
+      {
+        "text": "is",
+        "startFrame": 1278,
+        "endFrame": 1281
+      },
+      {
+        "text": "a",
+        "startFrame": 1281,
+        "endFrame": 1282
+      },
+      {
+        "text": "collection",
+        "startFrame": 1282,
+        "endFrame": 1303
+      },
+      {
+        "text": "of",
+        "startFrame": 1303,
+        "endFrame": 1305
+      },
+      {
+        "text": "systems",
+        "startFrame": 1305,
+        "endFrame": 1315
+      }
+    ]
+  },
+  {
+    "text": "working together a code intelligence system",
+    "startFrame": 1315,
+    "endFrame": 1392,
+    "words": [
+      {
+        "text": "working",
+        "startFrame": 1315,
+        "endFrame": 1343
+      },
+      {
+        "text": "together",
+        "startFrame": 1343,
+        "endFrame": 1344
+      },
+      {
+        "text": "a",
+        "startFrame": 1346,
+        "endFrame": 1346
+      },
+      {
+        "text": "code",
+        "startFrame": 1346,
+        "endFrame": 1354
+      },
+      {
+        "text": "intelligence",
+        "startFrame": 1354,
+        "endFrame": 1378
+      },
+      {
+        "text": "system",
+        "startFrame": 1378,
+        "endFrame": 1392
+      }
+    ]
+  },
+  {
+    "text": "a context engine an AI agent",
+    "startFrame": 1396,
+    "endFrame": 1459,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 1396,
+        "endFrame": 1398
+      },
+      {
+        "text": "context",
+        "startFrame": 1398,
+        "endFrame": 1415
+      },
+      {
+        "text": "engine",
+        "startFrame": 1415,
+        "endFrame": 1429
+      },
+      {
+        "text": "an",
+        "startFrame": 1433,
+        "endFrame": 1438
+      },
+      {
+        "text": "AI",
+        "startFrame": 1438,
+        "endFrame": 1442
+      },
+      {
+        "text": "agent",
+        "startFrame": 1442,
+        "endFrame": 1459
+      }
+    ]
+  },
+  {
+    "text": "a tool execution layer a model",
+    "startFrame": 1459,
+    "endFrame": 1521,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 1459,
+        "endFrame": 1466
+      },
+      {
+        "text": "tool",
+        "startFrame": 1466,
+        "endFrame": 1470
+      },
+      {
+        "text": "execution",
+        "startFrame": 1470,
+        "endFrame": 1491
+      },
+      {
+        "text": "layer",
+        "startFrame": 1491,
+        "endFrame": 1498
+      },
+      {
+        "text": "a",
+        "startFrame": 1508,
+        "endFrame": 1515
+      },
+      {
+        "text": "model",
+        "startFrame": 1515,
+        "endFrame": 1521
+      }
+    ]
+  },
+  {
+    "text": "orche stration platform and a code",
+    "startFrame": 1521,
+    "endFrame": 1585,
+    "words": [
+      {
+        "text": "orche",
+        "startFrame": 1521,
+        "endFrame": 1533
+      },
+      {
+        "text": "stration",
+        "startFrame": 1533,
+        "endFrame": 1553
+      },
+      {
+        "text": "platform",
+        "startFrame": 1553,
+        "endFrame": 1574
+      },
+      {
+        "text": "and",
+        "startFrame": 1574,
+        "endFrame": 1578
+      },
+      {
+        "text": "a",
+        "startFrame": 1578,
+        "endFrame": 1580
+      },
+      {
+        "text": "code",
+        "startFrame": 1580,
+        "endFrame": 1585
+      }
+    ]
+  },
+  {
+    "text": "modification pipeline Today we are going",
+    "startFrame": 1585,
+    "endFrame": 1655,
+    "words": [
+      {
+        "text": "modification",
+        "startFrame": 1585,
+        "endFrame": 1602
+      },
+      {
+        "text": "pipeline",
+        "startFrame": 1602,
+        "endFrame": 1612
+      },
+      {
+        "text": "Today",
+        "startFrame": 1616,
+        "endFrame": 1626
+      },
+      {
+        "text": "we",
+        "startFrame": 1626,
+        "endFrame": 1642
+      },
+      {
+        "text": "are",
+        "startFrame": 1642,
+        "endFrame": 1645
+      },
+      {
+        "text": "going",
+        "startFrame": 1645,
+        "endFrame": 1655
+      }
+    ]
+  },
+  {
+    "text": "to design the architecture behind an",
+    "startFrame": 1655,
+    "endFrame": 1735,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 1655,
+        "endFrame": 1660
+      },
+      {
+        "text": "design",
+        "startFrame": 1660,
+        "endFrame": 1675
+      },
+      {
+        "text": "the",
+        "startFrame": 1675,
+        "endFrame": 1684
+      },
+      {
+        "text": "architecture",
+        "startFrame": 1684,
+        "endFrame": 1714
+      },
+      {
+        "text": "behind",
+        "startFrame": 1714,
+        "endFrame": 1728
+      },
+      {
+        "text": "an",
+        "startFrame": 1728,
+        "endFrame": 1735
+      }
+    ]
+  },
+  {
+    "text": "AI coding agent Let 's start",
+    "startFrame": 1735,
+    "endFrame": 1788,
+    "words": [
+      {
+        "text": "AI",
+        "startFrame": 1735,
+        "endFrame": 1736
+      },
+      {
+        "text": "coding",
+        "startFrame": 1736,
+        "endFrame": 1763
+      },
+      {
+        "text": "agent",
+        "startFrame": 1763,
+        "endFrame": 1769
+      },
+      {
+        "text": "Let",
+        "startFrame": 1769,
+        "endFrame": 1774
+      },
+      {
+        "text": "'s",
+        "startFrame": 1774,
+        "endFrame": 1777
+      },
+      {
+        "text": "start",
+        "startFrame": 1777,
+        "endFrame": 1788
+      }
+    ]
+  },
+  {
+    "text": "with the simplest possible design A",
+    "startFrame": 1788,
+    "endFrame": 1845,
+    "words": [
+      {
+        "text": "with",
+        "startFrame": 1788,
+        "endFrame": 1793
+      },
+      {
+        "text": "the",
+        "startFrame": 1793,
+        "endFrame": 1800
+      },
+      {
+        "text": "simplest",
+        "startFrame": 1800,
+        "endFrame": 1812
+      },
+      {
+        "text": "possible",
+        "startFrame": 1812,
+        "endFrame": 1826
+      },
+      {
+        "text": "design",
+        "startFrame": 1826,
+        "endFrame": 1843
+      },
+      {
+        "text": "A",
+        "startFrame": 1843,
+        "endFrame": 1845
+      }
+    ]
+  },
+  {
+    "text": "developer writes a prompt the system",
+    "startFrame": 1845,
+    "endFrame": 1916,
+    "words": [
+      {
+        "text": "developer",
+        "startFrame": 1845,
+        "endFrame": 1866
+      },
+      {
+        "text": "writes",
+        "startFrame": 1866,
+        "endFrame": 1877
+      },
+      {
+        "text": "a",
+        "startFrame": 1877,
+        "endFrame": 1880
+      },
+      {
+        "text": "prompt",
+        "startFrame": 1880,
+        "endFrame": 1894
+      },
+      {
+        "text": "the",
+        "startFrame": 1898,
+        "endFrame": 1903
+      },
+      {
+        "text": "system",
+        "startFrame": 1903,
+        "endFrame": 1916
+      }
+    ]
+  },
+  {
+    "text": "sends it to an LL M",
+    "startFrame": 1916,
+    "endFrame": 1945,
+    "words": [
+      {
+        "text": "sends",
+        "startFrame": 1916,
+        "endFrame": 1926
+      },
+      {
+        "text": "it",
+        "startFrame": 1926,
+        "endFrame": 1930
+      },
+      {
+        "text": "to",
+        "startFrame": 1930,
+        "endFrame": 1935
+      },
+      {
+        "text": "an",
+        "startFrame": 1935,
+        "endFrame": 1939
+      },
+      {
+        "text": "LL",
+        "startFrame": 1939,
+        "endFrame": 1945
+      },
+      {
+        "text": "M",
+        "startFrame": 1945,
+        "endFrame": 1945
+      }
+    ]
+  },
+  {
+    "text": "the LL M returns code something",
+    "startFrame": 1956,
+    "endFrame": 2012,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 1956,
+        "endFrame": 1956
+      },
+      {
+        "text": "LL",
+        "startFrame": 1956,
+        "endFrame": 1962
+      },
+      {
+        "text": "M",
+        "startFrame": 1962,
+        "endFrame": 1962
+      },
+      {
+        "text": "returns",
+        "startFrame": 1962,
+        "endFrame": 1977
+      },
+      {
+        "text": "code",
+        "startFrame": 1977,
+        "endFrame": 1986
+      },
+      {
+        "text": "something",
+        "startFrame": 2007,
+        "endFrame": 2012
+      }
+    ]
+  },
+  {
+    "text": "like this This works for small",
+    "startFrame": 2012,
+    "endFrame": 2090,
+    "words": [
+      {
+        "text": "like",
+        "startFrame": 2012,
+        "endFrame": 2023
+      },
+      {
+        "text": "this",
+        "startFrame": 2023,
+        "endFrame": 2055
+      },
+      {
+        "text": "This",
+        "startFrame": 2058,
+        "endFrame": 2066
+      },
+      {
+        "text": "works",
+        "startFrame": 2066,
+        "endFrame": 2076
+      },
+      {
+        "text": "for",
+        "startFrame": 2076,
+        "endFrame": 2081
+      },
+      {
+        "text": "small",
+        "startFrame": 2081,
+        "endFrame": 2090
+      }
+    ]
+  },
+  {
+    "text": "questions for example write a python",
+    "startFrame": 2090,
+    "endFrame": 2157,
+    "words": [
+      {
+        "text": "questions",
+        "startFrame": 2090,
+        "endFrame": 2109
+      },
+      {
+        "text": "for",
+        "startFrame": 2111,
+        "endFrame": 2117
+      },
+      {
+        "text": "example",
+        "startFrame": 2117,
+        "endFrame": 2131
+      },
+      {
+        "text": "write",
+        "startFrame": 2134,
+        "endFrame": 2144
+      },
+      {
+        "text": "a",
+        "startFrame": 2144,
+        "endFrame": 2146
+      },
+      {
+        "text": "python",
+        "startFrame": 2146,
+        "endFrame": 2157
+      }
+    ]
+  },
+  {
+    "text": "function to sort a list But",
+    "startFrame": 2157,
+    "endFrame": 2207,
+    "words": [
+      {
+        "text": "function",
+        "startFrame": 2157,
+        "endFrame": 2172
+      },
+      {
+        "text": "to",
+        "startFrame": 2172,
+        "endFrame": 2180
+      },
+      {
+        "text": "sort",
+        "startFrame": 2180,
+        "endFrame": 2184
+      },
+      {
+        "text": "a",
+        "startFrame": 2184,
+        "endFrame": 2185
+      },
+      {
+        "text": "list",
+        "startFrame": 2185,
+        "endFrame": 2200
+      },
+      {
+        "text": "But",
+        "startFrame": 2201,
+        "endFrame": 2207
+      }
+    ]
+  },
+  {
+    "text": "software engineering is different a real",
+    "startFrame": 2207,
+    "endFrame": 2276,
+    "words": [
+      {
+        "text": "software",
+        "startFrame": 2207,
+        "endFrame": 2222
+      },
+      {
+        "text": "engineering",
+        "startFrame": 2222,
+        "endFrame": 2246
+      },
+      {
+        "text": "is",
+        "startFrame": 2246,
+        "endFrame": 2262
+      },
+      {
+        "text": "different",
+        "startFrame": 2262,
+        "endFrame": 2263
+      },
+      {
+        "text": "a",
+        "startFrame": 2266,
+        "endFrame": 2267
+      },
+      {
+        "text": "real",
+        "startFrame": 2267,
+        "endFrame": 2276
+      }
+    ]
+  },
+  {
+    "text": "application is not one function it",
+    "startFrame": 2276,
+    "endFrame": 2335,
+    "words": [
+      {
+        "text": "application",
+        "startFrame": 2276,
+        "endFrame": 2295
+      },
+      {
+        "text": "is",
+        "startFrame": 2295,
+        "endFrame": 2299
+      },
+      {
+        "text": "not",
+        "startFrame": 2299,
+        "endFrame": 2304
+      },
+      {
+        "text": "one",
+        "startFrame": 2304,
+        "endFrame": 2309
+      },
+      {
+        "text": "function",
+        "startFrame": 2309,
+        "endFrame": 2323
+      },
+      {
+        "text": "it",
+        "startFrame": 2328,
+        "endFrame": 2335
+      }
+    ]
+  },
+  {
+    "text": "is thousands of interconnected files The",
+    "startFrame": 2335,
+    "endFrame": 2420,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 2335,
+        "endFrame": 2336
+      },
+      {
+        "text": "thousands",
+        "startFrame": 2336,
+        "endFrame": 2354
+      },
+      {
+        "text": "of",
+        "startFrame": 2354,
+        "endFrame": 2359
+      },
+      {
+        "text": "interconnected",
+        "startFrame": 2359,
+        "endFrame": 2394
+      },
+      {
+        "text": "files",
+        "startFrame": 2394,
+        "endFrame": 2413
+      },
+      {
+        "text": "The",
+        "startFrame": 2414,
+        "endFrame": 2420
+      }
+    ]
+  },
+  {
+    "text": "AI needs to understand where authentication",
+    "startFrame": 2420,
+    "endFrame": 2511,
+    "words": [
+      {
+        "text": "AI",
+        "startFrame": 2420,
+        "endFrame": 2424
+      },
+      {
+        "text": "needs",
+        "startFrame": 2424,
+        "endFrame": 2437
+      },
+      {
+        "text": "to",
+        "startFrame": 2437,
+        "endFrame": 2438
+      },
+      {
+        "text": "understand",
+        "startFrame": 2438,
+        "endFrame": 2464
+      },
+      {
+        "text": "where",
+        "startFrame": 2464,
+        "endFrame": 2469
+      },
+      {
+        "text": "authentication",
+        "startFrame": 2469,
+        "endFrame": 2511
+      }
+    ]
+  },
+  {
+    "text": "leaves how APIs are connected what",
+    "startFrame": 2511,
+    "endFrame": 2568,
+    "words": [
+      {
+        "text": "leaves",
+        "startFrame": 2511,
+        "endFrame": 2512
+      },
+      {
+        "text": "how",
+        "startFrame": 2515,
+        "endFrame": 2521
+      },
+      {
+        "text": "APIs",
+        "startFrame": 2521,
+        "endFrame": 2529
+      },
+      {
+        "text": "are",
+        "startFrame": 2529,
+        "endFrame": 2535
+      },
+      {
+        "text": "connected",
+        "startFrame": 2535,
+        "endFrame": 2557
+      },
+      {
+        "text": "what",
+        "startFrame": 2565,
+        "endFrame": 2568
+      }
+    ]
+  },
+  {
+    "text": "data schema exists which components depend",
+    "startFrame": 2568,
+    "endFrame": 2652,
+    "words": [
+      {
+        "text": "data",
+        "startFrame": 2568,
+        "endFrame": 2578
+      },
+      {
+        "text": "schema",
+        "startFrame": 2578,
+        "endFrame": 2590
+      },
+      {
+        "text": "exists",
+        "startFrame": 2590,
+        "endFrame": 2603
+      },
+      {
+        "text": "which",
+        "startFrame": 2606,
+        "endFrame": 2627
+      },
+      {
+        "text": "components",
+        "startFrame": 2627,
+        "endFrame": 2639
+      },
+      {
+        "text": "depend",
+        "startFrame": 2639,
+        "endFrame": 2652
+      }
+    ]
+  },
+  {
+    "text": "on each other a model setting",
+    "startFrame": 2652,
+    "endFrame": 2709,
+    "words": [
+      {
+        "text": "on",
+        "startFrame": 2652,
+        "endFrame": 2656
+      },
+      {
+        "text": "each",
+        "startFrame": 2656,
+        "endFrame": 2665
+      },
+      {
+        "text": "other",
+        "startFrame": 2665,
+        "endFrame": 2680
+      },
+      {
+        "text": "a",
+        "startFrame": 2680,
+        "endFrame": 2691
+      },
+      {
+        "text": "model",
+        "startFrame": 2691,
+        "endFrame": 2692
+      },
+      {
+        "text": "setting",
+        "startFrame": 2692,
+        "endFrame": 2709
+      }
+    ]
+  },
+  {
+    "text": "alone cannot do this So the",
+    "startFrame": 2709,
+    "endFrame": 2778,
+    "words": [
+      {
+        "text": "alone",
+        "startFrame": 2709,
+        "endFrame": 2718
+      },
+      {
+        "text": "cannot",
+        "startFrame": 2718,
+        "endFrame": 2731
+      },
+      {
+        "text": "do",
+        "startFrame": 2731,
+        "endFrame": 2737
+      },
+      {
+        "text": "this",
+        "startFrame": 2737,
+        "endFrame": 2767
+      },
+      {
+        "text": "So",
+        "startFrame": 2767,
+        "endFrame": 2771
+      },
+      {
+        "text": "the",
+        "startFrame": 2771,
+        "endFrame": 2778
+      }
+    ]
+  },
+  {
+    "text": "architecture needs something more A production",
+    "startFrame": 2778,
+    "endFrame": 2867,
+    "words": [
+      {
+        "text": "architecture",
+        "startFrame": 2778,
+        "endFrame": 2802
+      },
+      {
+        "text": "needs",
+        "startFrame": 2802,
+        "endFrame": 2831
+      },
+      {
+        "text": "something",
+        "startFrame": 2831,
+        "endFrame": 2840
+      },
+      {
+        "text": "more",
+        "startFrame": 2840,
+        "endFrame": 2840
+      },
+      {
+        "text": "A",
+        "startFrame": 2840,
+        "endFrame": 2842
+      },
+      {
+        "text": "production",
+        "startFrame": 2842,
+        "endFrame": 2867
+      }
+    ]
+  },
+  {
+    "text": "AI coding agent needs multiple systems",
+    "startFrame": 2867,
+    "endFrame": 2942,
+    "words": [
+      {
+        "text": "AI",
+        "startFrame": 2867,
+        "endFrame": 2869
+      },
+      {
+        "text": "coding",
+        "startFrame": 2869,
+        "endFrame": 2882
+      },
+      {
+        "text": "agent",
+        "startFrame": 2882,
+        "endFrame": 2893
+      },
+      {
+        "text": "needs",
+        "startFrame": 2893,
+        "endFrame": 2904
+      },
+      {
+        "text": "multiple",
+        "startFrame": 2904,
+        "endFrame": 2919
+      },
+      {
+        "text": "systems",
+        "startFrame": 2919,
+        "endFrame": 2942
+      }
+    ]
+  },
+  {
+    "text": "At the highest level the key",
+    "startFrame": 2944,
+    "endFrame": 3002,
+    "words": [
+      {
+        "text": "At",
+        "startFrame": 2944,
+        "endFrame": 2949
+      },
+      {
+        "text": "the",
+        "startFrame": 2949,
+        "endFrame": 2956
+      },
+      {
+        "text": "highest",
+        "startFrame": 2956,
+        "endFrame": 2984
+      },
+      {
+        "text": "level",
+        "startFrame": 2984,
+        "endFrame": 2988
+      },
+      {
+        "text": "the",
+        "startFrame": 2989,
+        "endFrame": 2995
+      },
+      {
+        "text": "key",
+        "startFrame": 2995,
+        "endFrame": 3002
+      }
+    ]
+  },
+  {
+    "text": "idea is the LL M is",
+    "startFrame": 3002,
+    "endFrame": 3034,
+    "words": [
+      {
+        "text": "idea",
+        "startFrame": 3002,
+        "endFrame": 3011
+      },
+      {
+        "text": "is",
+        "startFrame": 3011,
+        "endFrame": 3016
+      },
+      {
+        "text": "the",
+        "startFrame": 3016,
+        "endFrame": 3022
+      },
+      {
+        "text": "LL",
+        "startFrame": 3022,
+        "endFrame": 3027
+      },
+      {
+        "text": "M",
+        "startFrame": 3027,
+        "endFrame": 3029
+      },
+      {
+        "text": "is",
+        "startFrame": 3029,
+        "endFrame": 3034
+      }
+    ]
+  },
+  {
+    "text": "not the product the LL M",
+    "startFrame": 3034,
+    "endFrame": 3082,
+    "words": [
+      {
+        "text": "not",
+        "startFrame": 3034,
+        "endFrame": 3040
+      },
+      {
+        "text": "the",
+        "startFrame": 3040,
+        "endFrame": 3047
+      },
+      {
+        "text": "product",
+        "startFrame": 3047,
+        "endFrame": 3058
+      },
+      {
+        "text": "the",
+        "startFrame": 3074,
+        "endFrame": 3075
+      },
+      {
+        "text": "LL",
+        "startFrame": 3075,
+        "endFrame": 3080
+      },
+      {
+        "text": "M",
+        "startFrame": 3080,
+        "endFrame": 3082
+      }
+    ]
+  },
+  {
+    "text": "is one component inside a larger",
+    "startFrame": 3082,
+    "endFrame": 3148,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 3082,
+        "endFrame": 3086
+      },
+      {
+        "text": "one",
+        "startFrame": 3086,
+        "endFrame": 3093
+      },
+      {
+        "text": "component",
+        "startFrame": 3093,
+        "endFrame": 3118
+      },
+      {
+        "text": "inside",
+        "startFrame": 3118,
+        "endFrame": 3132
+      },
+      {
+        "text": "a",
+        "startFrame": 3132,
+        "endFrame": 3134
+      },
+      {
+        "text": "larger",
+        "startFrame": 3134,
+        "endFrame": 3148
+      }
+    ]
+  },
+  {
+    "text": "software system The surrounding architecture is",
+    "startFrame": 3148,
+    "endFrame": 3250,
+    "words": [
+      {
+        "text": "software",
+        "startFrame": 3148,
+        "endFrame": 3166
+      },
+      {
+        "text": "system",
+        "startFrame": 3166,
+        "endFrame": 3188
+      },
+      {
+        "text": "The",
+        "startFrame": 3188,
+        "endFrame": 3195
+      },
+      {
+        "text": "surrounding",
+        "startFrame": 3195,
+        "endFrame": 3218
+      },
+      {
+        "text": "architecture",
+        "startFrame": 3218,
+        "endFrame": 3244
+      },
+      {
+        "text": "is",
+        "startFrame": 3244,
+        "endFrame": 3250
+      }
+    ]
+  },
+  {
+    "text": "what turns a language model into",
+    "startFrame": 3250,
+    "endFrame": 3306,
+    "words": [
+      {
+        "text": "what",
+        "startFrame": 3250,
+        "endFrame": 3257
+      },
+      {
+        "text": "turns",
+        "startFrame": 3257,
+        "endFrame": 3268
+      },
+      {
+        "text": "a",
+        "startFrame": 3268,
+        "endFrame": 3270
+      },
+      {
+        "text": "language",
+        "startFrame": 3270,
+        "endFrame": 3287
+      },
+      {
+        "text": "model",
+        "startFrame": 3287,
+        "endFrame": 3298
+      },
+      {
+        "text": "into",
+        "startFrame": 3298,
+        "endFrame": 3306
+      }
+    ]
+  },
+  {
+    "text": "an engineer The first layer is",
+    "startFrame": 3306,
+    "endFrame": 3369,
+    "words": [
+      {
+        "text": "an",
+        "startFrame": 3306,
+        "endFrame": 3310
+      },
+      {
+        "text": "engineer",
+        "startFrame": 3310,
+        "endFrame": 3334
+      },
+      {
+        "text": "The",
+        "startFrame": 3336,
+        "endFrame": 3343
+      },
+      {
+        "text": "first",
+        "startFrame": 3343,
+        "endFrame": 3352
+      },
+      {
+        "text": "layer",
+        "startFrame": 3352,
+        "endFrame": 3362
+      },
+      {
+        "text": "is",
+        "startFrame": 3362,
+        "endFrame": 3369
+      }
+    ]
+  },
+  {
+    "text": "the application developers interact with the",
+    "startFrame": 3369,
+    "endFrame": 3450,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3369,
+        "endFrame": 3373
+      },
+      {
+        "text": "application",
+        "startFrame": 3373,
+        "endFrame": 3395
+      },
+      {
+        "text": "developers",
+        "startFrame": 3395,
+        "endFrame": 3431
+      },
+      {
+        "text": "interact",
+        "startFrame": 3431,
+        "endFrame": 3432
+      },
+      {
+        "text": "with",
+        "startFrame": 3432,
+        "endFrame": 3441
+      },
+      {
+        "text": "the",
+        "startFrame": 3444,
+        "endFrame": 3450
+      }
+    ]
+  },
+  {
+    "text": "cursor editor This layer is responsible",
+    "startFrame": 3450,
+    "endFrame": 3529,
+    "words": [
+      {
+        "text": "cursor",
+        "startFrame": 3450,
+        "endFrame": 3460
+      },
+      {
+        "text": "editor",
+        "startFrame": 3460,
+        "endFrame": 3479
+      },
+      {
+        "text": "This",
+        "startFrame": 3484,
+        "endFrame": 3492
+      },
+      {
+        "text": "layer",
+        "startFrame": 3492,
+        "endFrame": 3502
+      },
+      {
+        "text": "is",
+        "startFrame": 3502,
+        "endFrame": 3507
+      },
+      {
+        "text": "responsible",
+        "startFrame": 3507,
+        "endFrame": 3529
+      }
+    ]
+  },
+  {
+    "text": "for understanding the developer 's action",
+    "startFrame": 3529,
+    "endFrame": 3602,
+    "words": [
+      {
+        "text": "for",
+        "startFrame": 3529,
+        "endFrame": 3534
+      },
+      {
+        "text": "understanding",
+        "startFrame": 3534,
+        "endFrame": 3563
+      },
+      {
+        "text": "the",
+        "startFrame": 3563,
+        "endFrame": 3568
+      },
+      {
+        "text": "developer",
+        "startFrame": 3568,
+        "endFrame": 3590
+      },
+      {
+        "text": "'s",
+        "startFrame": 3590,
+        "endFrame": 3596
+      },
+      {
+        "text": "action",
+        "startFrame": 3596,
+        "endFrame": 3602
+      }
+    ]
+  },
+  {
+    "text": "showing AI responses displaying code changes",
+    "startFrame": 3606,
+    "endFrame": 3691,
+    "words": [
+      {
+        "text": "showing",
+        "startFrame": 3606,
+        "endFrame": 3620
+      },
+      {
+        "text": "AI",
+        "startFrame": 3620,
+        "endFrame": 3625
+      },
+      {
+        "text": "responses",
+        "startFrame": 3625,
+        "endFrame": 3643
+      },
+      {
+        "text": "displaying",
+        "startFrame": 3649,
+        "endFrame": 3669
+      },
+      {
+        "text": "code",
+        "startFrame": 3669,
+        "endFrame": 3688
+      },
+      {
+        "text": "changes",
+        "startFrame": 3688,
+        "endFrame": 3691
+      }
+    ]
+  },
+  {
+    "text": "managing conversation tracking the current workspace",
+    "startFrame": 3694,
+    "endFrame": 3796,
+    "words": [
+      {
+        "text": "managing",
+        "startFrame": 3694,
+        "endFrame": 3710
+      },
+      {
+        "text": "conversation",
+        "startFrame": 3710,
+        "endFrame": 3735
+      },
+      {
+        "text": "tracking",
+        "startFrame": 3738,
+        "endFrame": 3754
+      },
+      {
+        "text": "the",
+        "startFrame": 3754,
+        "endFrame": 3761
+      },
+      {
+        "text": "current",
+        "startFrame": 3761,
+        "endFrame": 3774
+      },
+      {
+        "text": "workspace",
+        "startFrame": 3774,
+        "endFrame": 3796
+      }
+    ]
+  },
+  {
+    "text": "But it also provides something extremely",
+    "startFrame": 3799,
+    "endFrame": 3870,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 3799,
+        "endFrame": 3805
+      },
+      {
+        "text": "it",
+        "startFrame": 3805,
+        "endFrame": 3808
+      },
+      {
+        "text": "also",
+        "startFrame": 3808,
+        "endFrame": 3816
+      },
+      {
+        "text": "provides",
+        "startFrame": 3816,
+        "endFrame": 3831
+      },
+      {
+        "text": "something",
+        "startFrame": 3831,
+        "endFrame": 3848
+      },
+      {
+        "text": "extremely",
+        "startFrame": 3848,
+        "endFrame": 3870
+      }
+    ]
+  },
+  {
+    "text": "important context For example which file",
+    "startFrame": 3870,
+    "endFrame": 3956,
+    "words": [
+      {
+        "text": "important",
+        "startFrame": 3870,
+        "endFrame": 3884
+      },
+      {
+        "text": "context",
+        "startFrame": 3886,
+        "endFrame": 3907
+      },
+      {
+        "text": "For",
+        "startFrame": 3907,
+        "endFrame": 3914
+      },
+      {
+        "text": "example",
+        "startFrame": 3914,
+        "endFrame": 3932
+      },
+      {
+        "text": "which",
+        "startFrame": 3933,
+        "endFrame": 3945
+      },
+      {
+        "text": "file",
+        "startFrame": 3945,
+        "endFrame": 3956
+      }
+    ]
+  },
+  {
+    "text": "is open where is the cursor",
+    "startFrame": 3956,
+    "endFrame": 4007,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 3956,
+        "endFrame": 3965
+      },
+      {
+        "text": "open",
+        "startFrame": 3965,
+        "endFrame": 3966
+      },
+      {
+        "text": "where",
+        "startFrame": 3969,
+        "endFrame": 3980
+      },
+      {
+        "text": "is",
+        "startFrame": 3980,
+        "endFrame": 3987
+      },
+      {
+        "text": "the",
+        "startFrame": 3987,
+        "endFrame": 3991
+      },
+      {
+        "text": "cursor",
+        "startFrame": 3991,
+        "endFrame": 4007
+      }
+    ]
+  },
+  {
+    "text": "what code is selected what error",
+    "startFrame": 4008,
+    "endFrame": 4073,
+    "words": [
+      {
+        "text": "what",
+        "startFrame": 4008,
+        "endFrame": 4016
+      },
+      {
+        "text": "code",
+        "startFrame": 4016,
+        "endFrame": 4025
+      },
+      {
+        "text": "is",
+        "startFrame": 4025,
+        "endFrame": 4029
+      },
+      {
+        "text": "selected",
+        "startFrame": 4029,
+        "endFrame": 4049
+      },
+      {
+        "text": "what",
+        "startFrame": 4051,
+        "endFrame": 4060
+      },
+      {
+        "text": "error",
+        "startFrame": 4060,
+        "endFrame": 4073
+      }
+    ]
+  },
+  {
+    "text": "list what changes happened recently The",
+    "startFrame": 4073,
+    "endFrame": 4161,
+    "words": [
+      {
+        "text": "list",
+        "startFrame": 4073,
+        "endFrame": 4086
+      },
+      {
+        "text": "what",
+        "startFrame": 4088,
+        "endFrame": 4097
+      },
+      {
+        "text": "changes",
+        "startFrame": 4097,
+        "endFrame": 4111
+      },
+      {
+        "text": "happened",
+        "startFrame": 4111,
+        "endFrame": 4127
+      },
+      {
+        "text": "recently",
+        "startFrame": 4127,
+        "endFrame": 4151
+      },
+      {
+        "text": "The",
+        "startFrame": 4153,
+        "endFrame": 4161
+      }
+    ]
+  },
+  {
+    "text": "IDE is not just a chat",
+    "startFrame": 4161,
+    "endFrame": 4207,
+    "words": [
+      {
+        "text": "IDE",
+        "startFrame": 4161,
+        "endFrame": 4169
+      },
+      {
+        "text": "is",
+        "startFrame": 4169,
+        "endFrame": 4174
+      },
+      {
+        "text": "not",
+        "startFrame": 4174,
+        "endFrame": 4183
+      },
+      {
+        "text": "just",
+        "startFrame": 4183,
+        "endFrame": 4193
+      },
+      {
+        "text": "a",
+        "startFrame": 4193,
+        "endFrame": 4196
+      },
+      {
+        "text": "chat",
+        "startFrame": 4196,
+        "endFrame": 4207
+      }
+    ]
+  },
+  {
+    "text": "window it is the AI connection",
+    "startFrame": 4207,
+    "endFrame": 4279,
+    "words": [
+      {
+        "text": "window",
+        "startFrame": 4207,
+        "endFrame": 4218
+      },
+      {
+        "text": "it",
+        "startFrame": 4233,
+        "endFrame": 4235
+      },
+      {
+        "text": "is",
+        "startFrame": 4235,
+        "endFrame": 4239
+      },
+      {
+        "text": "the",
+        "startFrame": 4239,
+        "endFrame": 4248
+      },
+      {
+        "text": "AI",
+        "startFrame": 4248,
+        "endFrame": 4252
+      },
+      {
+        "text": "connection",
+        "startFrame": 4252,
+        "endFrame": 4279
+      }
+    ]
+  },
+  {
+    "text": "to a developer environment Now it",
+    "startFrame": 4279,
+    "endFrame": 4359,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 4279,
+        "endFrame": 4285
+      },
+      {
+        "text": "a",
+        "startFrame": 4285,
+        "endFrame": 4287
+      },
+      {
+        "text": "developer",
+        "startFrame": 4287,
+        "endFrame": 4311
+      },
+      {
+        "text": "environment",
+        "startFrame": 4311,
+        "endFrame": 4347
+      },
+      {
+        "text": "Now",
+        "startFrame": 4350,
+        "endFrame": 4356
+      },
+      {
+        "text": "it",
+        "startFrame": 4356,
+        "endFrame": 4359
+      }
+    ]
+  },
+  {
+    "text": "is the first major engineering challenge",
+    "startFrame": 4359,
+    "endFrame": 4432,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 4359,
+        "endFrame": 4364
+      },
+      {
+        "text": "the",
+        "startFrame": 4364,
+        "endFrame": 4370
+      },
+      {
+        "text": "first",
+        "startFrame": 4370,
+        "endFrame": 4378
+      },
+      {
+        "text": "major",
+        "startFrame": 4378,
+        "endFrame": 4387
+      },
+      {
+        "text": "engineering",
+        "startFrame": 4387,
+        "endFrame": 4421
+      },
+      {
+        "text": "challenge",
+        "startFrame": 4421,
+        "endFrame": 4432
+      }
+    ]
+  },
+  {
+    "text": "How does an AI understand a",
+    "startFrame": 4432,
+    "endFrame": 4483,
+    "words": [
+      {
+        "text": "How",
+        "startFrame": 4432,
+        "endFrame": 4439
+      },
+      {
+        "text": "does",
+        "startFrame": 4439,
+        "endFrame": 4448
+      },
+      {
+        "text": "an",
+        "startFrame": 4448,
+        "endFrame": 4453
+      },
+      {
+        "text": "AI",
+        "startFrame": 4453,
+        "endFrame": 4457
+      },
+      {
+        "text": "understand",
+        "startFrame": 4457,
+        "endFrame": 4481
+      },
+      {
+        "text": "a",
+        "startFrame": 4481,
+        "endFrame": 4483
+      }
+    ]
+  },
+  {
+    "text": "massive code base Imagine a large",
+    "startFrame": 4483,
+    "endFrame": 4550,
+    "words": [
+      {
+        "text": "massive",
+        "startFrame": 4483,
+        "endFrame": 4499
+      },
+      {
+        "text": "code",
+        "startFrame": 4499,
+        "endFrame": 4516
+      },
+      {
+        "text": "base",
+        "startFrame": 4516,
+        "endFrame": 4517
+      },
+      {
+        "text": "Imagine",
+        "startFrame": 4525,
+        "endFrame": 4539
+      },
+      {
+        "text": "a",
+        "startFrame": 4539,
+        "endFrame": 4540
+      },
+      {
+        "text": "large",
+        "startFrame": 4540,
+        "endFrame": 4550
+      }
+    ]
+  },
+  {
+    "text": "compute repository You cannot send this",
+    "startFrame": 4550,
+    "endFrame": 4624,
+    "words": [
+      {
+        "text": "compute",
+        "startFrame": 4550,
+        "endFrame": 4583
+      },
+      {
+        "text": "repository",
+        "startFrame": 4583,
+        "endFrame": 4589
+      },
+      {
+        "text": "You",
+        "startFrame": 4590,
+        "endFrame": 4596
+      },
+      {
+        "text": "cannot",
+        "startFrame": 4596,
+        "endFrame": 4608
+      },
+      {
+        "text": "send",
+        "startFrame": 4608,
+        "endFrame": 4616
+      },
+      {
+        "text": "this",
+        "startFrame": 4616,
+        "endFrame": 4624
+      }
+    ]
+  },
+  {
+    "text": "entire repository to an AI model",
+    "startFrame": 4624,
+    "endFrame": 4687,
+    "words": [
+      {
+        "text": "entire",
+        "startFrame": 4624,
+        "endFrame": 4637
+      },
+      {
+        "text": "repository",
+        "startFrame": 4637,
+        "endFrame": 4657
+      },
+      {
+        "text": "to",
+        "startFrame": 4657,
+        "endFrame": 4661
+      },
+      {
+        "text": "an",
+        "startFrame": 4661,
+        "endFrame": 4669
+      },
+      {
+        "text": "AI",
+        "startFrame": 4669,
+        "endFrame": 4669
+      },
+      {
+        "text": "model",
+        "startFrame": 4669,
+        "endFrame": 4687
+      }
+    ]
+  },
+  {
+    "text": "So before the AI answers anything",
+    "startFrame": 4687,
+    "endFrame": 4740,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 4687,
+        "endFrame": 4690
+      },
+      {
+        "text": "before",
+        "startFrame": 4690,
+        "endFrame": 4704
+      },
+      {
+        "text": "the",
+        "startFrame": 4704,
+        "endFrame": 4708
+      },
+      {
+        "text": "AI",
+        "startFrame": 4708,
+        "endFrame": 4712
+      },
+      {
+        "text": "answers",
+        "startFrame": 4712,
+        "endFrame": 4725
+      },
+      {
+        "text": "anything",
+        "startFrame": 4725,
+        "endFrame": 4740
+      }
+    ]
+  },
+  {
+    "text": "the system builds an understanding of",
+    "startFrame": 4750,
+    "endFrame": 4805,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4750,
+        "endFrame": 4750
+      },
+      {
+        "text": "system",
+        "startFrame": 4750,
+        "endFrame": 4761
+      },
+      {
+        "text": "builds",
+        "startFrame": 4761,
+        "endFrame": 4772
+      },
+      {
+        "text": "an",
+        "startFrame": 4772,
+        "endFrame": 4776
+      },
+      {
+        "text": "understanding",
+        "startFrame": 4776,
+        "endFrame": 4802
+      },
+      {
+        "text": "of",
+        "startFrame": 4802,
+        "endFrame": 4805
+      }
+    ]
+  },
+  {
+    "text": "the code base the architecture The",
+    "startFrame": 4805,
+    "endFrame": 4893,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4805,
+        "endFrame": 4809
+      },
+      {
+        "text": "code",
+        "startFrame": 4809,
+        "endFrame": 4817
+      },
+      {
+        "text": "base",
+        "startFrame": 4817,
+        "endFrame": 4831
+      },
+      {
+        "text": "the",
+        "startFrame": 4832,
+        "endFrame": 4835
+      },
+      {
+        "text": "architecture",
+        "startFrame": 4835,
+        "endFrame": 4884
+      },
+      {
+        "text": "The",
+        "startFrame": 4885,
+        "endFrame": 4893
+      }
+    ]
+  },
+  {
+    "text": "system analy zes files functions classes",
+    "startFrame": 4893,
+    "endFrame": 4976,
+    "words": [
+      {
+        "text": "system",
+        "startFrame": 4893,
+        "endFrame": 4904
+      },
+      {
+        "text": "analy",
+        "startFrame": 4904,
+        "endFrame": 4915
+      },
+      {
+        "text": "zes",
+        "startFrame": 4915,
+        "endFrame": 4922
+      },
+      {
+        "text": "files",
+        "startFrame": 4922,
+        "endFrame": 4937
+      },
+      {
+        "text": "functions",
+        "startFrame": 4937,
+        "endFrame": 4961
+      },
+      {
+        "text": "classes",
+        "startFrame": 4962,
+        "endFrame": 4976
+      }
+    ]
+  },
+  {
+    "text": "imports dependencies relationships It creates a",
+    "startFrame": 4986,
+    "endFrame": 5085,
+    "words": [
+      {
+        "text": "imports",
+        "startFrame": 4986,
+        "endFrame": 4996
+      },
+      {
+        "text": "dependencies",
+        "startFrame": 5010,
+        "endFrame": 5026
+      },
+      {
+        "text": "relationships",
+        "startFrame": 5035,
+        "endFrame": 5066
+      },
+      {
+        "text": "It",
+        "startFrame": 5068,
+        "endFrame": 5072
+      },
+      {
+        "text": "creates",
+        "startFrame": 5072,
+        "endFrame": 5084
+      },
+      {
+        "text": "a",
+        "startFrame": 5084,
+        "endFrame": 5085
+      }
+    ]
+  },
+  {
+    "text": "map of the software This is",
+    "startFrame": 5085,
+    "endFrame": 5138,
+    "words": [
+      {
+        "text": "map",
+        "startFrame": 5085,
+        "endFrame": 5091
+      },
+      {
+        "text": "of",
+        "startFrame": 5091,
+        "endFrame": 5094
+      },
+      {
+        "text": "the",
+        "startFrame": 5094,
+        "endFrame": 5100
+      },
+      {
+        "text": "software",
+        "startFrame": 5100,
+        "endFrame": 5114
+      },
+      {
+        "text": "This",
+        "startFrame": 5120,
+        "endFrame": 5135
+      },
+      {
+        "text": "is",
+        "startFrame": 5135,
+        "endFrame": 5138
+      }
+    ]
+  },
+  {
+    "text": "similar to how Google works Google",
+    "startFrame": 5138,
+    "endFrame": 5213,
+    "words": [
+      {
+        "text": "similar",
+        "startFrame": 5138,
+        "endFrame": 5153
+      },
+      {
+        "text": "to",
+        "startFrame": 5153,
+        "endFrame": 5158
+      },
+      {
+        "text": "how",
+        "startFrame": 5158,
+        "endFrame": 5166
+      },
+      {
+        "text": "Google",
+        "startFrame": 5166,
+        "endFrame": 5183
+      },
+      {
+        "text": "works",
+        "startFrame": 5183,
+        "endFrame": 5203
+      },
+      {
+        "text": "Google",
+        "startFrame": 5203,
+        "endFrame": 5213
+      }
+    ]
+  },
+  {
+    "text": "does not search the entire internet",
+    "startFrame": 5213,
+    "endFrame": 5264,
+    "words": [
+      {
+        "text": "does",
+        "startFrame": 5213,
+        "endFrame": 5220
+      },
+      {
+        "text": "not",
+        "startFrame": 5220,
+        "endFrame": 5225
+      },
+      {
+        "text": "search",
+        "startFrame": 5225,
+        "endFrame": 5235
+      },
+      {
+        "text": "the",
+        "startFrame": 5235,
+        "endFrame": 5240
+      },
+      {
+        "text": "entire",
+        "startFrame": 5240,
+        "endFrame": 5251
+      },
+      {
+        "text": "internet",
+        "startFrame": 5251,
+        "endFrame": 5264
+      }
+    ]
+  },
+  {
+    "text": "every time you search It creates",
+    "startFrame": 5264,
+    "endFrame": 5322,
+    "words": [
+      {
+        "text": "every",
+        "startFrame": 5264,
+        "endFrame": 5272
+      },
+      {
+        "text": "time",
+        "startFrame": 5272,
+        "endFrame": 5279
+      },
+      {
+        "text": "you",
+        "startFrame": 5279,
+        "endFrame": 5282
+      },
+      {
+        "text": "search",
+        "startFrame": 5282,
+        "endFrame": 5301
+      },
+      {
+        "text": "It",
+        "startFrame": 5302,
+        "endFrame": 5307
+      },
+      {
+        "text": "creates",
+        "startFrame": 5307,
+        "endFrame": 5322
+      }
+    ]
+  },
+  {
+    "text": "an index first an AI coding",
+    "startFrame": 5322,
+    "endFrame": 5378,
+    "words": [
+      {
+        "text": "an",
+        "startFrame": 5322,
+        "endFrame": 5330
+      },
+      {
+        "text": "index",
+        "startFrame": 5330,
+        "endFrame": 5350
+      },
+      {
+        "text": "first",
+        "startFrame": 5350,
+        "endFrame": 5352
+      },
+      {
+        "text": "an",
+        "startFrame": 5355,
+        "endFrame": 5359
+      },
+      {
+        "text": "AI",
+        "startFrame": 5359,
+        "endFrame": 5364
+      },
+      {
+        "text": "coding",
+        "startFrame": 5364,
+        "endFrame": 5378
+      }
+    ]
+  },
+  {
+    "text": "agent needs the same thing It",
+    "startFrame": 5378,
+    "endFrame": 5444,
+    "words": [
+      {
+        "text": "agent",
+        "startFrame": 5378,
+        "endFrame": 5396
+      },
+      {
+        "text": "needs",
+        "startFrame": 5396,
+        "endFrame": 5401
+      },
+      {
+        "text": "the",
+        "startFrame": 5401,
+        "endFrame": 5408
+      },
+      {
+        "text": "same",
+        "startFrame": 5408,
+        "endFrame": 5417
+      },
+      {
+        "text": "thing",
+        "startFrame": 5417,
+        "endFrame": 5437
+      },
+      {
+        "text": "It",
+        "startFrame": 5438,
+        "endFrame": 5444
+      }
+    ]
+  },
+  {
+    "text": "needs a search engine for your",
+    "startFrame": 5444,
+    "endFrame": 5507,
+    "words": [
+      {
+        "text": "needs",
+        "startFrame": 5444,
+        "endFrame": 5459
+      },
+      {
+        "text": "a",
+        "startFrame": 5459,
+        "endFrame": 5459
+      },
+      {
+        "text": "search",
+        "startFrame": 5459,
+        "endFrame": 5476
+      },
+      {
+        "text": "engine",
+        "startFrame": 5476,
+        "endFrame": 5489
+      },
+      {
+        "text": "for",
+        "startFrame": 5489,
+        "endFrame": 5497
+      },
+      {
+        "text": "your",
+        "startFrame": 5497,
+        "endFrame": 5507
+      }
+    ]
+  },
+  {
+    "text": "code Now the system understand the",
+    "startFrame": 5507,
+    "endFrame": 5572,
+    "words": [
+      {
+        "text": "code",
+        "startFrame": 5507,
+        "endFrame": 5524
+      },
+      {
+        "text": "Now",
+        "startFrame": 5527,
+        "endFrame": 5532
+      },
+      {
+        "text": "the",
+        "startFrame": 5532,
+        "endFrame": 5539
+      },
+      {
+        "text": "system",
+        "startFrame": 5539,
+        "endFrame": 5548
+      },
+      {
+        "text": "understand",
+        "startFrame": 5548,
+        "endFrame": 5566
+      },
+      {
+        "text": "the",
+        "startFrame": 5566,
+        "endFrame": 5572
+      }
+    ]
+  },
+  {
+    "text": "repository but there is another problem",
+    "startFrame": 5572,
+    "endFrame": 5638,
+    "words": [
+      {
+        "text": "repository",
+        "startFrame": 5572,
+        "endFrame": 5589
+      },
+      {
+        "text": "but",
+        "startFrame": 5594,
+        "endFrame": 5597
+      },
+      {
+        "text": "there",
+        "startFrame": 5597,
+        "endFrame": 5606
+      },
+      {
+        "text": "is",
+        "startFrame": 5606,
+        "endFrame": 5610
+      },
+      {
+        "text": "another",
+        "startFrame": 5610,
+        "endFrame": 5635
+      },
+      {
+        "text": "problem",
+        "startFrame": 5635,
+        "endFrame": 5638
+      }
+    ]
+  },
+  {
+    "text": "What information should the AI actually",
+    "startFrame": 5642,
+    "endFrame": 5715,
+    "words": [
+      {
+        "text": "What",
+        "startFrame": 5642,
+        "endFrame": 5650
+      },
+      {
+        "text": "information",
+        "startFrame": 5650,
+        "endFrame": 5672
+      },
+      {
+        "text": "should",
+        "startFrame": 5672,
+        "endFrame": 5684
+      },
+      {
+        "text": "the",
+        "startFrame": 5684,
+        "endFrame": 5690
+      },
+      {
+        "text": "AI",
+        "startFrame": 5690,
+        "endFrame": 5710
+      },
+      {
+        "text": "actually",
+        "startFrame": 5710,
+        "endFrame": 5715
+      }
+    ]
+  },
+  {
+    "text": "see Suppose you ask as authentication",
+    "startFrame": 5715,
+    "endFrame": 5772,
+    "words": [
+      {
+        "text": "see",
+        "startFrame": 5715,
+        "endFrame": 5716
+      },
+      {
+        "text": "Suppose",
+        "startFrame": 5723,
+        "endFrame": 5739
+      },
+      {
+        "text": "you",
+        "startFrame": 5739,
+        "endFrame": 5741
+      },
+      {
+        "text": "ask",
+        "startFrame": 5741,
+        "endFrame": 5747
+      },
+      {
+        "text": "as",
+        "startFrame": 5747,
+        "endFrame": 5750
+      },
+      {
+        "text": "authentication",
+        "startFrame": 5750,
+        "endFrame": 5772
+      }
+    ]
+  },
+  {
+    "text": "your project may have login components",
+    "startFrame": 5784,
+    "endFrame": 5838,
+    "words": [
+      {
+        "text": "your",
+        "startFrame": 5784,
+        "endFrame": 5788
+      },
+      {
+        "text": "project",
+        "startFrame": 5788,
+        "endFrame": 5798
+      },
+      {
+        "text": "may",
+        "startFrame": 5798,
+        "endFrame": 5804
+      },
+      {
+        "text": "have",
+        "startFrame": 5804,
+        "endFrame": 5811
+      },
+      {
+        "text": "login",
+        "startFrame": 5811,
+        "endFrame": 5820
+      },
+      {
+        "text": "components",
+        "startFrame": 5820,
+        "endFrame": 5838
+      }
+    ]
+  },
+  {
+    "text": "user models database tables API routes",
+    "startFrame": 5842,
+    "endFrame": 5925,
+    "words": [
+      {
+        "text": "user",
+        "startFrame": 5842,
+        "endFrame": 5849
+      },
+      {
+        "text": "models",
+        "startFrame": 5849,
+        "endFrame": 5863
+      },
+      {
+        "text": "database",
+        "startFrame": 5866,
+        "endFrame": 5878
+      },
+      {
+        "text": "tables",
+        "startFrame": 5878,
+        "endFrame": 5898
+      },
+      {
+        "text": "API",
+        "startFrame": 5900,
+        "endFrame": 5908
+      },
+      {
+        "text": "routes",
+        "startFrame": 5908,
+        "endFrame": 5925
+      }
+    ]
+  },
+  {
+    "text": "middle ware tests Which file matter",
+    "startFrame": 5930,
+    "endFrame": 6010,
+    "words": [
+      {
+        "text": "middle",
+        "startFrame": 5930,
+        "endFrame": 5948
+      },
+      {
+        "text": "ware",
+        "startFrame": 5948,
+        "endFrame": 5954
+      },
+      {
+        "text": "tests",
+        "startFrame": 5962,
+        "endFrame": 5984
+      },
+      {
+        "text": "Which",
+        "startFrame": 5986,
+        "endFrame": 5994
+      },
+      {
+        "text": "file",
+        "startFrame": 5994,
+        "endFrame": 6001
+      },
+      {
+        "text": "matter",
+        "startFrame": 6001,
+        "endFrame": 6010
+      }
+    ]
+  },
+  {
+    "text": "This is the job of the",
+    "startFrame": 6016,
+    "endFrame": 6053,
+    "words": [
+      {
+        "text": "This",
+        "startFrame": 6016,
+        "endFrame": 6029
+      },
+      {
+        "text": "is",
+        "startFrame": 6029,
+        "endFrame": 6031
+      },
+      {
+        "text": "the",
+        "startFrame": 6031,
+        "endFrame": 6035
+      },
+      {
+        "text": "job",
+        "startFrame": 6035,
+        "endFrame": 6041
+      },
+      {
+        "text": "of",
+        "startFrame": 6041,
+        "endFrame": 6046
+      },
+      {
+        "text": "the",
+        "startFrame": 6046,
+        "endFrame": 6053
+      }
+    ]
+  },
+  {
+    "text": "context engine Think of it as",
+    "startFrame": 6053,
+    "endFrame": 6121,
+    "words": [
+      {
+        "text": "context",
+        "startFrame": 6053,
+        "endFrame": 6067
+      },
+      {
+        "text": "engine",
+        "startFrame": 6067,
+        "endFrame": 6078
+      },
+      {
+        "text": "Think",
+        "startFrame": 6086,
+        "endFrame": 6105
+      },
+      {
+        "text": "of",
+        "startFrame": 6105,
+        "endFrame": 6107
+      },
+      {
+        "text": "it",
+        "startFrame": 6107,
+        "endFrame": 6113
+      },
+      {
+        "text": "as",
+        "startFrame": 6113,
+        "endFrame": 6121
+      }
+    ]
+  },
+  {
+    "text": "the AI information filter The context",
+    "startFrame": 6121,
+    "endFrame": 6218,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 6121,
+        "endFrame": 6128
+      },
+      {
+        "text": "AI",
+        "startFrame": 6128,
+        "endFrame": 6134
+      },
+      {
+        "text": "information",
+        "startFrame": 6134,
+        "endFrame": 6168
+      },
+      {
+        "text": "filter",
+        "startFrame": 6168,
+        "endFrame": 6196
+      },
+      {
+        "text": "The",
+        "startFrame": 6197,
+        "endFrame": 6203
+      },
+      {
+        "text": "context",
+        "startFrame": 6203,
+        "endFrame": 6218
+      }
+    ]
+  },
+  {
+    "text": "engine combines current file open tabs",
+    "startFrame": 6218,
+    "endFrame": 6291,
+    "words": [
+      {
+        "text": "engine",
+        "startFrame": 6218,
+        "endFrame": 6230
+      },
+      {
+        "text": "combines",
+        "startFrame": 6230,
+        "endFrame": 6245
+      },
+      {
+        "text": "current",
+        "startFrame": 6245,
+        "endFrame": 6264
+      },
+      {
+        "text": "file",
+        "startFrame": 6264,
+        "endFrame": 6268
+      },
+      {
+        "text": "open",
+        "startFrame": 6271,
+        "endFrame": 6279
+      },
+      {
+        "text": "tabs",
+        "startFrame": 6279,
+        "endFrame": 6291
+      }
+    ]
+  },
+  {
+    "text": "repository search code relationships previous conversation",
+    "startFrame": 6294,
+    "endFrame": 6404,
+    "words": [
+      {
+        "text": "repository",
+        "startFrame": 6294,
+        "endFrame": 6312
+      },
+      {
+        "text": "search",
+        "startFrame": 6312,
+        "endFrame": 6327
+      },
+      {
+        "text": "code",
+        "startFrame": 6332,
+        "endFrame": 6334
+      },
+      {
+        "text": "relationships",
+        "startFrame": 6334,
+        "endFrame": 6366
+      },
+      {
+        "text": "previous",
+        "startFrame": 6367,
+        "endFrame": 6382
+      },
+      {
+        "text": "conversation",
+        "startFrame": 6382,
+        "endFrame": 6404
+      }
+    ]
+  },
+  {
+    "text": "error messages The goal is simple",
+    "startFrame": 6408,
+    "endFrame": 6484,
+    "words": [
+      {
+        "text": "error",
+        "startFrame": 6408,
+        "endFrame": 6417
+      },
+      {
+        "text": "messages",
+        "startFrame": 6417,
+        "endFrame": 6437
+      },
+      {
+        "text": "The",
+        "startFrame": 6438,
+        "endFrame": 6446
+      },
+      {
+        "text": "goal",
+        "startFrame": 6446,
+        "endFrame": 6458
+      },
+      {
+        "text": "is",
+        "startFrame": 6458,
+        "endFrame": 6480
+      },
+      {
+        "text": "simple",
+        "startFrame": 6480,
+        "endFrame": 6484
+      }
+    ]
+  },
+  {
+    "text": "Give the model enough information to",
+    "startFrame": 6489,
+    "endFrame": 6540,
+    "words": [
+      {
+        "text": "Give",
+        "startFrame": 6489,
+        "endFrame": 6496
+      },
+      {
+        "text": "the",
+        "startFrame": 6496,
+        "endFrame": 6500
+      },
+      {
+        "text": "model",
+        "startFrame": 6500,
+        "endFrame": 6509
+      },
+      {
+        "text": "enough",
+        "startFrame": 6509,
+        "endFrame": 6518
+      },
+      {
+        "text": "information",
+        "startFrame": 6518,
+        "endFrame": 6536
+      },
+      {
+        "text": "to",
+        "startFrame": 6536,
+        "endFrame": 6540
+      }
+    ]
+  },
+  {
+    "text": "solve the problem but not so",
+    "startFrame": 6540,
+    "endFrame": 6582,
+    "words": [
+      {
+        "text": "solve",
+        "startFrame": 6540,
+        "endFrame": 6548
+      },
+      {
+        "text": "the",
+        "startFrame": 6548,
+        "endFrame": 6564
+      },
+      {
+        "text": "problem",
+        "startFrame": 6564,
+        "endFrame": 6567
+      },
+      {
+        "text": "but",
+        "startFrame": 6569,
+        "endFrame": 6573
+      },
+      {
+        "text": "not",
+        "startFrame": 6573,
+        "endFrame": 6577
+      },
+      {
+        "text": "so",
+        "startFrame": 6577,
+        "endFrame": 6582
+      }
+    ]
+  },
+  {
+    "text": "much that it becomes slow and",
+    "startFrame": 6582,
+    "endFrame": 6632,
+    "words": [
+      {
+        "text": "much",
+        "startFrame": 6582,
+        "endFrame": 6587
+      },
+      {
+        "text": "that",
+        "startFrame": 6587,
+        "endFrame": 6594
+      },
+      {
+        "text": "it",
+        "startFrame": 6594,
+        "endFrame": 6598
+      },
+      {
+        "text": "becomes",
+        "startFrame": 6598,
+        "endFrame": 6610
+      },
+      {
+        "text": "slow",
+        "startFrame": 6610,
+        "endFrame": 6623
+      },
+      {
+        "text": "and",
+        "startFrame": 6623,
+        "endFrame": 6632
+      }
+    ]
+  },
+  {
+    "text": "expensive This balance is one of",
+    "startFrame": 6632,
+    "endFrame": 6709,
+    "words": [
+      {
+        "text": "expensive",
+        "startFrame": 6632,
+        "endFrame": 6666
+      },
+      {
+        "text": "This",
+        "startFrame": 6671,
+        "endFrame": 6679
+      },
+      {
+        "text": "balance",
+        "startFrame": 6679,
+        "endFrame": 6692
+      },
+      {
+        "text": "is",
+        "startFrame": 6692,
+        "endFrame": 6696
+      },
+      {
+        "text": "one",
+        "startFrame": 6696,
+        "endFrame": 6702
+      },
+      {
+        "text": "of",
+        "startFrame": 6702,
+        "endFrame": 6709
+      }
+    ]
+  },
+  {
+    "text": "the hardest problems in AI engineering",
+    "startFrame": 6709,
+    "endFrame": 6775,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 6709,
+        "endFrame": 6712
+      },
+      {
+        "text": "hardest",
+        "startFrame": 6712,
+        "endFrame": 6725
+      },
+      {
+        "text": "problems",
+        "startFrame": 6725,
+        "endFrame": 6741
+      },
+      {
+        "text": "in",
+        "startFrame": 6741,
+        "endFrame": 6749
+      },
+      {
+        "text": "AI",
+        "startFrame": 6749,
+        "endFrame": 6749
+      },
+      {
+        "text": "engineering",
+        "startFrame": 6749,
+        "endFrame": 6775
+      }
+    ]
+  },
+  {
+    "text": "Now we reach the core of",
+    "startFrame": 6778,
+    "endFrame": 6815,
+    "words": [
+      {
+        "text": "Now",
+        "startFrame": 6778,
+        "endFrame": 6784
+      },
+      {
+        "text": "we",
+        "startFrame": 6784,
+        "endFrame": 6788
+      },
+      {
+        "text": "reach",
+        "startFrame": 6788,
+        "endFrame": 6798
+      },
+      {
+        "text": "the",
+        "startFrame": 6798,
+        "endFrame": 6803
+      },
+      {
+        "text": "core",
+        "startFrame": 6803,
+        "endFrame": 6813
+      },
+      {
+        "text": "of",
+        "startFrame": 6813,
+        "endFrame": 6815
+      }
+    ]
+  },
+  {
+    "text": "the system the agent A normal",
+    "startFrame": 6815,
+    "endFrame": 6872,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 6815,
+        "endFrame": 6828
+      },
+      {
+        "text": "system",
+        "startFrame": 6828,
+        "endFrame": 6832
+      },
+      {
+        "text": "the",
+        "startFrame": 6836,
+        "endFrame": 6842
+      },
+      {
+        "text": "agent",
+        "startFrame": 6842,
+        "endFrame": 6860
+      },
+      {
+        "text": "A",
+        "startFrame": 6860,
+        "endFrame": 6862
+      },
+      {
+        "text": "normal",
+        "startFrame": 6862,
+        "endFrame": 6872
+      }
+    ]
+  },
+  {
+    "text": "chat bot follows this pattern but",
+    "startFrame": 6872,
+    "endFrame": 6930,
+    "words": [
+      {
+        "text": "chat",
+        "startFrame": 6872,
+        "endFrame": 6880
+      },
+      {
+        "text": "bot",
+        "startFrame": 6880,
+        "endFrame": 6886
+      },
+      {
+        "text": "follows",
+        "startFrame": 6886,
+        "endFrame": 6898
+      },
+      {
+        "text": "this",
+        "startFrame": 6898,
+        "endFrame": 6905
+      },
+      {
+        "text": "pattern",
+        "startFrame": 6905,
+        "endFrame": 6916
+      },
+      {
+        "text": "but",
+        "startFrame": 6921,
+        "endFrame": 6930
+      }
+    ]
+  },
+  {
+    "text": "software engineering requires a process For",
+    "startFrame": 6930,
+    "endFrame": 7003,
+    "words": [
+      {
+        "text": "software",
+        "startFrame": 6930,
+        "endFrame": 6943
+      },
+      {
+        "text": "engineering",
+        "startFrame": 6943,
+        "endFrame": 6961
+      },
+      {
+        "text": "requires",
+        "startFrame": 6961,
+        "endFrame": 6975
+      },
+      {
+        "text": "a",
+        "startFrame": 6975,
+        "endFrame": 6976
+      },
+      {
+        "text": "process",
+        "startFrame": 6976,
+        "endFrame": 6997
+      },
+      {
+        "text": "For",
+        "startFrame": 6997,
+        "endFrame": 7003
+      }
+    ]
+  },
+  {
+    "text": "example at Google authentication the agent",
+    "startFrame": 7003,
+    "endFrame": 7079,
+    "words": [
+      {
+        "text": "example",
+        "startFrame": 7003,
+        "endFrame": 7019
+      },
+      {
+        "text": "at",
+        "startFrame": 7022,
+        "endFrame": 7023
+      },
+      {
+        "text": "Google",
+        "startFrame": 7023,
+        "endFrame": 7034
+      },
+      {
+        "text": "authentication",
+        "startFrame": 7034,
+        "endFrame": 7060
+      },
+      {
+        "text": "the",
+        "startFrame": 7070,
+        "endFrame": 7072
+      },
+      {
+        "text": "agent",
+        "startFrame": 7072,
+        "endFrame": 7079
+      }
+    ]
+  },
+  {
+    "text": "needs to find existing authentication logic",
+    "startFrame": 7079,
+    "endFrame": 7163,
+    "words": [
+      {
+        "text": "needs",
+        "startFrame": 7079,
+        "endFrame": 7089
+      },
+      {
+        "text": "to",
+        "startFrame": 7089,
+        "endFrame": 7094
+      },
+      {
+        "text": "find",
+        "startFrame": 7094,
+        "endFrame": 7107
+      },
+      {
+        "text": "existing",
+        "startFrame": 7107,
+        "endFrame": 7115
+      },
+      {
+        "text": "authentication",
+        "startFrame": 7115,
+        "endFrame": 7144
+      },
+      {
+        "text": "logic",
+        "startFrame": 7144,
+        "endFrame": 7163
+      }
+    ]
+  },
+  {
+    "text": "understand the architecture create a plan",
+    "startFrame": 7180,
+    "endFrame": 7269,
+    "words": [
+      {
+        "text": "understand",
+        "startFrame": 7180,
+        "endFrame": 7191
+      },
+      {
+        "text": "the",
+        "startFrame": 7191,
+        "endFrame": 7200
+      },
+      {
+        "text": "architecture",
+        "startFrame": 7200,
+        "endFrame": 7233
+      },
+      {
+        "text": "create",
+        "startFrame": 7239,
+        "endFrame": 7258
+      },
+      {
+        "text": "a",
+        "startFrame": 7258,
+        "endFrame": 7264
+      },
+      {
+        "text": "plan",
+        "startFrame": 7264,
+        "endFrame": 7269
+      }
+    ]
+  },
+  {
+    "text": "modify files run tests fix problems",
+    "startFrame": 7275,
+    "endFrame": 7374,
+    "words": [
+      {
+        "text": "modify",
+        "startFrame": 7275,
+        "endFrame": 7305
+      },
+      {
+        "text": "files",
+        "startFrame": 7305,
+        "endFrame": 7305
+      },
+      {
+        "text": "run",
+        "startFrame": 7311,
+        "endFrame": 7318
+      },
+      {
+        "text": "tests",
+        "startFrame": 7318,
+        "endFrame": 7335
+      },
+      {
+        "text": "fix",
+        "startFrame": 7342,
+        "endFrame": 7347
+      },
+      {
+        "text": "problems",
+        "startFrame": 7347,
+        "endFrame": 7374
+      }
+    ]
+  },
+  {
+    "text": "This require an orche stration layer",
+    "startFrame": 7377,
+    "endFrame": 7456,
+    "words": [
+      {
+        "text": "This",
+        "startFrame": 7377,
+        "endFrame": 7386
+      },
+      {
+        "text": "require",
+        "startFrame": 7386,
+        "endFrame": 7403
+      },
+      {
+        "text": "an",
+        "startFrame": 7403,
+        "endFrame": 7409
+      },
+      {
+        "text": "orche",
+        "startFrame": 7409,
+        "endFrame": 7419
+      },
+      {
+        "text": "stration",
+        "startFrame": 7419,
+        "endFrame": 7432
+      },
+      {
+        "text": "layer",
+        "startFrame": 7432,
+        "endFrame": 7456
+      }
+    ]
+  },
+  {
+    "text": "The agent is constantly asking what",
+    "startFrame": 7457,
+    "endFrame": 7525,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 7457,
+        "endFrame": 7464
+      },
+      {
+        "text": "agent",
+        "startFrame": 7464,
+        "endFrame": 7476
+      },
+      {
+        "text": "is",
+        "startFrame": 7476,
+        "endFrame": 7478
+      },
+      {
+        "text": "constantly",
+        "startFrame": 7478,
+        "endFrame": 7500
+      },
+      {
+        "text": "asking",
+        "startFrame": 7500,
+        "endFrame": 7514
+      },
+      {
+        "text": "what",
+        "startFrame": 7516,
+        "endFrame": 7525
+      }
+    ]
+  },
+  {
+    "text": "should I do next This is",
+    "startFrame": 7525,
+    "endFrame": 7577,
+    "words": [
+      {
+        "text": "should",
+        "startFrame": 7525,
+        "endFrame": 7536
+      },
+      {
+        "text": "I",
+        "startFrame": 7536,
+        "endFrame": 7540
+      },
+      {
+        "text": "do",
+        "startFrame": 7540,
+        "endFrame": 7544
+      },
+      {
+        "text": "next",
+        "startFrame": 7544,
+        "endFrame": 7556
+      },
+      {
+        "text": "This",
+        "startFrame": 7561,
+        "endFrame": 7573
+      },
+      {
+        "text": "is",
+        "startFrame": 7573,
+        "endFrame": 7577
+      }
+    ]
+  },
+  {
+    "text": "called the agent loop think act",
+    "startFrame": 7577,
+    "endFrame": 7660,
+    "words": [
+      {
+        "text": "called",
+        "startFrame": 7577,
+        "endFrame": 7601
+      },
+      {
+        "text": "the",
+        "startFrame": 7601,
+        "endFrame": 7612
+      },
+      {
+        "text": "agent",
+        "startFrame": 7612,
+        "endFrame": 7615
+      },
+      {
+        "text": "loop",
+        "startFrame": 7615,
+        "endFrame": 7630
+      },
+      {
+        "text": "think",
+        "startFrame": 7631,
+        "endFrame": 7644
+      },
+      {
+        "text": "act",
+        "startFrame": 7649,
+        "endFrame": 7660
+      }
+    ]
+  },
+  {
+    "text": "observe repeat The AI model itself",
+    "startFrame": 7663,
+    "endFrame": 7736,
+    "words": [
+      {
+        "text": "observe",
+        "startFrame": 7663,
+        "endFrame": 7681
+      },
+      {
+        "text": "repeat",
+        "startFrame": 7702,
+        "endFrame": 7706
+      },
+      {
+        "text": "The",
+        "startFrame": 7706,
+        "endFrame": 7711
+      },
+      {
+        "text": "AI",
+        "startFrame": 7711,
+        "endFrame": 7715
+      },
+      {
+        "text": "model",
+        "startFrame": 7715,
+        "endFrame": 7724
+      },
+      {
+        "text": "itself",
+        "startFrame": 7724,
+        "endFrame": 7736
+      }
+    ]
+  },
+  {
+    "text": "cannot change your computer It cannot",
+    "startFrame": 7736,
+    "endFrame": 7801,
+    "words": [
+      {
+        "text": "cannot",
+        "startFrame": 7736,
+        "endFrame": 7745
+      },
+      {
+        "text": "change",
+        "startFrame": 7745,
+        "endFrame": 7756
+      },
+      {
+        "text": "your",
+        "startFrame": 7756,
+        "endFrame": 7763
+      },
+      {
+        "text": "computer",
+        "startFrame": 7763,
+        "endFrame": 7783
+      },
+      {
+        "text": "It",
+        "startFrame": 7784,
+        "endFrame": 7788
+      },
+      {
+        "text": "cannot",
+        "startFrame": 7788,
+        "endFrame": 7801
+      }
+    ]
+  },
+  {
+    "text": "open files it cannot run commands",
+    "startFrame": 7801,
+    "endFrame": 7866,
+    "words": [
+      {
+        "text": "open",
+        "startFrame": 7801,
+        "endFrame": 7810
+      },
+      {
+        "text": "files",
+        "startFrame": 7810,
+        "endFrame": 7825
+      },
+      {
+        "text": "it",
+        "startFrame": 7825,
+        "endFrame": 7829
+      },
+      {
+        "text": "cannot",
+        "startFrame": 7829,
+        "endFrame": 7842
+      },
+      {
+        "text": "run",
+        "startFrame": 7842,
+        "endFrame": 7848
+      },
+      {
+        "text": "commands",
+        "startFrame": 7848,
+        "endFrame": 7866
+      }
+    ]
+  },
+  {
+    "text": "it cannot execute tests So the",
+    "startFrame": 7870,
+    "endFrame": 7936,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 7870,
+        "endFrame": 7874
+      },
+      {
+        "text": "cannot",
+        "startFrame": 7874,
+        "endFrame": 7887
+      },
+      {
+        "text": "execute",
+        "startFrame": 7887,
+        "endFrame": 7901
+      },
+      {
+        "text": "tests",
+        "startFrame": 7901,
+        "endFrame": 7922
+      },
+      {
+        "text": "So",
+        "startFrame": 7922,
+        "endFrame": 7930
+      },
+      {
+        "text": "the",
+        "startFrame": 7930,
+        "endFrame": 7936
+      }
+    ]
+  },
+  {
+    "text": "agent needs tools The model decide",
+    "startFrame": 7936,
+    "endFrame": 8012,
+    "words": [
+      {
+        "text": "agent",
+        "startFrame": 7936,
+        "endFrame": 7951
+      },
+      {
+        "text": "needs",
+        "startFrame": 7951,
+        "endFrame": 7965
+      },
+      {
+        "text": "tools",
+        "startFrame": 7965,
+        "endFrame": 7988
+      },
+      {
+        "text": "The",
+        "startFrame": 7988,
+        "endFrame": 7993
+      },
+      {
+        "text": "model",
+        "startFrame": 7993,
+        "endFrame": 8002
+      },
+      {
+        "text": "decide",
+        "startFrame": 8002,
+        "endFrame": 8012
+      }
+    ]
+  },
+  {
+    "text": "what action should happen the tool",
+    "startFrame": 8012,
+    "endFrame": 8066,
+    "words": [
+      {
+        "text": "what",
+        "startFrame": 8012,
+        "endFrame": 8021
+      },
+      {
+        "text": "action",
+        "startFrame": 8021,
+        "endFrame": 8030
+      },
+      {
+        "text": "should",
+        "startFrame": 8030,
+        "endFrame": 8040
+      },
+      {
+        "text": "happen",
+        "startFrame": 8040,
+        "endFrame": 8052
+      },
+      {
+        "text": "the",
+        "startFrame": 8054,
+        "endFrame": 8059
+      },
+      {
+        "text": "tool",
+        "startFrame": 8059,
+        "endFrame": 8066
+      }
+    ]
+  },
+  {
+    "text": "performs the action the results come",
+    "startFrame": 8066,
+    "endFrame": 8127,
+    "words": [
+      {
+        "text": "performs",
+        "startFrame": 8066,
+        "endFrame": 8080
+      },
+      {
+        "text": "the",
+        "startFrame": 8080,
+        "endFrame": 8085
+      },
+      {
+        "text": "action",
+        "startFrame": 8085,
+        "endFrame": 8098
+      },
+      {
+        "text": "the",
+        "startFrame": 8102,
+        "endFrame": 8104
+      },
+      {
+        "text": "results",
+        "startFrame": 8104,
+        "endFrame": 8117
+      },
+      {
+        "text": "come",
+        "startFrame": 8117,
+        "endFrame": 8127
+      }
+    ]
+  },
+  {
+    "text": "back then the model decides the",
+    "startFrame": 8127,
+    "endFrame": 8201,
+    "words": [
+      {
+        "text": "back",
+        "startFrame": 8127,
+        "endFrame": 8133
+      },
+      {
+        "text": "then",
+        "startFrame": 8146,
+        "endFrame": 8150
+      },
+      {
+        "text": "the",
+        "startFrame": 8150,
+        "endFrame": 8157
+      },
+      {
+        "text": "model",
+        "startFrame": 8157,
+        "endFrame": 8169
+      },
+      {
+        "text": "decides",
+        "startFrame": 8169,
+        "endFrame": 8186
+      },
+      {
+        "text": "the",
+        "startFrame": 8186,
+        "endFrame": 8201
+      }
+    ]
+  },
+  {
+    "text": "next step This suppression is what",
+    "startFrame": 8201,
+    "endFrame": 8263,
+    "words": [
+      {
+        "text": "next",
+        "startFrame": 8201,
+        "endFrame": 8202
+      },
+      {
+        "text": "step",
+        "startFrame": 8202,
+        "endFrame": 8214
+      },
+      {
+        "text": "This",
+        "startFrame": 8218,
+        "endFrame": 8228
+      },
+      {
+        "text": "suppression",
+        "startFrame": 8228,
+        "endFrame": 8250
+      },
+      {
+        "text": "is",
+        "startFrame": 8250,
+        "endFrame": 8257
+      },
+      {
+        "text": "what",
+        "startFrame": 8257,
+        "endFrame": 8263
+      }
+    ]
+  },
+  {
+    "text": "makes AI agent powerful The model",
+    "startFrame": 8263,
+    "endFrame": 8331,
+    "words": [
+      {
+        "text": "makes",
+        "startFrame": 8263,
+        "endFrame": 8273
+      },
+      {
+        "text": "AI",
+        "startFrame": 8273,
+        "endFrame": 8277
+      },
+      {
+        "text": "agent",
+        "startFrame": 8277,
+        "endFrame": 8288
+      },
+      {
+        "text": "powerful",
+        "startFrame": 8288,
+        "endFrame": 8313
+      },
+      {
+        "text": "The",
+        "startFrame": 8313,
+        "endFrame": 8320
+      },
+      {
+        "text": "model",
+        "startFrame": 8320,
+        "endFrame": 8331
+      }
+    ]
+  },
+  {
+    "text": "provides reasoning the tools provide abilities",
+    "startFrame": 8331,
+    "endFrame": 8429,
+    "words": [
+      {
+        "text": "provides",
+        "startFrame": 8331,
+        "endFrame": 8349
+      },
+      {
+        "text": "reasoning",
+        "startFrame": 8349,
+        "endFrame": 8369
+      },
+      {
+        "text": "the",
+        "startFrame": 8375,
+        "endFrame": 8380
+      },
+      {
+        "text": "tools",
+        "startFrame": 8380,
+        "endFrame": 8390
+      },
+      {
+        "text": "provide",
+        "startFrame": 8390,
+        "endFrame": 8428
+      },
+      {
+        "text": "abilities",
+        "startFrame": 8428,
+        "endFrame": 8429
+      }
+    ]
+  },
+  {
+    "text": "The final piece is the model",
+    "startFrame": 8430,
+    "endFrame": 8478,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 8430,
+        "endFrame": 8436
+      },
+      {
+        "text": "final",
+        "startFrame": 8436,
+        "endFrame": 8446
+      },
+      {
+        "text": "piece",
+        "startFrame": 8446,
+        "endFrame": 8457
+      },
+      {
+        "text": "is",
+        "startFrame": 8457,
+        "endFrame": 8461
+      },
+      {
+        "text": "the",
+        "startFrame": 8461,
+        "endFrame": 8467
+      },
+      {
+        "text": "model",
+        "startFrame": 8467,
+        "endFrame": 8478
+      }
+    ]
+  },
+  {
+    "text": "layer an AI coding company cannot",
+    "startFrame": 8478,
+    "endFrame": 8528,
+    "words": [
+      {
+        "text": "layer",
+        "startFrame": 8478,
+        "endFrame": 8492
+      },
+      {
+        "text": "an",
+        "startFrame": 8493,
+        "endFrame": 8498
+      },
+      {
+        "text": "AI",
+        "startFrame": 8498,
+        "endFrame": 8499
+      },
+      {
+        "text": "coding",
+        "startFrame": 8499,
+        "endFrame": 8508
+      },
+      {
+        "text": "company",
+        "startFrame": 8508,
+        "endFrame": 8519
+      },
+      {
+        "text": "cannot",
+        "startFrame": 8519,
+        "endFrame": 8528
+      }
+    ]
+  },
+  {
+    "text": "permanently depend on one model Today",
+    "startFrame": 8528,
+    "endFrame": 8601,
+    "words": [
+      {
+        "text": "permanently",
+        "startFrame": 8528,
+        "endFrame": 8546
+      },
+      {
+        "text": "depend",
+        "startFrame": 8546,
+        "endFrame": 8555
+      },
+      {
+        "text": "on",
+        "startFrame": 8555,
+        "endFrame": 8558
+      },
+      {
+        "text": "one",
+        "startFrame": 8558,
+        "endFrame": 8566
+      },
+      {
+        "text": "model",
+        "startFrame": 8566,
+        "endFrame": 8577
+      },
+      {
+        "text": "Today",
+        "startFrame": 8588,
+        "endFrame": 8601
+      }
+    ]
+  },
+  {
+    "text": "best model might be cloud tomorrow",
+    "startFrame": 8601,
+    "endFrame": 8680,
+    "words": [
+      {
+        "text": "best",
+        "startFrame": 8601,
+        "endFrame": 8611
+      },
+      {
+        "text": "model",
+        "startFrame": 8611,
+        "endFrame": 8624
+      },
+      {
+        "text": "might",
+        "startFrame": 8624,
+        "endFrame": 8637
+      },
+      {
+        "text": "be",
+        "startFrame": 8637,
+        "endFrame": 8642
+      },
+      {
+        "text": "cloud",
+        "startFrame": 8642,
+        "endFrame": 8657
+      },
+      {
+        "text": "tomorrow",
+        "startFrame": 8660,
+        "endFrame": 8680
+      }
+    ]
+  },
+  {
+    "text": "it might be G PT or",
+    "startFrame": 8680,
+    "endFrame": 8714,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 8680,
+        "endFrame": 8686
+      },
+      {
+        "text": "might",
+        "startFrame": 8686,
+        "endFrame": 8702
+      },
+      {
+        "text": "be",
+        "startFrame": 8702,
+        "endFrame": 8704
+      },
+      {
+        "text": "G",
+        "startFrame": 8704,
+        "endFrame": 8706
+      },
+      {
+        "text": "PT",
+        "startFrame": 8706,
+        "endFrame": 8711
+      },
+      {
+        "text": "or",
+        "startFrame": 8711,
+        "endFrame": 8714
+      }
+    ]
+  },
+  {
+    "text": "Gemini So companies create a model",
+    "startFrame": 8714,
+    "endFrame": 8788,
+    "words": [
+      {
+        "text": "Gemini",
+        "startFrame": 8714,
+        "endFrame": 8739
+      },
+      {
+        "text": "So",
+        "startFrame": 8740,
+        "endFrame": 8744
+      },
+      {
+        "text": "companies",
+        "startFrame": 8744,
+        "endFrame": 8764
+      },
+      {
+        "text": "create",
+        "startFrame": 8764,
+        "endFrame": 8778
+      },
+      {
+        "text": "a",
+        "startFrame": 8778,
+        "endFrame": 8779
+      },
+      {
+        "text": "model",
+        "startFrame": 8779,
+        "endFrame": 8788
+      }
+    ]
+  },
+  {
+    "text": "extraction layer The layer handles routing",
+    "startFrame": 8788,
+    "endFrame": 8877,
+    "words": [
+      {
+        "text": "extraction",
+        "startFrame": 8788,
+        "endFrame": 8809
+      },
+      {
+        "text": "layer",
+        "startFrame": 8809,
+        "endFrame": 8828
+      },
+      {
+        "text": "The",
+        "startFrame": 8828,
+        "endFrame": 8834
+      },
+      {
+        "text": "layer",
+        "startFrame": 8834,
+        "endFrame": 8845
+      },
+      {
+        "text": "handles",
+        "startFrame": 8845,
+        "endFrame": 8860
+      },
+      {
+        "text": "routing",
+        "startFrame": 8860,
+        "endFrame": 8877
+      }
+    ]
+  },
+  {
+    "text": "cost optimization latency model selection reliability",
+    "startFrame": 8879,
+    "endFrame": 9002,
+    "words": [
+      {
+        "text": "cost",
+        "startFrame": 8879,
+        "endFrame": 8887
+      },
+      {
+        "text": "optimization",
+        "startFrame": 8887,
+        "endFrame": 8914
+      },
+      {
+        "text": "latency",
+        "startFrame": 8918,
+        "endFrame": 8932
+      },
+      {
+        "text": "model",
+        "startFrame": 8938,
+        "endFrame": 8949
+      },
+      {
+        "text": "selection",
+        "startFrame": 8949,
+        "endFrame": 8967
+      },
+      {
+        "text": "reliability",
+        "startFrame": 8971,
+        "endFrame": 9002
+      }
+    ]
+  },
+  {
+    "text": "The AI model becomes irre pl",
+    "startFrame": 9003,
+    "endFrame": 9078,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 9003,
+        "endFrame": 9011
+      },
+      {
+        "text": "AI",
+        "startFrame": 9011,
+        "endFrame": 9016
+      },
+      {
+        "text": "model",
+        "startFrame": 9016,
+        "endFrame": 9030
+      },
+      {
+        "text": "becomes",
+        "startFrame": 9030,
+        "endFrame": 9049
+      },
+      {
+        "text": "irre",
+        "startFrame": 9049,
+        "endFrame": 9059
+      },
+      {
+        "text": "pl",
+        "startFrame": 9059,
+        "endFrame": 9078
+      }
+    ]
+  },
+  {
+    "text": "icable the architecture remains C oding",
+    "startFrame": 9078,
+    "endFrame": 9171,
+    "words": [
+      {
+        "text": "icable",
+        "startFrame": 9078,
+        "endFrame": 9082
+      },
+      {
+        "text": "the",
+        "startFrame": 9088,
+        "endFrame": 9095
+      },
+      {
+        "text": "architecture",
+        "startFrame": 9095,
+        "endFrame": 9144
+      },
+      {
+        "text": "remains",
+        "startFrame": 9144,
+        "endFrame": 9147
+      },
+      {
+        "text": "C",
+        "startFrame": 9157,
+        "endFrame": 9158
+      },
+      {
+        "text": "oding",
+        "startFrame": 9158,
+        "endFrame": 9171
+      }
+    ]
+  },
+  {
+    "text": "code is only half the challenge",
+    "startFrame": 9171,
+    "endFrame": 9225,
+    "words": [
+      {
+        "text": "code",
+        "startFrame": 9171,
+        "endFrame": 9177
+      },
+      {
+        "text": "is",
+        "startFrame": 9177,
+        "endFrame": 9180
+      },
+      {
+        "text": "only",
+        "startFrame": 9180,
+        "endFrame": 9188
+      },
+      {
+        "text": "half",
+        "startFrame": 9188,
+        "endFrame": 9196
+      },
+      {
+        "text": "the",
+        "startFrame": 9196,
+        "endFrame": 9201
+      },
+      {
+        "text": "challenge",
+        "startFrame": 9201,
+        "endFrame": 9225
+      }
+    ]
+  },
+  {
+    "text": "The system also needs to safely",
+    "startFrame": 9225,
+    "endFrame": 9276,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 9225,
+        "endFrame": 9233
+      },
+      {
+        "text": "system",
+        "startFrame": 9233,
+        "endFrame": 9243
+      },
+      {
+        "text": "also",
+        "startFrame": 9243,
+        "endFrame": 9253
+      },
+      {
+        "text": "needs",
+        "startFrame": 9253,
+        "endFrame": 9260
+      },
+      {
+        "text": "to",
+        "startFrame": 9260,
+        "endFrame": 9264
+      },
+      {
+        "text": "safely",
+        "startFrame": 9264,
+        "endFrame": 9276
+      }
+    ]
+  },
+  {
+    "text": "apply changes The pipeline Instead of",
+    "startFrame": 9276,
+    "endFrame": 9355,
+    "words": [
+      {
+        "text": "apply",
+        "startFrame": 9276,
+        "endFrame": 9282
+      },
+      {
+        "text": "changes",
+        "startFrame": 9282,
+        "endFrame": 9304
+      },
+      {
+        "text": "The",
+        "startFrame": 9307,
+        "endFrame": 9316
+      },
+      {
+        "text": "pipeline",
+        "startFrame": 9316,
+        "endFrame": 9335
+      },
+      {
+        "text": "Instead",
+        "startFrame": 9337,
+        "endFrame": 9350
+      },
+      {
+        "text": "of",
+        "startFrame": 9350,
+        "endFrame": 9355
+      }
+    ]
+  },
+  {
+    "text": "blindly rewriting your project the system",
+    "startFrame": 9355,
+    "endFrame": 9428,
+    "words": [
+      {
+        "text": "blindly",
+        "startFrame": 9355,
+        "endFrame": 9368
+      },
+      {
+        "text": "rewriting",
+        "startFrame": 9368,
+        "endFrame": 9385
+      },
+      {
+        "text": "your",
+        "startFrame": 9385,
+        "endFrame": 9393
+      },
+      {
+        "text": "project",
+        "startFrame": 9393,
+        "endFrame": 9409
+      },
+      {
+        "text": "the",
+        "startFrame": 9412,
+        "endFrame": 9417
+      },
+      {
+        "text": "system",
+        "startFrame": 9417,
+        "endFrame": 9428
+      }
+    ]
+  },
+  {
+    "text": "create a patch show exactly what",
+    "startFrame": 9428,
+    "endFrame": 9482,
+    "words": [
+      {
+        "text": "create",
+        "startFrame": 9428,
+        "endFrame": 9439
+      },
+      {
+        "text": "a",
+        "startFrame": 9439,
+        "endFrame": 9442
+      },
+      {
+        "text": "patch",
+        "startFrame": 9442,
+        "endFrame": 9457
+      },
+      {
+        "text": "show",
+        "startFrame": 9462,
+        "endFrame": 9464
+      },
+      {
+        "text": "exactly",
+        "startFrame": 9464,
+        "endFrame": 9475
+      },
+      {
+        "text": "what",
+        "startFrame": 9475,
+        "endFrame": 9482
+      }
+    ]
+  },
+  {
+    "text": "changed then applies it This is",
+    "startFrame": 9482,
+    "endFrame": 9547,
+    "words": [
+      {
+        "text": "changed",
+        "startFrame": 9482,
+        "endFrame": 9500
+      },
+      {
+        "text": "then",
+        "startFrame": 9501,
+        "endFrame": 9508
+      },
+      {
+        "text": "applies",
+        "startFrame": 9508,
+        "endFrame": 9526
+      },
+      {
+        "text": "it",
+        "startFrame": 9526,
+        "endFrame": 9526
+      },
+      {
+        "text": "This",
+        "startFrame": 9532,
+        "endFrame": 9545
+      },
+      {
+        "text": "is",
+        "startFrame": 9545,
+        "endFrame": 9547
+      }
+    ]
+  },
+  {
+    "text": "critical because software change needs trust",
+    "startFrame": 9547,
+    "endFrame": 9647,
+    "words": [
+      {
+        "text": "critical",
+        "startFrame": 9547,
+        "endFrame": 9566
+      },
+      {
+        "text": "because",
+        "startFrame": 9566,
+        "endFrame": 9583
+      },
+      {
+        "text": "software",
+        "startFrame": 9583,
+        "endFrame": 9601
+      },
+      {
+        "text": "change",
+        "startFrame": 9601,
+        "endFrame": 9614
+      },
+      {
+        "text": "needs",
+        "startFrame": 9614,
+        "endFrame": 9626
+      },
+      {
+        "text": "trust",
+        "startFrame": 9626,
+        "endFrame": 9647
+      }
+    ]
+  },
+  {
+    "text": "So if we put everything together",
+    "startFrame": 9647,
+    "endFrame": 9700,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 9647,
+        "endFrame": 9653
+      },
+      {
+        "text": "if",
+        "startFrame": 9653,
+        "endFrame": 9655
+      },
+      {
+        "text": "we",
+        "startFrame": 9655,
+        "endFrame": 9659
+      },
+      {
+        "text": "put",
+        "startFrame": 9659,
+        "endFrame": 9665
+      },
+      {
+        "text": "everything",
+        "startFrame": 9665,
+        "endFrame": 9684
+      },
+      {
+        "text": "together",
+        "startFrame": 9684,
+        "endFrame": 9700
+      }
+    ]
+  },
+  {
+    "text": "this is the architecture behind an",
+    "startFrame": 9712,
+    "endFrame": 9760,
+    "words": [
+      {
+        "text": "this",
+        "startFrame": 9712,
+        "endFrame": 9713
+      },
+      {
+        "text": "is",
+        "startFrame": 9713,
+        "endFrame": 9716
+      },
+      {
+        "text": "the",
+        "startFrame": 9716,
+        "endFrame": 9721
+      },
+      {
+        "text": "architecture",
+        "startFrame": 9721,
+        "endFrame": 9745
+      },
+      {
+        "text": "behind",
+        "startFrame": 9745,
+        "endFrame": 9756
+      },
+      {
+        "text": "an",
+        "startFrame": 9756,
+        "endFrame": 9760
+      }
+    ]
+  },
+  {
+    "text": "AI software engineer The important lesson",
+    "startFrame": 9760,
+    "endFrame": 9835,
+    "words": [
+      {
+        "text": "AI",
+        "startFrame": 9760,
+        "endFrame": 9764
+      },
+      {
+        "text": "software",
+        "startFrame": 9764,
+        "endFrame": 9779
+      },
+      {
+        "text": "engineer",
+        "startFrame": 9779,
+        "endFrame": 9802
+      },
+      {
+        "text": "The",
+        "startFrame": 9803,
+        "endFrame": 9809
+      },
+      {
+        "text": "important",
+        "startFrame": 9809,
+        "endFrame": 9823
+      },
+      {
+        "text": "lesson",
+        "startFrame": 9823,
+        "endFrame": 9835
+      }
+    ]
+  },
+  {
+    "text": "is the future of AI application",
+    "startFrame": 9835,
+    "endFrame": 9876,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 9835,
+        "endFrame": 9838
+      },
+      {
+        "text": "the",
+        "startFrame": 9838,
+        "endFrame": 9847
+      },
+      {
+        "text": "future",
+        "startFrame": 9847,
+        "endFrame": 9853
+      },
+      {
+        "text": "of",
+        "startFrame": 9853,
+        "endFrame": 9857
+      },
+      {
+        "text": "AI",
+        "startFrame": 9857,
+        "endFrame": 9859
+      },
+      {
+        "text": "application",
+        "startFrame": 9859,
+        "endFrame": 9876
+      }
+    ]
+  },
+  {
+    "text": "will not be built by simply",
+    "startFrame": 9876,
+    "endFrame": 9913,
+    "words": [
+      {
+        "text": "will",
+        "startFrame": 9876,
+        "endFrame": 9883
+      },
+      {
+        "text": "not",
+        "startFrame": 9883,
+        "endFrame": 9887
+      },
+      {
+        "text": "be",
+        "startFrame": 9887,
+        "endFrame": 9890
+      },
+      {
+        "text": "built",
+        "startFrame": 9890,
+        "endFrame": 9898
+      },
+      {
+        "text": "by",
+        "startFrame": 9898,
+        "endFrame": 9902
+      },
+      {
+        "text": "simply",
+        "startFrame": 9902,
+        "endFrame": 9913
+      }
+    ]
+  },
+  {
+    "text": "connecting a chat bot to an",
+    "startFrame": 9913,
+    "endFrame": 9957,
+    "words": [
+      {
+        "text": "connecting",
+        "startFrame": 9913,
+        "endFrame": 9931
+      },
+      {
+        "text": "a",
+        "startFrame": 9931,
+        "endFrame": 9933
+      },
+      {
+        "text": "chat",
+        "startFrame": 9933,
+        "endFrame": 9942
+      },
+      {
+        "text": "bot",
+        "startFrame": 9942,
+        "endFrame": 9948
+      },
+      {
+        "text": "to",
+        "startFrame": 9948,
+        "endFrame": 9953
+      },
+      {
+        "text": "an",
+        "startFrame": 9953,
+        "endFrame": 9957
+      }
+    ]
+  },
+  {
+    "text": "interface The winning system will combine",
+    "startFrame": 9957,
+    "endFrame": 10040,
+    "words": [
+      {
+        "text": "interface",
+        "startFrame": 9957,
+        "endFrame": 9985
+      },
+      {
+        "text": "The",
+        "startFrame": 9985,
+        "endFrame": 9991
+      },
+      {
+        "text": "winning",
+        "startFrame": 9991,
+        "endFrame": 10005
+      },
+      {
+        "text": "system",
+        "startFrame": 10005,
+        "endFrame": 10017
+      },
+      {
+        "text": "will",
+        "startFrame": 10017,
+        "endFrame": 10030
+      },
+      {
+        "text": "combine",
+        "startFrame": 10030,
+        "endFrame": 10040
+      }
+    ]
+  },
+  {
+    "text": "models retrieval planning tools memory execution",
+    "startFrame": 10040,
+    "endFrame": 10150,
+    "words": [
+      {
+        "text": "models",
+        "startFrame": 10040,
+        "endFrame": 10052
+      },
+      {
+        "text": "retrieval",
+        "startFrame": 10056,
+        "endFrame": 10077
+      },
+      {
+        "text": "planning",
+        "startFrame": 10078,
+        "endFrame": 10099
+      },
+      {
+        "text": "tools",
+        "startFrame": 10099,
+        "endFrame": 10109
+      },
+      {
+        "text": "memory",
+        "startFrame": 10121,
+        "endFrame": 10125
+      },
+      {
+        "text": "execution",
+        "startFrame": 10129,
+        "endFrame": 10150
+      }
+    ]
+  },
+  {
+    "text": "and feedback loops C ursor is",
+    "startFrame": 10150,
+    "endFrame": 10225,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 10150,
+        "endFrame": 10154
+      },
+      {
+        "text": "feedback",
+        "startFrame": 10154,
+        "endFrame": 10173
+      },
+      {
+        "text": "loops",
+        "startFrame": 10173,
+        "endFrame": 10203
+      },
+      {
+        "text": "C",
+        "startFrame": 10203,
+        "endFrame": 10207
+      },
+      {
+        "text": "ursor",
+        "startFrame": 10207,
+        "endFrame": 10219
+      },
+      {
+        "text": "is",
+        "startFrame": 10219,
+        "endFrame": 10225
+      }
+    ]
+  },
+  {
+    "text": "not powerful because it has access",
+    "startFrame": 10225,
+    "endFrame": 10294,
+    "words": [
+      {
+        "text": "not",
+        "startFrame": 10225,
+        "endFrame": 10230
+      },
+      {
+        "text": "powerful",
+        "startFrame": 10230,
+        "endFrame": 10250
+      },
+      {
+        "text": "because",
+        "startFrame": 10250,
+        "endFrame": 10269
+      },
+      {
+        "text": "it",
+        "startFrame": 10269,
+        "endFrame": 10271
+      },
+      {
+        "text": "has",
+        "startFrame": 10271,
+        "endFrame": 10279
+      },
+      {
+        "text": "access",
+        "startFrame": 10279,
+        "endFrame": 10294
+      }
+    ]
+  },
+  {
+    "text": "to an LL M It is",
+    "startFrame": 10294,
+    "endFrame": 10321,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 10294,
+        "endFrame": 10298
+      },
+      {
+        "text": "an",
+        "startFrame": 10298,
+        "endFrame": 10307
+      },
+      {
+        "text": "LL",
+        "startFrame": 10307,
+        "endFrame": 10311
+      },
+      {
+        "text": "M",
+        "startFrame": 10311,
+        "endFrame": 10312
+      },
+      {
+        "text": "It",
+        "startFrame": 10313,
+        "endFrame": 10320
+      },
+      {
+        "text": "is",
+        "startFrame": 10320,
+        "endFrame": 10321
+      }
+    ]
+  },
+  {
+    "text": "powerful because it built an entire",
+    "startFrame": 10321,
+    "endFrame": 10390,
+    "words": [
+      {
+        "text": "powerful",
+        "startFrame": 10321,
+        "endFrame": 10339
+      },
+      {
+        "text": "because",
+        "startFrame": 10339,
+        "endFrame": 10354
+      },
+      {
+        "text": "it",
+        "startFrame": 10354,
+        "endFrame": 10358
+      },
+      {
+        "text": "built",
+        "startFrame": 10358,
+        "endFrame": 10370
+      },
+      {
+        "text": "an",
+        "startFrame": 10370,
+        "endFrame": 10374
+      },
+      {
+        "text": "entire",
+        "startFrame": 10374,
+        "endFrame": 10390
+      }
+    ]
+  },
+  {
+    "text": "engineering system around that LL M",
+    "startFrame": 10390,
+    "endFrame": 10455,
+    "words": [
+      {
+        "text": "engineering",
+        "startFrame": 10390,
+        "endFrame": 10411
+      },
+      {
+        "text": "system",
+        "startFrame": 10411,
+        "endFrame": 10424
+      },
+      {
+        "text": "around",
+        "startFrame": 10424,
+        "endFrame": 10438
+      },
+      {
+        "text": "that",
+        "startFrame": 10438,
+        "endFrame": 10450
+      },
+      {
+        "text": "LL",
+        "startFrame": 10450,
+        "endFrame": 10452
+      },
+      {
+        "text": "M",
+        "startFrame": 10452,
+        "endFrame": 10455
+      }
+    ]
+  },
+  {
+    "text": "And the architecture is not unique",
+    "startFrame": 10455,
+    "endFrame": 10502,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 10455,
+        "endFrame": 10460
+      },
+      {
+        "text": "the",
+        "startFrame": 10460,
+        "endFrame": 10465
+      },
+      {
+        "text": "architecture",
+        "startFrame": 10465,
+        "endFrame": 10484
+      },
+      {
+        "text": "is",
+        "startFrame": 10484,
+        "endFrame": 10487
+      },
+      {
+        "text": "not",
+        "startFrame": 10487,
+        "endFrame": 10492
+      },
+      {
+        "text": "unique",
+        "startFrame": 10492,
+        "endFrame": 10502
+      }
+    ]
+  },
+  {
+    "text": "to cursor cloud code GitHub cop",
+    "startFrame": 10502,
+    "endFrame": 10567,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 10502,
+        "endFrame": 10515
+      },
+      {
+        "text": "cursor",
+        "startFrame": 10515,
+        "endFrame": 10519
+      },
+      {
+        "text": "cloud",
+        "startFrame": 10522,
+        "endFrame": 10531
+      },
+      {
+        "text": "code",
+        "startFrame": 10531,
+        "endFrame": 10546
+      },
+      {
+        "text": "GitHub",
+        "startFrame": 10551,
+        "endFrame": 10560
+      },
+      {
+        "text": "cop",
+        "startFrame": 10560,
+        "endFrame": 10567
+      }
+    ]
+  },
+  {
+    "text": "ilot agent wind sur f open",
+    "startFrame": 10567,
+    "endFrame": 10622,
+    "words": [
+      {
+        "text": "ilot",
+        "startFrame": 10567,
+        "endFrame": 10576
+      },
+      {
+        "text": "agent",
+        "startFrame": 10576,
+        "endFrame": 10592
+      },
+      {
+        "text": "wind",
+        "startFrame": 10594,
+        "endFrame": 10603
+      },
+      {
+        "text": "sur",
+        "startFrame": 10603,
+        "endFrame": 10613
+      },
+      {
+        "text": "f",
+        "startFrame": 10613,
+        "endFrame": 10613
+      },
+      {
+        "text": "open",
+        "startFrame": 10613,
+        "endFrame": 10622
+      }
+    ]
+  },
+  {
+    "text": "AI cod ex all of these",
+    "startFrame": 10622,
+    "endFrame": 10662,
+    "words": [
+      {
+        "text": "AI",
+        "startFrame": 10622,
+        "endFrame": 10626
+      },
+      {
+        "text": "cod",
+        "startFrame": 10626,
+        "endFrame": 10632
+      },
+      {
+        "text": "ex",
+        "startFrame": 10632,
+        "endFrame": 10636
+      },
+      {
+        "text": "all",
+        "startFrame": 10647,
+        "endFrame": 10651
+      },
+      {
+        "text": "of",
+        "startFrame": 10651,
+        "endFrame": 10662
+      },
+      {
+        "text": "these",
+        "startFrame": 10662,
+        "endFrame": 10662
+      }
+    ]
+  },
+  {
+    "text": "systems are moving towards the same",
+    "startFrame": 10662,
+    "endFrame": 10733,
+    "words": [
+      {
+        "text": "systems",
+        "startFrame": 10662,
+        "endFrame": 10677
+      },
+      {
+        "text": "are",
+        "startFrame": 10677,
+        "endFrame": 10683
+      },
+      {
+        "text": "moving",
+        "startFrame": 10683,
+        "endFrame": 10696
+      },
+      {
+        "text": "towards",
+        "startFrame": 10696,
+        "endFrame": 10710
+      },
+      {
+        "text": "the",
+        "startFrame": 10710,
+        "endFrame": 10716
+      },
+      {
+        "text": "same",
+        "startFrame": 10716,
+        "endFrame": 10733
+      }
+    ]
+  },
+  {
+    "text": "idea AI is no longer just",
+    "startFrame": 10733,
+    "endFrame": 10780,
+    "words": [
+      {
+        "text": "idea",
+        "startFrame": 10733,
+        "endFrame": 10733
+      },
+      {
+        "text": "AI",
+        "startFrame": 10741,
+        "endFrame": 10750
+      },
+      {
+        "text": "is",
+        "startFrame": 10750,
+        "endFrame": 10750
+      },
+      {
+        "text": "no",
+        "startFrame": 10750,
+        "endFrame": 10755
+      },
+      {
+        "text": "longer",
+        "startFrame": 10755,
+        "endFrame": 10770
+      },
+      {
+        "text": "just",
+        "startFrame": 10770,
+        "endFrame": 10780
+      }
+    ]
+  },
+  {
+    "text": "answering questions It is becoming an",
+    "startFrame": 10780,
+    "endFrame": 10855,
+    "words": [
+      {
+        "text": "answering",
+        "startFrame": 10780,
+        "endFrame": 10801
+      },
+      {
+        "text": "questions",
+        "startFrame": 10801,
+        "endFrame": 10831
+      },
+      {
+        "text": "It",
+        "startFrame": 10832,
+        "endFrame": 10835
+      },
+      {
+        "text": "is",
+        "startFrame": 10835,
+        "endFrame": 10838
+      },
+      {
+        "text": "becoming",
+        "startFrame": 10838,
+        "endFrame": 10852
+      },
+      {
+        "text": "an",
+        "startFrame": 10852,
+        "endFrame": 10855
+      }
+    ]
+  },
+  {
+    "text": "active participant in the software development",
+    "startFrame": 10855,
+    "endFrame": 10924,
+    "words": [
+      {
+        "text": "active",
+        "startFrame": 10855,
+        "endFrame": 10865
+      },
+      {
+        "text": "participant",
+        "startFrame": 10865,
+        "endFrame": 10884
+      },
+      {
+        "text": "in",
+        "startFrame": 10884,
+        "endFrame": 10887
+      },
+      {
+        "text": "the",
+        "startFrame": 10887,
+        "endFrame": 10892
+      },
+      {
+        "text": "software",
+        "startFrame": 10892,
+        "endFrame": 10906
+      },
+      {
+        "text": "development",
+        "startFrame": 10906,
+        "endFrame": 10924
+      }
+    ]
+  },
+  {
+    "text": "process In the next video we",
+    "startFrame": 10924,
+    "endFrame": 10967,
+    "words": [
+      {
+        "text": "process",
+        "startFrame": 10924,
+        "endFrame": 10942
+      },
+      {
+        "text": "In",
+        "startFrame": 10942,
+        "endFrame": 10945
+      },
+      {
+        "text": "the",
+        "startFrame": 10945,
+        "endFrame": 10949
+      },
+      {
+        "text": "next",
+        "startFrame": 10949,
+        "endFrame": 10955
+      },
+      {
+        "text": "video",
+        "startFrame": 10955,
+        "endFrame": 10962
+      },
+      {
+        "text": "we",
+        "startFrame": 10966,
+        "endFrame": 10967
+      }
+    ]
+  },
+  {
+    "text": "'ll break down another AI engineering",
+    "startFrame": 10967,
+    "endFrame": 11013,
+    "words": [
+      {
+        "text": "'ll",
+        "startFrame": 10967,
+        "endFrame": 10972
+      },
+      {
+        "text": "break",
+        "startFrame": 10972,
+        "endFrame": 10979
+      },
+      {
+        "text": "down",
+        "startFrame": 10979,
+        "endFrame": 10984
+      },
+      {
+        "text": "another",
+        "startFrame": 10984,
+        "endFrame": 10994
+      },
+      {
+        "text": "AI",
+        "startFrame": 10994,
+        "endFrame": 10997
+      },
+      {
+        "text": "engineering",
+        "startFrame": 10997,
+        "endFrame": 11013
+      }
+    ]
+  },
+  {
+    "text": "system and see how different companies",
+    "startFrame": 11013,
+    "endFrame": 11062,
+    "words": [
+      {
+        "text": "system",
+        "startFrame": 11013,
+        "endFrame": 11021
+      },
+      {
+        "text": "and",
+        "startFrame": 11021,
+        "endFrame": 11025
+      },
+      {
+        "text": "see",
+        "startFrame": 11025,
+        "endFrame": 11030
+      },
+      {
+        "text": "how",
+        "startFrame": 11030,
+        "endFrame": 11034
+      },
+      {
+        "text": "different",
+        "startFrame": 11034,
+        "endFrame": 11049
+      },
+      {
+        "text": "companies",
+        "startFrame": 11049,
+        "endFrame": 11062
+      }
+    ]
+  },
+  {
+    "text": "are solving the same problem with",
+    "startFrame": 11062,
+    "endFrame": 11104,
+    "words": [
+      {
+        "text": "are",
+        "startFrame": 11062,
+        "endFrame": 11067
+      },
+      {
+        "text": "solving",
+        "startFrame": 11067,
+        "endFrame": 11074
+      },
+      {
+        "text": "the",
+        "startFrame": 11074,
+        "endFrame": 11080
+      },
+      {
+        "text": "same",
+        "startFrame": 11080,
+        "endFrame": 11083
+      },
+      {
+        "text": "problem",
+        "startFrame": 11083,
+        "endFrame": 11092
+      },
+      {
+        "text": "with",
+        "startFrame": 11092,
+        "endFrame": 11104
+      }
+    ]
+  },
+  {
+    "text": "different architecture Thank you for watching",
+    "startFrame": 11104,
+    "endFrame": 11177,
+    "words": [
+      {
+        "text": "different",
+        "startFrame": 11104,
+        "endFrame": 11111
+      },
+      {
+        "text": "architecture",
+        "startFrame": 11111,
+        "endFrame": 11127
+      },
+      {
+        "text": "Thank",
+        "startFrame": 11131,
+        "endFrame": 11135
+      },
+      {
+        "text": "you",
+        "startFrame": 11135,
+        "endFrame": 11157
+      },
+      {
+        "text": "for",
+        "startFrame": 11157,
+        "endFrame": 11159
+      },
+      {
+        "text": "watching",
+        "startFrame": 11159,
+        "endFrame": 11177
+      }
+    ]
+  },
+  {
+    "text": "this video See you in the",
+    "startFrame": 11177,
+    "endFrame": 11223,
+    "words": [
+      {
+        "text": "this",
+        "startFrame": 11177,
+        "endFrame": 11187
+      },
+      {
+        "text": "video",
+        "startFrame": 11187,
+        "endFrame": 11207
+      },
+      {
+        "text": "See",
+        "startFrame": 11207,
+        "endFrame": 11212
+      },
+      {
+        "text": "you",
+        "startFrame": 11212,
+        "endFrame": 11216
+      },
+      {
+        "text": "in",
+        "startFrame": 11216,
+        "endFrame": 11219
+      },
+      {
+        "text": "the",
+        "startFrame": 11219,
+        "endFrame": 11223
+      }
+    ]
+  },
+  {
+    "text": "next one",
+    "startFrame": 11223,
+    "endFrame": 11233,
+    "words": [
+      {
+        "text": "next",
+        "startFrame": 11223,
+        "endFrame": 11233
+      },
+      {
+        "text": "one",
+        "startFrame": 11233,
+        "endFrame": 11233
+      }
+    ]
+  }
+]

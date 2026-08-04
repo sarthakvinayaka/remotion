@@ -1,0 +1,5596 @@
+[
+  {
+    "text": "So last week OpenAI dropped the price of",
+    "startFrame": 0,
+    "endFrame": 64,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 0,
+        "endFrame": 11
+      },
+      {
+        "text": "last",
+        "startFrame": 11,
+        "endFrame": 15
+      },
+      {
+        "text": "week",
+        "startFrame": 11,
+        "endFrame": 19
+      },
+      {
+        "text": "OpenAI",
+        "startFrame": 19,
+        "endFrame": 32
+      },
+      {
+        "text": "dropped",
+        "startFrame": 30,
+        "endFrame": 43
+      },
+      {
+        "text": "the",
+        "startFrame": 43,
+        "endFrame": 49
+      },
+      {
+        "text": "price",
+        "startFrame": 49,
+        "endFrame": 61
+      },
+      {
+        "text": "of",
+        "startFrame": 61,
+        "endFrame": 64
+      }
+    ]
+  },
+  {
+    "text": "one of its AI models by 80%. Same",
+    "startFrame": 64,
+    "endFrame": 139,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 64,
+        "endFrame": 70
+      },
+      {
+        "text": "of",
+        "startFrame": 70,
+        "endFrame": 74
+      },
+      {
+        "text": "its",
+        "startFrame": 74,
+        "endFrame": 80
+      },
+      {
+        "text": "AI",
+        "startFrame": 80,
+        "endFrame": 86
+      },
+      {
+        "text": "models",
+        "startFrame": 86,
+        "endFrame": 91
+      },
+      {
+        "text": "by",
+        "startFrame": 91,
+        "endFrame": 97
+      },
+      {
+        "text": "80",
+        "startFrame": 97,
+        "endFrame": 109
+      },
+      {
+        "text": "%.",
+        "startFrame": 109,
+        "endFrame": 117
+      },
+      {
+        "text": "Same",
+        "startFrame": 117,
+        "endFrame": 139
+      }
+    ]
+  },
+  {
+    "text": "model same day suddenly costs a fifth of what it did",
+    "startFrame": 139,
+    "endFrame": 256,
+    "words": [
+      {
+        "text": "model",
+        "startFrame": 139,
+        "endFrame": 142
+      },
+      {
+        "text": "same",
+        "startFrame": 147,
+        "endFrame": 164
+      },
+      {
+        "text": "day",
+        "startFrame": 164,
+        "endFrame": 168
+      },
+      {
+        "text": "suddenly",
+        "startFrame": 172,
+        "endFrame": 184
+      },
+      {
+        "text": "costs",
+        "startFrame": 184,
+        "endFrame": 197
+      },
+      {
+        "text": "a",
+        "startFrame": 197,
+        "endFrame": 210
+      },
+      {
+        "text": "fifth",
+        "startFrame": 210,
+        "endFrame": 222
+      },
+      {
+        "text": "of",
+        "startFrame": 222,
+        "endFrame": 228
+      },
+      {
+        "text": "what",
+        "startFrame": 228,
+        "endFrame": 232
+      },
+      {
+        "text": "it",
+        "startFrame": 232,
+        "endFrame": 253
+      },
+      {
+        "text": "did",
+        "startFrame": 253,
+        "endFrame": 256
+      }
+    ]
+  },
+  {
+    "text": "And that model had only been out for 3 weeks",
+    "startFrame": 256,
+    "endFrame": 344,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 256,
+        "endFrame": 264
+      },
+      {
+        "text": "that",
+        "startFrame": 264,
+        "endFrame": 272
+      },
+      {
+        "text": "model",
+        "startFrame": 272,
+        "endFrame": 282
+      },
+      {
+        "text": "had",
+        "startFrame": 282,
+        "endFrame": 289
+      },
+      {
+        "text": "only",
+        "startFrame": 289,
+        "endFrame": 302
+      },
+      {
+        "text": "been",
+        "startFrame": 302,
+        "endFrame": 308
+      },
+      {
+        "text": "out",
+        "startFrame": 308,
+        "endFrame": 314
+      },
+      {
+        "text": "for",
+        "startFrame": 314,
+        "endFrame": 320
+      },
+      {
+        "text": "3",
+        "startFrame": 320,
+        "endFrame": 340
+      },
+      {
+        "text": "weeks",
+        "startFrame": 340,
+        "endFrame": 343
+      }
+    ]
+  },
+  {
+    "text": "companies don't usually cut prices 3 weeks after launch",
+    "startFrame": 344,
+    "endFrame": 437,
+    "words": [
+      {
+        "text": "companies",
+        "startFrame": 344,
+        "endFrame": 358
+      },
+      {
+        "text": "don't",
+        "startFrame": 358,
+        "endFrame": 366
+      },
+      {
+        "text": "usually",
+        "startFrame": 365,
+        "endFrame": 376
+      },
+      {
+        "text": "cut",
+        "startFrame": 376,
+        "endFrame": 381
+      },
+      {
+        "text": "prices",
+        "startFrame": 381,
+        "endFrame": 389
+      },
+      {
+        "text": "3",
+        "startFrame": 389,
+        "endFrame": 394
+      },
+      {
+        "text": "weeks",
+        "startFrame": 394,
+        "endFrame": 402
+      },
+      {
+        "text": "after",
+        "startFrame": 402,
+        "endFrame": 409
+      },
+      {
+        "text": "launch",
+        "startFrame": 409,
+        "endFrame": 437
+      }
+    ]
+  },
+  {
+    "text": "something's going on there",
+    "startFrame": 445,
+    "endFrame": 492,
+    "words": [
+      {
+        "text": "something's",
+        "startFrame": 445,
+        "endFrame": 457
+      },
+      {
+        "text": "going",
+        "startFrame": 457,
+        "endFrame": 469
+      },
+      {
+        "text": "on",
+        "startFrame": 469,
+        "endFrame": 481
+      },
+      {
+        "text": "there",
+        "startFrame": 481,
+        "endFrame": 492
+      }
+    ]
+  },
+  {
+    "text": "But the way they pulled it off is the",
+    "startFrame": 492,
+    "endFrame": 560,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 492,
+        "endFrame": 499
+      },
+      {
+        "text": "the",
+        "startFrame": 499,
+        "endFrame": 506
+      },
+      {
+        "text": "way",
+        "startFrame": 506,
+        "endFrame": 513
+      },
+      {
+        "text": "they",
+        "startFrame": 513,
+        "endFrame": 522
+      },
+      {
+        "text": "pulled",
+        "startFrame": 522,
+        "endFrame": 540
+      },
+      {
+        "text": "it",
+        "startFrame": 540,
+        "endFrame": 544
+      },
+      {
+        "text": "off",
+        "startFrame": 542,
+        "endFrame": 547
+      },
+      {
+        "text": "is",
+        "startFrame": 547,
+        "endFrame": 552
+      },
+      {
+        "text": "the",
+        "startFrame": 552,
+        "endFrame": 560
+      }
+    ]
+  },
+  {
+    "text": "interesting bit",
+    "startFrame": 560,
+    "endFrame": 593,
+    "words": [
+      {
+        "text": "interesting",
+        "startFrame": 560,
+        "endFrame": 591
+      },
+      {
+        "text": "bit",
+        "startFrame": 591,
+        "endFrame": 593
+      }
+    ]
+  },
+  {
+    "text": "They had their smartest AI go and fix the",
+    "startFrame": 593,
+    "endFrame": 661,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 593,
+        "endFrame": 602
+      },
+      {
+        "text": "had",
+        "startFrame": 602,
+        "endFrame": 609
+      },
+      {
+        "text": "their",
+        "startFrame": 609,
+        "endFrame": 617
+      },
+      {
+        "text": "smartest",
+        "startFrame": 617,
+        "endFrame": 633
+      },
+      {
+        "text": "AI",
+        "startFrame": 633,
+        "endFrame": 637
+      },
+      {
+        "text": "go",
+        "startFrame": 637,
+        "endFrame": 641
+      },
+      {
+        "text": "and",
+        "startFrame": 641,
+        "endFrame": 647
+      },
+      {
+        "text": "fix",
+        "startFrame": 647,
+        "endFrame": 654
+      },
+      {
+        "text": "the",
+        "startFrame": 654,
+        "endFrame": 661
+      }
+    ]
+  },
+  {
+    "text": "machinery that runs their other AI",
+    "startFrame": 661,
+    "endFrame": 724,
+    "words": [
+      {
+        "text": "machinery",
+        "startFrame": 661,
+        "endFrame": 677
+      },
+      {
+        "text": "that",
+        "startFrame": 677,
+        "endFrame": 688
+      },
+      {
+        "text": "runs",
+        "startFrame": 688,
+        "endFrame": 694
+      },
+      {
+        "text": "their",
+        "startFrame": 694,
+        "endFrame": 704
+      },
+      {
+        "text": "other",
+        "startFrame": 704,
+        "endFrame": 714
+      },
+      {
+        "text": "AI",
+        "startFrame": 714,
+        "endFrame": 724
+      }
+    ]
+  },
+  {
+    "text": "Let's talk about it",
+    "startFrame": 727,
+    "endFrame": 776,
+    "words": [
+      {
+        "text": "Let's",
+        "startFrame": 727,
+        "endFrame": 736
+      },
+      {
+        "text": "talk",
+        "startFrame": 736,
+        "endFrame": 744
+      },
+      {
+        "text": "about",
+        "startFrame": 744,
+        "endFrame": 752
+      },
+      {
+        "text": "it",
+        "startFrame": 752,
+        "endFrame": 776
+      }
+    ]
+  },
+  {
+    "text": "So quick setup OpenAI's newest line up GPT-5.6",
+    "startFrame": 776,
+    "endFrame": 873,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 776,
+        "endFrame": 781
+      },
+      {
+        "text": "quick",
+        "startFrame": 781,
+        "endFrame": 791
+      },
+      {
+        "text": "setup",
+        "startFrame": 791,
+        "endFrame": 805
+      },
+      {
+        "text": "OpenAI's",
+        "startFrame": 806,
+        "endFrame": 824
+      },
+      {
+        "text": "newest",
+        "startFrame": 824,
+        "endFrame": 836
+      },
+      {
+        "text": "line",
+        "startFrame": 836,
+        "endFrame": 848
+      },
+      {
+        "text": "up",
+        "startFrame": 848,
+        "endFrame": 852
+      },
+      {
+        "text": "GPT-5.6",
+        "startFrame": 853,
+        "endFrame": 873
+      }
+    ]
+  },
+  {
+    "text": "isn't one model it's 3",
+    "startFrame": 884,
+    "endFrame": 940,
+    "words": [
+      {
+        "text": "isn't",
+        "startFrame": 884,
+        "endFrame": 890
+      },
+      {
+        "text": "one",
+        "startFrame": 890,
+        "endFrame": 896
+      },
+      {
+        "text": "model",
+        "startFrame": 896,
+        "endFrame": 911
+      },
+      {
+        "text": "it's",
+        "startFrame": 913,
+        "endFrame": 923
+      },
+      {
+        "text": "3",
+        "startFrame": 920,
+        "endFrame": 940
+      }
+    ]
+  },
+  {
+    "text": "There's Sol the expensive smart one Terra in",
+    "startFrame": 944,
+    "endFrame": 1016,
+    "words": [
+      {
+        "text": "There's",
+        "startFrame": 944,
+        "endFrame": 956
+      },
+      {
+        "text": "Sol",
+        "startFrame": 956,
+        "endFrame": 961
+      },
+      {
+        "text": "the",
+        "startFrame": 968,
+        "endFrame": 971
+      },
+      {
+        "text": "expensive",
+        "startFrame": 969,
+        "endFrame": 986
+      },
+      {
+        "text": "smart",
+        "startFrame": 986,
+        "endFrame": 999
+      },
+      {
+        "text": "one",
+        "startFrame": 999,
+        "endFrame": 1003
+      },
+      {
+        "text": "Terra",
+        "startFrame": 1004,
+        "endFrame": 1011
+      },
+      {
+        "text": "in",
+        "startFrame": 1011,
+        "endFrame": 1016
+      }
+    ]
+  },
+  {
+    "text": "the middle and Luna the small cheap fast one",
+    "startFrame": 1016,
+    "endFrame": 1112,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 1016,
+        "endFrame": 1019
+      },
+      {
+        "text": "middle",
+        "startFrame": 1019,
+        "endFrame": 1036
+      },
+      {
+        "text": "and",
+        "startFrame": 1036,
+        "endFrame": 1040
+      },
+      {
+        "text": "Luna",
+        "startFrame": 1039,
+        "endFrame": 1046
+      },
+      {
+        "text": "the",
+        "startFrame": 1050,
+        "endFrame": 1056
+      },
+      {
+        "text": "small",
+        "startFrame": 1056,
+        "endFrame": 1066
+      },
+      {
+        "text": "cheap",
+        "startFrame": 1066,
+        "endFrame": 1074
+      },
+      {
+        "text": "fast",
+        "startFrame": 1074,
+        "endFrame": 1082
+      },
+      {
+        "text": "one",
+        "startFrame": 1082,
+        "endFrame": 1112
+      }
+    ]
+  },
+  {
+    "text": "Think of it like shipping options overnight standard and economy",
+    "startFrame": 1112,
+    "endFrame": 1241,
+    "words": [
+      {
+        "text": "Think",
+        "startFrame": 1112,
+        "endFrame": 1124
+      },
+      {
+        "text": "of",
+        "startFrame": 1124,
+        "endFrame": 1127
+      },
+      {
+        "text": "it",
+        "startFrame": 1126,
+        "endFrame": 1130
+      },
+      {
+        "text": "like",
+        "startFrame": 1130,
+        "endFrame": 1138
+      },
+      {
+        "text": "shipping",
+        "startFrame": 1138,
+        "endFrame": 1161
+      },
+      {
+        "text": "options",
+        "startFrame": 1161,
+        "endFrame": 1168
+      },
+      {
+        "text": "overnight",
+        "startFrame": 1172,
+        "endFrame": 1190
+      },
+      {
+        "text": "standard",
+        "startFrame": 1194,
+        "endFrame": 1216
+      },
+      {
+        "text": "and",
+        "startFrame": 1216,
+        "endFrame": 1232
+      },
+      {
+        "text": "economy",
+        "startFrame": 1232,
+        "endFrame": 1236
+      }
+    ]
+  },
+  {
+    "text": "Luna is economy",
+    "startFrame": 1241,
+    "endFrame": 1286,
+    "words": [
+      {
+        "text": "Luna",
+        "startFrame": 1241,
+        "endFrame": 1253
+      },
+      {
+        "text": "is",
+        "startFrame": 1253,
+        "endFrame": 1259
+      },
+      {
+        "text": "economy",
+        "startFrame": 1259,
+        "endFrame": 1286
+      }
+    ]
+  },
+  {
+    "text": "It's what companies use for the boring high volume stuff",
+    "startFrame": 1289,
+    "endFrame": 1379,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 1289,
+        "endFrame": 1296
+      },
+      {
+        "text": "what",
+        "startFrame": 1296,
+        "endFrame": 1305
+      },
+      {
+        "text": "companies",
+        "startFrame": 1305,
+        "endFrame": 1322
+      },
+      {
+        "text": "use",
+        "startFrame": 1322,
+        "endFrame": 1325
+      },
+      {
+        "text": "for",
+        "startFrame": 1324,
+        "endFrame": 1332
+      },
+      {
+        "text": "the",
+        "startFrame": 1332,
+        "endFrame": 1340
+      },
+      {
+        "text": "boring",
+        "startFrame": 1340,
+        "endFrame": 1348
+      },
+      {
+        "text": "high",
+        "startFrame": 1348,
+        "endFrame": 1356
+      },
+      {
+        "text": "volume",
+        "startFrame": 1356,
+        "endFrame": 1377
+      },
+      {
+        "text": "stuff",
+        "startFrame": 1377,
+        "endFrame": 1379
+      }
+    ]
+  },
+  {
+    "text": "Sorting emails pulling info out of documents routing",
+    "startFrame": 1379,
+    "endFrame": 1464,
+    "words": [
+      {
+        "text": "Sorting",
+        "startFrame": 1379,
+        "endFrame": 1391
+      },
+      {
+        "text": "emails",
+        "startFrame": 1391,
+        "endFrame": 1402
+      },
+      {
+        "text": "pulling",
+        "startFrame": 1414,
+        "endFrame": 1417
+      },
+      {
+        "text": "info",
+        "startFrame": 1417,
+        "endFrame": 1426
+      },
+      {
+        "text": "out",
+        "startFrame": 1426,
+        "endFrame": 1430
+      },
+      {
+        "text": "of",
+        "startFrame": 1429,
+        "endFrame": 1433
+      },
+      {
+        "text": "documents",
+        "startFrame": 1432,
+        "endFrame": 1448
+      },
+      {
+        "text": "routing",
+        "startFrame": 1459,
+        "endFrame": 1464
+      }
+    ]
+  },
+  {
+    "text": "requests the unglamorous work that happens",
+    "startFrame": 1464,
+    "endFrame": 1542,
+    "words": [
+      {
+        "text": "requests",
+        "startFrame": 1464,
+        "endFrame": 1481
+      },
+      {
+        "text": "the",
+        "startFrame": 1486,
+        "endFrame": 1490
+      },
+      {
+        "text": "unglamorous",
+        "startFrame": 1488,
+        "endFrame": 1505
+      },
+      {
+        "text": "work",
+        "startFrame": 1505,
+        "endFrame": 1512
+      },
+      {
+        "text": "that",
+        "startFrame": 1512,
+        "endFrame": 1524
+      },
+      {
+        "text": "happens",
+        "startFrame": 1524,
+        "endFrame": 1542
+      }
+    ]
+  },
+  {
+    "text": "millions of times a day",
+    "startFrame": 1542,
+    "endFrame": 1593,
+    "words": [
+      {
+        "text": "millions",
+        "startFrame": 1542,
+        "endFrame": 1552
+      },
+      {
+        "text": "of",
+        "startFrame": 1552,
+        "endFrame": 1562
+      },
+      {
+        "text": "times",
+        "startFrame": 1562,
+        "endFrame": 1573
+      },
+      {
+        "text": "a",
+        "startFrame": 1573,
+        "endFrame": 1583
+      },
+      {
+        "text": "day",
+        "startFrame": 1583,
+        "endFrame": 1593
+      }
+    ]
+  },
+  {
+    "text": "Luna is the one that got cut by 80%",
+    "startFrame": 1598,
+    "endFrame": 1674,
+    "words": [
+      {
+        "text": "Luna",
+        "startFrame": 1598,
+        "endFrame": 1607
+      },
+      {
+        "text": "is",
+        "startFrame": 1607,
+        "endFrame": 1611
+      },
+      {
+        "text": "the",
+        "startFrame": 1611,
+        "endFrame": 1618
+      },
+      {
+        "text": "one",
+        "startFrame": 1618,
+        "endFrame": 1624
+      },
+      {
+        "text": "that",
+        "startFrame": 1624,
+        "endFrame": 1633
+      },
+      {
+        "text": "got",
+        "startFrame": 1633,
+        "endFrame": 1640
+      },
+      {
+        "text": "cut",
+        "startFrame": 1640,
+        "endFrame": 1646
+      },
+      {
+        "text": "by",
+        "startFrame": 1646,
+        "endFrame": 1650
+      },
+      {
+        "text": "80%",
+        "startFrame": 1649,
+        "endFrame": 1674
+      }
+    ]
+  },
+  {
+    "text": "To put it in normal terms you pay",
+    "startFrame": 1674,
+    "endFrame": 1744,
+    "words": [
+      {
+        "text": "To",
+        "startFrame": 1674,
+        "endFrame": 1679
+      },
+      {
+        "text": "put",
+        "startFrame": 1679,
+        "endFrame": 1686
+      },
+      {
+        "text": "it",
+        "startFrame": 1686,
+        "endFrame": 1691
+      },
+      {
+        "text": "in",
+        "startFrame": 1691,
+        "endFrame": 1697
+      },
+      {
+        "text": "normal",
+        "startFrame": 1697,
+        "endFrame": 1721
+      },
+      {
+        "text": "terms",
+        "startFrame": 1721,
+        "endFrame": 1725
+      },
+      {
+        "text": "you",
+        "startFrame": 1732,
+        "endFrame": 1735
+      },
+      {
+        "text": "pay",
+        "startFrame": 1735,
+        "endFrame": 1744
+      }
+    ]
+  },
+  {
+    "text": "by how much text goes in and comes out",
+    "startFrame": 1744,
+    "endFrame": 1825,
+    "words": [
+      {
+        "text": "by",
+        "startFrame": 1744,
+        "endFrame": 1747
+      },
+      {
+        "text": "how",
+        "startFrame": 1746,
+        "endFrame": 1754
+      },
+      {
+        "text": "much",
+        "startFrame": 1754,
+        "endFrame": 1768
+      },
+      {
+        "text": "text",
+        "startFrame": 1768,
+        "endFrame": 1774
+      },
+      {
+        "text": "goes",
+        "startFrame": 1774,
+        "endFrame": 1787
+      },
+      {
+        "text": "in",
+        "startFrame": 1787,
+        "endFrame": 1790
+      },
+      {
+        "text": "and",
+        "startFrame": 1788,
+        "endFrame": 1796
+      },
+      {
+        "text": "comes",
+        "startFrame": 1796,
+        "endFrame": 1815
+      },
+      {
+        "text": "out",
+        "startFrame": 1815,
+        "endFrame": 1825
+      }
+    ]
+  },
+  {
+    "text": "before feeding it roughly a stack of novels worth",
+    "startFrame": 1825,
+    "endFrame": 1911,
+    "words": [
+      {
+        "text": "before",
+        "startFrame": 1825,
+        "endFrame": 1837
+      },
+      {
+        "text": "feeding",
+        "startFrame": 1837,
+        "endFrame": 1849
+      },
+      {
+        "text": "it",
+        "startFrame": 1849,
+        "endFrame": 1862
+      },
+      {
+        "text": "roughly",
+        "startFrame": 1862,
+        "endFrame": 1874
+      },
+      {
+        "text": "a",
+        "startFrame": 1874,
+        "endFrame": 1881
+      },
+      {
+        "text": "stack",
+        "startFrame": 1881,
+        "endFrame": 1889
+      },
+      {
+        "text": "of",
+        "startFrame": 1889,
+        "endFrame": 1896
+      },
+      {
+        "text": "novels",
+        "startFrame": 1896,
+        "endFrame": 1904
+      },
+      {
+        "text": "worth",
+        "startFrame": 1904,
+        "endFrame": 1911
+      }
+    ]
+  },
+  {
+    "text": "of text cost about a dollar",
+    "startFrame": 1911,
+    "endFrame": 1964,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 1911,
+        "endFrame": 1922
+      },
+      {
+        "text": "text",
+        "startFrame": 1922,
+        "endFrame": 1926
+      },
+      {
+        "text": "cost",
+        "startFrame": 1924,
+        "endFrame": 1933
+      },
+      {
+        "text": "about",
+        "startFrame": 1933,
+        "endFrame": 1943
+      },
+      {
+        "text": "a",
+        "startFrame": 1943,
+        "endFrame": 1947
+      },
+      {
+        "text": "dollar",
+        "startFrame": 1945,
+        "endFrame": 1964
+      }
+    ]
+  },
+  {
+    "text": "Now that same pile costs about 20 cents",
+    "startFrame": 1967,
+    "endFrame": 2067,
+    "words": [
+      {
+        "text": "Now",
+        "startFrame": 1967,
+        "endFrame": 1974
+      },
+      {
+        "text": "that",
+        "startFrame": 1974,
+        "endFrame": 1985
+      },
+      {
+        "text": "same",
+        "startFrame": 1985,
+        "endFrame": 1996
+      },
+      {
+        "text": "pile",
+        "startFrame": 1996,
+        "endFrame": 2008
+      },
+      {
+        "text": "costs",
+        "startFrame": 2008,
+        "endFrame": 2019
+      },
+      {
+        "text": "about",
+        "startFrame": 2019,
+        "endFrame": 2030
+      },
+      {
+        "text": "20",
+        "startFrame": 2030,
+        "endFrame": 2045
+      },
+      {
+        "text": "cents",
+        "startFrame": 2045,
+        "endFrame": 2067
+      }
+    ]
+  },
+  {
+    "text": "The middle model got a smaller cut 20%,",
+    "startFrame": 2067,
+    "endFrame": 2142,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 2067,
+        "endFrame": 2073
+      },
+      {
+        "text": "middle",
+        "startFrame": 2073,
+        "endFrame": 2084
+      },
+      {
+        "text": "model",
+        "startFrame": 2084,
+        "endFrame": 2094
+      },
+      {
+        "text": "got",
+        "startFrame": 2094,
+        "endFrame": 2100
+      },
+      {
+        "text": "a",
+        "startFrame": 2100,
+        "endFrame": 2103
+      },
+      {
+        "text": "smaller",
+        "startFrame": 2102,
+        "endFrame": 2121
+      },
+      {
+        "text": "cut",
+        "startFrame": 2121,
+        "endFrame": 2125
+      },
+      {
+        "text": "20",
+        "startFrame": 2126,
+        "endFrame": 2136
+      },
+      {
+        "text": "%,",
+        "startFrame": 2136,
+        "endFrame": 2142
+      }
+    ]
+  },
+  {
+    "text": "and the expensive one didn't get cheaper at all",
+    "startFrame": 2142,
+    "endFrame": 2248,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 2142,
+        "endFrame": 2153
+      },
+      {
+        "text": "the",
+        "startFrame": 2153,
+        "endFrame": 2157
+      },
+      {
+        "text": "expensive",
+        "startFrame": 2156,
+        "endFrame": 2171
+      },
+      {
+        "text": "one",
+        "startFrame": 2171,
+        "endFrame": 2177
+      },
+      {
+        "text": "didn't",
+        "startFrame": 2177,
+        "endFrame": 2192
+      },
+      {
+        "text": "get",
+        "startFrame": 2192,
+        "endFrame": 2196
+      },
+      {
+        "text": "cheaper",
+        "startFrame": 2194,
+        "endFrame": 2211
+      },
+      {
+        "text": "at",
+        "startFrame": 2211,
+        "endFrame": 2241
+      },
+      {
+        "text": "all",
+        "startFrame": 2241,
+        "endFrame": 2245
+      }
+    ]
+  },
+  {
+    "text": "Worth remembering that it comes up again later",
+    "startFrame": 2248,
+    "endFrame": 2339,
+    "words": [
+      {
+        "text": "Worth",
+        "startFrame": 2248,
+        "endFrame": 2258
+      },
+      {
+        "text": "remembering",
+        "startFrame": 2258,
+        "endFrame": 2282
+      },
+      {
+        "text": "that",
+        "startFrame": 2282,
+        "endFrame": 2291
+      },
+      {
+        "text": "it",
+        "startFrame": 2294,
+        "endFrame": 2298
+      },
+      {
+        "text": "comes",
+        "startFrame": 2298,
+        "endFrame": 2309
+      },
+      {
+        "text": "up",
+        "startFrame": 2309,
+        "endFrame": 2324
+      },
+      {
+        "text": "again",
+        "startFrame": 2324,
+        "endFrame": 2335
+      },
+      {
+        "text": "later",
+        "startFrame": 2335,
+        "endFrame": 2339
+      }
+    ]
+  },
+  {
+    "text": "Here's what they actually did",
+    "startFrame": 2342,
+    "endFrame": 2391,
+    "words": [
+      {
+        "text": "Here's",
+        "startFrame": 2342,
+        "endFrame": 2354
+      },
+      {
+        "text": "what",
+        "startFrame": 2354,
+        "endFrame": 2360
+      },
+      {
+        "text": "they",
+        "startFrame": 2360,
+        "endFrame": 2368
+      },
+      {
+        "text": "actually",
+        "startFrame": 2368,
+        "endFrame": 2387
+      },
+      {
+        "text": "did",
+        "startFrame": 2387,
+        "endFrame": 2391
+      }
+    ]
+  },
+  {
+    "text": "After their top model Sol was finished and shipped",
+    "startFrame": 2393,
+    "endFrame": 2464,
+    "words": [
+      {
+        "text": "After",
+        "startFrame": 2393,
+        "endFrame": 2404
+      },
+      {
+        "text": "their",
+        "startFrame": 2404,
+        "endFrame": 2411
+      },
+      {
+        "text": "top",
+        "startFrame": 2411,
+        "endFrame": 2420
+      },
+      {
+        "text": "model",
+        "startFrame": 2420,
+        "endFrame": 2425
+      },
+      {
+        "text": "Sol",
+        "startFrame": 2425,
+        "endFrame": 2430
+      },
+      {
+        "text": "was",
+        "startFrame": 2430,
+        "endFrame": 2436
+      },
+      {
+        "text": "finished",
+        "startFrame": 2436,
+        "endFrame": 2450
+      },
+      {
+        "text": "and",
+        "startFrame": 2450,
+        "endFrame": 2454
+      },
+      {
+        "text": "shipped",
+        "startFrame": 2454,
+        "endFrame": 2464
+      }
+    ]
+  },
+  {
+    "text": "they pointed it at their own infrastructure and basically",
+    "startFrame": 2474,
+    "endFrame": 2570,
+    "words": [
+      {
+        "text": "they",
+        "startFrame": 2474,
+        "endFrame": 2477
+      },
+      {
+        "text": "pointed",
+        "startFrame": 2476,
+        "endFrame": 2488
+      },
+      {
+        "text": "it",
+        "startFrame": 2488,
+        "endFrame": 2492
+      },
+      {
+        "text": "at",
+        "startFrame": 2492,
+        "endFrame": 2497
+      },
+      {
+        "text": "their",
+        "startFrame": 2497,
+        "endFrame": 2504
+      },
+      {
+        "text": "own",
+        "startFrame": 2504,
+        "endFrame": 2509
+      },
+      {
+        "text": "infrastructure",
+        "startFrame": 2509,
+        "endFrame": 2537
+      },
+      {
+        "text": "and",
+        "startFrame": 2540,
+        "endFrame": 2545
+      },
+      {
+        "text": "basically",
+        "startFrame": 2545,
+        "endFrame": 2570
+      }
+    ]
+  },
+  {
+    "text": "said go make yourself cheaper to run",
+    "startFrame": 2570,
+    "endFrame": 2645,
+    "words": [
+      {
+        "text": "said",
+        "startFrame": 2570,
+        "endFrame": 2576
+      },
+      {
+        "text": "go",
+        "startFrame": 2581,
+        "endFrame": 2586
+      },
+      {
+        "text": "make",
+        "startFrame": 2586,
+        "endFrame": 2595
+      },
+      {
+        "text": "yourself",
+        "startFrame": 2595,
+        "endFrame": 2614
+      },
+      {
+        "text": "cheaper",
+        "startFrame": 2614,
+        "endFrame": 2636
+      },
+      {
+        "text": "to",
+        "startFrame": 2636,
+        "endFrame": 2639
+      },
+      {
+        "text": "run",
+        "startFrame": 2637,
+        "endFrame": 2645
+      }
+    ]
+  },
+  {
+    "text": "Specifically at the low level code that does the",
+    "startFrame": 2653,
+    "endFrame": 2711,
+    "words": [
+      {
+        "text": "Specifically",
+        "startFrame": 2653,
+        "endFrame": 2672
+      },
+      {
+        "text": "at",
+        "startFrame": 2672,
+        "endFrame": 2676
+      },
+      {
+        "text": "the",
+        "startFrame": 2674,
+        "endFrame": 2678
+      },
+      {
+        "text": "low",
+        "startFrame": 2678,
+        "endFrame": 2682
+      },
+      {
+        "text": "level",
+        "startFrame": 2682,
+        "endFrame": 2691
+      },
+      {
+        "text": "code",
+        "startFrame": 2691,
+        "endFrame": 2695
+      },
+      {
+        "text": "that",
+        "startFrame": 2695,
+        "endFrame": 2701
+      },
+      {
+        "text": "does",
+        "startFrame": 2701,
+        "endFrame": 2707
+      },
+      {
+        "text": "the",
+        "startFrame": 2707,
+        "endFrame": 2711
+      }
+    ]
+  },
+  {
+    "text": "actual number crunching on the graphics cards",
+    "startFrame": 2711,
+    "endFrame": 2799,
+    "words": [
+      {
+        "text": "actual",
+        "startFrame": 2711,
+        "endFrame": 2720
+      },
+      {
+        "text": "number",
+        "startFrame": 2720,
+        "endFrame": 2728
+      },
+      {
+        "text": "crunching",
+        "startFrame": 2728,
+        "endFrame": 2742
+      },
+      {
+        "text": "on",
+        "startFrame": 2741,
+        "endFrame": 2746
+      },
+      {
+        "text": "the",
+        "startFrame": 2746,
+        "endFrame": 2764
+      },
+      {
+        "text": "graphics",
+        "startFrame": 2764,
+        "endFrame": 2781
+      },
+      {
+        "text": "cards",
+        "startFrame": 2781,
+        "endFrame": 2799
+      }
+    ]
+  },
+  {
+    "text": "If the AI is a factory this code is",
+    "startFrame": 2801,
+    "endFrame": 2865,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 2801,
+        "endFrame": 2805
+      },
+      {
+        "text": "the",
+        "startFrame": 2805,
+        "endFrame": 2812
+      },
+      {
+        "text": "AI",
+        "startFrame": 2812,
+        "endFrame": 2816
+      },
+      {
+        "text": "is",
+        "startFrame": 2816,
+        "endFrame": 2820
+      },
+      {
+        "text": "a",
+        "startFrame": 2820,
+        "endFrame": 2824
+      },
+      {
+        "text": "factory",
+        "startFrame": 2822,
+        "endFrame": 2842
+      },
+      {
+        "text": "this",
+        "startFrame": 2847,
+        "endFrame": 2853
+      },
+      {
+        "text": "code",
+        "startFrame": 2853,
+        "endFrame": 2859
+      },
+      {
+        "text": "is",
+        "startFrame": 2859,
+        "endFrame": 2865
+      }
+    ]
+  },
+  {
+    "text": "the individual machines on the factory floor",
+    "startFrame": 2865,
+    "endFrame": 2954,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 2865,
+        "endFrame": 2877
+      },
+      {
+        "text": "individual",
+        "startFrame": 2877,
+        "endFrame": 2889
+      },
+      {
+        "text": "machines",
+        "startFrame": 2889,
+        "endFrame": 2901
+      },
+      {
+        "text": "on",
+        "startFrame": 2901,
+        "endFrame": 2913
+      },
+      {
+        "text": "the",
+        "startFrame": 2913,
+        "endFrame": 2922
+      },
+      {
+        "text": "factory",
+        "startFrame": 2922,
+        "endFrame": 2935
+      },
+      {
+        "text": "floor",
+        "startFrame": 2935,
+        "endFrame": 2954
+      }
+    ]
+  },
+  {
+    "text": "The things physically doing the work",
+    "startFrame": 2955,
+    "endFrame": 3029,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 2955,
+        "endFrame": 2962
+      },
+      {
+        "text": "things",
+        "startFrame": 2962,
+        "endFrame": 2976
+      },
+      {
+        "text": "physically",
+        "startFrame": 2976,
+        "endFrame": 2997
+      },
+      {
+        "text": "doing",
+        "startFrame": 2997,
+        "endFrame": 3010
+      },
+      {
+        "text": "the",
+        "startFrame": 3010,
+        "endFrame": 3026
+      },
+      {
+        "text": "work",
+        "startFrame": 3026,
+        "endFrame": 3029
+      }
+    ]
+  },
+  {
+    "text": "Normally that's very specialist stuff",
+    "startFrame": 3034,
+    "endFrame": 3088,
+    "words": [
+      {
+        "text": "Normally",
+        "startFrame": 3034,
+        "endFrame": 3046
+      },
+      {
+        "text": "that's",
+        "startFrame": 3046,
+        "endFrame": 3055
+      },
+      {
+        "text": "very",
+        "startFrame": 3055,
+        "endFrame": 3060
+      },
+      {
+        "text": "specialist",
+        "startFrame": 3060,
+        "endFrame": 3081
+      },
+      {
+        "text": "stuff",
+        "startFrame": 3081,
+        "endFrame": 3088
+      }
+    ]
+  },
+  {
+    "text": "you've got expensive humans hand-tuning it for",
+    "startFrame": 3089,
+    "endFrame": 3156,
+    "words": [
+      {
+        "text": "you've",
+        "startFrame": 3089,
+        "endFrame": 3101
+      },
+      {
+        "text": "got",
+        "startFrame": 3101,
+        "endFrame": 3113
+      },
+      {
+        "text": "expensive",
+        "startFrame": 3113,
+        "endFrame": 3125
+      },
+      {
+        "text": "humans",
+        "startFrame": 3125,
+        "endFrame": 3137
+      },
+      {
+        "text": "hand-tuning",
+        "startFrame": 3137,
+        "endFrame": 3149
+      },
+      {
+        "text": "it",
+        "startFrame": 3149,
+        "endFrame": 3153
+      },
+      {
+        "text": "for",
+        "startFrame": 3151,
+        "endFrame": 3156
+      }
+    ]
+  },
+  {
+    "text": "months because small improvements there save a",
+    "startFrame": 3156,
+    "endFrame": 3250,
+    "words": [
+      {
+        "text": "months",
+        "startFrame": 3156,
+        "endFrame": 3169
+      },
+      {
+        "text": "because",
+        "startFrame": 3175,
+        "endFrame": 3181
+      },
+      {
+        "text": "small",
+        "startFrame": 3181,
+        "endFrame": 3197
+      },
+      {
+        "text": "improvements",
+        "startFrame": 3197,
+        "endFrame": 3213
+      },
+      {
+        "text": "there",
+        "startFrame": 3213,
+        "endFrame": 3230
+      },
+      {
+        "text": "save",
+        "startFrame": 3230,
+        "endFrame": 3246
+      },
+      {
+        "text": "a",
+        "startFrame": 3246,
+        "endFrame": 3250
+      }
+    ]
+  },
+  {
+    "text": "lot of money at scale",
+    "startFrame": 3250,
+    "endFrame": 3301,
+    "words": [
+      {
+        "text": "lot",
+        "startFrame": 3250,
+        "endFrame": 3256
+      },
+      {
+        "text": "of",
+        "startFrame": 3256,
+        "endFrame": 3261
+      },
+      {
+        "text": "money",
+        "startFrame": 3261,
+        "endFrame": 3274
+      },
+      {
+        "text": "at",
+        "startFrame": 3274,
+        "endFrame": 3279
+      },
+      {
+        "text": "scale",
+        "startFrame": 3279,
+        "endFrame": 3301
+      }
+    ]
+  },
+  {
+    "text": "So they had the AI rewrite it instead And it worked",
+    "startFrame": 3301,
+    "endFrame": 3403,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 3301,
+        "endFrame": 3305
+      },
+      {
+        "text": "they",
+        "startFrame": 3305,
+        "endFrame": 3321
+      },
+      {
+        "text": "had",
+        "startFrame": 3321,
+        "endFrame": 3325
+      },
+      {
+        "text": "the",
+        "startFrame": 3323,
+        "endFrame": 3330
+      },
+      {
+        "text": "AI",
+        "startFrame": 3330,
+        "endFrame": 3334
+      },
+      {
+        "text": "rewrite",
+        "startFrame": 3334,
+        "endFrame": 3353
+      },
+      {
+        "text": "it",
+        "startFrame": 3353,
+        "endFrame": 3357
+      },
+      {
+        "text": "instead",
+        "startFrame": 3357,
+        "endFrame": 3381
+      },
+      {
+        "text": "And",
+        "startFrame": 3383,
+        "endFrame": 3389
+      },
+      {
+        "text": "it",
+        "startFrame": 3389,
+        "endFrame": 3393
+      },
+      {
+        "text": "worked",
+        "startFrame": 3393,
+        "endFrame": 3402
+      }
+    ]
+  },
+  {
+    "text": "Running everything got about 20% cheaper",
+    "startFrame": 3420,
+    "endFrame": 3501,
+    "words": [
+      {
+        "text": "Running",
+        "startFrame": 3420,
+        "endFrame": 3428
+      },
+      {
+        "text": "everything",
+        "startFrame": 3428,
+        "endFrame": 3450
+      },
+      {
+        "text": "got",
+        "startFrame": 3450,
+        "endFrame": 3456
+      },
+      {
+        "text": "about",
+        "startFrame": 3456,
+        "endFrame": 3467
+      },
+      {
+        "text": "20",
+        "startFrame": 3467,
+        "endFrame": 3480
+      },
+      {
+        "text": "%",
+        "startFrame": 3480,
+        "endFrame": 3497
+      },
+      {
+        "text": "cheaper",
+        "startFrame": 3497,
+        "endFrame": 3501
+      }
+    ]
+  },
+  {
+    "text": "one detail I liked though they didn't just trust it",
+    "startFrame": 3505,
+    "endFrame": 3584,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 3505,
+        "endFrame": 3512
+      },
+      {
+        "text": "detail",
+        "startFrame": 3512,
+        "endFrame": 3520
+      },
+      {
+        "text": "I",
+        "startFrame": 3520,
+        "endFrame": 3527
+      },
+      {
+        "text": "liked",
+        "startFrame": 3527,
+        "endFrame": 3535
+      },
+      {
+        "text": "though",
+        "startFrame": 3535,
+        "endFrame": 3542
+      },
+      {
+        "text": "they",
+        "startFrame": 3548,
+        "endFrame": 3551
+      },
+      {
+        "text": "didn't",
+        "startFrame": 3548,
+        "endFrame": 3558
+      },
+      {
+        "text": "just",
+        "startFrame": 3558,
+        "endFrame": 3565
+      },
+      {
+        "text": "trust",
+        "startFrame": 3565,
+        "endFrame": 3573
+      },
+      {
+        "text": "it",
+        "startFrame": 3573,
+        "endFrame": 3577
+      }
+    ]
+  },
+  {
+    "text": "They ran the AI's rewritten code through a separate",
+    "startFrame": 3584,
+    "endFrame": 3664,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 3584,
+        "endFrame": 3596
+      },
+      {
+        "text": "ran",
+        "startFrame": 3596,
+        "endFrame": 3600
+      },
+      {
+        "text": "the",
+        "startFrame": 3597,
+        "endFrame": 3606
+      },
+      {
+        "text": "AI's",
+        "startFrame": 3606,
+        "endFrame": 3615
+      },
+      {
+        "text": "rewritten",
+        "startFrame": 3615,
+        "endFrame": 3623
+      },
+      {
+        "text": "code",
+        "startFrame": 3623,
+        "endFrame": 3632
+      },
+      {
+        "text": "through",
+        "startFrame": 3632,
+        "endFrame": 3648
+      },
+      {
+        "text": "a",
+        "startFrame": 3648,
+        "endFrame": 3656
+      },
+      {
+        "text": "separate",
+        "startFrame": 3656,
+        "endFrame": 3664
+      }
+    ]
+  },
+  {
+    "text": "tool that checks the math is still correct before",
+    "startFrame": 3664,
+    "endFrame": 3747,
+    "words": [
+      {
+        "text": "tool",
+        "startFrame": 3664,
+        "endFrame": 3674
+      },
+      {
+        "text": "that",
+        "startFrame": 3674,
+        "endFrame": 3679
+      },
+      {
+        "text": "checks",
+        "startFrame": 3679,
+        "endFrame": 3695
+      },
+      {
+        "text": "the",
+        "startFrame": 3695,
+        "endFrame": 3698
+      },
+      {
+        "text": "math",
+        "startFrame": 3697,
+        "endFrame": 3708
+      },
+      {
+        "text": "is",
+        "startFrame": 3708,
+        "endFrame": 3712
+      },
+      {
+        "text": "still",
+        "startFrame": 3710,
+        "endFrame": 3718
+      },
+      {
+        "text": "correct",
+        "startFrame": 3718,
+        "endFrame": 3734
+      },
+      {
+        "text": "before",
+        "startFrame": 3734,
+        "endFrame": 3747
+      }
+    ]
+  },
+  {
+    "text": "letting it near production which seems like a right call",
+    "startFrame": 3747,
+    "endFrame": 3854,
+    "words": [
+      {
+        "text": "letting",
+        "startFrame": 3747,
+        "endFrame": 3762
+      },
+      {
+        "text": "it",
+        "startFrame": 3762,
+        "endFrame": 3766
+      },
+      {
+        "text": "near",
+        "startFrame": 3766,
+        "endFrame": 3775
+      },
+      {
+        "text": "production",
+        "startFrame": 3775,
+        "endFrame": 3802
+      },
+      {
+        "text": "which",
+        "startFrame": 3803,
+        "endFrame": 3812
+      },
+      {
+        "text": "seems",
+        "startFrame": 3812,
+        "endFrame": 3821
+      },
+      {
+        "text": "like",
+        "startFrame": 3821,
+        "endFrame": 3829
+      },
+      {
+        "text": "a",
+        "startFrame": 3829,
+        "endFrame": 3832
+      },
+      {
+        "text": "right",
+        "startFrame": 3831,
+        "endFrame": 3840
+      },
+      {
+        "text": "call",
+        "startFrame": 3840,
+        "endFrame": 3854
+      }
+    ]
+  },
+  {
+    "text": "You probably shouldn't let a model rewrite the",
+    "startFrame": 3854,
+    "endFrame": 3931,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 3854,
+        "endFrame": 3860
+      },
+      {
+        "text": "probably",
+        "startFrame": 3860,
+        "endFrame": 3877
+      },
+      {
+        "text": "shouldn't",
+        "startFrame": 3877,
+        "endFrame": 3895
+      },
+      {
+        "text": "let",
+        "startFrame": 3895,
+        "endFrame": 3901
+      },
+      {
+        "text": "a",
+        "startFrame": 3901,
+        "endFrame": 3904
+      },
+      {
+        "text": "model",
+        "startFrame": 3902,
+        "endFrame": 3913
+      },
+      {
+        "text": "rewrite",
+        "startFrame": 3913,
+        "endFrame": 3926
+      },
+      {
+        "text": "the",
+        "startFrame": 3926,
+        "endFrame": 3931
+      }
+    ]
+  },
+  {
+    "text": "engine and just hope",
+    "startFrame": 3931,
+    "endFrame": 3970,
+    "words": [
+      {
+        "text": "engine",
+        "startFrame": 3931,
+        "endFrame": 3945
+      },
+      {
+        "text": "and",
+        "startFrame": 3945,
+        "endFrame": 3948
+      },
+      {
+        "text": "just",
+        "startFrame": 3947,
+        "endFrame": 3969
+      },
+      {
+        "text": "hope",
+        "startFrame": 3969,
+        "endFrame": 3970
+      }
+    ]
+  },
+  {
+    "text": "The second thing it fixed is easier to picture",
+    "startFrame": 3970,
+    "endFrame": 4056,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 3970,
+        "endFrame": 3976
+      },
+      {
+        "text": "second",
+        "startFrame": 3976,
+        "endFrame": 3990
+      },
+      {
+        "text": "thing",
+        "startFrame": 3990,
+        "endFrame": 4005
+      },
+      {
+        "text": "it",
+        "startFrame": 4005,
+        "endFrame": 4009
+      },
+      {
+        "text": "fixed",
+        "startFrame": 4005,
+        "endFrame": 4016
+      },
+      {
+        "text": "is",
+        "startFrame": 4016,
+        "endFrame": 4021
+      },
+      {
+        "text": "easier",
+        "startFrame": 4021,
+        "endFrame": 4039
+      },
+      {
+        "text": "to",
+        "startFrame": 4039,
+        "endFrame": 4053
+      },
+      {
+        "text": "picture",
+        "startFrame": 4053,
+        "endFrame": 4056
+      }
+    ]
+  },
+  {
+    "text": "Normally an AI writes one word at a time",
+    "startFrame": 4063,
+    "endFrame": 4125,
+    "words": [
+      {
+        "text": "Normally",
+        "startFrame": 4063,
+        "endFrame": 4078
+      },
+      {
+        "text": "an",
+        "startFrame": 4078,
+        "endFrame": 4081
+      },
+      {
+        "text": "AI",
+        "startFrame": 4081,
+        "endFrame": 4085
+      },
+      {
+        "text": "writes",
+        "startFrame": 4085,
+        "endFrame": 4096
+      },
+      {
+        "text": "one",
+        "startFrame": 4096,
+        "endFrame": 4101
+      },
+      {
+        "text": "word",
+        "startFrame": 4101,
+        "endFrame": 4109
+      },
+      {
+        "text": "at",
+        "startFrame": 4109,
+        "endFrame": 4112
+      },
+      {
+        "text": "a",
+        "startFrame": 4112,
+        "endFrame": 4116
+      },
+      {
+        "text": "time",
+        "startFrame": 4114,
+        "endFrame": 4125
+      }
+    ]
+  },
+  {
+    "text": "which is slow because it does a full round",
+    "startFrame": 4127,
+    "endFrame": 4195,
+    "words": [
+      {
+        "text": "which",
+        "startFrame": 4127,
+        "endFrame": 4138
+      },
+      {
+        "text": "is",
+        "startFrame": 4138,
+        "endFrame": 4142
+      },
+      {
+        "text": "slow",
+        "startFrame": 4138,
+        "endFrame": 4149
+      },
+      {
+        "text": "because",
+        "startFrame": 4151,
+        "endFrame": 4166
+      },
+      {
+        "text": "it",
+        "startFrame": 4166,
+        "endFrame": 4169
+      },
+      {
+        "text": "does",
+        "startFrame": 4166,
+        "endFrame": 4174
+      },
+      {
+        "text": "a",
+        "startFrame": 4174,
+        "endFrame": 4177
+      },
+      {
+        "text": "full",
+        "startFrame": 4175,
+        "endFrame": 4186
+      },
+      {
+        "text": "round",
+        "startFrame": 4186,
+        "endFrame": 4195
+      }
+    ]
+  },
+  {
+    "text": "of thinking for every single word",
+    "startFrame": 4195,
+    "endFrame": 4250,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 4195,
+        "endFrame": 4199
+      },
+      {
+        "text": "thinking",
+        "startFrame": 4198,
+        "endFrame": 4216
+      },
+      {
+        "text": "for",
+        "startFrame": 4216,
+        "endFrame": 4220
+      },
+      {
+        "text": "every",
+        "startFrame": 4218,
+        "endFrame": 4228
+      },
+      {
+        "text": "single",
+        "startFrame": 4228,
+        "endFrame": 4237
+      },
+      {
+        "text": "word",
+        "startFrame": 4237,
+        "endFrame": 4250
+      }
+    ]
+  },
+  {
+    "text": "There's a trick to speed that up",
+    "startFrame": 4263,
+    "endFrame": 4322,
+    "words": [
+      {
+        "text": "There's",
+        "startFrame": 4263,
+        "endFrame": 4269
+      },
+      {
+        "text": "a",
+        "startFrame": 4269,
+        "endFrame": 4272
+      },
+      {
+        "text": "trick",
+        "startFrame": 4270,
+        "endFrame": 4286
+      },
+      {
+        "text": "to",
+        "startFrame": 4286,
+        "endFrame": 4290
+      },
+      {
+        "text": "speed",
+        "startFrame": 4287,
+        "endFrame": 4299
+      },
+      {
+        "text": "that",
+        "startFrame": 4299,
+        "endFrame": 4309
+      },
+      {
+        "text": "up",
+        "startFrame": 4309,
+        "endFrame": 4322
+      }
+    ]
+  },
+  {
+    "text": "You have a small fast model guess the next few words ahead",
+    "startFrame": 4322,
+    "endFrame": 4418,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 4322,
+        "endFrame": 4328
+      },
+      {
+        "text": "have",
+        "startFrame": 4328,
+        "endFrame": 4336
+      },
+      {
+        "text": "a",
+        "startFrame": 4336,
+        "endFrame": 4340
+      },
+      {
+        "text": "small",
+        "startFrame": 4338,
+        "endFrame": 4350
+      },
+      {
+        "text": "fast",
+        "startFrame": 4350,
+        "endFrame": 4355
+      },
+      {
+        "text": "model",
+        "startFrame": 4355,
+        "endFrame": 4366
+      },
+      {
+        "text": "guess",
+        "startFrame": 4366,
+        "endFrame": 4380
+      },
+      {
+        "text": "the",
+        "startFrame": 4380,
+        "endFrame": 4384
+      },
+      {
+        "text": "next",
+        "startFrame": 4382,
+        "endFrame": 4388
+      },
+      {
+        "text": "few",
+        "startFrame": 4388,
+        "endFrame": 4396
+      },
+      {
+        "text": "words",
+        "startFrame": 4396,
+        "endFrame": 4403
+      },
+      {
+        "text": "ahead",
+        "startFrame": 4403,
+        "endFrame": 4418
+      }
+    ]
+  },
+  {
+    "text": "and the big smart model just check those guesses",
+    "startFrame": 4421,
+    "endFrame": 4496,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 4421,
+        "endFrame": 4429
+      },
+      {
+        "text": "the",
+        "startFrame": 4429,
+        "endFrame": 4437
+      },
+      {
+        "text": "big",
+        "startFrame": 4437,
+        "endFrame": 4445
+      },
+      {
+        "text": "smart",
+        "startFrame": 4445,
+        "endFrame": 4453
+      },
+      {
+        "text": "model",
+        "startFrame": 4453,
+        "endFrame": 4461
+      },
+      {
+        "text": "just",
+        "startFrame": 4461,
+        "endFrame": 4468
+      },
+      {
+        "text": "check",
+        "startFrame": 4468,
+        "endFrame": 4476
+      },
+      {
+        "text": "those",
+        "startFrame": 4476,
+        "endFrame": 4486
+      },
+      {
+        "text": "guesses",
+        "startFrame": 4486,
+        "endFrame": 4496
+      }
+    ]
+  },
+  {
+    "text": "instead of writing everything itself",
+    "startFrame": 4496,
+    "endFrame": 4556,
+    "words": [
+      {
+        "text": "instead",
+        "startFrame": 4496,
+        "endFrame": 4508
+      },
+      {
+        "text": "of",
+        "startFrame": 4508,
+        "endFrame": 4512
+      },
+      {
+        "text": "writing",
+        "startFrame": 4511,
+        "endFrame": 4524
+      },
+      {
+        "text": "everything",
+        "startFrame": 4524,
+        "endFrame": 4540
+      },
+      {
+        "text": "itself",
+        "startFrame": 4540,
+        "endFrame": 4556
+      }
+    ]
+  },
+  {
+    "text": "It's like having a junior assistant who finish",
+    "startFrame": 4558,
+    "endFrame": 4628,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 4558,
+        "endFrame": 4567
+      },
+      {
+        "text": "like",
+        "startFrame": 4567,
+        "endFrame": 4572
+      },
+      {
+        "text": "having",
+        "startFrame": 4572,
+        "endFrame": 4583
+      },
+      {
+        "text": "a",
+        "startFrame": 4583,
+        "endFrame": 4586
+      },
+      {
+        "text": "junior",
+        "startFrame": 4584,
+        "endFrame": 4595
+      },
+      {
+        "text": "assistant",
+        "startFrame": 4595,
+        "endFrame": 4612
+      },
+      {
+        "text": "who",
+        "startFrame": 4612,
+        "endFrame": 4617
+      },
+      {
+        "text": "finish",
+        "startFrame": 4617,
+        "endFrame": 4628
+      }
+    ]
+  },
+  {
+    "text": "your sentence and you just go Yep yep",
+    "startFrame": 4628,
+    "endFrame": 4694,
+    "words": [
+      {
+        "text": "your",
+        "startFrame": 4628,
+        "endFrame": 4645
+      },
+      {
+        "text": "sentence",
+        "startFrame": 4645,
+        "endFrame": 4649
+      },
+      {
+        "text": "and",
+        "startFrame": 4653,
+        "endFrame": 4662
+      },
+      {
+        "text": "you",
+        "startFrame": 4662,
+        "endFrame": 4666
+      },
+      {
+        "text": "just",
+        "startFrame": 4664,
+        "endFrame": 4675
+      },
+      {
+        "text": "go",
+        "startFrame": 4675,
+        "endFrame": 4678
+      },
+      {
+        "text": "Yep",
+        "startFrame": 4678,
+        "endFrame": 4682
+      },
+      {
+        "text": "yep",
+        "startFrame": 4688,
+        "endFrame": 4694
+      }
+    ]
+  },
+  {
+    "text": "yep and correct faster than saying every word yourself",
+    "startFrame": 4702,
+    "endFrame": 4830,
+    "words": [
+      {
+        "text": "yep",
+        "startFrame": 4702,
+        "endFrame": 4706
+      },
+      {
+        "text": "and",
+        "startFrame": 4706,
+        "endFrame": 4714
+      },
+      {
+        "text": "correct",
+        "startFrame": 4714,
+        "endFrame": 4730
+      },
+      {
+        "text": "faster",
+        "startFrame": 4750,
+        "endFrame": 4754
+      },
+      {
+        "text": "than",
+        "startFrame": 4752,
+        "endFrame": 4763
+      },
+      {
+        "text": "saying",
+        "startFrame": 4763,
+        "endFrame": 4779
+      },
+      {
+        "text": "every",
+        "startFrame": 4779,
+        "endFrame": 4792
+      },
+      {
+        "text": "word",
+        "startFrame": 4792,
+        "endFrame": 4802
+      },
+      {
+        "text": "yourself",
+        "startFrame": 4802,
+        "endFrame": 4830
+      }
+    ]
+  },
+  {
+    "text": "But it only works if the junior is decent at guessing",
+    "startFrame": 4832,
+    "endFrame": 4926,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 4832,
+        "endFrame": 4838
+      },
+      {
+        "text": "it",
+        "startFrame": 4838,
+        "endFrame": 4842
+      },
+      {
+        "text": "only",
+        "startFrame": 4842,
+        "endFrame": 4850
+      },
+      {
+        "text": "works",
+        "startFrame": 4850,
+        "endFrame": 4861
+      },
+      {
+        "text": "if",
+        "startFrame": 4861,
+        "endFrame": 4866
+      },
+      {
+        "text": "the",
+        "startFrame": 4866,
+        "endFrame": 4870
+      },
+      {
+        "text": "junior",
+        "startFrame": 4870,
+        "endFrame": 4883
+      },
+      {
+        "text": "is",
+        "startFrame": 4883,
+        "endFrame": 4887
+      },
+      {
+        "text": "decent",
+        "startFrame": 4887,
+        "endFrame": 4899
+      },
+      {
+        "text": "at",
+        "startFrame": 4899,
+        "endFrame": 4914
+      },
+      {
+        "text": "guessing",
+        "startFrame": 4914,
+        "endFrame": 4926
+      }
+    ]
+  },
+  {
+    "text": "If it guesses wrong you throw the guesses out",
+    "startFrame": 4927,
+    "endFrame": 5003,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 4927,
+        "endFrame": 4931
+      },
+      {
+        "text": "it",
+        "startFrame": 4931,
+        "endFrame": 4935
+      },
+      {
+        "text": "guesses",
+        "startFrame": 4935,
+        "endFrame": 4949
+      },
+      {
+        "text": "wrong",
+        "startFrame": 4949,
+        "endFrame": 4961
+      },
+      {
+        "text": "you",
+        "startFrame": 4963,
+        "endFrame": 4971
+      },
+      {
+        "text": "throw",
+        "startFrame": 4971,
+        "endFrame": 4979
+      },
+      {
+        "text": "the",
+        "startFrame": 4979,
+        "endFrame": 4987
+      },
+      {
+        "text": "guesses",
+        "startFrame": 4987,
+        "endFrame": 4995
+      },
+      {
+        "text": "out",
+        "startFrame": 4995,
+        "endFrame": 5003
+      }
+    ]
+  },
+  {
+    "text": "and you have wasted that effort",
+    "startFrame": 5003,
+    "endFrame": 5062,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 5003,
+        "endFrame": 5009
+      },
+      {
+        "text": "you",
+        "startFrame": 5009,
+        "endFrame": 5019
+      },
+      {
+        "text": "have",
+        "startFrame": 5019,
+        "endFrame": 5025
+      },
+      {
+        "text": "wasted",
+        "startFrame": 5025,
+        "endFrame": 5036
+      },
+      {
+        "text": "that",
+        "startFrame": 5036,
+        "endFrame": 5046
+      },
+      {
+        "text": "effort",
+        "startFrame": 5046,
+        "endFrame": 5062
+      }
+    ]
+  },
+  {
+    "text": "So Sol ran hundreds of experiments improving that little",
+    "startFrame": 5062,
+    "endFrame": 5167,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 5062,
+        "endFrame": 5067
+      },
+      {
+        "text": "Sol",
+        "startFrame": 5067,
+        "endFrame": 5074
+      },
+      {
+        "text": "ran",
+        "startFrame": 5074,
+        "endFrame": 5088
+      },
+      {
+        "text": "hundreds",
+        "startFrame": 5088,
+        "endFrame": 5102
+      },
+      {
+        "text": "of",
+        "startFrame": 5102,
+        "endFrame": 5115
+      },
+      {
+        "text": "experiments",
+        "startFrame": 5115,
+        "endFrame": 5129
+      },
+      {
+        "text": "improving",
+        "startFrame": 5129,
+        "endFrame": 5150
+      },
+      {
+        "text": "that",
+        "startFrame": 5150,
+        "endFrame": 5156
+      },
+      {
+        "text": "little",
+        "startFrame": 5156,
+        "endFrame": 5167
+      }
+    ]
+  },
+  {
+    "text": "guesser and got it more than 15%",
+    "startFrame": 5167,
+    "endFrame": 5248,
+    "words": [
+      {
+        "text": "guesser",
+        "startFrame": 5167,
+        "endFrame": 5190
+      },
+      {
+        "text": "and",
+        "startFrame": 5188,
+        "endFrame": 5194
+      },
+      {
+        "text": "got",
+        "startFrame": 5194,
+        "endFrame": 5205
+      },
+      {
+        "text": "it",
+        "startFrame": 5205,
+        "endFrame": 5215
+      },
+      {
+        "text": "more",
+        "startFrame": 5215,
+        "endFrame": 5226
+      },
+      {
+        "text": "than",
+        "startFrame": 5226,
+        "endFrame": 5236
+      },
+      {
+        "text": "15",
+        "startFrame": 5236,
+        "endFrame": 5247
+      },
+      {
+        "text": "%",
+        "startFrame": 5247,
+        "endFrame": 5248
+      }
+    ]
+  },
+  {
+    "text": "more efficient better guesses fewer wasted rounds",
+    "startFrame": 5248,
+    "endFrame": 5371,
+    "words": [
+      {
+        "text": "more",
+        "startFrame": 5248,
+        "endFrame": 5260
+      },
+      {
+        "text": "efficient",
+        "startFrame": 5260,
+        "endFrame": 5282
+      },
+      {
+        "text": "better",
+        "startFrame": 5300,
+        "endFrame": 5304
+      },
+      {
+        "text": "guesses",
+        "startFrame": 5304,
+        "endFrame": 5327
+      },
+      {
+        "text": "fewer",
+        "startFrame": 5334,
+        "endFrame": 5340
+      },
+      {
+        "text": "wasted",
+        "startFrame": 5340,
+        "endFrame": 5366
+      },
+      {
+        "text": "rounds",
+        "startFrame": 5366,
+        "endFrame": 5371
+      }
+    ]
+  },
+  {
+    "text": "cheaper to run",
+    "startFrame": 5376,
+    "endFrame": 5410,
+    "words": [
+      {
+        "text": "cheaper",
+        "startFrame": 5376,
+        "endFrame": 5392
+      },
+      {
+        "text": "to",
+        "startFrame": 5392,
+        "endFrame": 5408
+      },
+      {
+        "text": "run",
+        "startFrame": 5408,
+        "endFrame": 5410
+      }
+    ]
+  },
+  {
+    "text": "And those two fixes matter more together than separately",
+    "startFrame": 5410,
+    "endFrame": 5508,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 5410,
+        "endFrame": 5416
+      },
+      {
+        "text": "those",
+        "startFrame": 5416,
+        "endFrame": 5427
+      },
+      {
+        "text": "two",
+        "startFrame": 5427,
+        "endFrame": 5432
+      },
+      {
+        "text": "fixes",
+        "startFrame": 5432,
+        "endFrame": 5441
+      },
+      {
+        "text": "matter",
+        "startFrame": 5441,
+        "endFrame": 5455
+      },
+      {
+        "text": "more",
+        "startFrame": 5455,
+        "endFrame": 5461
+      },
+      {
+        "text": "together",
+        "startFrame": 5461,
+        "endFrame": 5476
+      },
+      {
+        "text": "than",
+        "startFrame": 5476,
+        "endFrame": 5485
+      },
+      {
+        "text": "separately",
+        "startFrame": 5485,
+        "endFrame": 5508
+      }
+    ]
+  },
+  {
+    "text": "One made each round of thinking cheaper the other",
+    "startFrame": 5512,
+    "endFrame": 5585,
+    "words": [
+      {
+        "text": "One",
+        "startFrame": 5512,
+        "endFrame": 5517
+      },
+      {
+        "text": "made",
+        "startFrame": 5517,
+        "endFrame": 5524
+      },
+      {
+        "text": "each",
+        "startFrame": 5524,
+        "endFrame": 5530
+      },
+      {
+        "text": "round",
+        "startFrame": 5530,
+        "endFrame": 5542
+      },
+      {
+        "text": "of",
+        "startFrame": 5542,
+        "endFrame": 5546
+      },
+      {
+        "text": "thinking",
+        "startFrame": 5543,
+        "endFrame": 5556
+      },
+      {
+        "text": "cheaper",
+        "startFrame": 5556,
+        "endFrame": 5572
+      },
+      {
+        "text": "the",
+        "startFrame": 5577,
+        "endFrame": 5580
+      },
+      {
+        "text": "other",
+        "startFrame": 5578,
+        "endFrame": 5585
+      }
+    ]
+  },
+  {
+    "text": "made it need fewer rounds",
+    "startFrame": 5585,
+    "endFrame": 5622,
+    "words": [
+      {
+        "text": "made",
+        "startFrame": 5585,
+        "endFrame": 5592
+      },
+      {
+        "text": "it",
+        "startFrame": 5592,
+        "endFrame": 5596
+      },
+      {
+        "text": "need",
+        "startFrame": 5596,
+        "endFrame": 5602
+      },
+      {
+        "text": "fewer",
+        "startFrame": 5602,
+        "endFrame": 5617
+      },
+      {
+        "text": "rounds",
+        "startFrame": 5617,
+        "endFrame": 5622
+      }
+    ]
+  },
+  {
+    "text": "So you are paying less per step and taking fewer steps",
+    "startFrame": 5629,
+    "endFrame": 5747,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 5629,
+        "endFrame": 5634
+      },
+      {
+        "text": "you",
+        "startFrame": 5634,
+        "endFrame": 5641
+      },
+      {
+        "text": "are",
+        "startFrame": 5641,
+        "endFrame": 5660
+      },
+      {
+        "text": "paying",
+        "startFrame": 5660,
+        "endFrame": 5665
+      },
+      {
+        "text": "less",
+        "startFrame": 5665,
+        "endFrame": 5674
+      },
+      {
+        "text": "per",
+        "startFrame": 5674,
+        "endFrame": 5683
+      },
+      {
+        "text": "step",
+        "startFrame": 5683,
+        "endFrame": 5692
+      },
+      {
+        "text": "and",
+        "startFrame": 5692,
+        "endFrame": 5700
+      },
+      {
+        "text": "taking",
+        "startFrame": 5700,
+        "endFrame": 5715
+      },
+      {
+        "text": "fewer",
+        "startFrame": 5715,
+        "endFrame": 5728
+      },
+      {
+        "text": "steps",
+        "startFrame": 5728,
+        "endFrame": 5747
+      }
+    ]
+  },
+  {
+    "text": "That adds up",
+    "startFrame": 5750,
+    "endFrame": 5782,
+    "words": [
+      {
+        "text": "That",
+        "startFrame": 5750,
+        "endFrame": 5760
+      },
+      {
+        "text": "adds",
+        "startFrame": 5760,
+        "endFrame": 5770
+      },
+      {
+        "text": "up",
+        "startFrame": 5770,
+        "endFrame": 5782
+      }
+    ]
+  },
+  {
+    "text": "And that's where the room came from to cut the price",
+    "startFrame": 5784,
+    "endFrame": 5848,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 5784,
+        "endFrame": 5788
+      },
+      {
+        "text": "that's",
+        "startFrame": 5788,
+        "endFrame": 5798
+      },
+      {
+        "text": "where",
+        "startFrame": 5797,
+        "endFrame": 5804
+      },
+      {
+        "text": "the",
+        "startFrame": 5804,
+        "endFrame": 5808
+      },
+      {
+        "text": "room",
+        "startFrame": 5808,
+        "endFrame": 5814
+      },
+      {
+        "text": "came",
+        "startFrame": 5814,
+        "endFrame": 5819
+      },
+      {
+        "text": "from",
+        "startFrame": 5819,
+        "endFrame": 5825
+      },
+      {
+        "text": "to",
+        "startFrame": 5825,
+        "endFrame": 5829
+      },
+      {
+        "text": "cut",
+        "startFrame": 5828,
+        "endFrame": 5834
+      },
+      {
+        "text": "the",
+        "startFrame": 5834,
+        "endFrame": 5837
+      },
+      {
+        "text": "price",
+        "startFrame": 5836,
+        "endFrame": 5846
+      }
+    ]
+  },
+  {
+    "text": "It's the how but I don't think",
+    "startFrame": 5885,
+    "endFrame": 5928,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 5885,
+        "endFrame": 5888
+      },
+      {
+        "text": "the",
+        "startFrame": 5888,
+        "endFrame": 5894
+      },
+      {
+        "text": "how",
+        "startFrame": 5894,
+        "endFrame": 5902
+      },
+      {
+        "text": "but",
+        "startFrame": 5903,
+        "endFrame": 5908
+      },
+      {
+        "text": "I",
+        "startFrame": 5908,
+        "endFrame": 5912
+      },
+      {
+        "text": "don't",
+        "startFrame": 5910,
+        "endFrame": 5919
+      },
+      {
+        "text": "think",
+        "startFrame": 5919,
+        "endFrame": 5928
+      }
+    ]
+  },
+  {
+    "text": "it's the whole story",
+    "startFrame": 5928,
+    "endFrame": 5962,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 5928,
+        "endFrame": 5935
+      },
+      {
+        "text": "the",
+        "startFrame": 5935,
+        "endFrame": 5940
+      },
+      {
+        "text": "whole",
+        "startFrame": 5940,
+        "endFrame": 5959
+      },
+      {
+        "text": "story",
+        "startFrame": 5959,
+        "endFrame": 5962
+      }
+    ]
+  },
+  {
+    "text": "Because getting cheaper to run doesn't force you to charge less",
+    "startFrame": 5965,
+    "endFrame": 6050,
+    "words": [
+      {
+        "text": "Because",
+        "startFrame": 5965,
+        "endFrame": 5975
+      },
+      {
+        "text": "getting",
+        "startFrame": 5975,
+        "endFrame": 5986
+      },
+      {
+        "text": "cheaper",
+        "startFrame": 5986,
+        "endFrame": 5996
+      },
+      {
+        "text": "to",
+        "startFrame": 5996,
+        "endFrame": 6000
+      },
+      {
+        "text": "run",
+        "startFrame": 6000,
+        "endFrame": 6005
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 6005,
+        "endFrame": 6015
+      },
+      {
+        "text": "force",
+        "startFrame": 6014,
+        "endFrame": 6022
+      },
+      {
+        "text": "you",
+        "startFrame": 6022,
+        "endFrame": 6027
+      },
+      {
+        "text": "to",
+        "startFrame": 6027,
+        "endFrame": 6031
+      },
+      {
+        "text": "charge",
+        "startFrame": 6029,
+        "endFrame": 6044
+      },
+      {
+        "text": "less",
+        "startFrame": 6044,
+        "endFrame": 6050
+      }
+    ]
+  },
+  {
+    "text": "You could keep the extra money",
+    "startFrame": 6050,
+    "endFrame": 6103,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 6050,
+        "endFrame": 6060
+      },
+      {
+        "text": "could",
+        "startFrame": 6060,
+        "endFrame": 6066
+      },
+      {
+        "text": "keep",
+        "startFrame": 6066,
+        "endFrame": 6073
+      },
+      {
+        "text": "the",
+        "startFrame": 6073,
+        "endFrame": 6079
+      },
+      {
+        "text": "extra",
+        "startFrame": 6079,
+        "endFrame": 6092
+      },
+      {
+        "text": "money",
+        "startFrame": 6092,
+        "endFrame": 6103
+      }
+    ]
+  },
+  {
+    "text": "They cut prices because they're under pressure",
+    "startFrame": 6104,
+    "endFrame": 6189,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 6104,
+        "endFrame": 6112
+      },
+      {
+        "text": "cut",
+        "startFrame": 6112,
+        "endFrame": 6118
+      },
+      {
+        "text": "prices",
+        "startFrame": 6118,
+        "endFrame": 6130
+      },
+      {
+        "text": "because",
+        "startFrame": 6130,
+        "endFrame": 6145
+      },
+      {
+        "text": "they're",
+        "startFrame": 6145,
+        "endFrame": 6161
+      },
+      {
+        "text": "under",
+        "startFrame": 6161,
+        "endFrame": 6176
+      },
+      {
+        "text": "pressure",
+        "startFrame": 6176,
+        "endFrame": 6189
+      }
+    ]
+  },
+  {
+    "text": "Companies have gotten nervous about AI bills",
+    "startFrame": 6189,
+    "endFrame": 6262,
+    "words": [
+      {
+        "text": "Companies",
+        "startFrame": 6189,
+        "endFrame": 6206
+      },
+      {
+        "text": "have",
+        "startFrame": 6206,
+        "endFrame": 6213
+      },
+      {
+        "text": "gotten",
+        "startFrame": 6213,
+        "endFrame": 6224
+      },
+      {
+        "text": "nervous",
+        "startFrame": 6224,
+        "endFrame": 6238
+      },
+      {
+        "text": "about",
+        "startFrame": 6238,
+        "endFrame": 6242
+      },
+      {
+        "text": "AI",
+        "startFrame": 6242,
+        "endFrame": 6261
+      },
+      {
+        "text": "bills",
+        "startFrame": 6261,
+        "endFrame": 6262
+      }
+    ]
+  },
+  {
+    "text": "Uber apparently burned through its entire yearly AI budget in four months",
+    "startFrame": 6262,
+    "endFrame": 6385,
+    "words": [
+      {
+        "text": "Uber",
+        "startFrame": 6262,
+        "endFrame": 6270
+      },
+      {
+        "text": "apparently",
+        "startFrame": 6270,
+        "endFrame": 6289
+      },
+      {
+        "text": "burned",
+        "startFrame": 6289,
+        "endFrame": 6300
+      },
+      {
+        "text": "through",
+        "startFrame": 6300,
+        "endFrame": 6313
+      },
+      {
+        "text": "its",
+        "startFrame": 6313,
+        "endFrame": 6319
+      },
+      {
+        "text": "entire",
+        "startFrame": 6319,
+        "endFrame": 6328
+      },
+      {
+        "text": "yearly",
+        "startFrame": 6328,
+        "endFrame": 6337
+      },
+      {
+        "text": "AI",
+        "startFrame": 6337,
+        "endFrame": 6346
+      },
+      {
+        "text": "budget",
+        "startFrame": 6346,
+        "endFrame": 6355
+      },
+      {
+        "text": "in",
+        "startFrame": 6355,
+        "endFrame": 6358
+      },
+      {
+        "text": "four",
+        "startFrame": 6358,
+        "endFrame": 6365
+      },
+      {
+        "text": "months",
+        "startFrame": 6365,
+        "endFrame": 6385
+      }
+    ]
+  },
+  {
+    "text": "Amazon's engineering side started capping spending after going over",
+    "startFrame": 6385,
+    "endFrame": 6499,
+    "words": [
+      {
+        "text": "Amazon's",
+        "startFrame": 6385,
+        "endFrame": 6399
+      },
+      {
+        "text": "engineering",
+        "startFrame": 6399,
+        "endFrame": 6413
+      },
+      {
+        "text": "side",
+        "startFrame": 6413,
+        "endFrame": 6427
+      },
+      {
+        "text": "started",
+        "startFrame": 6427,
+        "endFrame": 6440
+      },
+      {
+        "text": "capping",
+        "startFrame": 6440,
+        "endFrame": 6450
+      },
+      {
+        "text": "spending",
+        "startFrame": 6450,
+        "endFrame": 6465
+      },
+      {
+        "text": "after",
+        "startFrame": 6465,
+        "endFrame": 6474
+      },
+      {
+        "text": "going",
+        "startFrame": 6474,
+        "endFrame": 6484
+      },
+      {
+        "text": "over",
+        "startFrame": 6484,
+        "endFrame": 6497
+      }
+    ]
+  },
+  {
+    "text": "And cheap Chinese AI models have gotten pretty good",
+    "startFrame": 6499,
+    "endFrame": 6583,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 6499,
+        "endFrame": 6505
+      },
+      {
+        "text": "cheap",
+        "startFrame": 6505,
+        "endFrame": 6514
+      },
+      {
+        "text": "Chinese",
+        "startFrame": 6514,
+        "endFrame": 6526
+      },
+      {
+        "text": "AI",
+        "startFrame": 6526,
+        "endFrame": 6530
+      },
+      {
+        "text": "models",
+        "startFrame": 6530,
+        "endFrame": 6542
+      },
+      {
+        "text": "have",
+        "startFrame": 6542,
+        "endFrame": 6548
+      },
+      {
+        "text": "gotten",
+        "startFrame": 6548,
+        "endFrame": 6559
+      },
+      {
+        "text": "pretty",
+        "startFrame": 6559,
+        "endFrame": 6579
+      },
+      {
+        "text": "good",
+        "startFrame": 6579,
+        "endFrame": 6583
+      }
+    ]
+  },
+  {
+    "text": "One Berkeley professor said the gap used to be",
+    "startFrame": 6586,
+    "endFrame": 6652,
+    "words": [
+      {
+        "text": "One",
+        "startFrame": 6586,
+        "endFrame": 6591
+      },
+      {
+        "text": "Berkeley",
+        "startFrame": 6591,
+        "endFrame": 6605
+      },
+      {
+        "text": "professor",
+        "startFrame": 6605,
+        "endFrame": 6624
+      },
+      {
+        "text": "said",
+        "startFrame": 6624,
+        "endFrame": 6628
+      },
+      {
+        "text": "the",
+        "startFrame": 6628,
+        "endFrame": 6633
+      },
+      {
+        "text": "gap",
+        "startFrame": 6633,
+        "endFrame": 6638
+      },
+      {
+        "text": "used",
+        "startFrame": 6638,
+        "endFrame": 6645
+      },
+      {
+        "text": "to",
+        "startFrame": 6645,
+        "endFrame": 6649
+      },
+      {
+        "text": "be",
+        "startFrame": 6649,
+        "endFrame": 6652
+      }
+    ]
+  },
+  {
+    "text": "around six to nine months behind and it's",
+    "startFrame": 6652,
+    "endFrame": 6711,
+    "words": [
+      {
+        "text": "around",
+        "startFrame": 6652,
+        "endFrame": 6665
+      },
+      {
+        "text": "six",
+        "startFrame": 6665,
+        "endFrame": 6669
+      },
+      {
+        "text": "to",
+        "startFrame": 6668,
+        "endFrame": 6671
+      },
+      {
+        "text": "nine",
+        "startFrame": 6671,
+        "endFrame": 6678
+      },
+      {
+        "text": "months",
+        "startFrame": 6678,
+        "endFrame": 6688
+      },
+      {
+        "text": "behind",
+        "startFrame": 6688,
+        "endFrame": 6703
+      },
+      {
+        "text": "and",
+        "startFrame": 6706,
+        "endFrame": 6710
+      },
+      {
+        "text": "it's",
+        "startFrame": 6708,
+        "endFrame": 6711
+      }
+    ]
+  },
+  {
+    "text": "now closer to two or three",
+    "startFrame": 6711,
+    "endFrame": 6771,
+    "words": [
+      {
+        "text": "now",
+        "startFrame": 6711,
+        "endFrame": 6722
+      },
+      {
+        "text": "closer",
+        "startFrame": 6722,
+        "endFrame": 6734
+      },
+      {
+        "text": "to",
+        "startFrame": 6734,
+        "endFrame": 6738
+      },
+      {
+        "text": "two",
+        "startFrame": 6738,
+        "endFrame": 6745
+      },
+      {
+        "text": "or",
+        "startFrame": 6745,
+        "endFrame": 6752
+      },
+      {
+        "text": "three",
+        "startFrame": 6752,
+        "endFrame": 6771
+      }
+    ]
+  },
+  {
+    "text": "You can see people moving too",
+    "startFrame": 6772,
+    "endFrame": 6829,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 6772,
+        "endFrame": 6778
+      },
+      {
+        "text": "can",
+        "startFrame": 6778,
+        "endFrame": 6784
+      },
+      {
+        "text": "see",
+        "startFrame": 6784,
+        "endFrame": 6791
+      },
+      {
+        "text": "people",
+        "startFrame": 6791,
+        "endFrame": 6803
+      },
+      {
+        "text": "moving",
+        "startFrame": 6803,
+        "endFrame": 6814
+      },
+      {
+        "text": "too",
+        "startFrame": 6814,
+        "endFrame": 6829
+      }
+    ]
+  },
+  {
+    "text": "On one platform where developers pick between models Chinese",
+    "startFrame": 6830,
+    "endFrame": 6926,
+    "words": [
+      {
+        "text": "On",
+        "startFrame": 6830,
+        "endFrame": 6834
+      },
+      {
+        "text": "one",
+        "startFrame": 6834,
+        "endFrame": 6839
+      },
+      {
+        "text": "platform",
+        "startFrame": 6839,
+        "endFrame": 6853
+      },
+      {
+        "text": "where",
+        "startFrame": 6853,
+        "endFrame": 6861
+      },
+      {
+        "text": "developers",
+        "startFrame": 6861,
+        "endFrame": 6879
+      },
+      {
+        "text": "pick",
+        "startFrame": 6879,
+        "endFrame": 6886
+      },
+      {
+        "text": "between",
+        "startFrame": 6886,
+        "endFrame": 6898
+      },
+      {
+        "text": "models",
+        "startFrame": 6898,
+        "endFrame": 6913
+      },
+      {
+        "text": "Chinese",
+        "startFrame": 6915,
+        "endFrame": 6926
+      }
+    ]
+  },
+  {
+    "text": "model went from about 11% of usage to",
+    "startFrame": 6926,
+    "endFrame": 6991,
+    "words": [
+      {
+        "text": "model",
+        "startFrame": 6926,
+        "endFrame": 6939
+      },
+      {
+        "text": "went",
+        "startFrame": 6939,
+        "endFrame": 6942
+      },
+      {
+        "text": "from",
+        "startFrame": 6942,
+        "endFrame": 6949
+      },
+      {
+        "text": "about",
+        "startFrame": 6949,
+        "endFrame": 6958
+      },
+      {
+        "text": "11",
+        "startFrame": 6958,
+        "endFrame": 6969
+      },
+      {
+        "text": "%",
+        "startFrame": 6969,
+        "endFrame": 6973
+      },
+      {
+        "text": "of",
+        "startFrame": 6972,
+        "endFrame": 6976
+      },
+      {
+        "text": "usage",
+        "startFrame": 6976,
+        "endFrame": 6985
+      },
+      {
+        "text": "to",
+        "startFrame": 6985,
+        "endFrame": 6991
+      }
+    ]
+  },
+  {
+    "text": "sitting above 30 sometimes hitting 46",
+    "startFrame": 6991,
+    "endFrame": 7072,
+    "words": [
+      {
+        "text": "sitting",
+        "startFrame": 6991,
+        "endFrame": 7002
+      },
+      {
+        "text": "above",
+        "startFrame": 7002,
+        "endFrame": 7013
+      },
+      {
+        "text": "30",
+        "startFrame": 7013,
+        "endFrame": 7024
+      },
+      {
+        "text": "sometimes",
+        "startFrame": 7029,
+        "endFrame": 7041
+      },
+      {
+        "text": "hitting",
+        "startFrame": 7041,
+        "endFrame": 7053
+      },
+      {
+        "text": "46",
+        "startFrame": 7053,
+        "endFrame": 7072
+      }
+    ]
+  },
+  {
+    "text": "So looking at the price cut again the cheap",
+    "startFrame": 7072,
+    "endFrame": 7161,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 7072,
+        "endFrame": 7085
+      },
+      {
+        "text": "looking",
+        "startFrame": 7085,
+        "endFrame": 7093
+      },
+      {
+        "text": "at",
+        "startFrame": 7093,
+        "endFrame": 7098
+      },
+      {
+        "text": "the",
+        "startFrame": 7098,
+        "endFrame": 7105
+      },
+      {
+        "text": "price",
+        "startFrame": 7105,
+        "endFrame": 7117
+      },
+      {
+        "text": "cut",
+        "startFrame": 7117,
+        "endFrame": 7124
+      },
+      {
+        "text": "again",
+        "startFrame": 7124,
+        "endFrame": 7140
+      },
+      {
+        "text": "the",
+        "startFrame": 7141,
+        "endFrame": 7148
+      },
+      {
+        "text": "cheap",
+        "startFrame": 7148,
+        "endFrame": 7161
+      }
+    ]
+  },
+  {
+    "text": "high volume model got slashed 80% and the",
+    "startFrame": 7161,
+    "endFrame": 7240,
+    "words": [
+      {
+        "text": "high",
+        "startFrame": 7161,
+        "endFrame": 7170
+      },
+      {
+        "text": "volume",
+        "startFrame": 7170,
+        "endFrame": 7187
+      },
+      {
+        "text": "model",
+        "startFrame": 7187,
+        "endFrame": 7196
+      },
+      {
+        "text": "got",
+        "startFrame": 7196,
+        "endFrame": 7205
+      },
+      {
+        "text": "slashed",
+        "startFrame": 7205,
+        "endFrame": 7220
+      },
+      {
+        "text": "80",
+        "startFrame": 7220,
+        "endFrame": 7235
+      },
+      {
+        "text": "%",
+        "startFrame": 7235,
+        "endFrame": 7239
+      },
+      {
+        "text": "and",
+        "startFrame": 7238,
+        "endFrame": 7240
+      },
+      {
+        "text": "the",
+        "startFrame": 7239,
+        "endFrame": 7240
+      }
+    ]
+  },
+  {
+    "text": "expensive flagship got nothing That tracks",
+    "startFrame": 7240,
+    "endFrame": 7342,
+    "words": [
+      {
+        "text": "expensive",
+        "startFrame": 7240,
+        "endFrame": 7261
+      },
+      {
+        "text": "flagship",
+        "startFrame": 7261,
+        "endFrame": 7280
+      },
+      {
+        "text": "got",
+        "startFrame": 7280,
+        "endFrame": 7289
+      },
+      {
+        "text": "nothing",
+        "startFrame": 7289,
+        "endFrame": 7308
+      },
+      {
+        "text": "That",
+        "startFrame": 7312,
+        "endFrame": 7321
+      },
+      {
+        "text": "tracks",
+        "startFrame": 7321,
+        "endFrame": 7342
+      }
+    ]
+  },
+  {
+    "text": "nobody's really threatening the flagship",
+    "startFrame": 7344,
+    "endFrame": 7411,
+    "words": [
+      {
+        "text": "nobody's",
+        "startFrame": 7344,
+        "endFrame": 7357
+      },
+      {
+        "text": "really",
+        "startFrame": 7357,
+        "endFrame": 7369
+      },
+      {
+        "text": "threatening",
+        "startFrame": 7369,
+        "endFrame": 7382
+      },
+      {
+        "text": "the",
+        "startFrame": 7382,
+        "endFrame": 7388
+      },
+      {
+        "text": "flagship",
+        "startFrame": 7388,
+        "endFrame": 7411
+      }
+    ]
+  },
+  {
+    "text": "The competition is at the cheap end",
+    "startFrame": 7411,
+    "endFrame": 7470,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 7411,
+        "endFrame": 7417
+      },
+      {
+        "text": "competition",
+        "startFrame": 7417,
+        "endFrame": 7437
+      },
+      {
+        "text": "is",
+        "startFrame": 7437,
+        "endFrame": 7440
+      },
+      {
+        "text": "at",
+        "startFrame": 7440,
+        "endFrame": 7444
+      },
+      {
+        "text": "the",
+        "startFrame": 7444,
+        "endFrame": 7449
+      },
+      {
+        "text": "cheap",
+        "startFrame": 7449,
+        "endFrame": 7463
+      },
+      {
+        "text": "end",
+        "startFrame": 7463,
+        "endFrame": 7470
+      }
+    ]
+  },
+  {
+    "text": "So that's where they defended",
+    "startFrame": 7470,
+    "endFrame": 7508,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 7470,
+        "endFrame": 7474
+      },
+      {
+        "text": "that's",
+        "startFrame": 7473,
+        "endFrame": 7483
+      },
+      {
+        "text": "where",
+        "startFrame": 7482,
+        "endFrame": 7490
+      },
+      {
+        "text": "they",
+        "startFrame": 7490,
+        "endFrame": 7497
+      },
+      {
+        "text": "defended",
+        "startFrame": 7497,
+        "endFrame": 7508
+      }
+    ]
+  },
+  {
+    "text": "Two takeaways The practical one",
+    "startFrame": 7516,
+    "endFrame": 7588,
+    "words": [
+      {
+        "text": "Two",
+        "startFrame": 7516,
+        "endFrame": 7526
+      },
+      {
+        "text": "takeaways",
+        "startFrame": 7526,
+        "endFrame": 7556
+      },
+      {
+        "text": "The",
+        "startFrame": 7556,
+        "endFrame": 7564
+      },
+      {
+        "text": "practical",
+        "startFrame": 7564,
+        "endFrame": 7583
+      },
+      {
+        "text": "one",
+        "startFrame": 7583,
+        "endFrame": 7588
+      }
+    ]
+  },
+  {
+    "text": "If you build anything with AI especially where one",
+    "startFrame": 7589,
+    "endFrame": 7655,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 7589,
+        "endFrame": 7592
+      },
+      {
+        "text": "you",
+        "startFrame": 7592,
+        "endFrame": 7596
+      },
+      {
+        "text": "build",
+        "startFrame": 7596,
+        "endFrame": 7604
+      },
+      {
+        "text": "anything",
+        "startFrame": 7604,
+        "endFrame": 7616
+      },
+      {
+        "text": "with",
+        "startFrame": 7616,
+        "endFrame": 7622
+      },
+      {
+        "text": "AI",
+        "startFrame": 7622,
+        "endFrame": 7625
+      },
+      {
+        "text": "especially",
+        "startFrame": 7629,
+        "endFrame": 7643
+      },
+      {
+        "text": "where",
+        "startFrame": 7643,
+        "endFrame": 7650
+      },
+      {
+        "text": "one",
+        "startFrame": 7650,
+        "endFrame": 7655
+      }
+    ]
+  },
+  {
+    "text": "task quietly triggers dozens of AI calls behind the",
+    "startFrame": 7655,
+    "endFrame": 7730,
+    "words": [
+      {
+        "text": "task",
+        "startFrame": 7655,
+        "endFrame": 7660
+      },
+      {
+        "text": "quietly",
+        "startFrame": 7660,
+        "endFrame": 7672
+      },
+      {
+        "text": "triggers",
+        "startFrame": 7672,
+        "endFrame": 7683
+      },
+      {
+        "text": "dozens",
+        "startFrame": 7683,
+        "endFrame": 7691
+      },
+      {
+        "text": "of",
+        "startFrame": 7691,
+        "endFrame": 7700
+      },
+      {
+        "text": "AI",
+        "startFrame": 7700,
+        "endFrame": 7708
+      },
+      {
+        "text": "calls",
+        "startFrame": 7708,
+        "endFrame": 7717
+      },
+      {
+        "text": "behind",
+        "startFrame": 7717,
+        "endFrame": 7725
+      },
+      {
+        "text": "the",
+        "startFrame": 7725,
+        "endFrame": 7730
+      }
+    ]
+  },
+  {
+    "text": "scene a bunch of idea that were too expensive",
+    "startFrame": 7730,
+    "endFrame": 7820,
+    "words": [
+      {
+        "text": "scene",
+        "startFrame": 7730,
+        "endFrame": 7746
+      },
+      {
+        "text": "a",
+        "startFrame": 7748,
+        "endFrame": 7752
+      },
+      {
+        "text": "bunch",
+        "startFrame": 7749,
+        "endFrame": 7760
+      },
+      {
+        "text": "of",
+        "startFrame": 7760,
+        "endFrame": 7765
+      },
+      {
+        "text": "idea",
+        "startFrame": 7765,
+        "endFrame": 7774
+      },
+      {
+        "text": "that",
+        "startFrame": 7774,
+        "endFrame": 7784
+      },
+      {
+        "text": "were",
+        "startFrame": 7784,
+        "endFrame": 7794
+      },
+      {
+        "text": "too",
+        "startFrame": 7794,
+        "endFrame": 7803
+      },
+      {
+        "text": "expensive",
+        "startFrame": 7803,
+        "endFrame": 7820
+      }
+    ]
+  },
+  {
+    "text": "last month are now affordable And the bigger one",
+    "startFrame": 7820,
+    "endFrame": 7916,
+    "words": [
+      {
+        "text": "last",
+        "startFrame": 7820,
+        "endFrame": 7830
+      },
+      {
+        "text": "month",
+        "startFrame": 7830,
+        "endFrame": 7841
+      },
+      {
+        "text": "are",
+        "startFrame": 7841,
+        "endFrame": 7848
+      },
+      {
+        "text": "now",
+        "startFrame": 7848,
+        "endFrame": 7858
+      },
+      {
+        "text": "affordable",
+        "startFrame": 7858,
+        "endFrame": 7880
+      },
+      {
+        "text": "And",
+        "startFrame": 7888,
+        "endFrame": 7897
+      },
+      {
+        "text": "the",
+        "startFrame": 7897,
+        "endFrame": 7901
+      },
+      {
+        "text": "bigger",
+        "startFrame": 7897,
+        "endFrame": 7912
+      },
+      {
+        "text": "one",
+        "startFrame": 7912,
+        "endFrame": 7916
+      }
+    ]
+  },
+  {
+    "text": "This is the first time we have publicly seen",
+    "startFrame": 7918,
+    "endFrame": 7985,
+    "words": [
+      {
+        "text": "This",
+        "startFrame": 7918,
+        "endFrame": 7925
+      },
+      {
+        "text": "is",
+        "startFrame": 7925,
+        "endFrame": 7931
+      },
+      {
+        "text": "the",
+        "startFrame": 7931,
+        "endFrame": 7935
+      },
+      {
+        "text": "first",
+        "startFrame": 7934,
+        "endFrame": 7944
+      },
+      {
+        "text": "time",
+        "startFrame": 7944,
+        "endFrame": 7951
+      },
+      {
+        "text": "we",
+        "startFrame": 7951,
+        "endFrame": 7960
+      },
+      {
+        "text": "have",
+        "startFrame": 7960,
+        "endFrame": 7963
+      },
+      {
+        "text": "publicly",
+        "startFrame": 7962,
+        "endFrame": 7977
+      },
+      {
+        "text": "seen",
+        "startFrame": 7977,
+        "endFrame": 7985
+      }
+    ]
+  },
+  {
+    "text": "an AI rewrite the code that runs itself have",
+    "startFrame": 7985,
+    "endFrame": 8053,
+    "words": [
+      {
+        "text": "an",
+        "startFrame": 7985,
+        "endFrame": 7989
+      },
+      {
+        "text": "AI",
+        "startFrame": 7988,
+        "endFrame": 7992
+      },
+      {
+        "text": "rewrite",
+        "startFrame": 7992,
+        "endFrame": 8005
+      },
+      {
+        "text": "the",
+        "startFrame": 8005,
+        "endFrame": 8011
+      },
+      {
+        "text": "code",
+        "startFrame": 8011,
+        "endFrame": 8020
+      },
+      {
+        "text": "that",
+        "startFrame": 8020,
+        "endFrame": 8026
+      },
+      {
+        "text": "runs",
+        "startFrame": 8026,
+        "endFrame": 8030
+      },
+      {
+        "text": "itself",
+        "startFrame": 8030,
+        "endFrame": 8049
+      },
+      {
+        "text": "have",
+        "startFrame": 8051,
+        "endFrame": 8053
+      }
+    ]
+  },
+  {
+    "text": "that checked and approved and show up in what",
+    "startFrame": 8053,
+    "endFrame": 8132,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 8053,
+        "endFrame": 8061
+      },
+      {
+        "text": "checked",
+        "startFrame": 8061,
+        "endFrame": 8075
+      },
+      {
+        "text": "and",
+        "startFrame": 8075,
+        "endFrame": 8092
+      },
+      {
+        "text": "approved",
+        "startFrame": 8092,
+        "endFrame": 8098
+      },
+      {
+        "text": "and",
+        "startFrame": 8098,
+        "endFrame": 8103
+      },
+      {
+        "text": "show",
+        "startFrame": 8103,
+        "endFrame": 8110
+      },
+      {
+        "text": "up",
+        "startFrame": 8110,
+        "endFrame": 8117
+      },
+      {
+        "text": "in",
+        "startFrame": 8117,
+        "endFrame": 8125
+      },
+      {
+        "text": "what",
+        "startFrame": 8125,
+        "endFrame": 8132
+      }
+    ]
+  },
+  {
+    "text": "customers actually pay",
+    "startFrame": 8132,
+    "endFrame": 8183,
+    "words": [
+      {
+        "text": "customers",
+        "startFrame": 8132,
+        "endFrame": 8149
+      },
+      {
+        "text": "actually",
+        "startFrame": 8149,
+        "endFrame": 8166
+      },
+      {
+        "text": "pay",
+        "startFrame": 8166,
+        "endFrame": 8183
+      }
+    ]
+  },
+  {
+    "text": "OpenAI's engineers described it as a loop",
+    "startFrame": 8183,
+    "endFrame": 8268,
+    "words": [
+      {
+        "text": "OpenAI's",
+        "startFrame": 8183,
+        "endFrame": 8205
+      },
+      {
+        "text": "engineers",
+        "startFrame": 8205,
+        "endFrame": 8226
+      },
+      {
+        "text": "described",
+        "startFrame": 8226,
+        "endFrame": 8248
+      },
+      {
+        "text": "it",
+        "startFrame": 8248,
+        "endFrame": 8251
+      },
+      {
+        "text": "as",
+        "startFrame": 8248,
+        "endFrame": 8252
+      },
+      {
+        "text": "a",
+        "startFrame": 8252,
+        "endFrame": 8264
+      },
+      {
+        "text": "loop",
+        "startFrame": 8264,
+        "endFrame": 8268
+      }
+    ]
+  },
+  {
+    "text": "better models make their own infrastructure cheaper which pays",
+    "startFrame": 8273,
+    "endFrame": 8355,
+    "words": [
+      {
+        "text": "better",
+        "startFrame": 8273,
+        "endFrame": 8280
+      },
+      {
+        "text": "models",
+        "startFrame": 8280,
+        "endFrame": 8286
+      },
+      {
+        "text": "make",
+        "startFrame": 8286,
+        "endFrame": 8293
+      },
+      {
+        "text": "their",
+        "startFrame": 8293,
+        "endFrame": 8299
+      },
+      {
+        "text": "own",
+        "startFrame": 8299,
+        "endFrame": 8306
+      },
+      {
+        "text": "infrastructure",
+        "startFrame": 8306,
+        "endFrame": 8326
+      },
+      {
+        "text": "cheaper",
+        "startFrame": 8326,
+        "endFrame": 8338
+      },
+      {
+        "text": "which",
+        "startFrame": 8339,
+        "endFrame": 8347
+      },
+      {
+        "text": "pays",
+        "startFrame": 8347,
+        "endFrame": 8355
+      }
+    ]
+  },
+  {
+    "text": "for the next round of better models",
+    "startFrame": 8355,
+    "endFrame": 8401,
+    "words": [
+      {
+        "text": "for",
+        "startFrame": 8355,
+        "endFrame": 8359
+      },
+      {
+        "text": "the",
+        "startFrame": 8355,
+        "endFrame": 8360
+      },
+      {
+        "text": "next",
+        "startFrame": 8360,
+        "endFrame": 8367
+      },
+      {
+        "text": "round",
+        "startFrame": 8367,
+        "endFrame": 8372
+      },
+      {
+        "text": "of",
+        "startFrame": 8372,
+        "endFrame": 8377
+      },
+      {
+        "text": "better",
+        "startFrame": 8377,
+        "endFrame": 8389
+      },
+      {
+        "text": "models",
+        "startFrame": 8389,
+        "endFrame": 8401
+      }
+    ]
+  },
+  {
+    "text": "if that loop holds prices don't only drop",
+    "startFrame": 8407,
+    "endFrame": 8494,
+    "words": [
+      {
+        "text": "if",
+        "startFrame": 8407,
+        "endFrame": 8416
+      },
+      {
+        "text": "that",
+        "startFrame": 8416,
+        "endFrame": 8425
+      },
+      {
+        "text": "loop",
+        "startFrame": 8425,
+        "endFrame": 8433
+      },
+      {
+        "text": "holds",
+        "startFrame": 8433,
+        "endFrame": 8442
+      },
+      {
+        "text": "prices",
+        "startFrame": 8446,
+        "endFrame": 8468
+      },
+      {
+        "text": "don't",
+        "startFrame": 8468,
+        "endFrame": 8474
+      },
+      {
+        "text": "only",
+        "startFrame": 8474,
+        "endFrame": 8484
+      },
+      {
+        "text": "drop",
+        "startFrame": 8484,
+        "endFrame": 8494
+      }
+    ]
+  },
+  {
+    "text": "when new chips show up or when human gets",
+    "startFrame": 8494,
+    "endFrame": 8581,
+    "words": [
+      {
+        "text": "when",
+        "startFrame": 8494,
+        "endFrame": 8504
+      },
+      {
+        "text": "new",
+        "startFrame": 8504,
+        "endFrame": 8515
+      },
+      {
+        "text": "chips",
+        "startFrame": 8515,
+        "endFrame": 8525
+      },
+      {
+        "text": "show",
+        "startFrame": 8525,
+        "endFrame": 8536
+      },
+      {
+        "text": "up",
+        "startFrame": 8536,
+        "endFrame": 8546
+      },
+      {
+        "text": "or",
+        "startFrame": 8546,
+        "endFrame": 8549
+      },
+      {
+        "text": "when",
+        "startFrame": 8546,
+        "endFrame": 8561
+      },
+      {
+        "text": "human",
+        "startFrame": 8561,
+        "endFrame": 8568
+      },
+      {
+        "text": "gets",
+        "startFrame": 8568,
+        "endFrame": 8581
+      }
+    ]
+  },
+  {
+    "text": "around to optimize things",
+    "startFrame": 8581,
+    "endFrame": 8619,
+    "words": [
+      {
+        "text": "around",
+        "startFrame": 8581,
+        "endFrame": 8592
+      },
+      {
+        "text": "to",
+        "startFrame": 8592,
+        "endFrame": 8596
+      },
+      {
+        "text": "optimize",
+        "startFrame": 8594,
+        "endFrame": 8607
+      },
+      {
+        "text": "things",
+        "startFrame": 8607,
+        "endFrame": 8619
+      }
+    ]
+  },
+  {
+    "text": "They also drop when the AI gets good enough",
+    "startFrame": 8623,
+    "endFrame": 8695,
+    "words": [
+      {
+        "text": "They",
+        "startFrame": 8623,
+        "endFrame": 8632
+      },
+      {
+        "text": "also",
+        "startFrame": 8632,
+        "endFrame": 8639
+      },
+      {
+        "text": "drop",
+        "startFrame": 8639,
+        "endFrame": 8648
+      },
+      {
+        "text": "when",
+        "startFrame": 8648,
+        "endFrame": 8656
+      },
+      {
+        "text": "the",
+        "startFrame": 8656,
+        "endFrame": 8662
+      },
+      {
+        "text": "AI",
+        "startFrame": 8662,
+        "endFrame": 8666
+      },
+      {
+        "text": "gets",
+        "startFrame": 8666,
+        "endFrame": 8674
+      },
+      {
+        "text": "good",
+        "startFrame": 8674,
+        "endFrame": 8682
+      },
+      {
+        "text": "enough",
+        "startFrame": 8682,
+        "endFrame": 8695
+      }
+    ]
+  },
+  {
+    "text": "to optimize itself which is a different thing than what",
+    "startFrame": 8695,
+    "endFrame": 8784,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 8695,
+        "endFrame": 8699
+      },
+      {
+        "text": "optimize",
+        "startFrame": 8698,
+        "endFrame": 8713
+      },
+      {
+        "text": "itself",
+        "startFrame": 8713,
+        "endFrame": 8726
+      },
+      {
+        "text": "which",
+        "startFrame": 8730,
+        "endFrame": 8739
+      },
+      {
+        "text": "is",
+        "startFrame": 8739,
+        "endFrame": 8747
+      },
+      {
+        "text": "a",
+        "startFrame": 8747,
+        "endFrame": 8756
+      },
+      {
+        "text": "different",
+        "startFrame": 8756,
+        "endFrame": 8764
+      },
+      {
+        "text": "thing",
+        "startFrame": 8764,
+        "endFrame": 8773
+      },
+      {
+        "text": "than",
+        "startFrame": 8773,
+        "endFrame": 8779
+      },
+      {
+        "text": "what",
+        "startFrame": 8779,
+        "endFrame": 8784
+      }
+    ]
+  },
+  {
+    "text": "we have seen before",
+    "startFrame": 8784,
+    "endFrame": 8806,
+    "words": [
+      {
+        "text": "we",
+        "startFrame": 8784,
+        "endFrame": 8788
+      },
+      {
+        "text": "have",
+        "startFrame": 8788,
+        "endFrame": 8795
+      },
+      {
+        "text": "seen",
+        "startFrame": 8795,
+        "endFrame": 8799
+      },
+      {
+        "text": "before",
+        "startFrame": 8798,
+        "endFrame": 8806
+      }
+    ]
+  },
+  {
+    "text": "Anyway that's the story 80% cut partly",
+    "startFrame": 8813,
+    "endFrame": 8918,
+    "words": [
+      {
+        "text": "Anyway",
+        "startFrame": 8813,
+        "endFrame": 8833
+      },
+      {
+        "text": "that's",
+        "startFrame": 8833,
+        "endFrame": 8848
+      },
+      {
+        "text": "the",
+        "startFrame": 8847,
+        "endFrame": 8855
+      },
+      {
+        "text": "story",
+        "startFrame": 8855,
+        "endFrame": 8872
+      },
+      {
+        "text": "80",
+        "startFrame": 8876,
+        "endFrame": 8887
+      },
+      {
+        "text": "%",
+        "startFrame": 8887,
+        "endFrame": 8890
+      },
+      {
+        "text": "cut",
+        "startFrame": 8889,
+        "endFrame": 8902
+      },
+      {
+        "text": "partly",
+        "startFrame": 8906,
+        "endFrame": 8918
+      }
+    ]
+  },
+  {
+    "text": "paid for by an AI tuning up its own",
+    "startFrame": 8918,
+    "endFrame": 8983,
+    "words": [
+      {
+        "text": "paid",
+        "startFrame": 8918,
+        "endFrame": 8926
+      },
+      {
+        "text": "for",
+        "startFrame": 8926,
+        "endFrame": 8934
+      },
+      {
+        "text": "by",
+        "startFrame": 8934,
+        "endFrame": 8939
+      },
+      {
+        "text": "an",
+        "startFrame": 8939,
+        "endFrame": 8944
+      },
+      {
+        "text": "AI",
+        "startFrame": 8944,
+        "endFrame": 8948
+      },
+      {
+        "text": "tuning",
+        "startFrame": 8948,
+        "endFrame": 8965
+      },
+      {
+        "text": "up",
+        "startFrame": 8965,
+        "endFrame": 8969
+      },
+      {
+        "text": "its",
+        "startFrame": 8968,
+        "endFrame": 8980
+      },
+      {
+        "text": "own",
+        "startFrame": 8980,
+        "endFrame": 8983
+      }
+    ]
+  },
+  {
+    "text": "machinery and pushed by competition at the cheap end of the market",
+    "startFrame": 8983,
+    "endFrame": 9105,
+    "words": [
+      {
+        "text": "machinery",
+        "startFrame": 8983,
+        "endFrame": 9008
+      },
+      {
+        "text": "and",
+        "startFrame": 9008,
+        "endFrame": 9018
+      },
+      {
+        "text": "pushed",
+        "startFrame": 9018,
+        "endFrame": 9026
+      },
+      {
+        "text": "by",
+        "startFrame": 9026,
+        "endFrame": 9030
+      },
+      {
+        "text": "competition",
+        "startFrame": 9030,
+        "endFrame": 9053
+      },
+      {
+        "text": "at",
+        "startFrame": 9053,
+        "endFrame": 9057
+      },
+      {
+        "text": "the",
+        "startFrame": 9056,
+        "endFrame": 9062
+      },
+      {
+        "text": "cheap",
+        "startFrame": 9062,
+        "endFrame": 9072
+      },
+      {
+        "text": "end",
+        "startFrame": 9072,
+        "endFrame": 9078
+      },
+      {
+        "text": "of",
+        "startFrame": 9078,
+        "endFrame": 9088
+      },
+      {
+        "text": "the",
+        "startFrame": 9088,
+        "endFrame": 9092
+      },
+      {
+        "text": "market",
+        "startFrame": 9088,
+        "endFrame": 9105
+      }
+    ]
+  },
+  {
+    "text": "if you want a follow-up where I build",
+    "startFrame": 9107,
+    "endFrame": 9156,
+    "words": [
+      {
+        "text": "if",
+        "startFrame": 9107,
+        "endFrame": 9113
+      },
+      {
+        "text": "you",
+        "startFrame": 9113,
+        "endFrame": 9120
+      },
+      {
+        "text": "want",
+        "startFrame": 9120,
+        "endFrame": 9126
+      },
+      {
+        "text": "a",
+        "startFrame": 9126,
+        "endFrame": 9133
+      },
+      {
+        "text": "follow-up",
+        "startFrame": 9133,
+        "endFrame": 9139
+      },
+      {
+        "text": "where",
+        "startFrame": 9138,
+        "endFrame": 9146
+      },
+      {
+        "text": "I",
+        "startFrame": 9146,
+        "endFrame": 9150
+      },
+      {
+        "text": "build",
+        "startFrame": 9148,
+        "endFrame": 9156
+      }
+    ]
+  },
+  {
+    "text": "a tiny version of that guessing trick in Python",
+    "startFrame": 9156,
+    "endFrame": 9226,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 9156,
+        "endFrame": 9159
+      },
+      {
+        "text": "tiny",
+        "startFrame": 9157,
+        "endFrame": 9164
+      },
+      {
+        "text": "version",
+        "startFrame": 9164,
+        "endFrame": 9176
+      },
+      {
+        "text": "of",
+        "startFrame": 9176,
+        "endFrame": 9179
+      },
+      {
+        "text": "that",
+        "startFrame": 9178,
+        "endFrame": 9186
+      },
+      {
+        "text": "guessing",
+        "startFrame": 9186,
+        "endFrame": 9199
+      },
+      {
+        "text": "trick",
+        "startFrame": 9199,
+        "endFrame": 9206
+      },
+      {
+        "text": "in",
+        "startFrame": 9206,
+        "endFrame": 9210
+      },
+      {
+        "text": "Python",
+        "startFrame": 9210,
+        "endFrame": 9226
+      }
+    ]
+  },
+  {
+    "text": "so you can watch it work tell me in the comments",
+    "startFrame": 9226,
+    "endFrame": 9296,
+    "words": [
+      {
+        "text": "so",
+        "startFrame": 9226,
+        "endFrame": 9232
+      },
+      {
+        "text": "you",
+        "startFrame": 9232,
+        "endFrame": 9237
+      },
+      {
+        "text": "can",
+        "startFrame": 9237,
+        "endFrame": 9242
+      },
+      {
+        "text": "watch",
+        "startFrame": 9242,
+        "endFrame": 9248
+      },
+      {
+        "text": "it",
+        "startFrame": 9248,
+        "endFrame": 9254
+      },
+      {
+        "text": "work",
+        "startFrame": 9254,
+        "endFrame": 9259
+      },
+      {
+        "text": "tell",
+        "startFrame": 9259,
+        "endFrame": 9266
+      },
+      {
+        "text": "me",
+        "startFrame": 9266,
+        "endFrame": 9269
+      },
+      {
+        "text": "in",
+        "startFrame": 9269,
+        "endFrame": 9278
+      },
+      {
+        "text": "the",
+        "startFrame": 9278,
+        "endFrame": 9287
+      },
+      {
+        "text": "comments",
+        "startFrame": 9287,
+        "endFrame": 9296
+      }
+    ]
+  },
+  {
+    "text": "See you in the next one Peace",
+    "startFrame": 9296,
+    "endFrame": 9346,
+    "words": [
+      {
+        "text": "See",
+        "startFrame": 9296,
+        "endFrame": 9301
+      },
+      {
+        "text": "you",
+        "startFrame": 9301,
+        "endFrame": 9307
+      },
+      {
+        "text": "in",
+        "startFrame": 9307,
+        "endFrame": 9310
+      },
+      {
+        "text": "the",
+        "startFrame": 9309,
+        "endFrame": 9313
+      },
+      {
+        "text": "next",
+        "startFrame": 9313,
+        "endFrame": 9326
+      },
+      {
+        "text": "one",
+        "startFrame": 9326,
+        "endFrame": 9329
+      },
+      {
+        "text": "Peace",
+        "startFrame": 9326,
+        "endFrame": 9341
+      }
+    ]
+  }
+]

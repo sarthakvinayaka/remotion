@@ -1,0 +1,61 @@
+TITLE:
+OpenAI Cut Its Own Price 80% — Because Its AI Rewrote Its Own Code
+
+ALTERNATE TITLES (A/B test these):
+- OpenAI Cut Prices 80% Three Weeks After Launch. Here's What Actually Happened.
+- An AI Just Rewrote the Code That Runs It — And You're Paying 80% Less
+- Why OpenAI Slashed GPT-5.6 Luna by 80% (It's Not What The Headlines Say)
+
+DESCRIPTION:
+
+Last week OpenAI dropped the price of one of its AI models by eighty percent. Same model, same day, suddenly a fifth of what it cost — and it had only been out for three weeks. Companies don't usually cut prices three weeks after launch.
+
+But the way they pulled it off is the interesting part: they pointed their smartest model, Sol, at their own infrastructure and told it to make itself cheaper to run. It rewrote the low-level code that does the actual number crunching on the graphics cards — work that normally takes expensive human specialists months — and it worked. Running everything got about 20% cheaper.
+
+Most coverage implies the efficiency gains caused the price cut. I don't think that's the whole story. Getting cheaper to run doesn't force you to charge less — you could just keep the money. Efficiency created the *option*. Competition created the *decision*. This video separates the two, because that distinction is the actual story.
+
+You'll learn:
+✅ What actually changed in GPT-5.6 pricing — Luna, Terra and Sol, and why only the cheap one got cut
+✅ How an AI rewrote its own GPU kernel code, and why that's a first
+✅ The safety step people are skipping over: they ran the AI's code through a separate correctness checker before it touched production
+✅ How "speculative decoding" works, explained without jargon — a junior assistant finishes your sentences and you just approve them
+✅ Why the two fixes compound: less cost per step AND fewer steps
+✅ The real reason for the timing — enterprise AI bills blowing up (Uber burned its yearly AI budget in four months) and cheap Chinese models closing the gap from 6–9 months to 2–3
+✅ Why the flagship model got no discount at all, and what that tells you about where the competitive pressure actually is
+✅ What it means for you if you build with AI — especially anything where one task quietly triggers dozens of model calls
+
+The bigger picture: this is the first time we've publicly seen an AI rewrite the code that runs itself, have that verified and approved, and show up in what customers actually pay. OpenAI's engineers describe it as a loop — better models make their own infrastructure cheaper, which pays for the next round of better models. If that loop holds, prices don't only drop when new chips arrive or when humans get around to optimizing things.
+
+⏱️ TIMESTAMPS
+00:00 The hook — an 80% price cut, three weeks after launch
+00:26 GPT-5.6 isn't one model, it's three (Sol, Terra, Luna)
+00:58 What you actually pay, and what changed
+01:18 They had the AI rewrite its own machinery
+01:57 The part I liked — they didn't just trust it
+02:12 How it improved the way it guesses (speculative decoding)
+03:00 Why both fixes together matter more than separately
+03:16 But why now? Efficiency doesn't force you to cut prices
+03:37 The competition — enterprise AI bills and cheap Chinese models
+04:11 Takeaway 1: what this means if you build with AI
+04:24 Takeaway 2: the loop, and why it's different
+04:54 Wrap-up
+
+📌 THE TECHNICAL TERMS I DELIBERATELY AVOIDED SAYING ON CAMERA
+I stripped the jargon out of the narration so it stays watchable, but here are the real terms if you want to go deeper:
+- The low-level code = GPU kernels, rewritten in Triton and Gluon
+- The correctness checker = FpSan, OpenAI's floating-point sanitizer
+- The guessing trick = speculative decoding (a small draft model proposes tokens, the large model verifies them in parallel)
+- The usage-share platform = OpenRouter
+- The Chinese model referenced = Kimi K3 from Moonshot AI
+
+💰 THE PRICING, FOR REFERENCE (per 1M tokens, in/out)
+Luna: $1.00 / $6.00 → $0.20 / $1.20  (−80%)
+Terra: $2.50 / $15.00 → $2.00 / $12.00  (−20%)
+Sol: $5.00 / $30.00 → unchanged
+Prices move fast — check OpenAI's pricing page before you budget anything on these.
+
+🔑 KEYWORDS: OpenAI, GPT-5.6, Luna, Sol, Terra, AI price cut, API pricing, LLM costs, speculative decoding, GPU kernels, Triton, inference optimization, AI infrastructure, self-improving AI, recursive self-improvement, Kimi K3, Moonshot AI, OpenRouter, Chinese AI models, AI price war, enterprise AI spending, AI costs, machine learning infrastructure, tech news, AI explained
+
+If this was useful, drop a like and subscribe. And if you want a follow-up where I build a tiny version of that guessing trick in Python so you can watch it work — tell me in the comments.
+
+#OpenAI #GPT5 #AI #TechNews #MachineLearning #AIPricing #SoftwareEngineering

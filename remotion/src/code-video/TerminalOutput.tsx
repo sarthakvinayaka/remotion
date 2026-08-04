@@ -21,7 +21,14 @@ export const TerminalOutput: React.FC<{
   fontSize?: number;
   maxLines?: number;
   lineFrames?: number[];
-}> = ({ trace, startFrame, endFrame, fontSize = 16, maxLines = 10, lineFrames }) => {
+  /** Per-line colour override, index-aligned with `trace`. A null entry keeps
+   *  the default colouring. Added so a FAILING run can be rendered in coral
+   *  instead of the success-green default -- without it, a wrong answer is
+   *  colour-coded as a success. */
+  lineColors?: (string | null)[];
+  /** Panel border/glow colour. Defaults to the terminal green. */
+  accent?: string;
+}> = ({ trace, startFrame, endFrame, fontSize = 16, maxLines = 10, lineFrames, lineColors, accent }) => {
   const frame = useCurrentFrame();
   const { fps } = useVideoConfig();
 
@@ -64,8 +71,8 @@ export const TerminalOutput: React.FC<{
         lineHeight: 1.6,
         background: "#000000",
         borderRadius: 10,
-        border: `1.5px solid ${panelPulse > 0 ? cv.terminalGreen : cv.panelLine}`,
-        boxShadow: panelPulse > 0 ? `0 0 ${28 * panelPulse}px ${cv.terminalGreen}55` : "none",
+        border: `1.5px solid ${panelPulse > 0 ? (accent ?? cv.terminalGreen) : cv.panelLine}`,
+        boxShadow: panelPulse > 0 ? `0 0 ${28 * panelPulse}px ${accent ?? cv.terminalGreen}55` : "none",
         padding: "14px 16px",
         overflow: "hidden",
         minHeight: fontSize * 1.6 * maxLines + 28,
@@ -87,11 +94,14 @@ export const TerminalOutput: React.FC<{
               extrapolateRight: "clamp",
             })
           : 0;
-        const color = t.line.includes("FAILED")
-          ? cv.terminalRed
-          : t.service
-            ? serviceColor(t.service)
-            : cv.terminalGreen;
+        const override = lineColors?.[globalIdx] ?? null;
+        const color = override
+          ? override
+          : t.line.includes("FAILED")
+            ? cv.terminalRed
+            : t.service
+              ? serviceColor(t.service)
+              : cv.terminalGreen;
         return (
           <div
             key={t.order}

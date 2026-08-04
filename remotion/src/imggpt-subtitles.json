@@ -1,0 +1,4990 @@
+[
+  {
+    "text": "Have you ever uploaded a photo to ChatGPT and",
+    "startFrame": 0,
+    "endFrame": 82,
+    "words": [
+      {
+        "text": "Have",
+        "startFrame": 0,
+        "endFrame": 9
+      },
+      {
+        "text": "you",
+        "startFrame": 9,
+        "endFrame": 20
+      },
+      {
+        "text": "ever",
+        "startFrame": 20,
+        "endFrame": 24
+      },
+      {
+        "text": "uploaded",
+        "startFrame": 24,
+        "endFrame": 42
+      },
+      {
+        "text": "a",
+        "startFrame": 42,
+        "endFrame": 45
+      },
+      {
+        "text": "photo",
+        "startFrame": 44,
+        "endFrame": 56
+      },
+      {
+        "text": "to",
+        "startFrame": 56,
+        "endFrame": 59
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 59,
+        "endFrame": 76
+      },
+      {
+        "text": "and",
+        "startFrame": 76,
+        "endFrame": 82
+      }
+    ]
+  },
+  {
+    "text": "wondered how does it know all of this It can",
+    "startFrame": 82,
+    "endFrame": 173,
+    "words": [
+      {
+        "text": "wondered",
+        "startFrame": 82,
+        "endFrame": 107
+      },
+      {
+        "text": "how",
+        "startFrame": 108,
+        "endFrame": 112
+      },
+      {
+        "text": "does",
+        "startFrame": 112,
+        "endFrame": 117
+      },
+      {
+        "text": "it",
+        "startFrame": 117,
+        "endFrame": 121
+      },
+      {
+        "text": "know",
+        "startFrame": 121,
+        "endFrame": 124
+      },
+      {
+        "text": "all",
+        "startFrame": 124,
+        "endFrame": 127
+      },
+      {
+        "text": "of",
+        "startFrame": 127,
+        "endFrame": 131
+      },
+      {
+        "text": "this",
+        "startFrame": 130,
+        "endFrame": 134
+      },
+      {
+        "text": "It",
+        "startFrame": 163,
+        "endFrame": 167
+      },
+      {
+        "text": "can",
+        "startFrame": 167,
+        "endFrame": 173
+      }
+    ]
+  },
+  {
+    "text": "tell you what's in the image It can",
+    "startFrame": 173,
+    "endFrame": 233,
+    "words": [
+      {
+        "text": "tell",
+        "startFrame": 173,
+        "endFrame": 181
+      },
+      {
+        "text": "you",
+        "startFrame": 181,
+        "endFrame": 187
+      },
+      {
+        "text": "what's",
+        "startFrame": 187,
+        "endFrame": 199
+      },
+      {
+        "text": "in",
+        "startFrame": 199,
+        "endFrame": 202
+      },
+      {
+        "text": "the",
+        "startFrame": 202,
+        "endFrame": 220
+      },
+      {
+        "text": "image",
+        "startFrame": 220,
+        "endFrame": 223
+      },
+      {
+        "text": "It",
+        "startFrame": 222,
+        "endFrame": 226
+      },
+      {
+        "text": "can",
+        "startFrame": 226,
+        "endFrame": 233
+      }
+    ]
+  },
+  {
+    "text": "read handwritten notes explain graphs solve math problems even",
+    "startFrame": 233,
+    "endFrame": 368,
+    "words": [
+      {
+        "text": "read",
+        "startFrame": 233,
+        "endFrame": 242
+      },
+      {
+        "text": "handwritten",
+        "startFrame": 242,
+        "endFrame": 278
+      },
+      {
+        "text": "notes",
+        "startFrame": 278,
+        "endFrame": 281
+      },
+      {
+        "text": "explain",
+        "startFrame": 285,
+        "endFrame": 298
+      },
+      {
+        "text": "graphs",
+        "startFrame": 298,
+        "endFrame": 316
+      },
+      {
+        "text": "solve",
+        "startFrame": 317,
+        "endFrame": 331
+      },
+      {
+        "text": "math",
+        "startFrame": 331,
+        "endFrame": 344
+      },
+      {
+        "text": "problems",
+        "startFrame": 344,
+        "endFrame": 358
+      },
+      {
+        "text": "even",
+        "startFrame": 358,
+        "endFrame": 368
+      }
+    ]
+  },
+  {
+    "text": "understand memes But here's",
+    "startFrame": 368,
+    "endFrame": 426,
+    "words": [
+      {
+        "text": "understand",
+        "startFrame": 368,
+        "endFrame": 403
+      },
+      {
+        "text": "memes",
+        "startFrame": 403,
+        "endFrame": 407
+      },
+      {
+        "text": "But",
+        "startFrame": 407,
+        "endFrame": 413
+      },
+      {
+        "text": "here's",
+        "startFrame": 413,
+        "endFrame": 426
+      }
+    ]
+  },
+  {
+    "text": "the strange part ChatGPT never",
+    "startFrame": 426,
+    "endFrame": 490,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 426,
+        "endFrame": 432
+      },
+      {
+        "text": "strange",
+        "startFrame": 432,
+        "endFrame": 446
+      },
+      {
+        "text": "part",
+        "startFrame": 446,
+        "endFrame": 462
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 462,
+        "endFrame": 479
+      },
+      {
+        "text": "never",
+        "startFrame": 479,
+        "endFrame": 490
+      }
+    ]
+  },
+  {
+    "text": "actually sees your photo It doesn't",
+    "startFrame": 490,
+    "endFrame": 563,
+    "words": [
+      {
+        "text": "actually",
+        "startFrame": 490,
+        "endFrame": 507
+      },
+      {
+        "text": "sees",
+        "startFrame": 507,
+        "endFrame": 515
+      },
+      {
+        "text": "your",
+        "startFrame": 515,
+        "endFrame": 535
+      },
+      {
+        "text": "photo",
+        "startFrame": 535,
+        "endFrame": 542
+      },
+      {
+        "text": "It",
+        "startFrame": 542,
+        "endFrame": 547
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 547,
+        "endFrame": 563
+      }
+    ]
+  },
+  {
+    "text": "have eyes It doesn't",
+    "startFrame": 563,
+    "endFrame": 609,
+    "words": [
+      {
+        "text": "have",
+        "startFrame": 563,
+        "endFrame": 577
+      },
+      {
+        "text": "eyes",
+        "startFrame": 577,
+        "endFrame": 588
+      },
+      {
+        "text": "It",
+        "startFrame": 589,
+        "endFrame": 593
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 593,
+        "endFrame": 609
+      }
+    ]
+  },
+  {
+    "text": "recognize faces the way humans do In fact",
+    "startFrame": 609,
+    "endFrame": 692,
+    "words": [
+      {
+        "text": "recognize",
+        "startFrame": 609,
+        "endFrame": 634
+      },
+      {
+        "text": "faces",
+        "startFrame": 634,
+        "endFrame": 640
+      },
+      {
+        "text": "the",
+        "startFrame": 640,
+        "endFrame": 646
+      },
+      {
+        "text": "way",
+        "startFrame": 646,
+        "endFrame": 652
+      },
+      {
+        "text": "humans",
+        "startFrame": 652,
+        "endFrame": 668
+      },
+      {
+        "text": "do",
+        "startFrame": 668,
+        "endFrame": 677
+      },
+      {
+        "text": "In",
+        "startFrame": 678,
+        "endFrame": 683
+      },
+      {
+        "text": "fact",
+        "startFrame": 683,
+        "endFrame": 692
+      }
+    ]
+  },
+  {
+    "text": "the image you upload disappears almost immediately Instead it",
+    "startFrame": 694,
+    "endFrame": 814,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 694,
+        "endFrame": 699
+      },
+      {
+        "text": "image",
+        "startFrame": 699,
+        "endFrame": 711
+      },
+      {
+        "text": "you",
+        "startFrame": 711,
+        "endFrame": 715
+      },
+      {
+        "text": "upload",
+        "startFrame": 715,
+        "endFrame": 727
+      },
+      {
+        "text": "disappears",
+        "startFrame": 727,
+        "endFrame": 746
+      },
+      {
+        "text": "almost",
+        "startFrame": 746,
+        "endFrame": 758
+      },
+      {
+        "text": "immediately",
+        "startFrame": 758,
+        "endFrame": 781
+      },
+      {
+        "text": "Instead",
+        "startFrame": 791,
+        "endFrame": 800
+      },
+      {
+        "text": "it",
+        "startFrame": 807,
+        "endFrame": 814
+      }
+    ]
+  },
+  {
+    "text": "gets transformed into something completely different So today",
+    "startFrame": 814,
+    "endFrame": 931,
+    "words": [
+      {
+        "text": "gets",
+        "startFrame": 814,
+        "endFrame": 818
+      },
+      {
+        "text": "transformed",
+        "startFrame": 817,
+        "endFrame": 837
+      },
+      {
+        "text": "into",
+        "startFrame": 837,
+        "endFrame": 842
+      },
+      {
+        "text": "something",
+        "startFrame": 842,
+        "endFrame": 859
+      },
+      {
+        "text": "completely",
+        "startFrame": 859,
+        "endFrame": 877
+      },
+      {
+        "text": "different",
+        "startFrame": 877,
+        "endFrame": 900
+      },
+      {
+        "text": "So",
+        "startFrame": 900,
+        "endFrame": 907
+      },
+      {
+        "text": "today",
+        "startFrame": 907,
+        "endFrame": 931
+      }
+    ]
+  },
+  {
+    "text": "let's follow your photo on its journey inside",
+    "startFrame": 934,
+    "endFrame": 1014,
+    "words": [
+      {
+        "text": "let's",
+        "startFrame": 934,
+        "endFrame": 946
+      },
+      {
+        "text": "follow",
+        "startFrame": 943,
+        "endFrame": 956
+      },
+      {
+        "text": "your",
+        "startFrame": 956,
+        "endFrame": 964
+      },
+      {
+        "text": "photo",
+        "startFrame": 964,
+        "endFrame": 972
+      },
+      {
+        "text": "on",
+        "startFrame": 972,
+        "endFrame": 980
+      },
+      {
+        "text": "its",
+        "startFrame": 980,
+        "endFrame": 988
+      },
+      {
+        "text": "journey",
+        "startFrame": 988,
+        "endFrame": 1005
+      },
+      {
+        "text": "inside",
+        "startFrame": 1005,
+        "endFrame": 1014
+      }
+    ]
+  },
+  {
+    "text": "ChatGPT The moment",
+    "startFrame": 1014,
+    "endFrame": 1054,
+    "words": [
+      {
+        "text": "ChatGPT",
+        "startFrame": 1014,
+        "endFrame": 1042
+      },
+      {
+        "text": "The",
+        "startFrame": 1039,
+        "endFrame": 1045
+      },
+      {
+        "text": "moment",
+        "startFrame": 1045,
+        "endFrame": 1054
+      }
+    ]
+  },
+  {
+    "text": "you click upload your image begins a transformation To us",
+    "startFrame": 1054,
+    "endFrame": 1154,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 1054,
+        "endFrame": 1058
+      },
+      {
+        "text": "click",
+        "startFrame": 1058,
+        "endFrame": 1066
+      },
+      {
+        "text": "upload",
+        "startFrame": 1066,
+        "endFrame": 1080
+      },
+      {
+        "text": "your",
+        "startFrame": 1083,
+        "endFrame": 1088
+      },
+      {
+        "text": "image",
+        "startFrame": 1088,
+        "endFrame": 1098
+      },
+      {
+        "text": "begins",
+        "startFrame": 1098,
+        "endFrame": 1111
+      },
+      {
+        "text": "a",
+        "startFrame": 1111,
+        "endFrame": 1114
+      },
+      {
+        "text": "transformation",
+        "startFrame": 1114,
+        "endFrame": 1144
+      },
+      {
+        "text": "To",
+        "startFrame": 1144,
+        "endFrame": 1149
+      },
+      {
+        "text": "us",
+        "startFrame": 1149,
+        "endFrame": 1154
+      }
+    ]
+  },
+  {
+    "text": "it's a picture Maybe it's",
+    "startFrame": 1162,
+    "endFrame": 1218,
+    "words": [
+      {
+        "text": "it's",
+        "startFrame": 1162,
+        "endFrame": 1169
+      },
+      {
+        "text": "a",
+        "startFrame": 1169,
+        "endFrame": 1173
+      },
+      {
+        "text": "picture",
+        "startFrame": 1171,
+        "endFrame": 1198
+      },
+      {
+        "text": "Maybe",
+        "startFrame": 1198,
+        "endFrame": 1208
+      },
+      {
+        "text": "it's",
+        "startFrame": 1208,
+        "endFrame": 1218
+      }
+    ]
+  },
+  {
+    "text": "your dog a sunset or a screenshot of",
+    "startFrame": 1218,
+    "endFrame": 1295,
+    "words": [
+      {
+        "text": "your",
+        "startFrame": 1218,
+        "endFrame": 1228
+      },
+      {
+        "text": "dog",
+        "startFrame": 1228,
+        "endFrame": 1238
+      },
+      {
+        "text": "a",
+        "startFrame": 1241,
+        "endFrame": 1244
+      },
+      {
+        "text": "sunset",
+        "startFrame": 1241,
+        "endFrame": 1262
+      },
+      {
+        "text": "or",
+        "startFrame": 1262,
+        "endFrame": 1265
+      },
+      {
+        "text": "a",
+        "startFrame": 1262,
+        "endFrame": 1270
+      },
+      {
+        "text": "screenshot",
+        "startFrame": 1270,
+        "endFrame": 1290
+      },
+      {
+        "text": "of",
+        "startFrame": 1290,
+        "endFrame": 1295
+      }
+    ]
+  },
+  {
+    "text": "an error message But to",
+    "startFrame": 1295,
+    "endFrame": 1346,
+    "words": [
+      {
+        "text": "an",
+        "startFrame": 1295,
+        "endFrame": 1300
+      },
+      {
+        "text": "error",
+        "startFrame": 1300,
+        "endFrame": 1333
+      },
+      {
+        "text": "message",
+        "startFrame": 1333,
+        "endFrame": 1337
+      },
+      {
+        "text": "But",
+        "startFrame": 1333,
+        "endFrame": 1341
+      },
+      {
+        "text": "to",
+        "startFrame": 1341,
+        "endFrame": 1346
+      }
+    ]
+  },
+  {
+    "text": "a computer it's nothing more than a giant",
+    "startFrame": 1346,
+    "endFrame": 1412,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 1346,
+        "endFrame": 1349
+      },
+      {
+        "text": "computer",
+        "startFrame": 1348,
+        "endFrame": 1373
+      },
+      {
+        "text": "it's",
+        "startFrame": 1376,
+        "endFrame": 1380
+      },
+      {
+        "text": "nothing",
+        "startFrame": 1380,
+        "endFrame": 1390
+      },
+      {
+        "text": "more",
+        "startFrame": 1390,
+        "endFrame": 1396
+      },
+      {
+        "text": "than",
+        "startFrame": 1396,
+        "endFrame": 1404
+      },
+      {
+        "text": "a",
+        "startFrame": 1404,
+        "endFrame": 1407
+      },
+      {
+        "text": "giant",
+        "startFrame": 1404,
+        "endFrame": 1412
+      }
+    ]
+  },
+  {
+    "text": "grid of tiny colored dots called pixels Zoom in far",
+    "startFrame": 1412,
+    "endFrame": 1520,
+    "words": [
+      {
+        "text": "grid",
+        "startFrame": 1412,
+        "endFrame": 1420
+      },
+      {
+        "text": "of",
+        "startFrame": 1420,
+        "endFrame": 1423
+      },
+      {
+        "text": "tiny",
+        "startFrame": 1422,
+        "endFrame": 1428
+      },
+      {
+        "text": "colored",
+        "startFrame": 1428,
+        "endFrame": 1439
+      },
+      {
+        "text": "dots",
+        "startFrame": 1439,
+        "endFrame": 1458
+      },
+      {
+        "text": "called",
+        "startFrame": 1458,
+        "endFrame": 1477
+      },
+      {
+        "text": "pixels",
+        "startFrame": 1477,
+        "endFrame": 1496
+      },
+      {
+        "text": "Zoom",
+        "startFrame": 1496,
+        "endFrame": 1507
+      },
+      {
+        "text": "in",
+        "startFrame": 1507,
+        "endFrame": 1513
+      },
+      {
+        "text": "far",
+        "startFrame": 1513,
+        "endFrame": 1520
+      }
+    ]
+  },
+  {
+    "text": "enough and every image becomes a mosaic of little",
+    "startFrame": 1520,
+    "endFrame": 1617,
+    "words": [
+      {
+        "text": "enough",
+        "startFrame": 1520,
+        "endFrame": 1539
+      },
+      {
+        "text": "and",
+        "startFrame": 1539,
+        "endFrame": 1543
+      },
+      {
+        "text": "every",
+        "startFrame": 1543,
+        "endFrame": 1553
+      },
+      {
+        "text": "image",
+        "startFrame": 1553,
+        "endFrame": 1564
+      },
+      {
+        "text": "becomes",
+        "startFrame": 1564,
+        "endFrame": 1582
+      },
+      {
+        "text": "a",
+        "startFrame": 1582,
+        "endFrame": 1586
+      },
+      {
+        "text": "mosaic",
+        "startFrame": 1582,
+        "endFrame": 1598
+      },
+      {
+        "text": "of",
+        "startFrame": 1598,
+        "endFrame": 1603
+      },
+      {
+        "text": "little",
+        "startFrame": 1603,
+        "endFrame": 1617
+      }
+    ]
+  },
+  {
+    "text": "squares Each pixel stores",
+    "startFrame": 1617,
+    "endFrame": 1680,
+    "words": [
+      {
+        "text": "squares",
+        "startFrame": 1617,
+        "endFrame": 1646
+      },
+      {
+        "text": "Each",
+        "startFrame": 1649,
+        "endFrame": 1659
+      },
+      {
+        "text": "pixel",
+        "startFrame": 1659,
+        "endFrame": 1669
+      },
+      {
+        "text": "stores",
+        "startFrame": 1669,
+        "endFrame": 1680
+      }
+    ]
+  },
+  {
+    "text": "just three numbers red green and blue That's it A",
+    "startFrame": 1680,
+    "endFrame": 1832,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 1680,
+        "endFrame": 1690
+      },
+      {
+        "text": "three",
+        "startFrame": 1690,
+        "endFrame": 1721
+      },
+      {
+        "text": "numbers",
+        "startFrame": 1721,
+        "endFrame": 1724
+      },
+      {
+        "text": "red",
+        "startFrame": 1726,
+        "endFrame": 1739
+      },
+      {
+        "text": "green",
+        "startFrame": 1740,
+        "endFrame": 1755
+      },
+      {
+        "text": "and",
+        "startFrame": 1755,
+        "endFrame": 1762
+      },
+      {
+        "text": "blue",
+        "startFrame": 1762,
+        "endFrame": 1783
+      },
+      {
+        "text": "That's",
+        "startFrame": 1783,
+        "endFrame": 1810
+      },
+      {
+        "text": "it",
+        "startFrame": 1807,
+        "endFrame": 1819
+      },
+      {
+        "text": "A",
+        "startFrame": 1828,
+        "endFrame": 1832
+      }
+    ]
+  },
+  {
+    "text": "normal phone",
+    "startFrame": 1832,
+    "endFrame": 1858,
+    "words": [
+      {
+        "text": "normal",
+        "startFrame": 1832,
+        "endFrame": 1846
+      },
+      {
+        "text": "phone",
+        "startFrame": 1846,
+        "endFrame": 1858
+      }
+    ]
+  },
+  {
+    "text": "photo can contain millions of pixels which means millions",
+    "startFrame": 1858,
+    "endFrame": 1969,
+    "words": [
+      {
+        "text": "photo",
+        "startFrame": 1858,
+        "endFrame": 1870
+      },
+      {
+        "text": "can",
+        "startFrame": 1870,
+        "endFrame": 1877
+      },
+      {
+        "text": "contain",
+        "startFrame": 1877,
+        "endFrame": 1894
+      },
+      {
+        "text": "millions",
+        "startFrame": 1894,
+        "endFrame": 1912
+      },
+      {
+        "text": "of",
+        "startFrame": 1912,
+        "endFrame": 1919
+      },
+      {
+        "text": "pixels",
+        "startFrame": 1919,
+        "endFrame": 1939
+      },
+      {
+        "text": "which",
+        "startFrame": 1939,
+        "endFrame": 1947
+      },
+      {
+        "text": "means",
+        "startFrame": 1947,
+        "endFrame": 1960
+      },
+      {
+        "text": "millions",
+        "startFrame": 1960,
+        "endFrame": 1969
+      }
+    ]
+  },
+  {
+    "text": "of tiny color values At this point",
+    "startFrame": 1969,
+    "endFrame": 2044,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 1969,
+        "endFrame": 1973
+      },
+      {
+        "text": "tiny",
+        "startFrame": 1972,
+        "endFrame": 1979
+      },
+      {
+        "text": "color",
+        "startFrame": 1979,
+        "endFrame": 1988
+      },
+      {
+        "text": "values",
+        "startFrame": 1988,
+        "endFrame": 2022
+      },
+      {
+        "text": "At",
+        "startFrame": 2022,
+        "endFrame": 2026
+      },
+      {
+        "text": "this",
+        "startFrame": 2026,
+        "endFrame": 2034
+      },
+      {
+        "text": "point",
+        "startFrame": 2034,
+        "endFrame": 2044
+      }
+    ]
+  },
+  {
+    "text": "ChatGPT doesn't know it's looking at",
+    "startFrame": 2053,
+    "endFrame": 2113,
+    "words": [
+      {
+        "text": "ChatGPT",
+        "startFrame": 2053,
+        "endFrame": 2064
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 2064,
+        "endFrame": 2078
+      },
+      {
+        "text": "know",
+        "startFrame": 2078,
+        "endFrame": 2087
+      },
+      {
+        "text": "it's",
+        "startFrame": 2087,
+        "endFrame": 2095
+      },
+      {
+        "text": "looking",
+        "startFrame": 2095,
+        "endFrame": 2107
+      },
+      {
+        "text": "at",
+        "startFrame": 2107,
+        "endFrame": 2113
+      }
+    ]
+  },
+  {
+    "text": "a dog or a car or even a",
+    "startFrame": 2113,
+    "endFrame": 2162,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 2113,
+        "endFrame": 2120
+      },
+      {
+        "text": "dog",
+        "startFrame": 2120,
+        "endFrame": 2124
+      },
+      {
+        "text": "or",
+        "startFrame": 2124,
+        "endFrame": 2127
+      },
+      {
+        "text": "a",
+        "startFrame": 2127,
+        "endFrame": 2132
+      },
+      {
+        "text": "car",
+        "startFrame": 2132,
+        "endFrame": 2139
+      },
+      {
+        "text": "or",
+        "startFrame": 2139,
+        "endFrame": 2146
+      },
+      {
+        "text": "even",
+        "startFrame": 2146,
+        "endFrame": 2158
+      },
+      {
+        "text": "a",
+        "startFrame": 2158,
+        "endFrame": 2162
+      }
+    ]
+  },
+  {
+    "text": "human All it sees",
+    "startFrame": 2162,
+    "endFrame": 2208,
+    "words": [
+      {
+        "text": "human",
+        "startFrame": 2162,
+        "endFrame": 2175
+      },
+      {
+        "text": "All",
+        "startFrame": 2189,
+        "endFrame": 2195
+      },
+      {
+        "text": "it",
+        "startFrame": 2195,
+        "endFrame": 2204
+      },
+      {
+        "text": "sees",
+        "startFrame": 2204,
+        "endFrame": 2208
+      }
+    ]
+  },
+  {
+    "text": "is a massive collection of numbers So the first",
+    "startFrame": 2208,
+    "endFrame": 2300,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 2208,
+        "endFrame": 2215
+      },
+      {
+        "text": "a",
+        "startFrame": 2215,
+        "endFrame": 2219
+      },
+      {
+        "text": "massive",
+        "startFrame": 2219,
+        "endFrame": 2230
+      },
+      {
+        "text": "collection",
+        "startFrame": 2230,
+        "endFrame": 2252
+      },
+      {
+        "text": "of",
+        "startFrame": 2252,
+        "endFrame": 2255
+      },
+      {
+        "text": "numbers",
+        "startFrame": 2254,
+        "endFrame": 2272
+      },
+      {
+        "text": "So",
+        "startFrame": 2280,
+        "endFrame": 2285
+      },
+      {
+        "text": "the",
+        "startFrame": 2285,
+        "endFrame": 2293
+      },
+      {
+        "text": "first",
+        "startFrame": 2293,
+        "endFrame": 2300
+      }
+    ]
+  },
+  {
+    "text": "challenge is turning those numbers into something meaningful Instead",
+    "startFrame": 2300,
+    "endFrame": 2430,
+    "words": [
+      {
+        "text": "challenge",
+        "startFrame": 2300,
+        "endFrame": 2319
+      },
+      {
+        "text": "is",
+        "startFrame": 2319,
+        "endFrame": 2323
+      },
+      {
+        "text": "turning",
+        "startFrame": 2323,
+        "endFrame": 2337
+      },
+      {
+        "text": "those",
+        "startFrame": 2337,
+        "endFrame": 2348
+      },
+      {
+        "text": "numbers",
+        "startFrame": 2348,
+        "endFrame": 2362
+      },
+      {
+        "text": "into",
+        "startFrame": 2362,
+        "endFrame": 2370
+      },
+      {
+        "text": "something",
+        "startFrame": 2370,
+        "endFrame": 2388
+      },
+      {
+        "text": "meaningful",
+        "startFrame": 2388,
+        "endFrame": 2409
+      },
+      {
+        "text": "Instead",
+        "startFrame": 2422,
+        "endFrame": 2430
+      }
+    ]
+  },
+  {
+    "text": "of trying",
+    "startFrame": 2430,
+    "endFrame": 2443,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 2430,
+        "endFrame": 2435
+      },
+      {
+        "text": "trying",
+        "startFrame": 2435,
+        "endFrame": 2443
+      }
+    ]
+  },
+  {
+    "text": "to understand the whole image at once the model",
+    "startFrame": 2443,
+    "endFrame": 2510,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 2443,
+        "endFrame": 2446
+      },
+      {
+        "text": "understand",
+        "startFrame": 2446,
+        "endFrame": 2463
+      },
+      {
+        "text": "the",
+        "startFrame": 2463,
+        "endFrame": 2468
+      },
+      {
+        "text": "whole",
+        "startFrame": 2468,
+        "endFrame": 2476
+      },
+      {
+        "text": "image",
+        "startFrame": 2476,
+        "endFrame": 2484
+      },
+      {
+        "text": "at",
+        "startFrame": 2484,
+        "endFrame": 2494
+      },
+      {
+        "text": "once",
+        "startFrame": 2494,
+        "endFrame": 2497
+      },
+      {
+        "text": "the",
+        "startFrame": 2502,
+        "endFrame": 2505
+      },
+      {
+        "text": "model",
+        "startFrame": 2502,
+        "endFrame": 2510
+      }
+    ]
+  },
+  {
+    "text": "breaks it into hundreds of small squares Think of cutting",
+    "startFrame": 2510,
+    "endFrame": 2619,
+    "words": [
+      {
+        "text": "breaks",
+        "startFrame": 2510,
+        "endFrame": 2520
+      },
+      {
+        "text": "it",
+        "startFrame": 2520,
+        "endFrame": 2523
+      },
+      {
+        "text": "into",
+        "startFrame": 2523,
+        "endFrame": 2532
+      },
+      {
+        "text": "hundreds",
+        "startFrame": 2532,
+        "endFrame": 2546
+      },
+      {
+        "text": "of",
+        "startFrame": 2546,
+        "endFrame": 2553
+      },
+      {
+        "text": "small",
+        "startFrame": 2553,
+        "endFrame": 2564
+      },
+      {
+        "text": "squares",
+        "startFrame": 2564,
+        "endFrame": 2582
+      },
+      {
+        "text": "Think",
+        "startFrame": 2591,
+        "endFrame": 2601
+      },
+      {
+        "text": "of",
+        "startFrame": 2601,
+        "endFrame": 2606
+      },
+      {
+        "text": "cutting",
+        "startFrame": 2606,
+        "endFrame": 2619
+      }
+    ]
+  },
+  {
+    "text": "a giant puzzle into tiny pieces Each piece is",
+    "startFrame": 2619,
+    "endFrame": 2711,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 2619,
+        "endFrame": 2623
+      },
+      {
+        "text": "giant",
+        "startFrame": 2621,
+        "endFrame": 2632
+      },
+      {
+        "text": "puzzle",
+        "startFrame": 2632,
+        "endFrame": 2644
+      },
+      {
+        "text": "into",
+        "startFrame": 2644,
+        "endFrame": 2653
+      },
+      {
+        "text": "tiny",
+        "startFrame": 2653,
+        "endFrame": 2657
+      },
+      {
+        "text": "pieces",
+        "startFrame": 2657,
+        "endFrame": 2673
+      },
+      {
+        "text": "Each",
+        "startFrame": 2681,
+        "endFrame": 2694
+      },
+      {
+        "text": "piece",
+        "startFrame": 2694,
+        "endFrame": 2709
+      },
+      {
+        "text": "is",
+        "startFrame": 2709,
+        "endFrame": 2711
+      }
+    ]
+  },
+  {
+    "text": "called a patch Every patch contains",
+    "startFrame": 2711,
+    "endFrame": 2796,
+    "words": [
+      {
+        "text": "called",
+        "startFrame": 2711,
+        "endFrame": 2728
+      },
+      {
+        "text": "a",
+        "startFrame": 2728,
+        "endFrame": 2731
+      },
+      {
+        "text": "patch",
+        "startFrame": 2731,
+        "endFrame": 2745
+      },
+      {
+        "text": "Every",
+        "startFrame": 2754,
+        "endFrame": 2765
+      },
+      {
+        "text": "patch",
+        "startFrame": 2765,
+        "endFrame": 2777
+      },
+      {
+        "text": "contains",
+        "startFrame": 2777,
+        "endFrame": 2796
+      }
+    ]
+  },
+  {
+    "text": "just a tiny part of the image maybe part",
+    "startFrame": 2796,
+    "endFrame": 2868,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 2796,
+        "endFrame": 2803
+      },
+      {
+        "text": "a",
+        "startFrame": 2803,
+        "endFrame": 2807
+      },
+      {
+        "text": "tiny",
+        "startFrame": 2807,
+        "endFrame": 2814
+      },
+      {
+        "text": "part",
+        "startFrame": 2814,
+        "endFrame": 2823
+      },
+      {
+        "text": "of",
+        "startFrame": 2823,
+        "endFrame": 2827
+      },
+      {
+        "text": "the",
+        "startFrame": 2826,
+        "endFrame": 2839
+      },
+      {
+        "text": "image",
+        "startFrame": 2839,
+        "endFrame": 2850
+      },
+      {
+        "text": "maybe",
+        "startFrame": 2850,
+        "endFrame": 2860
+      },
+      {
+        "text": "part",
+        "startFrame": 2860,
+        "endFrame": 2868
+      }
+    ]
+  },
+  {
+    "text": "of an eye a wheel a leaf a keyboard",
+    "startFrame": 2868,
+    "endFrame": 2974,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 2868,
+        "endFrame": 2872
+      },
+      {
+        "text": "an",
+        "startFrame": 2872,
+        "endFrame": 2876
+      },
+      {
+        "text": "eye",
+        "startFrame": 2876,
+        "endFrame": 2887
+      },
+      {
+        "text": "a",
+        "startFrame": 2890,
+        "endFrame": 2894
+      },
+      {
+        "text": "wheel",
+        "startFrame": 2892,
+        "endFrame": 2906
+      },
+      {
+        "text": "a",
+        "startFrame": 2915,
+        "endFrame": 2919
+      },
+      {
+        "text": "leaf",
+        "startFrame": 2916,
+        "endFrame": 2926
+      },
+      {
+        "text": "a",
+        "startFrame": 2942,
+        "endFrame": 2946
+      },
+      {
+        "text": "keyboard",
+        "startFrame": 2943,
+        "endFrame": 2974
+      }
+    ]
+  },
+  {
+    "text": "key Individually these patches",
+    "startFrame": 2974,
+    "endFrame": 3038,
+    "words": [
+      {
+        "text": "key",
+        "startFrame": 2974,
+        "endFrame": 2987
+      },
+      {
+        "text": "Individually",
+        "startFrame": 2987,
+        "endFrame": 3010
+      },
+      {
+        "text": "these",
+        "startFrame": 3018,
+        "endFrame": 3023
+      },
+      {
+        "text": "patches",
+        "startFrame": 3023,
+        "endFrame": 3038
+      }
+    ]
+  },
+  {
+    "text": "don't tell the full story but together",
+    "startFrame": 3038,
+    "endFrame": 3118,
+    "words": [
+      {
+        "text": "don't",
+        "startFrame": 3038,
+        "endFrame": 3047
+      },
+      {
+        "text": "tell",
+        "startFrame": 3047,
+        "endFrame": 3054
+      },
+      {
+        "text": "the",
+        "startFrame": 3054,
+        "endFrame": 3060
+      },
+      {
+        "text": "full",
+        "startFrame": 3060,
+        "endFrame": 3067
+      },
+      {
+        "text": "story",
+        "startFrame": 3067,
+        "endFrame": 3080
+      },
+      {
+        "text": "but",
+        "startFrame": 3086,
+        "endFrame": 3094
+      },
+      {
+        "text": "together",
+        "startFrame": 3094,
+        "endFrame": 3118
+      }
+    ]
+  },
+  {
+    "text": "they contain everything Each patch is",
+    "startFrame": 3118,
+    "endFrame": 3197,
+    "words": [
+      {
+        "text": "they",
+        "startFrame": 3118,
+        "endFrame": 3122
+      },
+      {
+        "text": "contain",
+        "startFrame": 3121,
+        "endFrame": 3136
+      },
+      {
+        "text": "everything",
+        "startFrame": 3136,
+        "endFrame": 3149
+      },
+      {
+        "text": "Each",
+        "startFrame": 3169,
+        "endFrame": 3177
+      },
+      {
+        "text": "patch",
+        "startFrame": 3177,
+        "endFrame": 3186
+      },
+      {
+        "text": "is",
+        "startFrame": 3186,
+        "endFrame": 3197
+      }
+    ]
+  },
+  {
+    "text": "then converted into mathematical representation called an embedding Now don't let the",
+    "startFrame": 3197,
+    "endFrame": 3343,
+    "words": [
+      {
+        "text": "then",
+        "startFrame": 3197,
+        "endFrame": 3200
+      },
+      {
+        "text": "converted",
+        "startFrame": 3197,
+        "endFrame": 3214
+      },
+      {
+        "text": "into",
+        "startFrame": 3214,
+        "endFrame": 3222
+      },
+      {
+        "text": "mathematical",
+        "startFrame": 3222,
+        "endFrame": 3245
+      },
+      {
+        "text": "representation",
+        "startFrame": 3245,
+        "endFrame": 3272
+      },
+      {
+        "text": "called",
+        "startFrame": 3272,
+        "endFrame": 3283
+      },
+      {
+        "text": "an",
+        "startFrame": 3283,
+        "endFrame": 3287
+      },
+      {
+        "text": "embedding",
+        "startFrame": 3286,
+        "endFrame": 3306
+      },
+      {
+        "text": "Now",
+        "startFrame": 3310,
+        "endFrame": 3314
+      },
+      {
+        "text": "don't",
+        "startFrame": 3313,
+        "endFrame": 3323
+      },
+      {
+        "text": "let",
+        "startFrame": 3323,
+        "endFrame": 3333
+      },
+      {
+        "text": "the",
+        "startFrame": 3333,
+        "endFrame": 3343
+      }
+    ]
+  },
+  {
+    "text": "word scare you An embedding is simply",
+    "startFrame": 3343,
+    "endFrame": 3404,
+    "words": [
+      {
+        "text": "word",
+        "startFrame": 3343,
+        "endFrame": 3353
+      },
+      {
+        "text": "scare",
+        "startFrame": 3353,
+        "endFrame": 3363
+      },
+      {
+        "text": "you",
+        "startFrame": 3363,
+        "endFrame": 3372
+      },
+      {
+        "text": "An",
+        "startFrame": 3372,
+        "endFrame": 3376
+      },
+      {
+        "text": "embedding",
+        "startFrame": 3376,
+        "endFrame": 3391
+      },
+      {
+        "text": "is",
+        "startFrame": 3391,
+        "endFrame": 3398
+      },
+      {
+        "text": "simply",
+        "startFrame": 3398,
+        "endFrame": 3404
+      }
+    ]
+  },
+  {
+    "text": "a way of representing information as numbers that capture",
+    "startFrame": 3404,
+    "endFrame": 3507,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 3404,
+        "endFrame": 3408
+      },
+      {
+        "text": "way",
+        "startFrame": 3406,
+        "endFrame": 3411
+      },
+      {
+        "text": "of",
+        "startFrame": 3411,
+        "endFrame": 3415
+      },
+      {
+        "text": "representing",
+        "startFrame": 3414,
+        "endFrame": 3435
+      },
+      {
+        "text": "information",
+        "startFrame": 3435,
+        "endFrame": 3456
+      },
+      {
+        "text": "as",
+        "startFrame": 3456,
+        "endFrame": 3463
+      },
+      {
+        "text": "numbers",
+        "startFrame": 3463,
+        "endFrame": 3485
+      },
+      {
+        "text": "that",
+        "startFrame": 3485,
+        "endFrame": 3496
+      },
+      {
+        "text": "capture",
+        "startFrame": 3496,
+        "endFrame": 3507
+      }
+    ]
+  },
+  {
+    "text": "patterns instead of raw colors At this stage the original image",
+    "startFrame": 3507,
+    "endFrame": 3650,
+    "words": [
+      {
+        "text": "patterns",
+        "startFrame": 3507,
+        "endFrame": 3518
+      },
+      {
+        "text": "instead",
+        "startFrame": 3518,
+        "endFrame": 3530
+      },
+      {
+        "text": "of",
+        "startFrame": 3530,
+        "endFrame": 3541
+      },
+      {
+        "text": "raw",
+        "startFrame": 3541,
+        "endFrame": 3552
+      },
+      {
+        "text": "colors",
+        "startFrame": 3552,
+        "endFrame": 3563
+      },
+      {
+        "text": "At",
+        "startFrame": 3571,
+        "endFrame": 3577
+      },
+      {
+        "text": "this",
+        "startFrame": 3577,
+        "endFrame": 3587
+      },
+      {
+        "text": "stage",
+        "startFrame": 3587,
+        "endFrame": 3607
+      },
+      {
+        "text": "the",
+        "startFrame": 3609,
+        "endFrame": 3615
+      },
+      {
+        "text": "original",
+        "startFrame": 3615,
+        "endFrame": 3637
+      },
+      {
+        "text": "image",
+        "startFrame": 3637,
+        "endFrame": 3650
+      }
+    ]
+  },
+  {
+    "text": "is already gone What remains is a collection of",
+    "startFrame": 3650,
+    "endFrame": 3751,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 3650,
+        "endFrame": 3656
+      },
+      {
+        "text": "already",
+        "startFrame": 3656,
+        "endFrame": 3686
+      },
+      {
+        "text": "gone",
+        "startFrame": 3686,
+        "endFrame": 3689
+      },
+      {
+        "text": "What",
+        "startFrame": 3696,
+        "endFrame": 3705
+      },
+      {
+        "text": "remains",
+        "startFrame": 3705,
+        "endFrame": 3719
+      },
+      {
+        "text": "is",
+        "startFrame": 3719,
+        "endFrame": 3724
+      },
+      {
+        "text": "a",
+        "startFrame": 3724,
+        "endFrame": 3728
+      },
+      {
+        "text": "collection",
+        "startFrame": 3725,
+        "endFrame": 3747
+      },
+      {
+        "text": "of",
+        "startFrame": 3747,
+        "endFrame": 3751
+      }
+    ]
+  },
+  {
+    "text": "mathematical descriptions Now comes the clever part ChatGPT",
+    "startFrame": 3751,
+    "endFrame": 3881,
+    "words": [
+      {
+        "text": "mathematical",
+        "startFrame": 3751,
+        "endFrame": 3767
+      },
+      {
+        "text": "descriptions",
+        "startFrame": 3767,
+        "endFrame": 3808
+      },
+      {
+        "text": "Now",
+        "startFrame": 3809,
+        "endFrame": 3816
+      },
+      {
+        "text": "comes",
+        "startFrame": 3816,
+        "endFrame": 3828
+      },
+      {
+        "text": "the",
+        "startFrame": 3828,
+        "endFrame": 3834
+      },
+      {
+        "text": "clever",
+        "startFrame": 3834,
+        "endFrame": 3856
+      },
+      {
+        "text": "part",
+        "startFrame": 3856,
+        "endFrame": 3859
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 3865,
+        "endFrame": 3881
+      }
+    ]
+  },
+  {
+    "text": "doesn't examine these patches one",
+    "startFrame": 3881,
+    "endFrame": 3940,
+    "words": [
+      {
+        "text": "doesn't",
+        "startFrame": 3881,
+        "endFrame": 3895
+      },
+      {
+        "text": "examine",
+        "startFrame": 3895,
+        "endFrame": 3910
+      },
+      {
+        "text": "these",
+        "startFrame": 3910,
+        "endFrame": 3920
+      },
+      {
+        "text": "patches",
+        "startFrame": 3920,
+        "endFrame": 3934
+      },
+      {
+        "text": "one",
+        "startFrame": 3934,
+        "endFrame": 3940
+      }
+    ]
+  },
+  {
+    "text": "after another It looks at all of them",
+    "startFrame": 3940,
+    "endFrame": 4016,
+    "words": [
+      {
+        "text": "after",
+        "startFrame": 3940,
+        "endFrame": 3950
+      },
+      {
+        "text": "another",
+        "startFrame": 3950,
+        "endFrame": 3965
+      },
+      {
+        "text": "It",
+        "startFrame": 3973,
+        "endFrame": 3978
+      },
+      {
+        "text": "looks",
+        "startFrame": 3978,
+        "endFrame": 3990
+      },
+      {
+        "text": "at",
+        "startFrame": 3990,
+        "endFrame": 3994
+      },
+      {
+        "text": "all",
+        "startFrame": 3994,
+        "endFrame": 4002
+      },
+      {
+        "text": "of",
+        "startFrame": 4002,
+        "endFrame": 4006
+      },
+      {
+        "text": "them",
+        "startFrame": 4006,
+        "endFrame": 4016
+      }
+    ]
+  },
+  {
+    "text": "together Imagine you're trying to identify a",
+    "startFrame": 4016,
+    "endFrame": 4103,
+    "words": [
+      {
+        "text": "together",
+        "startFrame": 4016,
+        "endFrame": 4035
+      },
+      {
+        "text": "Imagine",
+        "startFrame": 4043,
+        "endFrame": 4056
+      },
+      {
+        "text": "you're",
+        "startFrame": 4056,
+        "endFrame": 4069
+      },
+      {
+        "text": "trying",
+        "startFrame": 4069,
+        "endFrame": 4082
+      },
+      {
+        "text": "to",
+        "startFrame": 4082,
+        "endFrame": 4085
+      },
+      {
+        "text": "identify",
+        "startFrame": 4085,
+        "endFrame": 4101
+      },
+      {
+        "text": "a",
+        "startFrame": 4101,
+        "endFrame": 4103
+      }
+    ]
+  },
+  {
+    "text": "bicycle You don't look at just one wheel",
+    "startFrame": 4103,
+    "endFrame": 4190,
+    "words": [
+      {
+        "text": "bicycle",
+        "startFrame": 4103,
+        "endFrame": 4119
+      },
+      {
+        "text": "You",
+        "startFrame": 4124,
+        "endFrame": 4133
+      },
+      {
+        "text": "don't",
+        "startFrame": 4133,
+        "endFrame": 4143
+      },
+      {
+        "text": "look",
+        "startFrame": 4143,
+        "endFrame": 4152
+      },
+      {
+        "text": "at",
+        "startFrame": 4152,
+        "endFrame": 4162
+      },
+      {
+        "text": "just",
+        "startFrame": 4162,
+        "endFrame": 4171
+      },
+      {
+        "text": "one",
+        "startFrame": 4171,
+        "endFrame": 4181
+      },
+      {
+        "text": "wheel",
+        "startFrame": 4181,
+        "endFrame": 4190
+      }
+    ]
+  },
+  {
+    "text": "You notice another wheel the handlebars, the",
+    "startFrame": 4194,
+    "endFrame": 4271,
+    "words": [
+      {
+        "text": "You",
+        "startFrame": 4194,
+        "endFrame": 4198
+      },
+      {
+        "text": "notice",
+        "startFrame": 4196,
+        "endFrame": 4208
+      },
+      {
+        "text": "another",
+        "startFrame": 4208,
+        "endFrame": 4220
+      },
+      {
+        "text": "wheel",
+        "startFrame": 4220,
+        "endFrame": 4235
+      },
+      {
+        "text": "the",
+        "startFrame": 4238,
+        "endFrame": 4249
+      },
+      {
+        "text": "handlebars,",
+        "startFrame": 4249,
+        "endFrame": 4260
+      },
+      {
+        "text": "the",
+        "startFrame": 4260,
+        "endFrame": 4271
+      }
+    ]
+  },
+  {
+    "text": "pedals, the seat and your brain connects them",
+    "startFrame": 4271,
+    "endFrame": 4346,
+    "words": [
+      {
+        "text": "pedals,",
+        "startFrame": 4271,
+        "endFrame": 4282
+      },
+      {
+        "text": "the",
+        "startFrame": 4284,
+        "endFrame": 4291
+      },
+      {
+        "text": "seat",
+        "startFrame": 4291,
+        "endFrame": 4304
+      },
+      {
+        "text": "and",
+        "startFrame": 4305,
+        "endFrame": 4310
+      },
+      {
+        "text": "your",
+        "startFrame": 4310,
+        "endFrame": 4320
+      },
+      {
+        "text": "brain",
+        "startFrame": 4320,
+        "endFrame": 4329
+      },
+      {
+        "text": "connects",
+        "startFrame": 4329,
+        "endFrame": 4339
+      },
+      {
+        "text": "them",
+        "startFrame": 4339,
+        "endFrame": 4346
+      }
+    ]
+  },
+  {
+    "text": "into one object The AI does something similar It compares",
+    "startFrame": 4346,
+    "endFrame": 4466,
+    "words": [
+      {
+        "text": "into",
+        "startFrame": 4346,
+        "endFrame": 4354
+      },
+      {
+        "text": "one",
+        "startFrame": 4354,
+        "endFrame": 4358
+      },
+      {
+        "text": "object",
+        "startFrame": 4357,
+        "endFrame": 4375
+      },
+      {
+        "text": "The",
+        "startFrame": 4375,
+        "endFrame": 4384
+      },
+      {
+        "text": "AI",
+        "startFrame": 4384,
+        "endFrame": 4388
+      },
+      {
+        "text": "does",
+        "startFrame": 4387,
+        "endFrame": 4397
+      },
+      {
+        "text": "something",
+        "startFrame": 4397,
+        "endFrame": 4417
+      },
+      {
+        "text": "similar",
+        "startFrame": 4417,
+        "endFrame": 4442
+      },
+      {
+        "text": "It",
+        "startFrame": 4442,
+        "endFrame": 4446
+      },
+      {
+        "text": "compares",
+        "startFrame": 4446,
+        "endFrame": 4466
+      }
+    ]
+  },
+  {
+    "text": "every patch with every other",
+    "startFrame": 4466,
+    "endFrame": 4507,
+    "words": [
+      {
+        "text": "every",
+        "startFrame": 4466,
+        "endFrame": 4472
+      },
+      {
+        "text": "patch",
+        "startFrame": 4472,
+        "endFrame": 4483
+      },
+      {
+        "text": "with",
+        "startFrame": 4483,
+        "endFrame": 4490
+      },
+      {
+        "text": "every",
+        "startFrame": 4490,
+        "endFrame": 4501
+      },
+      {
+        "text": "other",
+        "startFrame": 4501,
+        "endFrame": 4507
+      }
+    ]
+  },
+  {
+    "text": "patch It asks questions like which parts belong",
+    "startFrame": 4507,
+    "endFrame": 4610,
+    "words": [
+      {
+        "text": "patch",
+        "startFrame": 4507,
+        "endFrame": 4526
+      },
+      {
+        "text": "It",
+        "startFrame": 4526,
+        "endFrame": 4532
+      },
+      {
+        "text": "asks",
+        "startFrame": 4532,
+        "endFrame": 4544
+      },
+      {
+        "text": "questions",
+        "startFrame": 4544,
+        "endFrame": 4577
+      },
+      {
+        "text": "like",
+        "startFrame": 4577,
+        "endFrame": 4580
+      },
+      {
+        "text": "which",
+        "startFrame": 4580,
+        "endFrame": 4587
+      },
+      {
+        "text": "parts",
+        "startFrame": 4587,
+        "endFrame": 4598
+      },
+      {
+        "text": "belong",
+        "startFrame": 4598,
+        "endFrame": 4610
+      }
+    ]
+  },
+  {
+    "text": "together what seems important what objects are interacting",
+    "startFrame": 4610,
+    "endFrame": 4736,
+    "words": [
+      {
+        "text": "together",
+        "startFrame": 4610,
+        "endFrame": 4632
+      },
+      {
+        "text": "what",
+        "startFrame": 4635,
+        "endFrame": 4642
+      },
+      {
+        "text": "seems",
+        "startFrame": 4642,
+        "endFrame": 4652
+      },
+      {
+        "text": "important",
+        "startFrame": 4652,
+        "endFrame": 4670
+      },
+      {
+        "text": "what",
+        "startFrame": 4682,
+        "endFrame": 4688
+      },
+      {
+        "text": "objects",
+        "startFrame": 4688,
+        "endFrame": 4703
+      },
+      {
+        "text": "are",
+        "startFrame": 4703,
+        "endFrame": 4710
+      },
+      {
+        "text": "interacting",
+        "startFrame": 4710,
+        "endFrame": 4736
+      }
+    ]
+  },
+  {
+    "text": "This process is called attention Attention allows",
+    "startFrame": 4742,
+    "endFrame": 4840,
+    "words": [
+      {
+        "text": "This",
+        "startFrame": 4742,
+        "endFrame": 4753
+      },
+      {
+        "text": "process",
+        "startFrame": 4753,
+        "endFrame": 4770
+      },
+      {
+        "text": "is",
+        "startFrame": 4770,
+        "endFrame": 4774
+      },
+      {
+        "text": "called",
+        "startFrame": 4771,
+        "endFrame": 4784
+      },
+      {
+        "text": "attention",
+        "startFrame": 4784,
+        "endFrame": 4805
+      },
+      {
+        "text": "Attention",
+        "startFrame": 4812,
+        "endFrame": 4829
+      },
+      {
+        "text": "allows",
+        "startFrame": 4829,
+        "endFrame": 4840
+      }
+    ]
+  },
+  {
+    "text": "the model to understand relationships",
+    "startFrame": 4840,
+    "endFrame": 4903,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4840,
+        "endFrame": 4846
+      },
+      {
+        "text": "model",
+        "startFrame": 4846,
+        "endFrame": 4856
+      },
+      {
+        "text": "to",
+        "startFrame": 4856,
+        "endFrame": 4859
+      },
+      {
+        "text": "understand",
+        "startFrame": 4859,
+        "endFrame": 4879
+      },
+      {
+        "text": "relationships",
+        "startFrame": 4879,
+        "endFrame": 4903
+      }
+    ]
+  },
+  {
+    "text": "not just objects That's why it knows the difference between",
+    "startFrame": 4908,
+    "endFrame": 5016,
+    "words": [
+      {
+        "text": "not",
+        "startFrame": 4908,
+        "endFrame": 4913
+      },
+      {
+        "text": "just",
+        "startFrame": 4913,
+        "endFrame": 4925
+      },
+      {
+        "text": "objects",
+        "startFrame": 4925,
+        "endFrame": 4940
+      },
+      {
+        "text": "That's",
+        "startFrame": 4943,
+        "endFrame": 4956
+      },
+      {
+        "text": "why",
+        "startFrame": 4953,
+        "endFrame": 4960
+      },
+      {
+        "text": "it",
+        "startFrame": 4960,
+        "endFrame": 4964
+      },
+      {
+        "text": "knows",
+        "startFrame": 4964,
+        "endFrame": 4974
+      },
+      {
+        "text": "the",
+        "startFrame": 4974,
+        "endFrame": 4980
+      },
+      {
+        "text": "difference",
+        "startFrame": 4980,
+        "endFrame": 5001
+      },
+      {
+        "text": "between",
+        "startFrame": 5001,
+        "endFrame": 5016
+      }
+    ]
+  },
+  {
+    "text": "a dog chasing a person and a person",
+    "startFrame": 5016,
+    "endFrame": 5075,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 5016,
+        "endFrame": 5020
+      },
+      {
+        "text": "dog",
+        "startFrame": 5018,
+        "endFrame": 5024
+      },
+      {
+        "text": "chasing",
+        "startFrame": 5024,
+        "endFrame": 5041
+      },
+      {
+        "text": "a",
+        "startFrame": 5041,
+        "endFrame": 5047
+      },
+      {
+        "text": "person",
+        "startFrame": 5047,
+        "endFrame": 5054
+      },
+      {
+        "text": "and",
+        "startFrame": 5054,
+        "endFrame": 5060
+      },
+      {
+        "text": "a",
+        "startFrame": 5060,
+        "endFrame": 5064
+      },
+      {
+        "text": "person",
+        "startFrame": 5064,
+        "endFrame": 5075
+      }
+    ]
+  },
+  {
+    "text": "chasing a dog The same two objects but a completely",
+    "startFrame": 5075,
+    "endFrame": 5164,
+    "words": [
+      {
+        "text": "chasing",
+        "startFrame": 5075,
+        "endFrame": 5089
+      },
+      {
+        "text": "a",
+        "startFrame": 5089,
+        "endFrame": 5093
+      },
+      {
+        "text": "dog",
+        "startFrame": 5092,
+        "endFrame": 5106
+      },
+      {
+        "text": "The",
+        "startFrame": 5106,
+        "endFrame": 5114
+      },
+      {
+        "text": "same",
+        "startFrame": 5114,
+        "endFrame": 5122
+      },
+      {
+        "text": "two",
+        "startFrame": 5122,
+        "endFrame": 5131
+      },
+      {
+        "text": "objects",
+        "startFrame": 5131,
+        "endFrame": 5139
+      },
+      {
+        "text": "but",
+        "startFrame": 5142,
+        "endFrame": 5145
+      },
+      {
+        "text": "a",
+        "startFrame": 5144,
+        "endFrame": 5148
+      },
+      {
+        "text": "completely",
+        "startFrame": 5146,
+        "endFrame": 5164
+      }
+    ]
+  },
+  {
+    "text": "different story It isn't memorizing images it's understanding patterns",
+    "startFrame": 5164,
+    "endFrame": 5308,
+    "words": [
+      {
+        "text": "different",
+        "startFrame": 5164,
+        "endFrame": 5180
+      },
+      {
+        "text": "story",
+        "startFrame": 5180,
+        "endFrame": 5191
+      },
+      {
+        "text": "It",
+        "startFrame": 5197,
+        "endFrame": 5202
+      },
+      {
+        "text": "isn't",
+        "startFrame": 5202,
+        "endFrame": 5214
+      },
+      {
+        "text": "memorizing",
+        "startFrame": 5214,
+        "endFrame": 5237
+      },
+      {
+        "text": "images",
+        "startFrame": 5237,
+        "endFrame": 5257
+      },
+      {
+        "text": "it's",
+        "startFrame": 5260,
+        "endFrame": 5265
+      },
+      {
+        "text": "understanding",
+        "startFrame": 5265,
+        "endFrame": 5291
+      },
+      {
+        "text": "patterns",
+        "startFrame": 5291,
+        "endFrame": 5308
+      }
+    ]
+  },
+  {
+    "text": "and relationships By now ChatGPT has",
+    "startFrame": 5308,
+    "endFrame": 5397,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 5308,
+        "endFrame": 5313
+      },
+      {
+        "text": "relationships",
+        "startFrame": 5313,
+        "endFrame": 5347
+      },
+      {
+        "text": "By",
+        "startFrame": 5347,
+        "endFrame": 5356
+      },
+      {
+        "text": "now",
+        "startFrame": 5356,
+        "endFrame": 5377
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 5381,
+        "endFrame": 5392
+      },
+      {
+        "text": "has",
+        "startFrame": 5392,
+        "endFrame": 5397
+      }
+    ]
+  },
+  {
+    "text": "built an internal",
+    "startFrame": 5397,
+    "endFrame": 5425,
+    "words": [
+      {
+        "text": "built",
+        "startFrame": 5397,
+        "endFrame": 5407
+      },
+      {
+        "text": "an",
+        "startFrame": 5407,
+        "endFrame": 5412
+      },
+      {
+        "text": "internal",
+        "startFrame": 5412,
+        "endFrame": 5425
+      }
+    ]
+  },
+  {
+    "text": "mathematical understanding of the image But you",
+    "startFrame": 5425,
+    "endFrame": 5504,
+    "words": [
+      {
+        "text": "mathematical",
+        "startFrame": 5425,
+        "endFrame": 5447
+      },
+      {
+        "text": "understanding",
+        "startFrame": 5447,
+        "endFrame": 5472
+      },
+      {
+        "text": "of",
+        "startFrame": 5472,
+        "endFrame": 5481
+      },
+      {
+        "text": "the",
+        "startFrame": 5481,
+        "endFrame": 5492
+      },
+      {
+        "text": "image",
+        "startFrame": 5492,
+        "endFrame": 5496
+      },
+      {
+        "text": "But",
+        "startFrame": 5492,
+        "endFrame": 5499
+      },
+      {
+        "text": "you",
+        "startFrame": 5499,
+        "endFrame": 5504
+      }
+    ]
+  },
+  {
+    "text": "didn't upload a photo just",
+    "startFrame": 5504,
+    "endFrame": 5548,
+    "words": [
+      {
+        "text": "didn't",
+        "startFrame": 5504,
+        "endFrame": 5517
+      },
+      {
+        "text": "upload",
+        "startFrame": 5516,
+        "endFrame": 5528
+      },
+      {
+        "text": "a",
+        "startFrame": 5528,
+        "endFrame": 5532
+      },
+      {
+        "text": "photo",
+        "startFrame": 5530,
+        "endFrame": 5540
+      },
+      {
+        "text": "just",
+        "startFrame": 5540,
+        "endFrame": 5548
+      }
+    ]
+  },
+  {
+    "text": "to have it analyzed You asked a question. Maybe what's wrong",
+    "startFrame": 5548,
+    "endFrame": 5660,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 5548,
+        "endFrame": 5552
+      },
+      {
+        "text": "have",
+        "startFrame": 5552,
+        "endFrame": 5560
+      },
+      {
+        "text": "it",
+        "startFrame": 5560,
+        "endFrame": 5564
+      },
+      {
+        "text": "analyzed",
+        "startFrame": 5564,
+        "endFrame": 5582
+      },
+      {
+        "text": "You",
+        "startFrame": 5588,
+        "endFrame": 5598
+      },
+      {
+        "text": "asked",
+        "startFrame": 5598,
+        "endFrame": 5607
+      },
+      {
+        "text": "a",
+        "startFrame": 5607,
+        "endFrame": 5617
+      },
+      {
+        "text": "question.",
+        "startFrame": 5617,
+        "endFrame": 5626
+      },
+      {
+        "text": "Maybe",
+        "startFrame": 5626,
+        "endFrame": 5636
+      },
+      {
+        "text": "what's",
+        "startFrame": 5636,
+        "endFrame": 5652
+      },
+      {
+        "text": "wrong",
+        "startFrame": 5649,
+        "endFrame": 5660
+      }
+    ]
+  },
+  {
+    "text": "with this code or can you explain this",
+    "startFrame": 5660,
+    "endFrame": 5738,
+    "words": [
+      {
+        "text": "with",
+        "startFrame": 5660,
+        "endFrame": 5671
+      },
+      {
+        "text": "this",
+        "startFrame": 5671,
+        "endFrame": 5684
+      },
+      {
+        "text": "code",
+        "startFrame": 5684,
+        "endFrame": 5688
+      },
+      {
+        "text": "or",
+        "startFrame": 5687,
+        "endFrame": 5691
+      },
+      {
+        "text": "can",
+        "startFrame": 5691,
+        "endFrame": 5699
+      },
+      {
+        "text": "you",
+        "startFrame": 5699,
+        "endFrame": 5709
+      },
+      {
+        "text": "explain",
+        "startFrame": 5709,
+        "endFrame": 5720
+      },
+      {
+        "text": "this",
+        "startFrame": 5720,
+        "endFrame": 5738
+      }
+    ]
+  },
+  {
+    "text": "graph or translate this sign Now something fascinating happens",
+    "startFrame": 5738,
+    "endFrame": 5856,
+    "words": [
+      {
+        "text": "graph",
+        "startFrame": 5738,
+        "endFrame": 5741
+      },
+      {
+        "text": "or",
+        "startFrame": 5740,
+        "endFrame": 5745
+      },
+      {
+        "text": "translate",
+        "startFrame": 5745,
+        "endFrame": 5763
+      },
+      {
+        "text": "this",
+        "startFrame": 5763,
+        "endFrame": 5773
+      },
+      {
+        "text": "sign",
+        "startFrame": 5773,
+        "endFrame": 5786
+      },
+      {
+        "text": "Now",
+        "startFrame": 5794,
+        "endFrame": 5798
+      },
+      {
+        "text": "something",
+        "startFrame": 5798,
+        "endFrame": 5816
+      },
+      {
+        "text": "fascinating",
+        "startFrame": 5816,
+        "endFrame": 5840
+      },
+      {
+        "text": "happens",
+        "startFrame": 5840,
+        "endFrame": 5856
+      }
+    ]
+  },
+  {
+    "text": "The image information",
+    "startFrame": 5856,
+    "endFrame": 5897,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 5856,
+        "endFrame": 5863
+      },
+      {
+        "text": "image",
+        "startFrame": 5863,
+        "endFrame": 5872
+      },
+      {
+        "text": "information",
+        "startFrame": 5872,
+        "endFrame": 5897
+      }
+    ]
+  },
+  {
+    "text": "is combined with your",
+    "startFrame": 5897,
+    "endFrame": 5943,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 5897,
+        "endFrame": 5901
+      },
+      {
+        "text": "combined",
+        "startFrame": 5899,
+        "endFrame": 5915
+      },
+      {
+        "text": "with",
+        "startFrame": 5915,
+        "endFrame": 5923
+      },
+      {
+        "text": "your",
+        "startFrame": 5923,
+        "endFrame": 5943
+      }
+    ]
+  },
+  {
+    "text": "question To the language model both become part",
+    "startFrame": 5943,
+    "endFrame": 6014,
+    "words": [
+      {
+        "text": "question",
+        "startFrame": 5943,
+        "endFrame": 5950
+      },
+      {
+        "text": "To",
+        "startFrame": 5950,
+        "endFrame": 5953
+      },
+      {
+        "text": "the",
+        "startFrame": 5953,
+        "endFrame": 5959
+      },
+      {
+        "text": "language",
+        "startFrame": 5959,
+        "endFrame": 5974
+      },
+      {
+        "text": "model",
+        "startFrame": 5974,
+        "endFrame": 5983
+      },
+      {
+        "text": "both",
+        "startFrame": 5987,
+        "endFrame": 5997
+      },
+      {
+        "text": "become",
+        "startFrame": 5997,
+        "endFrame": 6006
+      },
+      {
+        "text": "part",
+        "startFrame": 6006,
+        "endFrame": 6014
+      }
+    ]
+  },
+  {
+    "text": "of the same conversation The model doesn't have a",
+    "startFrame": 6014,
+    "endFrame": 6097,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 6014,
+        "endFrame": 6019
+      },
+      {
+        "text": "the",
+        "startFrame": 6019,
+        "endFrame": 6022
+      },
+      {
+        "text": "same",
+        "startFrame": 6022,
+        "endFrame": 6030
+      },
+      {
+        "text": "conversation",
+        "startFrame": 6030,
+        "endFrame": 6060
+      },
+      {
+        "text": "The",
+        "startFrame": 6060,
+        "endFrame": 6065
+      },
+      {
+        "text": "model",
+        "startFrame": 6065,
+        "endFrame": 6075
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 6075,
+        "endFrame": 6090
+      },
+      {
+        "text": "have",
+        "startFrame": 6088,
+        "endFrame": 6095
+      },
+      {
+        "text": "a",
+        "startFrame": 6095,
+        "endFrame": 6097
+      }
+    ]
+  },
+  {
+    "text": "hidden database",
+    "startFrame": 6097,
+    "endFrame": 6125,
+    "words": [
+      {
+        "text": "hidden",
+        "startFrame": 6097,
+        "endFrame": 6108
+      },
+      {
+        "text": "database",
+        "startFrame": 6108,
+        "endFrame": 6125
+      }
+    ]
+  },
+  {
+    "text": "of captions waiting to be matched Instead it",
+    "startFrame": 6125,
+    "endFrame": 6214,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 6125,
+        "endFrame": 6128
+      },
+      {
+        "text": "captions",
+        "startFrame": 6126,
+        "endFrame": 6142
+      },
+      {
+        "text": "waiting",
+        "startFrame": 6142,
+        "endFrame": 6153
+      },
+      {
+        "text": "to",
+        "startFrame": 6153,
+        "endFrame": 6157
+      },
+      {
+        "text": "be",
+        "startFrame": 6156,
+        "endFrame": 6160
+      },
+      {
+        "text": "matched",
+        "startFrame": 6160,
+        "endFrame": 6181
+      },
+      {
+        "text": "Instead",
+        "startFrame": 6181,
+        "endFrame": 6198
+      },
+      {
+        "text": "it",
+        "startFrame": 6202,
+        "endFrame": 6214
+      }
+    ]
+  },
+  {
+    "text": "generates a brand-new response one",
+    "startFrame": 6214,
+    "endFrame": 6282,
+    "words": [
+      {
+        "text": "generates",
+        "startFrame": 6214,
+        "endFrame": 6225
+      },
+      {
+        "text": "a",
+        "startFrame": 6225,
+        "endFrame": 6236
+      },
+      {
+        "text": "brand-new",
+        "startFrame": 6236,
+        "endFrame": 6248
+      },
+      {
+        "text": "response",
+        "startFrame": 6248,
+        "endFrame": 6270
+      },
+      {
+        "text": "one",
+        "startFrame": 6274,
+        "endFrame": 6282
+      }
+    ]
+  },
+  {
+    "text": "word at a time just like it does when",
+    "startFrame": 6282,
+    "endFrame": 6355,
+    "words": [
+      {
+        "text": "word",
+        "startFrame": 6282,
+        "endFrame": 6293
+      },
+      {
+        "text": "at",
+        "startFrame": 6293,
+        "endFrame": 6302
+      },
+      {
+        "text": "a",
+        "startFrame": 6302,
+        "endFrame": 6314
+      },
+      {
+        "text": "time",
+        "startFrame": 6314,
+        "endFrame": 6318
+      },
+      {
+        "text": "just",
+        "startFrame": 6318,
+        "endFrame": 6325
+      },
+      {
+        "text": "like",
+        "startFrame": 6325,
+        "endFrame": 6332
+      },
+      {
+        "text": "it",
+        "startFrame": 6332,
+        "endFrame": 6337
+      },
+      {
+        "text": "does",
+        "startFrame": 6337,
+        "endFrame": 6343
+      },
+      {
+        "text": "when",
+        "startFrame": 6343,
+        "endFrame": 6355
+      }
+    ]
+  },
+  {
+    "text": "you're chatting normally The only difference is its understanding",
+    "startFrame": 6355,
+    "endFrame": 6471,
+    "words": [
+      {
+        "text": "you're",
+        "startFrame": 6355,
+        "endFrame": 6367
+      },
+      {
+        "text": "chatting",
+        "startFrame": 6367,
+        "endFrame": 6379
+      },
+      {
+        "text": "normally",
+        "startFrame": 6379,
+        "endFrame": 6391
+      },
+      {
+        "text": "The",
+        "startFrame": 6398,
+        "endFrame": 6405
+      },
+      {
+        "text": "only",
+        "startFrame": 6405,
+        "endFrame": 6411
+      },
+      {
+        "text": "difference",
+        "startFrame": 6411,
+        "endFrame": 6435
+      },
+      {
+        "text": "is",
+        "startFrame": 6435,
+        "endFrame": 6438
+      },
+      {
+        "text": "its",
+        "startFrame": 6442,
+        "endFrame": 6446
+      },
+      {
+        "text": "understanding",
+        "startFrame": 6446,
+        "endFrame": 6471
+      }
+    ]
+  },
+  {
+    "text": "comes from both",
+    "startFrame": 6471,
+    "endFrame": 6494,
+    "words": [
+      {
+        "text": "comes",
+        "startFrame": 6471,
+        "endFrame": 6479
+      },
+      {
+        "text": "from",
+        "startFrame": 6479,
+        "endFrame": 6488
+      },
+      {
+        "text": "both",
+        "startFrame": 6488,
+        "endFrame": 6494
+      }
+    ]
+  },
+  {
+    "text": "text and vision this time Understanding images is one",
+    "startFrame": 6494,
+    "endFrame": 6601,
+    "words": [
+      {
+        "text": "text",
+        "startFrame": 6494,
+        "endFrame": 6501
+      },
+      {
+        "text": "and",
+        "startFrame": 6501,
+        "endFrame": 6507
+      },
+      {
+        "text": "vision",
+        "startFrame": 6507,
+        "endFrame": 6511
+      },
+      {
+        "text": "this",
+        "startFrame": 6511,
+        "endFrame": 6531
+      },
+      {
+        "text": "time",
+        "startFrame": 6531,
+        "endFrame": 6542
+      },
+      {
+        "text": "Understanding",
+        "startFrame": 6542,
+        "endFrame": 6572
+      },
+      {
+        "text": "images",
+        "startFrame": 6572,
+        "endFrame": 6584
+      },
+      {
+        "text": "is",
+        "startFrame": 6584,
+        "endFrame": 6587
+      },
+      {
+        "text": "one",
+        "startFrame": 6585,
+        "endFrame": 6601
+      }
+    ]
+  },
+  {
+    "text": "thing creating them is another",
+    "startFrame": 6601,
+    "endFrame": 6655,
+    "words": [
+      {
+        "text": "thing",
+        "startFrame": 6601,
+        "endFrame": 6604
+      },
+      {
+        "text": "creating",
+        "startFrame": 6605,
+        "endFrame": 6621
+      },
+      {
+        "text": "them",
+        "startFrame": 6621,
+        "endFrame": 6629
+      },
+      {
+        "text": "is",
+        "startFrame": 6629,
+        "endFrame": 6633
+      },
+      {
+        "text": "another",
+        "startFrame": 6632,
+        "endFrame": 6655
+      }
+    ]
+  },
+  {
+    "text": "When you ask ChatGPT to generate an image it",
+    "startFrame": 6657,
+    "endFrame": 6731,
+    "words": [
+      {
+        "text": "When",
+        "startFrame": 6657,
+        "endFrame": 6663
+      },
+      {
+        "text": "you",
+        "startFrame": 6663,
+        "endFrame": 6668
+      },
+      {
+        "text": "ask",
+        "startFrame": 6668,
+        "endFrame": 6674
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 6674,
+        "endFrame": 6689
+      },
+      {
+        "text": "to",
+        "startFrame": 6689,
+        "endFrame": 6694
+      },
+      {
+        "text": "generate",
+        "startFrame": 6694,
+        "endFrame": 6708
+      },
+      {
+        "text": "an",
+        "startFrame": 6708,
+        "endFrame": 6712
+      },
+      {
+        "text": "image",
+        "startFrame": 6712,
+        "endFrame": 6727
+      },
+      {
+        "text": "it",
+        "startFrame": 6730,
+        "endFrame": 6731
+      }
+    ]
+  },
+  {
+    "text": "doesn't open a library of existing pictures",
+    "startFrame": 6731,
+    "endFrame": 6806,
+    "words": [
+      {
+        "text": "doesn't",
+        "startFrame": 6731,
+        "endFrame": 6746
+      },
+      {
+        "text": "open",
+        "startFrame": 6746,
+        "endFrame": 6753
+      },
+      {
+        "text": "a",
+        "startFrame": 6753,
+        "endFrame": 6757
+      },
+      {
+        "text": "library",
+        "startFrame": 6755,
+        "endFrame": 6769
+      },
+      {
+        "text": "of",
+        "startFrame": 6769,
+        "endFrame": 6773
+      },
+      {
+        "text": "existing",
+        "startFrame": 6773,
+        "endFrame": 6789
+      },
+      {
+        "text": "pictures",
+        "startFrame": 6789,
+        "endFrame": 6806
+      }
+    ]
+  },
+  {
+    "text": "It starts with something that looks completely random. Just",
+    "startFrame": 6812,
+    "endFrame": 6911,
+    "words": [
+      {
+        "text": "It",
+        "startFrame": 6812,
+        "endFrame": 6817
+      },
+      {
+        "text": "starts",
+        "startFrame": 6817,
+        "endFrame": 6826
+      },
+      {
+        "text": "with",
+        "startFrame": 6826,
+        "endFrame": 6836
+      },
+      {
+        "text": "something",
+        "startFrame": 6836,
+        "endFrame": 6850
+      },
+      {
+        "text": "that",
+        "startFrame": 6850,
+        "endFrame": 6857
+      },
+      {
+        "text": "looks",
+        "startFrame": 6857,
+        "endFrame": 6866
+      },
+      {
+        "text": "completely",
+        "startFrame": 6866,
+        "endFrame": 6881
+      },
+      {
+        "text": "random.",
+        "startFrame": 6881,
+        "endFrame": 6896
+      },
+      {
+        "text": "Just",
+        "startFrame": 6896,
+        "endFrame": 6911
+      }
+    ]
+  },
+  {
+    "text": "static. pure visual noise then step by step it",
+    "startFrame": 6911,
+    "endFrame": 7013,
+    "words": [
+      {
+        "text": "static.",
+        "startFrame": 6911,
+        "endFrame": 6926
+      },
+      {
+        "text": "pure",
+        "startFrame": 6939,
+        "endFrame": 6944
+      },
+      {
+        "text": "visual",
+        "startFrame": 6944,
+        "endFrame": 6960
+      },
+      {
+        "text": "noise",
+        "startFrame": 6960,
+        "endFrame": 6976
+      },
+      {
+        "text": "then",
+        "startFrame": 6979,
+        "endFrame": 6983
+      },
+      {
+        "text": "step",
+        "startFrame": 6982,
+        "endFrame": 6991
+      },
+      {
+        "text": "by",
+        "startFrame": 6991,
+        "endFrame": 6998
+      },
+      {
+        "text": "step",
+        "startFrame": 6998,
+        "endFrame": 7008
+      },
+      {
+        "text": "it",
+        "startFrame": 7010,
+        "endFrame": 7013
+      }
+    ]
+  },
+  {
+    "text": "removes that noise while following your prompt If you",
+    "startFrame": 7013,
+    "endFrame": 7104,
+    "words": [
+      {
+        "text": "removes",
+        "startFrame": 7013,
+        "endFrame": 7027
+      },
+      {
+        "text": "that",
+        "startFrame": 7027,
+        "endFrame": 7036
+      },
+      {
+        "text": "noise",
+        "startFrame": 7036,
+        "endFrame": 7046
+      },
+      {
+        "text": "while",
+        "startFrame": 7046,
+        "endFrame": 7054
+      },
+      {
+        "text": "following",
+        "startFrame": 7054,
+        "endFrame": 7071
+      },
+      {
+        "text": "your",
+        "startFrame": 7071,
+        "endFrame": 7092
+      },
+      {
+        "text": "prompt",
+        "startFrame": 7092,
+        "endFrame": 7096
+      },
+      {
+        "text": "If",
+        "startFrame": 7092,
+        "endFrame": 7097
+      },
+      {
+        "text": "you",
+        "startFrame": 7097,
+        "endFrame": 7104
+      }
+    ]
+  },
+  {
+    "text": "ask for a futuristic city at sunset in",
+    "startFrame": 7104,
+    "endFrame": 7179,
+    "words": [
+      {
+        "text": "ask",
+        "startFrame": 7104,
+        "endFrame": 7112
+      },
+      {
+        "text": "for",
+        "startFrame": 7112,
+        "endFrame": 7121
+      },
+      {
+        "text": "a",
+        "startFrame": 7121,
+        "endFrame": 7132
+      },
+      {
+        "text": "futuristic",
+        "startFrame": 7132,
+        "endFrame": 7142
+      },
+      {
+        "text": "city",
+        "startFrame": 7142,
+        "endFrame": 7153
+      },
+      {
+        "text": "at",
+        "startFrame": 7153,
+        "endFrame": 7163
+      },
+      {
+        "text": "sunset",
+        "startFrame": 7163,
+        "endFrame": 7174
+      },
+      {
+        "text": "in",
+        "startFrame": 7174,
+        "endFrame": 7179
+      }
+    ]
+  },
+  {
+    "text": "a watercolor style the model gradually reshapes the random",
+    "startFrame": 7179,
+    "endFrame": 7298,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 7179,
+        "endFrame": 7183
+      },
+      {
+        "text": "watercolor",
+        "startFrame": 7182,
+        "endFrame": 7206
+      },
+      {
+        "text": "style",
+        "startFrame": 7206,
+        "endFrame": 7221
+      },
+      {
+        "text": "the",
+        "startFrame": 7229,
+        "endFrame": 7232
+      },
+      {
+        "text": "model",
+        "startFrame": 7231,
+        "endFrame": 7240
+      },
+      {
+        "text": "gradually",
+        "startFrame": 7240,
+        "endFrame": 7257
+      },
+      {
+        "text": "reshapes",
+        "startFrame": 7257,
+        "endFrame": 7272
+      },
+      {
+        "text": "the",
+        "startFrame": 7272,
+        "endFrame": 7277
+      },
+      {
+        "text": "random",
+        "startFrame": 7277,
+        "endFrame": 7298
+      }
+    ]
+  },
+  {
+    "text": "pixel First, rough colors appear. Then buildings. then",
+    "startFrame": 7298,
+    "endFrame": 7391,
+    "words": [
+      {
+        "text": "pixel",
+        "startFrame": 7298,
+        "endFrame": 7301
+      },
+      {
+        "text": "First,",
+        "startFrame": 7304,
+        "endFrame": 7316
+      },
+      {
+        "text": "rough",
+        "startFrame": 7316,
+        "endFrame": 7329
+      },
+      {
+        "text": "colors",
+        "startFrame": 7329,
+        "endFrame": 7342
+      },
+      {
+        "text": "appear.",
+        "startFrame": 7342,
+        "endFrame": 7354
+      },
+      {
+        "text": "Then",
+        "startFrame": 7354,
+        "endFrame": 7366
+      },
+      {
+        "text": "buildings.",
+        "startFrame": 7366,
+        "endFrame": 7379
+      },
+      {
+        "text": "then",
+        "startFrame": 7385,
+        "endFrame": 7391
+      }
+    ]
+  },
+  {
+    "text": "lighting then tiny details",
+    "startFrame": 7391,
+    "endFrame": 7448,
+    "words": [
+      {
+        "text": "lighting",
+        "startFrame": 7391,
+        "endFrame": 7407
+      },
+      {
+        "text": "then",
+        "startFrame": 7411,
+        "endFrame": 7420
+      },
+      {
+        "text": "tiny",
+        "startFrame": 7420,
+        "endFrame": 7424
+      },
+      {
+        "text": "details",
+        "startFrame": 7424,
+        "endFrame": 7448
+      }
+    ]
+  },
+  {
+    "text": "Each step gets slightly closer to your description",
+    "startFrame": 7453,
+    "endFrame": 7532,
+    "words": [
+      {
+        "text": "Each",
+        "startFrame": 7453,
+        "endFrame": 7463
+      },
+      {
+        "text": "step",
+        "startFrame": 7463,
+        "endFrame": 7466
+      },
+      {
+        "text": "gets",
+        "startFrame": 7465,
+        "endFrame": 7476
+      },
+      {
+        "text": "slightly",
+        "startFrame": 7476,
+        "endFrame": 7489
+      },
+      {
+        "text": "closer",
+        "startFrame": 7489,
+        "endFrame": 7500
+      },
+      {
+        "text": "to",
+        "startFrame": 7500,
+        "endFrame": 7511
+      },
+      {
+        "text": "your",
+        "startFrame": 7511,
+        "endFrame": 7521
+      },
+      {
+        "text": "description",
+        "startFrame": 7521,
+        "endFrame": 7532
+      }
+    ]
+  },
+  {
+    "text": "until eventually what",
+    "startFrame": 7533,
+    "endFrame": 7582,
+    "words": [
+      {
+        "text": "until",
+        "startFrame": 7533,
+        "endFrame": 7543
+      },
+      {
+        "text": "eventually",
+        "startFrame": 7543,
+        "endFrame": 7566
+      },
+      {
+        "text": "what",
+        "startFrame": 7569,
+        "endFrame": 7582
+      }
+    ]
+  },
+  {
+    "text": "started as meaningless noise becomes a completely new image",
+    "startFrame": 7582,
+    "endFrame": 7695,
+    "words": [
+      {
+        "text": "started",
+        "startFrame": 7582,
+        "endFrame": 7595
+      },
+      {
+        "text": "as",
+        "startFrame": 7595,
+        "endFrame": 7608
+      },
+      {
+        "text": "meaningless",
+        "startFrame": 7608,
+        "endFrame": 7621
+      },
+      {
+        "text": "noise",
+        "startFrame": 7621,
+        "endFrame": 7634
+      },
+      {
+        "text": "becomes",
+        "startFrame": 7634,
+        "endFrame": 7650
+      },
+      {
+        "text": "a",
+        "startFrame": 7650,
+        "endFrame": 7654
+      },
+      {
+        "text": "completely",
+        "startFrame": 7652,
+        "endFrame": 7674
+      },
+      {
+        "text": "new",
+        "startFrame": 7674,
+        "endFrame": 7681
+      },
+      {
+        "text": "image",
+        "startFrame": 7681,
+        "endFrame": 7695
+      }
+    ]
+  },
+  {
+    "text": "It's less like drawing with a paintbrush and more",
+    "startFrame": 7700,
+    "endFrame": 7787,
+    "words": [
+      {
+        "text": "It's",
+        "startFrame": 7700,
+        "endFrame": 7708
+      },
+      {
+        "text": "less",
+        "startFrame": 7708,
+        "endFrame": 7717
+      },
+      {
+        "text": "like",
+        "startFrame": 7717,
+        "endFrame": 7725
+      },
+      {
+        "text": "drawing",
+        "startFrame": 7725,
+        "endFrame": 7740
+      },
+      {
+        "text": "with",
+        "startFrame": 7740,
+        "endFrame": 7747
+      },
+      {
+        "text": "a",
+        "startFrame": 7747,
+        "endFrame": 7760
+      },
+      {
+        "text": "paintbrush",
+        "startFrame": 7760,
+        "endFrame": 7771
+      },
+      {
+        "text": "and",
+        "startFrame": 7771,
+        "endFrame": 7781
+      },
+      {
+        "text": "more",
+        "startFrame": 7781,
+        "endFrame": 7787
+      }
+    ]
+  },
+  {
+    "text": "like sculpting order",
+    "startFrame": 7787,
+    "endFrame": 7819,
+    "words": [
+      {
+        "text": "like",
+        "startFrame": 7787,
+        "endFrame": 7794
+      },
+      {
+        "text": "sculpting",
+        "startFrame": 7794,
+        "endFrame": 7814
+      },
+      {
+        "text": "order",
+        "startFrame": 7814,
+        "endFrame": 7819
+      }
+    ]
+  },
+  {
+    "text": "out of chaos So the next time",
+    "startFrame": 7819,
+    "endFrame": 7875,
+    "words": [
+      {
+        "text": "out",
+        "startFrame": 7819,
+        "endFrame": 7828
+      },
+      {
+        "text": "of",
+        "startFrame": 7828,
+        "endFrame": 7835
+      },
+      {
+        "text": "chaos",
+        "startFrame": 7835,
+        "endFrame": 7844
+      },
+      {
+        "text": "So",
+        "startFrame": 7852,
+        "endFrame": 7857
+      },
+      {
+        "text": "the",
+        "startFrame": 7857,
+        "endFrame": 7861
+      },
+      {
+        "text": "next",
+        "startFrame": 7861,
+        "endFrame": 7870
+      },
+      {
+        "text": "time",
+        "startFrame": 7870,
+        "endFrame": 7875
+      }
+    ]
+  },
+  {
+    "text": "you upload a photo to ChatGPT remember it",
+    "startFrame": 7875,
+    "endFrame": 7954,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 7875,
+        "endFrame": 7880
+      },
+      {
+        "text": "upload",
+        "startFrame": 7880,
+        "endFrame": 7891
+      },
+      {
+        "text": "a",
+        "startFrame": 7891,
+        "endFrame": 7895
+      },
+      {
+        "text": "photo",
+        "startFrame": 7893,
+        "endFrame": 7902
+      },
+      {
+        "text": "to",
+        "startFrame": 7902,
+        "endFrame": 7906
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 7906,
+        "endFrame": 7920
+      },
+      {
+        "text": "remember",
+        "startFrame": 7928,
+        "endFrame": 7942
+      },
+      {
+        "text": "it",
+        "startFrame": 7953,
+        "endFrame": 7954
+      }
+    ]
+  },
+  {
+    "text": "never actually sees what you see It transforms millions",
+    "startFrame": 7954,
+    "endFrame": 8058,
+    "words": [
+      {
+        "text": "never",
+        "startFrame": 7954,
+        "endFrame": 7965
+      },
+      {
+        "text": "actually",
+        "startFrame": 7965,
+        "endFrame": 7981
+      },
+      {
+        "text": "sees",
+        "startFrame": 7981,
+        "endFrame": 7991
+      },
+      {
+        "text": "what",
+        "startFrame": 7991,
+        "endFrame": 7998
+      },
+      {
+        "text": "you",
+        "startFrame": 7998,
+        "endFrame": 8004
+      },
+      {
+        "text": "see",
+        "startFrame": 8004,
+        "endFrame": 8012
+      },
+      {
+        "text": "It",
+        "startFrame": 8017,
+        "endFrame": 8021
+      },
+      {
+        "text": "transforms",
+        "startFrame": 8021,
+        "endFrame": 8046
+      },
+      {
+        "text": "millions",
+        "startFrame": 8046,
+        "endFrame": 8058
+      }
+    ]
+  },
+  {
+    "text": "of colored pixels into mathematical patterns connects those patterns",
+    "startFrame": 8058,
+    "endFrame": 8172,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 8058,
+        "endFrame": 8063
+      },
+      {
+        "text": "colored",
+        "startFrame": 8063,
+        "endFrame": 8078
+      },
+      {
+        "text": "pixels",
+        "startFrame": 8078,
+        "endFrame": 8090
+      },
+      {
+        "text": "into",
+        "startFrame": 8090,
+        "endFrame": 8097
+      },
+      {
+        "text": "mathematical",
+        "startFrame": 8097,
+        "endFrame": 8118
+      },
+      {
+        "text": "patterns",
+        "startFrame": 8118,
+        "endFrame": 8138
+      },
+      {
+        "text": "connects",
+        "startFrame": 8147,
+        "endFrame": 8156
+      },
+      {
+        "text": "those",
+        "startFrame": 8156,
+        "endFrame": 8161
+      },
+      {
+        "text": "patterns",
+        "startFrame": 8161,
+        "endFrame": 8172
+      }
+    ]
+  },
+  {
+    "text": "together combines them with language and finally generates an",
+    "startFrame": 8172,
+    "endFrame": 8308,
+    "words": [
+      {
+        "text": "together",
+        "startFrame": 8172,
+        "endFrame": 8192
+      },
+      {
+        "text": "combines",
+        "startFrame": 8201,
+        "endFrame": 8215
+      },
+      {
+        "text": "them",
+        "startFrame": 8215,
+        "endFrame": 8219
+      },
+      {
+        "text": "with",
+        "startFrame": 8219,
+        "endFrame": 8226
+      },
+      {
+        "text": "language",
+        "startFrame": 8226,
+        "endFrame": 8245
+      },
+      {
+        "text": "and",
+        "startFrame": 8245,
+        "endFrame": 8252
+      },
+      {
+        "text": "finally",
+        "startFrame": 8252,
+        "endFrame": 8266
+      },
+      {
+        "text": "generates",
+        "startFrame": 8266,
+        "endFrame": 8288
+      },
+      {
+        "text": "an",
+        "startFrame": 8288,
+        "endFrame": 8308
+      }
+    ]
+  },
+  {
+    "text": "answer one word at a time And somehow all",
+    "startFrame": 8308,
+    "endFrame": 8382,
+    "words": [
+      {
+        "text": "answer",
+        "startFrame": 8308,
+        "endFrame": 8311
+      },
+      {
+        "text": "one",
+        "startFrame": 8312,
+        "endFrame": 8318
+      },
+      {
+        "text": "word",
+        "startFrame": 8318,
+        "endFrame": 8326
+      },
+      {
+        "text": "at",
+        "startFrame": 8326,
+        "endFrame": 8331
+      },
+      {
+        "text": "a",
+        "startFrame": 8331,
+        "endFrame": 8334
+      },
+      {
+        "text": "time",
+        "startFrame": 8333,
+        "endFrame": 8341
+      },
+      {
+        "text": "And",
+        "startFrame": 8355,
+        "endFrame": 8359
+      },
+      {
+        "text": "somehow",
+        "startFrame": 8358,
+        "endFrame": 8371
+      },
+      {
+        "text": "all",
+        "startFrame": 8374,
+        "endFrame": 8382
+      }
+    ]
+  },
+  {
+    "text": "of that happens in just a few seconds The",
+    "startFrame": 8382,
+    "endFrame": 8467,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 8382,
+        "endFrame": 8391
+      },
+      {
+        "text": "that",
+        "startFrame": 8391,
+        "endFrame": 8399
+      },
+      {
+        "text": "happens",
+        "startFrame": 8399,
+        "endFrame": 8408
+      },
+      {
+        "text": "in",
+        "startFrame": 8408,
+        "endFrame": 8416
+      },
+      {
+        "text": "just",
+        "startFrame": 8416,
+        "endFrame": 8427
+      },
+      {
+        "text": "a",
+        "startFrame": 8427,
+        "endFrame": 8430
+      },
+      {
+        "text": "few",
+        "startFrame": 8427,
+        "endFrame": 8433
+      },
+      {
+        "text": "seconds",
+        "startFrame": 8433,
+        "endFrame": 8447
+      },
+      {
+        "text": "The",
+        "startFrame": 8458,
+        "endFrame": 8467
+      }
+    ]
+  },
+  {
+    "text": "more I learn about how these systems work the more fascinating",
+    "startFrame": 8467,
+    "endFrame": 8567,
+    "words": [
+      {
+        "text": "more",
+        "startFrame": 8467,
+        "endFrame": 8471
+      },
+      {
+        "text": "I",
+        "startFrame": 8471,
+        "endFrame": 8475
+      },
+      {
+        "text": "learn",
+        "startFrame": 8473,
+        "endFrame": 8482
+      },
+      {
+        "text": "about",
+        "startFrame": 8482,
+        "endFrame": 8492
+      },
+      {
+        "text": "how",
+        "startFrame": 8492,
+        "endFrame": 8498
+      },
+      {
+        "text": "these",
+        "startFrame": 8498,
+        "endFrame": 8507
+      },
+      {
+        "text": "systems",
+        "startFrame": 8507,
+        "endFrame": 8521
+      },
+      {
+        "text": "work",
+        "startFrame": 8521,
+        "endFrame": 8533
+      },
+      {
+        "text": "the",
+        "startFrame": 8538,
+        "endFrame": 8542
+      },
+      {
+        "text": "more",
+        "startFrame": 8539,
+        "endFrame": 8546
+      },
+      {
+        "text": "fascinating",
+        "startFrame": 8546,
+        "endFrame": 8567
+      }
+    ]
+  },
+  {
+    "text": "they become Because behind one simple upload button is",
+    "startFrame": 8567,
+    "endFrame": 8677,
+    "words": [
+      {
+        "text": "they",
+        "startFrame": 8567,
+        "endFrame": 8575
+      },
+      {
+        "text": "become",
+        "startFrame": 8575,
+        "endFrame": 8578
+      },
+      {
+        "text": "Because",
+        "startFrame": 8594,
+        "endFrame": 8610
+      },
+      {
+        "text": "behind",
+        "startFrame": 8610,
+        "endFrame": 8624
+      },
+      {
+        "text": "one",
+        "startFrame": 8624,
+        "endFrame": 8630
+      },
+      {
+        "text": "simple",
+        "startFrame": 8630,
+        "endFrame": 8646
+      },
+      {
+        "text": "upload",
+        "startFrame": 8646,
+        "endFrame": 8657
+      },
+      {
+        "text": "button",
+        "startFrame": 8657,
+        "endFrame": 8675
+      },
+      {
+        "text": "is",
+        "startFrame": 8675,
+        "endFrame": 8677
+      }
+    ]
+  },
+  {
+    "text": "decades of computer science machine",
+    "startFrame": 8677,
+    "endFrame": 8749,
+    "words": [
+      {
+        "text": "decades",
+        "startFrame": 8677,
+        "endFrame": 8691
+      },
+      {
+        "text": "of",
+        "startFrame": 8691,
+        "endFrame": 8698
+      },
+      {
+        "text": "computer",
+        "startFrame": 8698,
+        "endFrame": 8713
+      },
+      {
+        "text": "science",
+        "startFrame": 8713,
+        "endFrame": 8729
+      },
+      {
+        "text": "machine",
+        "startFrame": 8738,
+        "endFrame": 8749
+      }
+    ]
+  },
+  {
+    "text": "learning and engineering working together If you enjoyed this",
+    "startFrame": 8749,
+    "endFrame": 8860,
+    "words": [
+      {
+        "text": "learning",
+        "startFrame": 8749,
+        "endFrame": 8767
+      },
+      {
+        "text": "and",
+        "startFrame": 8767,
+        "endFrame": 8774
+      },
+      {
+        "text": "engineering",
+        "startFrame": 8774,
+        "endFrame": 8793
+      },
+      {
+        "text": "working",
+        "startFrame": 8793,
+        "endFrame": 8813
+      },
+      {
+        "text": "together",
+        "startFrame": 8813,
+        "endFrame": 8832
+      },
+      {
+        "text": "If",
+        "startFrame": 8828,
+        "endFrame": 8837
+      },
+      {
+        "text": "you",
+        "startFrame": 8837,
+        "endFrame": 8840
+      },
+      {
+        "text": "enjoyed",
+        "startFrame": 8838,
+        "endFrame": 8854
+      },
+      {
+        "text": "this",
+        "startFrame": 8854,
+        "endFrame": 8860
+      }
+    ]
+  },
+  {
+    "text": "deep dive and want to understand how AI",
+    "startFrame": 8860,
+    "endFrame": 8931,
+    "words": [
+      {
+        "text": "deep",
+        "startFrame": 8860,
+        "endFrame": 8868
+      },
+      {
+        "text": "dive",
+        "startFrame": 8868,
+        "endFrame": 8882
+      },
+      {
+        "text": "and",
+        "startFrame": 8882,
+        "endFrame": 8885
+      },
+      {
+        "text": "want",
+        "startFrame": 8883,
+        "endFrame": 8890
+      },
+      {
+        "text": "to",
+        "startFrame": 8890,
+        "endFrame": 8894
+      },
+      {
+        "text": "understand",
+        "startFrame": 8894,
+        "endFrame": 8916
+      },
+      {
+        "text": "how",
+        "startFrame": 8916,
+        "endFrame": 8923
+      },
+      {
+        "text": "AI",
+        "startFrame": 8923,
+        "endFrame": 8931
+      }
+    ]
+  },
+  {
+    "text": "really works, not just what it can do consider",
+    "startFrame": 8931,
+    "endFrame": 9002,
+    "words": [
+      {
+        "text": "really",
+        "startFrame": 8931,
+        "endFrame": 8938
+      },
+      {
+        "text": "works,",
+        "startFrame": 8938,
+        "endFrame": 8946
+      },
+      {
+        "text": "not",
+        "startFrame": 8946,
+        "endFrame": 8953
+      },
+      {
+        "text": "just",
+        "startFrame": 8953,
+        "endFrame": 8961
+      },
+      {
+        "text": "what",
+        "startFrame": 8961,
+        "endFrame": 8971
+      },
+      {
+        "text": "it",
+        "startFrame": 8971,
+        "endFrame": 8974
+      },
+      {
+        "text": "can",
+        "startFrame": 8973,
+        "endFrame": 8979
+      },
+      {
+        "text": "do",
+        "startFrame": 8979,
+        "endFrame": 8986
+      },
+      {
+        "text": "consider",
+        "startFrame": 8993,
+        "endFrame": 9002
+      }
+    ]
+  },
+  {
+    "text": "subscribing In the next video we'll go even deeper",
+    "startFrame": 9002,
+    "endFrame": 9104,
+    "words": [
+      {
+        "text": "subscribing",
+        "startFrame": 9002,
+        "endFrame": 9024
+      },
+      {
+        "text": "In",
+        "startFrame": 9035,
+        "endFrame": 9044
+      },
+      {
+        "text": "the",
+        "startFrame": 9044,
+        "endFrame": 9048
+      },
+      {
+        "text": "next",
+        "startFrame": 9045,
+        "endFrame": 9057
+      },
+      {
+        "text": "video",
+        "startFrame": 9057,
+        "endFrame": 9064
+      },
+      {
+        "text": "we'll",
+        "startFrame": 9073,
+        "endFrame": 9080
+      },
+      {
+        "text": "go",
+        "startFrame": 9079,
+        "endFrame": 9084
+      },
+      {
+        "text": "even",
+        "startFrame": 9084,
+        "endFrame": 9091
+      },
+      {
+        "text": "deeper",
+        "startFrame": 9091,
+        "endFrame": 9104
+      }
+    ]
+  },
+  {
+    "text": "and explore how ChatGPT",
+    "startFrame": 9104,
+    "endFrame": 9148,
+    "words": [
+      {
+        "text": "and",
+        "startFrame": 9104,
+        "endFrame": 9110
+      },
+      {
+        "text": "explore",
+        "startFrame": 9110,
+        "endFrame": 9128
+      },
+      {
+        "text": "how",
+        "startFrame": 9128,
+        "endFrame": 9132
+      },
+      {
+        "text": "ChatGPT",
+        "startFrame": 9131,
+        "endFrame": 9148
+      }
+    ]
+  },
+  {
+    "text": "generates images from nothing but a sentence Thank",
+    "startFrame": 9148,
+    "endFrame": 9242,
+    "words": [
+      {
+        "text": "generates",
+        "startFrame": 9148,
+        "endFrame": 9167
+      },
+      {
+        "text": "images",
+        "startFrame": 9167,
+        "endFrame": 9180
+      },
+      {
+        "text": "from",
+        "startFrame": 9180,
+        "endFrame": 9190
+      },
+      {
+        "text": "nothing",
+        "startFrame": 9190,
+        "endFrame": 9203
+      },
+      {
+        "text": "but",
+        "startFrame": 9203,
+        "endFrame": 9209
+      },
+      {
+        "text": "a",
+        "startFrame": 9209,
+        "endFrame": 9213
+      },
+      {
+        "text": "sentence",
+        "startFrame": 9211,
+        "endFrame": 9229
+      },
+      {
+        "text": "Thank",
+        "startFrame": 9241,
+        "endFrame": 9242
+      }
+    ]
+  },
+  {
+    "text": "you for watching this video see you",
+    "startFrame": 9242,
+    "endFrame": 9308,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 9242,
+        "endFrame": 9251
+      },
+      {
+        "text": "for",
+        "startFrame": 9251,
+        "endFrame": 9255
+      },
+      {
+        "text": "watching",
+        "startFrame": 9255,
+        "endFrame": 9274
+      },
+      {
+        "text": "this",
+        "startFrame": 9274,
+        "endFrame": 9280
+      },
+      {
+        "text": "video",
+        "startFrame": 9280,
+        "endFrame": 9291
+      },
+      {
+        "text": "see",
+        "startFrame": 9296,
+        "endFrame": 9307
+      },
+      {
+        "text": "you",
+        "startFrame": 9307,
+        "endFrame": 9308
+      }
+    ]
+  },
+  {
+    "text": "in the next one",
+    "startFrame": 9308,
+    "endFrame": 9312,
+    "words": [
+      {
+        "text": "in",
+        "startFrame": 9308,
+        "endFrame": 9312
+      },
+      {
+        "text": "the",
+        "startFrame": 9311,
+        "endFrame": 9312
+      },
+      {
+        "text": "next",
+        "startFrame": 9311,
+        "endFrame": 9312
+      },
+      {
+        "text": "one",
+        "startFrame": 9311,
+        "endFrame": 9312
+      }
+    ]
+  },
+  {
+    "text": "the next one peace",
+    "startFrame": 9312,
+    "endFrame": 9350,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 9312,
+        "endFrame": 9320
+      },
+      {
+        "text": "next",
+        "startFrame": 9320,
+        "endFrame": 9334
+      },
+      {
+        "text": "one",
+        "startFrame": 9334,
+        "endFrame": 9338
+      },
+      {
+        "text": "peace",
+        "startFrame": 9340,
+        "endFrame": 9350
+      }
+    ]
+  }
+]

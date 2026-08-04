@@ -1,0 +1,15 @@
+[
+  ["hook", "narration", 0, 851],
+  ["core_idea", "narration", 851, 1970],
+  ["setup_docs", "code", 1970, 2582],
+  ["build_index", "code", 2582, 3146],
+  ["index_output", "code", 3146, 3641],
+  ["naive", "code", 3641, 4326],
+  ["failure", "code", 4326, 5179],
+  ["why_rare", "narration", 5179, 5793],
+  ["tfidf_explain", "narration", 5793, 6944],
+  ["fix_code", "code", 6944, 7630],
+  ["fix_output", "code", 7630, 7878],
+  ["real_engines", "narration", 7878, 8920],
+  ["wrapup", "narration", 8920, 9484]
+]

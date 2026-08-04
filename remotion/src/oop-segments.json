@@ -1,0 +1,16 @@
+[
+  ["hook", "narration", 0, 850],
+  ["v1", "code", 850, 1432],
+  ["v1_grown", "code", 1432, 1964],
+  ["v2", "code", 1964, 2374],
+  ["v2_trap", "narration", 2374, 3005],
+  ["v3", "code", 3005, 3385],
+  ["v3_run", "code", 3385, 4098],
+  ["v4", "code", 4098, 4821],
+  ["v4_slack", "code", 4821, 5085],
+  ["v4_test", "code", 5085, 5793],
+  ["comparison", "narration", 5793, 6614],
+  ["openclosed", "narration", 6614, 7390],
+  ["caveat", "narration", 7390, 8360],
+  ["wrapup", "narration", 8360, 9140]
+]

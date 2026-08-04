@@ -1,0 +1,20 @@
+[
+  ["hook", "narration", 0, 462],
+  ["never_sees", "narration", 462, 934],
+  ["journey", "narration", 934, 1404],
+  ["pixels", "narration", 1404, 1828],
+  ["numbers", "narration", 1828, 2422],
+  ["patches", "narration", 2422, 3197],
+  ["embeddings", "narration", 3197, 3809],
+  ["together", "narration", 3809, 4446],
+  ["attention", "narration", 4446, 5106],
+  ["relationships", "narration", 5106, 5347],
+  ["language", "narration", 5347, 5863],
+  ["tokens", "narration", 5863, 6542],
+  ["static", "narration", 6542, 7013],
+  ["denoise", "narration", 7013, 7708],
+  ["sculpt", "narration", 7708, 8021],
+  ["recap", "narration", 8021, 8458],
+  ["reflect", "narration", 8458, 8828],
+  ["cta", "narration", 8828, 9368]
+]

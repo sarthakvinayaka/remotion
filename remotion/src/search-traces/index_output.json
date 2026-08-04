@@ -1,0 +1,12 @@
+[
+  {
+    "line": "Index for 'cat': {1: 2}",
+    "order": 0,
+    "service": null
+  },
+  {
+    "line": "Index for 'dog': {3: 1}",
+    "order": 1,
+    "service": null
+  }
+]

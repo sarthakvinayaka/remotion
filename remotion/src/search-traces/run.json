@@ -1,0 +1,152 @@
+{
+  "index_cat": {
+    "1": 2
+  },
+  "index_dog": {
+    "3": 1
+  },
+  "naive_the_dog": [
+    [
+      1,
+      4,
+      "the cat sat on the mat and then the cat slept on the mat"
+    ],
+    [
+      3,
+      2,
+      "the dog barked loudly at night"
+    ]
+  ],
+  "tfidf_the_dog": [
+    [
+      3,
+      0.421,
+      "the dog barked loudly at night"
+    ],
+    [
+      1,
+      0.2618,
+      "the cat sat on the mat and then the cat slept on the mat"
+    ]
+  ],
+  "idf": {
+    "the": 0.9163,
+    "dog": 1.6094,
+    "cat": 1.6094,
+    "python": 0.9163
+  },
+  "doc_lengths": {
+    "1": 14,
+    "2": 10,
+    "3": 6,
+    "4": 8,
+    "5": 7
+  },
+  "the_count_doc1": 4,
+  "index_build": {
+    "a": {
+      "4": 1
+    },
+    "and": {
+      "1": 1,
+      "2": 1,
+      "5": 1
+    },
+    "are": {
+      "2": 1
+    },
+    "at": {
+      "3": 1
+    },
+    "barked": {
+      "3": 1
+    },
+    "beginners": {
+      "4": 1
+    },
+    "cat": {
+      "1": 2
+    },
+    "dog": {
+      "3": 1
+    },
+    "dogs": {
+      "2": 2
+    },
+    "for": {
+      "4": 1
+    },
+    "great": {
+      "4": 1
+    },
+    "is": {
+      "4": 1
+    },
+    "language": {
+      "4": 1
+    },
+    "learning": {
+      "5": 1
+    },
+    "loudly": {
+      "3": 1
+    },
+    "love": {
+      "2": 1
+    },
+    "loyal": {
+      "2": 1
+    },
+    "mat": {
+      "1": 2
+    },
+    "night": {
+      "3": 1
+    },
+    "on": {
+      "1": 2
+    },
+    "outside": {
+      "2": 1
+    },
+    "patience": {
+      "5": 1
+    },
+    "pets": {
+      "2": 1
+    },
+    "play": {
+      "2": 1
+    },
+    "practice": {
+      "5": 1
+    },
+    "programming": {
+      "4": 1,
+      "5": 1
+    },
+    "python": {
+      "4": 1,
+      "5": 1
+    },
+    "sat": {
+      "1": 1
+    },
+    "slept": {
+      "1": 1
+    },
+    "takes": {
+      "5": 1
+    },
+    "the": {
+      "1": 4,
+      "3": 1
+    },
+    "then": {
+      "1": 1
+    },
+    "to": {
+      "2": 1
+    }
+  }
+}

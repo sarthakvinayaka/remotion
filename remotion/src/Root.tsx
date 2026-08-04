@@ -8,6 +8,14 @@ import { CodeVideo, TOTAL_FRAMES as CODE_VIDEO_FRAMES } from "./code-video/CodeV
 import { CrdtVideo, TOTAL_FRAMES as CRDT_VIDEO_FRAMES } from "./crdt-video/CrdtVideo";
 import { HashTableVideo, TOTAL_FRAMES as HASHTABLE_VIDEO_FRAMES } from "./hashtable-video/HashTableVideo";
 import { GptVideo, TOTAL_FRAMES as GPT_VIDEO_FRAMES } from "./gpt-video/GptVideo";
+import { CheapVideo, TOTAL_FRAMES as CHEAP_VIDEO_FRAMES } from "./cheap-video/CheapVideo";
+import { SearchVideo, TOTAL_FRAMES as SEARCH_VIDEO_FRAMES } from "./search-video/SearchVideo";
+import { Thumbnail } from "./search-video/Thumbnail";
+import { ThumbnailBold } from "./search-video/ThumbnailBold";
+import { OopVideo, TOTAL_FRAMES as OOP_VIDEO_FRAMES } from "./oop-video/OopVideo";
+import { OopThumbnail } from "./oop-video/Thumbnail";
+import { ImgGptVideo, TOTAL_FRAMES as IMGGPT_FRAMES } from "./imggpt-video/ImgGptVideo";
+import { CursorVideo, TOTAL_FRAMES as CURSOR_VIDEO_FRAMES } from "./cursor-video/CursorVideo";
 
 // Short 1: hook through the "10 services x 10 copies of infra" reveal and
 // "the platform quietly becomes the product" punchline (Scenes 01-04).
@@ -82,6 +90,120 @@ export const RemotionRoot = () => (
       fps={30}
       width={1920}
       height={1080}
+    />
+    <Composition
+      id="cheap-video"
+      component={CheapVideo}
+      durationInFrames={CHEAP_VIDEO_FRAMES}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+    {/* Thumbnails: designed at 1280x720, render with --scale=2 for 2560x1440.
+        A/B pair -- identical except for the failure badge. */}
+    <Composition
+      id="search-thumb-bold"
+      component={ThumbnailBold}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ variant: "dictionary" as const }}
+    />
+    <Composition
+      id="search-thumb-bold-build"
+      component={ThumbnailBold}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ variant: "build" as const }}
+    />
+    <Composition
+      id="search-thumb-google"
+      component={ThumbnailBold}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ variant: "google" as const }}
+    />
+    <Composition
+      id="search-thumb-instant"
+      component={ThumbnailBold}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ variant: "instant" as const }}
+    />
+    <Composition
+      id="search-thumb"
+      component={Thumbnail}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ showBadge: true }}
+    />
+    <Composition
+      id="search-thumb-plain"
+      component={Thumbnail}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ showBadge: false }}
+    />
+    <Composition
+      id="imggpt-video"
+      component={ImgGptVideo}
+      durationInFrames={IMGGPT_FRAMES}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="oop-thumb"
+      component={OopThumbnail}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ variant: "versions" as const }}
+    />
+    <Composition
+      id="oop-thumb-badgood"
+      component={OopThumbnail}
+      durationInFrames={1}
+      fps={30}
+      width={1280}
+      height={720}
+      defaultProps={{ variant: "edits" as const }}
+    />
+    <Composition
+      id="oop-video"
+      component={OopVideo}
+      durationInFrames={OOP_VIDEO_FRAMES}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="search-video"
+      component={SearchVideo}
+      durationInFrames={SEARCH_VIDEO_FRAMES}
+      fps={30}
+      width={1920}
+      height={1080}
+    />
+    <Composition
+      id="cursor-video"
+      component={CursorVideo}
+      durationInFrames={CURSOR_VIDEO_FRAMES}
+      fps={30}
+      width={2560}
+      height={1440}
     />
   </>
 );

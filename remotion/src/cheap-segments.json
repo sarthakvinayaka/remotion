@@ -1,0 +1,14 @@
+[
+  ["hook", "narration", 0, 776],
+  ["three_models", "narration", 776, 1744],
+  ["pricing", "narration", 1744, 2342],
+  ["kernel_rewrite", "narration", 2342, 3505],
+  ["verifier", "narration", 3505, 3970],
+  ["speculative", "narration", 3970, 5410],
+  ["both_together", "narration", 5410, 5885],
+  ["why_now", "narration", 5885, 6499],
+  ["competition", "narration", 6499, 7516],
+  ["takeaways", "narration", 7516, 7918],
+  ["loop", "narration", 7918, 8813],
+  ["wrapup", "narration", 8813, 9359]
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "line": "[EMAIL] to sarthak@example.com: Your order shipped",
+    "order": 0,
+    "service": null
+  },
+  {
+    "line": "[SLACK] to #alerts: Your order shipped",
+    "order": 1,
+    "service": null
+  }
+]

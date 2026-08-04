@@ -1,0 +1,5555 @@
+[
+  {
+    "text": "Most OOP tutorials give you definitions encapsulation",
+    "startFrame": 3,
+    "endFrame": 107,
+    "words": [
+      {
+        "text": "Most",
+        "startFrame": 3,
+        "endFrame": 15
+      },
+      {
+        "text": "OOP",
+        "startFrame": 15,
+        "endFrame": 26
+      },
+      {
+        "text": "tutorials",
+        "startFrame": 26,
+        "endFrame": 38
+      },
+      {
+        "text": "give",
+        "startFrame": 38,
+        "endFrame": 50
+      },
+      {
+        "text": "you",
+        "startFrame": 50,
+        "endFrame": 61
+      },
+      {
+        "text": "definitions",
+        "startFrame": 61,
+        "endFrame": 73
+      },
+      {
+        "text": "encapsulation",
+        "startFrame": 84,
+        "endFrame": 107
+      }
+    ]
+  },
+  {
+    "text": "is this polymorphism is that here's a",
+    "startFrame": 107,
+    "endFrame": 183,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 107,
+        "endFrame": 111
+      },
+      {
+        "text": "this",
+        "startFrame": 110,
+        "endFrame": 123
+      },
+      {
+        "text": "polymorphism",
+        "startFrame": 125,
+        "endFrame": 142
+      },
+      {
+        "text": "is",
+        "startFrame": 142,
+        "endFrame": 145
+      },
+      {
+        "text": "that",
+        "startFrame": 145,
+        "endFrame": 156
+      },
+      {
+        "text": "here's",
+        "startFrame": 169,
+        "endFrame": 176
+      },
+      {
+        "text": "a",
+        "startFrame": 176,
+        "endFrame": 183
+      }
+    ]
+  },
+  {
+    "text": "Dog class that inherits from animal and you",
+    "startFrame": 183,
+    "endFrame": 252,
+    "words": [
+      {
+        "text": "Dog",
+        "startFrame": 183,
+        "endFrame": 191
+      },
+      {
+        "text": "class",
+        "startFrame": 191,
+        "endFrame": 198
+      },
+      {
+        "text": "that",
+        "startFrame": 198,
+        "endFrame": 205
+      },
+      {
+        "text": "inherits",
+        "startFrame": 205,
+        "endFrame": 221
+      },
+      {
+        "text": "from",
+        "startFrame": 221,
+        "endFrame": 228
+      },
+      {
+        "text": "animal",
+        "startFrame": 228,
+        "endFrame": 244
+      },
+      {
+        "text": "and",
+        "startFrame": 245,
+        "endFrame": 249
+      },
+      {
+        "text": "you",
+        "startFrame": 249,
+        "endFrame": 252
+      }
+    ]
+  },
+  {
+    "text": "finish it understanding the words but not why anyone bothered",
+    "startFrame": 252,
+    "endFrame": 356,
+    "words": [
+      {
+        "text": "finish",
+        "startFrame": 252,
+        "endFrame": 259
+      },
+      {
+        "text": "it",
+        "startFrame": 259,
+        "endFrame": 262
+      },
+      {
+        "text": "understanding",
+        "startFrame": 260,
+        "endFrame": 275
+      },
+      {
+        "text": "the",
+        "startFrame": 275,
+        "endFrame": 279
+      },
+      {
+        "text": "words",
+        "startFrame": 279,
+        "endFrame": 287
+      },
+      {
+        "text": "but",
+        "startFrame": 287,
+        "endFrame": 302
+      },
+      {
+        "text": "not",
+        "startFrame": 302,
+        "endFrame": 310
+      },
+      {
+        "text": "why",
+        "startFrame": 310,
+        "endFrame": 317
+      },
+      {
+        "text": "anyone",
+        "startFrame": 317,
+        "endFrame": 331
+      },
+      {
+        "text": "bothered",
+        "startFrame": 331,
+        "endFrame": 356
+      }
+    ]
+  },
+  {
+    "text": "So today we are doing it differently",
+    "startFrame": 358,
+    "endFrame": 422,
+    "words": [
+      {
+        "text": "So",
+        "startFrame": 358,
+        "endFrame": 362
+      },
+      {
+        "text": "today",
+        "startFrame": 362,
+        "endFrame": 372
+      },
+      {
+        "text": "we",
+        "startFrame": 372,
+        "endFrame": 376
+      },
+      {
+        "text": "are",
+        "startFrame": 376,
+        "endFrame": 381
+      },
+      {
+        "text": "doing",
+        "startFrame": 381,
+        "endFrame": 390
+      },
+      {
+        "text": "it",
+        "startFrame": 390,
+        "endFrame": 395
+      },
+      {
+        "text": "differently",
+        "startFrame": 395,
+        "endFrame": 422
+      }
+    ]
+  },
+  {
+    "text": "We are building one feature a notification system four separate times",
+    "startFrame": 423,
+    "endFrame": 532,
+    "words": [
+      {
+        "text": "We",
+        "startFrame": 423,
+        "endFrame": 427
+      },
+      {
+        "text": "are",
+        "startFrame": 426,
+        "endFrame": 431
+      },
+      {
+        "text": "building",
+        "startFrame": 431,
+        "endFrame": 445
+      },
+      {
+        "text": "one",
+        "startFrame": 445,
+        "endFrame": 450
+      },
+      {
+        "text": "feature",
+        "startFrame": 450,
+        "endFrame": 462
+      },
+      {
+        "text": "a",
+        "startFrame": 465,
+        "endFrame": 469
+      },
+      {
+        "text": "notification",
+        "startFrame": 466,
+        "endFrame": 487
+      },
+      {
+        "text": "system",
+        "startFrame": 487,
+        "endFrame": 497
+      },
+      {
+        "text": "four",
+        "startFrame": 500,
+        "endFrame": 508
+      },
+      {
+        "text": "separate",
+        "startFrame": 508,
+        "endFrame": 529
+      },
+      {
+        "text": "times",
+        "startFrame": 529,
+        "endFrame": 532
+      }
+    ]
+  },
+  {
+    "text": "Each version fixes a real problem in the version before it",
+    "startFrame": 536,
+    "endFrame": 628,
+    "words": [
+      {
+        "text": "Each",
+        "startFrame": 536,
+        "endFrame": 543
+      },
+      {
+        "text": "version",
+        "startFrame": 543,
+        "endFrame": 559
+      },
+      {
+        "text": "fixes",
+        "startFrame": 559,
+        "endFrame": 565
+      },
+      {
+        "text": "a",
+        "startFrame": 565,
+        "endFrame": 568
+      },
+      {
+        "text": "real",
+        "startFrame": 567,
+        "endFrame": 574
+      },
+      {
+        "text": "problem",
+        "startFrame": 574,
+        "endFrame": 587
+      },
+      {
+        "text": "in",
+        "startFrame": 587,
+        "endFrame": 590
+      },
+      {
+        "text": "the",
+        "startFrame": 590,
+        "endFrame": 596
+      },
+      {
+        "text": "version",
+        "startFrame": 596,
+        "endFrame": 608
+      },
+      {
+        "text": "before",
+        "startFrame": 608,
+        "endFrame": 620
+      },
+      {
+        "text": "it",
+        "startFrame": 620,
+        "endFrame": 628
+      }
+    ]
+  },
+  {
+    "text": "And at the end I'll show you the",
+    "startFrame": 631,
+    "endFrame": 676,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 631,
+        "endFrame": 636
+      },
+      {
+        "text": "at",
+        "startFrame": 636,
+        "endFrame": 639
+      },
+      {
+        "text": "the",
+        "startFrame": 639,
+        "endFrame": 644
+      },
+      {
+        "text": "end",
+        "startFrame": 644,
+        "endFrame": 649
+      },
+      {
+        "text": "I'll",
+        "startFrame": 652,
+        "endFrame": 659
+      },
+      {
+        "text": "show",
+        "startFrame": 659,
+        "endFrame": 666
+      },
+      {
+        "text": "you",
+        "startFrame": 666,
+        "endFrame": 671
+      },
+      {
+        "text": "the",
+        "startFrame": 671,
+        "endFrame": 676
+      }
+    ]
+  },
+  {
+    "text": "test that separates all four which is simply this",
+    "startFrame": 676,
+    "endFrame": 770,
+    "words": [
+      {
+        "text": "test",
+        "startFrame": 676,
+        "endFrame": 683
+      },
+      {
+        "text": "that",
+        "startFrame": 683,
+        "endFrame": 690
+      },
+      {
+        "text": "separates",
+        "startFrame": 690,
+        "endFrame": 710
+      },
+      {
+        "text": "all",
+        "startFrame": 710,
+        "endFrame": 713
+      },
+      {
+        "text": "four",
+        "startFrame": 711,
+        "endFrame": 718
+      },
+      {
+        "text": "which",
+        "startFrame": 723,
+        "endFrame": 730
+      },
+      {
+        "text": "is",
+        "startFrame": 730,
+        "endFrame": 733
+      },
+      {
+        "text": "simply",
+        "startFrame": 733,
+        "endFrame": 747
+      },
+      {
+        "text": "this",
+        "startFrame": 747,
+        "endFrame": 770
+      }
+    ]
+  },
+  {
+    "text": "How much do you have to change to add slack",
+    "startFrame": 770,
+    "endFrame": 845,
+    "words": [
+      {
+        "text": "How",
+        "startFrame": 770,
+        "endFrame": 776
+      },
+      {
+        "text": "much",
+        "startFrame": 776,
+        "endFrame": 784
+      },
+      {
+        "text": "do",
+        "startFrame": 784,
+        "endFrame": 789
+      },
+      {
+        "text": "you",
+        "startFrame": 789,
+        "endFrame": 795
+      },
+      {
+        "text": "have",
+        "startFrame": 795,
+        "endFrame": 807
+      },
+      {
+        "text": "to",
+        "startFrame": 807,
+        "endFrame": 810
+      },
+      {
+        "text": "change",
+        "startFrame": 808,
+        "endFrame": 820
+      },
+      {
+        "text": "to",
+        "startFrame": 820,
+        "endFrame": 825
+      },
+      {
+        "text": "add",
+        "startFrame": 825,
+        "endFrame": 842
+      },
+      {
+        "text": "slack",
+        "startFrame": 842,
+        "endFrame": 845
+      }
+    ]
+  },
+  {
+    "text": "One function check the type do the right thing",
+    "startFrame": 850,
+    "endFrame": 929,
+    "words": [
+      {
+        "text": "One",
+        "startFrame": 850,
+        "endFrame": 855
+      },
+      {
+        "text": "function",
+        "startFrame": 855,
+        "endFrame": 873
+      },
+      {
+        "text": "check",
+        "startFrame": 875,
+        "endFrame": 882
+      },
+      {
+        "text": "the",
+        "startFrame": 882,
+        "endFrame": 887
+      },
+      {
+        "text": "type",
+        "startFrame": 887,
+        "endFrame": 897
+      },
+      {
+        "text": "do",
+        "startFrame": 898,
+        "endFrame": 902
+      },
+      {
+        "text": "the",
+        "startFrame": 902,
+        "endFrame": 907
+      },
+      {
+        "text": "right",
+        "startFrame": 907,
+        "endFrame": 916
+      },
+      {
+        "text": "thing",
+        "startFrame": 916,
+        "endFrame": 929
+      }
+    ]
+  },
+  {
+    "text": "And I want to be clear, this is",
+    "startFrame": 931,
+    "endFrame": 987,
+    "words": [
+      {
+        "text": "And",
+        "startFrame": 931,
+        "endFrame": 938
+      },
+      {
+        "text": "I",
+        "startFrame": 938,
+        "endFrame": 945
+      },
+      {
+        "text": "want",
+        "startFrame": 945,
+        "endFrame": 952
+      },
+      {
+        "text": "to",
+        "startFrame": 952,
+        "endFrame": 959
+      },
+      {
+        "text": "be",
+        "startFrame": 959,
+        "endFrame": 966
+      },
+      {
+        "text": "clear,",
+        "startFrame": 966,
+        "endFrame": 973
+      },
+      {
+        "text": "this",
+        "startFrame": 973,
+        "endFrame": 980
+      },
+      {
+        "text": "is",
+        "startFrame": 980,
+        "endFrame": 987
+      }
+    ]
+  },
+  {
+    "text": "fine if this is all you need ship",
+    "startFrame": 987,
+    "endFrame": 1044,
+    "words": [
+      {
+        "text": "fine",
+        "startFrame": 987,
+        "endFrame": 994
+      },
+      {
+        "text": "if",
+        "startFrame": 998,
+        "endFrame": 1002
+      },
+      {
+        "text": "this",
+        "startFrame": 999,
+        "endFrame": 1008
+      },
+      {
+        "text": "is",
+        "startFrame": 1008,
+        "endFrame": 1012
+      },
+      {
+        "text": "all",
+        "startFrame": 1010,
+        "endFrame": 1016
+      },
+      {
+        "text": "you",
+        "startFrame": 1016,
+        "endFrame": 1022
+      },
+      {
+        "text": "need",
+        "startFrame": 1022,
+        "endFrame": 1031
+      },
+      {
+        "text": "ship",
+        "startFrame": 1034,
+        "endFrame": 1044
+      }
+    ]
+  },
+  {
+    "text": "it The problem isn't this code the problem",
+    "startFrame": 1044,
+    "endFrame": 1126,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 1044,
+        "endFrame": 1054
+      },
+      {
+        "text": "The",
+        "startFrame": 1055,
+        "endFrame": 1060
+      },
+      {
+        "text": "problem",
+        "startFrame": 1060,
+        "endFrame": 1074
+      },
+      {
+        "text": "isn't",
+        "startFrame": 1074,
+        "endFrame": 1084
+      },
+      {
+        "text": "this",
+        "startFrame": 1084,
+        "endFrame": 1099
+      },
+      {
+        "text": "code",
+        "startFrame": 1099,
+        "endFrame": 1103
+      },
+      {
+        "text": "the",
+        "startFrame": 1104,
+        "endFrame": 1109
+      },
+      {
+        "text": "problem",
+        "startFrame": 1109,
+        "endFrame": 1126
+      }
+    ]
+  },
+  {
+    "text": "is what this code",
+    "startFrame": 1126,
+    "endFrame": 1164,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 1126,
+        "endFrame": 1130
+      },
+      {
+        "text": "what",
+        "startFrame": 1127,
+        "endFrame": 1135
+      },
+      {
+        "text": "this",
+        "startFrame": 1135,
+        "endFrame": 1142
+      },
+      {
+        "text": "code",
+        "startFrame": 1142,
+        "endFrame": 1164
+      }
+    ]
+  },
+  {
+    "text": "becomes Because features get added. Email needs address validation",
+    "startFrame": 1164,
+    "endFrame": 1287,
+    "words": [
+      {
+        "text": "becomes",
+        "startFrame": 1164,
+        "endFrame": 1168
+      },
+      {
+        "text": "Because",
+        "startFrame": 1171,
+        "endFrame": 1187
+      },
+      {
+        "text": "features",
+        "startFrame": 1187,
+        "endFrame": 1203
+      },
+      {
+        "text": "get",
+        "startFrame": 1203,
+        "endFrame": 1219
+      },
+      {
+        "text": "added.",
+        "startFrame": 1219,
+        "endFrame": 1235
+      },
+      {
+        "text": "Email",
+        "startFrame": 1235,
+        "endFrame": 1251
+      },
+      {
+        "text": "needs",
+        "startFrame": 1251,
+        "endFrame": 1258
+      },
+      {
+        "text": "address",
+        "startFrame": 1258,
+        "endFrame": 1270
+      },
+      {
+        "text": "validation",
+        "startFrame": 1270,
+        "endFrame": 1287
+      }
+    ]
+  },
+  {
+    "text": "SMS has a 160 character limit everything needs retry",
+    "startFrame": 1290,
+    "endFrame": 1381,
+    "words": [
+      {
+        "text": "SMS",
+        "startFrame": 1290,
+        "endFrame": 1296
+      },
+      {
+        "text": "has",
+        "startFrame": 1296,
+        "endFrame": 1300
+      },
+      {
+        "text": "a",
+        "startFrame": 1300,
+        "endFrame": 1305
+      },
+      {
+        "text": "160",
+        "startFrame": 1305,
+        "endFrame": 1321
+      },
+      {
+        "text": "character",
+        "startFrame": 1321,
+        "endFrame": 1344
+      },
+      {
+        "text": "limit",
+        "startFrame": 1344,
+        "endFrame": 1348
+      },
+      {
+        "text": "everything",
+        "startFrame": 1347,
+        "endFrame": 1365
+      },
+      {
+        "text": "needs",
+        "startFrame": 1365,
+        "endFrame": 1373
+      },
+      {
+        "text": "retry",
+        "startFrame": 1373,
+        "endFrame": 1381
+      }
+    ]
+  },
+  {
+    "text": "logic when the network fails So six",
+    "startFrame": 1381,
+    "endFrame": 1437,
+    "words": [
+      {
+        "text": "logic",
+        "startFrame": 1381,
+        "endFrame": 1390
+      },
+      {
+        "text": "when",
+        "startFrame": 1390,
+        "endFrame": 1397
+      },
+      {
+        "text": "the",
+        "startFrame": 1397,
+        "endFrame": 1403
+      },
+      {
+        "text": "network",
+        "startFrame": 1403,
+        "endFrame": 1409
+      },
+      {
+        "text": "fails",
+        "startFrame": 1409,
+        "endFrame": 1428
+      },
+      {
+        "text": "So",
+        "startFrame": 1429,
+        "endFrame": 1433
+      },
+      {
+        "text": "six",
+        "startFrame": 1432,
+        "endFrame": 1437
+      }
+    ]
+  },
+  {
+    "text": "months later that function looks like this That's 34",
+    "startFrame": 1437,
+    "endFrame": 1537,
+    "words": [
+      {
+        "text": "months",
+        "startFrame": 1437,
+        "endFrame": 1446
+      },
+      {
+        "text": "later",
+        "startFrame": 1446,
+        "endFrame": 1453
+      },
+      {
+        "text": "that",
+        "startFrame": 1459,
+        "endFrame": 1464
+      },
+      {
+        "text": "function",
+        "startFrame": 1464,
+        "endFrame": 1474
+      },
+      {
+        "text": "looks",
+        "startFrame": 1474,
+        "endFrame": 1482
+      },
+      {
+        "text": "like",
+        "startFrame": 1482,
+        "endFrame": 1487
+      },
+      {
+        "text": "this",
+        "startFrame": 1487,
+        "endFrame": 1499
+      },
+      {
+        "text": "That's",
+        "startFrame": 1511,
+        "endFrame": 1524
+      },
+      {
+        "text": "34",
+        "startFrame": 1524,
+        "endFrame": 1537
+      }
+    ]
+  },
+  {
+    "text": "lines now And look",
+    "startFrame": 1537,
+    "endFrame": 1580,
+    "words": [
+      {
+        "text": "lines",
+        "startFrame": 1537,
+        "endFrame": 1549
+      },
+      {
+        "text": "now",
+        "startFrame": 1549,
+        "endFrame": 1562
+      },
+      {
+        "text": "And",
+        "startFrame": 1565,
+        "endFrame": 1571
+      },
+      {
+        "text": "look",
+        "startFrame": 1571,
+        "endFrame": 1580
+      }
+    ]
+  },
+  {
+    "text": "at the retry loop it's copy pasted",
+    "startFrame": 1580,
+    "endFrame": 1643,
+    "words": [
+      {
+        "text": "at",
+        "startFrame": 1580,
+        "endFrame": 1584
+      },
+      {
+        "text": "the",
+        "startFrame": 1584,
+        "endFrame": 1590
+      },
+      {
+        "text": "retry",
+        "startFrame": 1590,
+        "endFrame": 1607
+      },
+      {
+        "text": "loop",
+        "startFrame": 1607,
+        "endFrame": 1610
+      },
+      {
+        "text": "it's",
+        "startFrame": 1614,
+        "endFrame": 1622
+      },
+      {
+        "text": "copy",
+        "startFrame": 1622,
+        "endFrame": 1631
+      },
+      {
+        "text": "pasted",
+        "startFrame": 1631,
+        "endFrame": 1643
+      }
+    ]
+  },
+  {
+    "text": "three times once inside each branch So when",
+    "startFrame": 1643,
+    "endFrame": 1733,
+    "words": [
+      {
+        "text": "three",
+        "startFrame": 1643,
+        "endFrame": 1656
+      },
+      {
+        "text": "times",
+        "startFrame": 1656,
+        "endFrame": 1669
+      },
+      {
+        "text": "once",
+        "startFrame": 1670,
+        "endFrame": 1678
+      },
+      {
+        "text": "inside",
+        "startFrame": 1678,
+        "endFrame": 1691
+      },
+      {
+        "text": "each",
+        "startFrame": 1691,
+        "endFrame": 1700
+      },
+      {
+        "text": "branch",
+        "startFrame": 1700,
+        "endFrame": 1720
+      },
+      {
+        "text": "So",
+        "startFrame": 1722,
+        "endFrame": 1726
+      },
+      {
+        "text": "when",
+        "startFrame": 1725,
+        "endFrame": 1733
+      }
+    ]
+  },
+  {
+    "text": "you find a bug in the retry logic you",
+    "startFrame": 1733,
+    "endFrame": 1788,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 1733,
+        "endFrame": 1738
+      },
+      {
+        "text": "find",
+        "startFrame": 1738,
+        "endFrame": 1745
+      },
+      {
+        "text": "a",
+        "startFrame": 1745,
+        "endFrame": 1748
+      },
+      {
+        "text": "bug",
+        "startFrame": 1747,
+        "endFrame": 1752
+      },
+      {
+        "text": "in",
+        "startFrame": 1752,
+        "endFrame": 1756
+      },
+      {
+        "text": "the",
+        "startFrame": 1756,
+        "endFrame": 1761
+      },
+      {
+        "text": "retry",
+        "startFrame": 1761,
+        "endFrame": 1770
+      },
+      {
+        "text": "logic",
+        "startFrame": 1770,
+        "endFrame": 1779
+      },
+      {
+        "text": "you",
+        "startFrame": 1783,
+        "endFrame": 1788
+      }
+    ]
+  },
+  {
+    "text": "fix it in three places And if you",
+    "startFrame": 1788,
+    "endFrame": 1847,
+    "words": [
+      {
+        "text": "fix",
+        "startFrame": 1788,
+        "endFrame": 1794
+      },
+      {
+        "text": "it",
+        "startFrame": 1794,
+        "endFrame": 1798
+      },
+      {
+        "text": "in",
+        "startFrame": 1798,
+        "endFrame": 1802
+      },
+      {
+        "text": "three",
+        "startFrame": 1802,
+        "endFrame": 1810
+      },
+      {
+        "text": "places",
+        "startFrame": 1810,
+        "endFrame": 1828
+      },
+      {
+        "text": "And",
+        "startFrame": 1830,
+        "endFrame": 1837
+      },
+      {
+        "text": "if",
+        "startFrame": 1837,
+        "endFrame": 1841
+      },
+      {
+        "text": "you",
+        "startFrame": 1841,
+        "endFrame": 1847
+      }
+    ]
+  },
+  {
+    "text": "miss one you now have a bug that only",
+    "startFrame": 1847,
+    "endFrame": 1915,
+    "words": [
+      {
+        "text": "miss",
+        "startFrame": 1847,
+        "endFrame": 1854
+      },
+      {
+        "text": "one",
+        "startFrame": 1854,
+        "endFrame": 1862
+      },
+      {
+        "text": "you",
+        "startFrame": 1873,
+        "endFrame": 1876
+      },
+      {
+        "text": "now",
+        "startFrame": 1874,
+        "endFrame": 1880
+      },
+      {
+        "text": "have",
+        "startFrame": 1880,
+        "endFrame": 1891
+      },
+      {
+        "text": "a",
+        "startFrame": 1891,
+        "endFrame": 1894
+      },
+      {
+        "text": "bug",
+        "startFrame": 1891,
+        "endFrame": 1902
+      },
+      {
+        "text": "that",
+        "startFrame": 1902,
+        "endFrame": 1906
+      },
+      {
+        "text": "only",
+        "startFrame": 1906,
+        "endFrame": 1915
+      }
+    ]
+  },
+  {
+    "text": "happens for SMS So the obvious",
+    "startFrame": 1915,
+    "endFrame": 1976,
+    "words": [
+      {
+        "text": "happens",
+        "startFrame": 1915,
+        "endFrame": 1930
+      },
+      {
+        "text": "for",
+        "startFrame": 1930,
+        "endFrame": 1936
+      },
+      {
+        "text": "SMS",
+        "startFrame": 1936,
+        "endFrame": 1951
+      },
+      {
+        "text": "So",
+        "startFrame": 1951,
+        "endFrame": 1955
+      },
+      {
+        "text": "the",
+        "startFrame": 1955,
+        "endFrame": 1964
+      },
+      {
+        "text": "obvious",
+        "startFrame": 1964,
+        "endFrame": 1976
+      }
+    ]
+  },
+  {
+    "text": "next step is classes Now we have",
+    "startFrame": 1976,
+    "endFrame": 2039,
+    "words": [
+      {
+        "text": "next",
+        "startFrame": 1976,
+        "endFrame": 1985
+      },
+      {
+        "text": "step",
+        "startFrame": 1985,
+        "endFrame": 1993
+      },
+      {
+        "text": "is",
+        "startFrame": 1993,
+        "endFrame": 1997
+      },
+      {
+        "text": "classes",
+        "startFrame": 1997,
+        "endFrame": 2018
+      },
+      {
+        "text": "Now",
+        "startFrame": 2020,
+        "endFrame": 2026
+      },
+      {
+        "text": "we",
+        "startFrame": 2026,
+        "endFrame": 2032
+      },
+      {
+        "text": "have",
+        "startFrame": 2032,
+        "endFrame": 2039
+      }
+    ]
+  },
+  {
+    "text": "classes each one handles its own channel The email logic",
+    "startFrame": 2039,
+    "endFrame": 2156,
+    "words": [
+      {
+        "text": "classes",
+        "startFrame": 2039,
+        "endFrame": 2059
+      },
+      {
+        "text": "each",
+        "startFrame": 2061,
+        "endFrame": 2068
+      },
+      {
+        "text": "one",
+        "startFrame": 2068,
+        "endFrame": 2074
+      },
+      {
+        "text": "handles",
+        "startFrame": 2074,
+        "endFrame": 2089
+      },
+      {
+        "text": "its",
+        "startFrame": 2089,
+        "endFrame": 2096
+      },
+      {
+        "text": "own",
+        "startFrame": 2096,
+        "endFrame": 2102
+      },
+      {
+        "text": "channel",
+        "startFrame": 2102,
+        "endFrame": 2125
+      },
+      {
+        "text": "The",
+        "startFrame": 2126,
+        "endFrame": 2136
+      },
+      {
+        "text": "email",
+        "startFrame": 2136,
+        "endFrame": 2146
+      },
+      {
+        "text": "logic",
+        "startFrame": 2146,
+        "endFrame": 2156
+      }
+    ]
+  },
+  {
+    "text": "lives with email the SMS logic lives with SMS",
+    "startFrame": 2156,
+    "endFrame": 2240,
+    "words": [
+      {
+        "text": "lives",
+        "startFrame": 2156,
+        "endFrame": 2165
+      },
+      {
+        "text": "with",
+        "startFrame": 2165,
+        "endFrame": 2175
+      },
+      {
+        "text": "email",
+        "startFrame": 2175,
+        "endFrame": 2185
+      },
+      {
+        "text": "the",
+        "startFrame": 2187,
+        "endFrame": 2196
+      },
+      {
+        "text": "SMS",
+        "startFrame": 2196,
+        "endFrame": 2205
+      },
+      {
+        "text": "logic",
+        "startFrame": 2205,
+        "endFrame": 2213
+      },
+      {
+        "text": "lives",
+        "startFrame": 2213,
+        "endFrame": 2222
+      },
+      {
+        "text": "with",
+        "startFrame": 2222,
+        "endFrame": 2231
+      },
+      {
+        "text": "SMS",
+        "startFrame": 2231,
+        "endFrame": 2240
+      }
+    ]
+  },
+  {
+    "text": "that's encapsulation and it's a genuine improvement",
+    "startFrame": 2245,
+    "endFrame": 2327,
+    "words": [
+      {
+        "text": "that's",
+        "startFrame": 2245,
+        "endFrame": 2254
+      },
+      {
+        "text": "encapsulation",
+        "startFrame": 2253,
+        "endFrame": 2278
+      },
+      {
+        "text": "and",
+        "startFrame": 2280,
+        "endFrame": 2285
+      },
+      {
+        "text": "it's",
+        "startFrame": 2285,
+        "endFrame": 2293
+      },
+      {
+        "text": "a",
+        "startFrame": 2293,
+        "endFrame": 2296
+      },
+      {
+        "text": "genuine",
+        "startFrame": 2294,
+        "endFrame": 2307
+      },
+      {
+        "text": "improvement",
+        "startFrame": 2307,
+        "endFrame": 2327
+      }
+    ]
+  },
+  {
+    "text": "the duplication is gone But look at the",
+    "startFrame": 2331,
+    "endFrame": 2392,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 2331,
+        "endFrame": 2336
+      },
+      {
+        "text": "duplication",
+        "startFrame": 2336,
+        "endFrame": 2360
+      },
+      {
+        "text": "is",
+        "startFrame": 2360,
+        "endFrame": 2363
+      },
+      {
+        "text": "gone",
+        "startFrame": 2360,
+        "endFrame": 2371
+      },
+      {
+        "text": "But",
+        "startFrame": 2374,
+        "endFrame": 2378
+      },
+      {
+        "text": "look",
+        "startFrame": 2378,
+        "endFrame": 2384
+      },
+      {
+        "text": "at",
+        "startFrame": 2384,
+        "endFrame": 2388
+      },
+      {
+        "text": "the",
+        "startFrame": 2387,
+        "endFrame": 2392
+      }
+    ]
+  },
+  {
+    "text": "bottom of the service class the if-else chain is",
+    "startFrame": 2392,
+    "endFrame": 2460,
+    "words": [
+      {
+        "text": "bottom",
+        "startFrame": 2392,
+        "endFrame": 2403
+      },
+      {
+        "text": "of",
+        "startFrame": 2403,
+        "endFrame": 2407
+      },
+      {
+        "text": "the",
+        "startFrame": 2404,
+        "endFrame": 2408
+      },
+      {
+        "text": "service",
+        "startFrame": 2408,
+        "endFrame": 2419
+      },
+      {
+        "text": "class",
+        "startFrame": 2419,
+        "endFrame": 2430
+      },
+      {
+        "text": "the",
+        "startFrame": 2431,
+        "endFrame": 2436
+      },
+      {
+        "text": "if-else",
+        "startFrame": 2436,
+        "endFrame": 2448
+      },
+      {
+        "text": "chain",
+        "startFrame": 2448,
+        "endFrame": 2453
+      },
+      {
+        "text": "is",
+        "startFrame": 2453,
+        "endFrame": 2460
+      }
+    ]
+  },
+  {
+    "text": "still there we moved the mess we",
+    "startFrame": 2460,
+    "endFrame": 2518,
+    "words": [
+      {
+        "text": "still",
+        "startFrame": 2460,
+        "endFrame": 2464
+      },
+      {
+        "text": "there",
+        "startFrame": 2464,
+        "endFrame": 2472
+      },
+      {
+        "text": "we",
+        "startFrame": 2478,
+        "endFrame": 2490
+      },
+      {
+        "text": "moved",
+        "startFrame": 2490,
+        "endFrame": 2498
+      },
+      {
+        "text": "the",
+        "startFrame": 2498,
+        "endFrame": 2504
+      },
+      {
+        "text": "mess",
+        "startFrame": 2504,
+        "endFrame": 2514
+      },
+      {
+        "text": "we",
+        "startFrame": 2517,
+        "endFrame": 2518
+      }
+    ]
+  },
+  {
+    "text": "didn't remove it This is the trap",
+    "startFrame": 2518,
+    "endFrame": 2579,
+    "words": [
+      {
+        "text": "didn't",
+        "startFrame": 2518,
+        "endFrame": 2529
+      },
+      {
+        "text": "remove",
+        "startFrame": 2528,
+        "endFrame": 2541
+      },
+      {
+        "text": "it",
+        "startFrame": 2541,
+        "endFrame": 2548
+      },
+      {
+        "text": "This",
+        "startFrame": 2557,
+        "endFrame": 2560
+      },
+      {
+        "text": "is",
+        "startFrame": 2558,
+        "endFrame": 2565
+      },
+      {
+        "text": "the",
+        "startFrame": 2565,
+        "endFrame": 2570
+      },
+      {
+        "text": "trap",
+        "startFrame": 2570,
+        "endFrame": 2579
+      }
+    ]
+  },
+  {
+    "text": "I want to point out because a lot of",
+    "startFrame": 2579,
+    "endFrame": 2648,
+    "words": [
+      {
+        "text": "I",
+        "startFrame": 2579,
+        "endFrame": 2582
+      },
+      {
+        "text": "want",
+        "startFrame": 2581,
+        "endFrame": 2590
+      },
+      {
+        "text": "to",
+        "startFrame": 2590,
+        "endFrame": 2594
+      },
+      {
+        "text": "point",
+        "startFrame": 2594,
+        "endFrame": 2613
+      },
+      {
+        "text": "out",
+        "startFrame": 2613,
+        "endFrame": 2617
+      },
+      {
+        "text": "because",
+        "startFrame": 2623,
+        "endFrame": 2635
+      },
+      {
+        "text": "a",
+        "startFrame": 2635,
+        "endFrame": 2638
+      },
+      {
+        "text": "lot",
+        "startFrame": 2636,
+        "endFrame": 2643
+      },
+      {
+        "text": "of",
+        "startFrame": 2643,
+        "endFrame": 2648
+      }
+    ]
+  },
+  {
+    "text": "code looks like this in production Using classes doesn't automatically",
+    "startFrame": 2648,
+    "endFrame": 2779,
+    "words": [
+      {
+        "text": "code",
+        "startFrame": 2648,
+        "endFrame": 2657
+      },
+      {
+        "text": "looks",
+        "startFrame": 2657,
+        "endFrame": 2669
+      },
+      {
+        "text": "like",
+        "startFrame": 2669,
+        "endFrame": 2680
+      },
+      {
+        "text": "this",
+        "startFrame": 2680,
+        "endFrame": 2687
+      },
+      {
+        "text": "in",
+        "startFrame": 2687,
+        "endFrame": 2692
+      },
+      {
+        "text": "production",
+        "startFrame": 2692,
+        "endFrame": 2720
+      },
+      {
+        "text": "Using",
+        "startFrame": 2726,
+        "endFrame": 2736
+      },
+      {
+        "text": "classes",
+        "startFrame": 2736,
+        "endFrame": 2746
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 2746,
+        "endFrame": 2758
+      },
+      {
+        "text": "automatically",
+        "startFrame": 2758,
+        "endFrame": 2779
+      }
+    ]
+  },
+  {
+    "text": "mean you're doing OOP well If your code still",
+    "startFrame": 2779,
+    "endFrame": 2849,
+    "words": [
+      {
+        "text": "mean",
+        "startFrame": 2779,
+        "endFrame": 2786
+      },
+      {
+        "text": "you're",
+        "startFrame": 2786,
+        "endFrame": 2796
+      },
+      {
+        "text": "doing",
+        "startFrame": 2796,
+        "endFrame": 2804
+      },
+      {
+        "text": "OOP",
+        "startFrame": 2804,
+        "endFrame": 2812
+      },
+      {
+        "text": "well",
+        "startFrame": 2808,
+        "endFrame": 2820
+      },
+      {
+        "text": "If",
+        "startFrame": 2822,
+        "endFrame": 2825
+      },
+      {
+        "text": "your",
+        "startFrame": 2825,
+        "endFrame": 2833
+      },
+      {
+        "text": "code",
+        "startFrame": 2833,
+        "endFrame": 2840
+      },
+      {
+        "text": "still",
+        "startFrame": 2840,
+        "endFrame": 2849
+      }
+    ]
+  },
+  {
+    "text": "asks what type is this before deciding what to",
+    "startFrame": 2849,
+    "endFrame": 2921,
+    "words": [
+      {
+        "text": "asks",
+        "startFrame": 2849,
+        "endFrame": 2859
+      },
+      {
+        "text": "what",
+        "startFrame": 2859,
+        "endFrame": 2866
+      },
+      {
+        "text": "type",
+        "startFrame": 2866,
+        "endFrame": 2871
+      },
+      {
+        "text": "is",
+        "startFrame": 2871,
+        "endFrame": 2875
+      },
+      {
+        "text": "this",
+        "startFrame": 2874,
+        "endFrame": 2881
+      },
+      {
+        "text": "before",
+        "startFrame": 2887,
+        "endFrame": 2896
+      },
+      {
+        "text": "deciding",
+        "startFrame": 2896,
+        "endFrame": 2912
+      },
+      {
+        "text": "what",
+        "startFrame": 2912,
+        "endFrame": 2918
+      },
+      {
+        "text": "to",
+        "startFrame": 2918,
+        "endFrame": 2921
+      }
+    ]
+  },
+  {
+    "text": "do you haven't finished the job So here's the actual",
+    "startFrame": 2921,
+    "endFrame": 3025,
+    "words": [
+      {
+        "text": "do",
+        "startFrame": 2921,
+        "endFrame": 2931
+      },
+      {
+        "text": "you",
+        "startFrame": 2931,
+        "endFrame": 2935
+      },
+      {
+        "text": "haven't",
+        "startFrame": 2935,
+        "endFrame": 2947
+      },
+      {
+        "text": "finished",
+        "startFrame": 2943,
+        "endFrame": 2948
+      },
+      {
+        "text": "the",
+        "startFrame": 2948,
+        "endFrame": 2957
+      },
+      {
+        "text": "job",
+        "startFrame": 2957,
+        "endFrame": 2975
+      },
+      {
+        "text": "So",
+        "startFrame": 2978,
+        "endFrame": 2983
+      },
+      {
+        "text": "here's",
+        "startFrame": 2983,
+        "endFrame": 2998
+      },
+      {
+        "text": "the",
+        "startFrame": 2997,
+        "endFrame": 3005
+      },
+      {
+        "text": "actual",
+        "startFrame": 3005,
+        "endFrame": 3025
+      }
+    ]
+  },
+  {
+    "text": "fix First we define a",
+    "startFrame": 3025,
+    "endFrame": 3064,
+    "words": [
+      {
+        "text": "fix",
+        "startFrame": 3025,
+        "endFrame": 3029
+      },
+      {
+        "text": "First",
+        "startFrame": 3034,
+        "endFrame": 3045
+      },
+      {
+        "text": "we",
+        "startFrame": 3045,
+        "endFrame": 3049
+      },
+      {
+        "text": "define",
+        "startFrame": 3048,
+        "endFrame": 3060
+      },
+      {
+        "text": "a",
+        "startFrame": 3060,
+        "endFrame": 3064
+      }
+    ]
+  },
+  {
+    "text": "notifier base class It says any notifier",
+    "startFrame": 3064,
+    "endFrame": 3140,
+    "words": [
+      {
+        "text": "notifier",
+        "startFrame": 3064,
+        "endFrame": 3078
+      },
+      {
+        "text": "base",
+        "startFrame": 3078,
+        "endFrame": 3087
+      },
+      {
+        "text": "class",
+        "startFrame": 3087,
+        "endFrame": 3103
+      },
+      {
+        "text": "It",
+        "startFrame": 3104,
+        "endFrame": 3108
+      },
+      {
+        "text": "says",
+        "startFrame": 3108,
+        "endFrame": 3122
+      },
+      {
+        "text": "any",
+        "startFrame": 3122,
+        "endFrame": 3125
+      },
+      {
+        "text": "notifier",
+        "startFrame": 3123,
+        "endFrame": 3140
+      }
+    ]
+  },
+  {
+    "text": "must have a send method that takes a",
+    "startFrame": 3140,
+    "endFrame": 3200,
+    "words": [
+      {
+        "text": "must",
+        "startFrame": 3140,
+        "endFrame": 3148
+      },
+      {
+        "text": "have",
+        "startFrame": 3148,
+        "endFrame": 3156
+      },
+      {
+        "text": "a",
+        "startFrame": 3156,
+        "endFrame": 3161
+      },
+      {
+        "text": "send",
+        "startFrame": 3161,
+        "endFrame": 3167
+      },
+      {
+        "text": "method",
+        "startFrame": 3167,
+        "endFrame": 3183
+      },
+      {
+        "text": "that",
+        "startFrame": 3183,
+        "endFrame": 3190
+      },
+      {
+        "text": "takes",
+        "startFrame": 3190,
+        "endFrame": 3199
+      },
+      {
+        "text": "a",
+        "startFrame": 3199,
+        "endFrame": 3200
+      }
+    ]
+  },
+  {
+    "text": "recipient and a message That's abstraction It's a",
+    "startFrame": 3200,
+    "endFrame": 3298,
+    "words": [
+      {
+        "text": "recipient",
+        "startFrame": 3200,
+        "endFrame": 3219
+      },
+      {
+        "text": "and",
+        "startFrame": 3219,
+        "endFrame": 3226
+      },
+      {
+        "text": "a",
+        "startFrame": 3226,
+        "endFrame": 3229
+      },
+      {
+        "text": "message",
+        "startFrame": 3226,
+        "endFrame": 3247
+      },
+      {
+        "text": "That's",
+        "startFrame": 3250,
+        "endFrame": 3261
+      },
+      {
+        "text": "abstraction",
+        "startFrame": 3260,
+        "endFrame": 3286
+      },
+      {
+        "text": "It's",
+        "startFrame": 3289,
+        "endFrame": 3298
+      },
+      {
+        "text": "a",
+        "startFrame": 3296,
+        "endFrame": 3298
+      }
+    ]
+  },
+  {
+    "text": "promise about",
+    "startFrame": 3298,
+    "endFrame": 3325,
+    "words": [
+      {
+        "text": "promise",
+        "startFrame": 3298,
+        "endFrame": 3311
+      },
+      {
+        "text": "about",
+        "startFrame": 3311,
+        "endFrame": 3325
+      }
+    ]
+  },
+  {
+    "text": "shape with no implementation Then each real notifier",
+    "startFrame": 3325,
+    "endFrame": 3416,
+    "words": [
+      {
+        "text": "shape",
+        "startFrame": 3325,
+        "endFrame": 3330
+      },
+      {
+        "text": "with",
+        "startFrame": 3330,
+        "endFrame": 3337
+      },
+      {
+        "text": "no",
+        "startFrame": 3337,
+        "endFrame": 3340
+      },
+      {
+        "text": "implementation",
+        "startFrame": 3340,
+        "endFrame": 3371
+      },
+      {
+        "text": "Then",
+        "startFrame": 3374,
+        "endFrame": 3385
+      },
+      {
+        "text": "each",
+        "startFrame": 3385,
+        "endFrame": 3395
+      },
+      {
+        "text": "real",
+        "startFrame": 3395,
+        "endFrame": 3406
+      },
+      {
+        "text": "notifier",
+        "startFrame": 3406,
+        "endFrame": 3416
+      }
+    ]
+  },
+  {
+    "text": "keeps that promise in its own way And now look at",
+    "startFrame": 3416,
+    "endFrame": 3501,
+    "words": [
+      {
+        "text": "keeps",
+        "startFrame": 3416,
+        "endFrame": 3427
+      },
+      {
+        "text": "that",
+        "startFrame": 3427,
+        "endFrame": 3433
+      },
+      {
+        "text": "promise",
+        "startFrame": 3433,
+        "endFrame": 3447
+      },
+      {
+        "text": "in",
+        "startFrame": 3447,
+        "endFrame": 3452
+      },
+      {
+        "text": "its",
+        "startFrame": 3452,
+        "endFrame": 3457
+      },
+      {
+        "text": "own",
+        "startFrame": 3457,
+        "endFrame": 3464
+      },
+      {
+        "text": "way",
+        "startFrame": 3464,
+        "endFrame": 3476
+      },
+      {
+        "text": "And",
+        "startFrame": 3478,
+        "endFrame": 3483
+      },
+      {
+        "text": "now",
+        "startFrame": 3483,
+        "endFrame": 3488
+      },
+      {
+        "text": "look",
+        "startFrame": 3488,
+        "endFrame": 3496
+      },
+      {
+        "text": "at",
+        "startFrame": 3496,
+        "endFrame": 3501
+      }
+    ]
+  },
+  {
+    "text": "the send method at the bottom one line look",
+    "startFrame": 3501,
+    "endFrame": 3580,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 3501,
+        "endFrame": 3505
+      },
+      {
+        "text": "send",
+        "startFrame": 3505,
+        "endFrame": 3512
+      },
+      {
+        "text": "method",
+        "startFrame": 3512,
+        "endFrame": 3524
+      },
+      {
+        "text": "at",
+        "startFrame": 3524,
+        "endFrame": 3527
+      },
+      {
+        "text": "the",
+        "startFrame": 3527,
+        "endFrame": 3544
+      },
+      {
+        "text": "bottom",
+        "startFrame": 3544,
+        "endFrame": 3547
+      },
+      {
+        "text": "one",
+        "startFrame": 3549,
+        "endFrame": 3555
+      },
+      {
+        "text": "line",
+        "startFrame": 3555,
+        "endFrame": 3564
+      },
+      {
+        "text": "look",
+        "startFrame": 3570,
+        "endFrame": 3580
+      }
+    ]
+  },
+  {
+    "text": "up the notifier call send on it The",
+    "startFrame": 3580,
+    "endFrame": 3659,
+    "words": [
+      {
+        "text": "up",
+        "startFrame": 3580,
+        "endFrame": 3589
+      },
+      {
+        "text": "the",
+        "startFrame": 3589,
+        "endFrame": 3598
+      },
+      {
+        "text": "notifier",
+        "startFrame": 3598,
+        "endFrame": 3608
+      },
+      {
+        "text": "call",
+        "startFrame": 3611,
+        "endFrame": 3616
+      },
+      {
+        "text": "send",
+        "startFrame": 3616,
+        "endFrame": 3623
+      },
+      {
+        "text": "on",
+        "startFrame": 3623,
+        "endFrame": 3630
+      },
+      {
+        "text": "it",
+        "startFrame": 3630,
+        "endFrame": 3645
+      },
+      {
+        "text": "The",
+        "startFrame": 3653,
+        "endFrame": 3659
+      }
+    ]
+  },
+  {
+    "text": "if-else chain is completely",
+    "startFrame": 3659,
+    "endFrame": 3711,
+    "words": [
+      {
+        "text": "if-else",
+        "startFrame": 3659,
+        "endFrame": 3672
+      },
+      {
+        "text": "chain",
+        "startFrame": 3672,
+        "endFrame": 3681
+      },
+      {
+        "text": "is",
+        "startFrame": 3681,
+        "endFrame": 3685
+      },
+      {
+        "text": "completely",
+        "startFrame": 3685,
+        "endFrame": 3711
+      }
+    ]
+  },
+  {
+    "text": "gone that's polymorphism And this is the part that",
+    "startFrame": 3711,
+    "endFrame": 3790,
+    "words": [
+      {
+        "text": "gone",
+        "startFrame": 3711,
+        "endFrame": 3715
+      },
+      {
+        "text": "that's",
+        "startFrame": 3716,
+        "endFrame": 3728
+      },
+      {
+        "text": "polymorphism",
+        "startFrame": 3727,
+        "endFrame": 3754
+      },
+      {
+        "text": "And",
+        "startFrame": 3757,
+        "endFrame": 3762
+      },
+      {
+        "text": "this",
+        "startFrame": 3762,
+        "endFrame": 3771
+      },
+      {
+        "text": "is",
+        "startFrame": 3771,
+        "endFrame": 3775
+      },
+      {
+        "text": "the",
+        "startFrame": 3772,
+        "endFrame": 3778
+      },
+      {
+        "text": "part",
+        "startFrame": 3778,
+        "endFrame": 3784
+      },
+      {
+        "text": "that",
+        "startFrame": 3784,
+        "endFrame": 3790
+      }
+    ]
+  },
+  {
+    "text": "actually clicks for people The service no longer knows or",
+    "startFrame": 3790,
+    "endFrame": 3879,
+    "words": [
+      {
+        "text": "actually",
+        "startFrame": 3790,
+        "endFrame": 3804
+      },
+      {
+        "text": "clicks",
+        "startFrame": 3804,
+        "endFrame": 3814
+      },
+      {
+        "text": "for",
+        "startFrame": 3814,
+        "endFrame": 3824
+      },
+      {
+        "text": "people",
+        "startFrame": 3824,
+        "endFrame": 3836
+      },
+      {
+        "text": "The",
+        "startFrame": 3836,
+        "endFrame": 3842
+      },
+      {
+        "text": "service",
+        "startFrame": 3842,
+        "endFrame": 3853
+      },
+      {
+        "text": "no",
+        "startFrame": 3853,
+        "endFrame": 3857
+      },
+      {
+        "text": "longer",
+        "startFrame": 3857,
+        "endFrame": 3867
+      },
+      {
+        "text": "knows",
+        "startFrame": 3867,
+        "endFrame": 3876
+      },
+      {
+        "text": "or",
+        "startFrame": 3876,
+        "endFrame": 3879
+      }
+    ]
+  },
+  {
+    "text": "cares what kind of notifier it's holding It just",
+    "startFrame": 3879,
+    "endFrame": 3956,
+    "words": [
+      {
+        "text": "cares",
+        "startFrame": 3879,
+        "endFrame": 3888
+      },
+      {
+        "text": "what",
+        "startFrame": 3888,
+        "endFrame": 3895
+      },
+      {
+        "text": "kind",
+        "startFrame": 3895,
+        "endFrame": 3902
+      },
+      {
+        "text": "of",
+        "startFrame": 3902,
+        "endFrame": 3909
+      },
+      {
+        "text": "notifier",
+        "startFrame": 3909,
+        "endFrame": 3918
+      },
+      {
+        "text": "it's",
+        "startFrame": 3918,
+        "endFrame": 3925
+      },
+      {
+        "text": "holding",
+        "startFrame": 3924,
+        "endFrame": 3943
+      },
+      {
+        "text": "It",
+        "startFrame": 3944,
+        "endFrame": 3949
+      },
+      {
+        "text": "just",
+        "startFrame": 3949,
+        "endFrame": 3956
+      }
+    ]
+  },
+  {
+    "text": "knows the thing has",
+    "startFrame": 3956,
+    "endFrame": 3988,
+    "words": [
+      {
+        "text": "knows",
+        "startFrame": 3956,
+        "endFrame": 3966
+      },
+      {
+        "text": "the",
+        "startFrame": 3966,
+        "endFrame": 3971
+      },
+      {
+        "text": "thing",
+        "startFrame": 3971,
+        "endFrame": 3987
+      },
+      {
+        "text": "has",
+        "startFrame": 3987,
+        "endFrame": 3988
+      }
+    ]
+  },
+  {
+    "text": "a send method because the base class guaranteed it",
+    "startFrame": 3988,
+    "endFrame": 4075,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 3988,
+        "endFrame": 3992
+      },
+      {
+        "text": "send",
+        "startFrame": 3988,
+        "endFrame": 3997
+      },
+      {
+        "text": "method",
+        "startFrame": 3997,
+        "endFrame": 4008
+      },
+      {
+        "text": "because",
+        "startFrame": 4008,
+        "endFrame": 4022
+      },
+      {
+        "text": "the",
+        "startFrame": 4022,
+        "endFrame": 4027
+      },
+      {
+        "text": "base",
+        "startFrame": 4027,
+        "endFrame": 4035
+      },
+      {
+        "text": "class",
+        "startFrame": 4035,
+        "endFrame": 4045
+      },
+      {
+        "text": "guaranteed",
+        "startFrame": 4045,
+        "endFrame": 4062
+      },
+      {
+        "text": "it",
+        "startFrame": 4062,
+        "endFrame": 4075
+      }
+    ]
+  },
+  {
+    "text": "Version 3 is good but there's",
+    "startFrame": 4075,
+    "endFrame": 4135,
+    "words": [
+      {
+        "text": "Version",
+        "startFrame": 4075,
+        "endFrame": 4090
+      },
+      {
+        "text": "3",
+        "startFrame": 4090,
+        "endFrame": 4098
+      },
+      {
+        "text": "is",
+        "startFrame": 4098,
+        "endFrame": 4102
+      },
+      {
+        "text": "good",
+        "startFrame": 4101,
+        "endFrame": 4109
+      },
+      {
+        "text": "but",
+        "startFrame": 4120,
+        "endFrame": 4123
+      },
+      {
+        "text": "there's",
+        "startFrame": 4121,
+        "endFrame": 4135
+      }
+    ]
+  },
+  {
+    "text": "one problem left and it's subtle Look at",
+    "startFrame": 4135,
+    "endFrame": 4213,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 4135,
+        "endFrame": 4141
+      },
+      {
+        "text": "problem",
+        "startFrame": 4141,
+        "endFrame": 4160
+      },
+      {
+        "text": "left",
+        "startFrame": 4160,
+        "endFrame": 4164
+      },
+      {
+        "text": "and",
+        "startFrame": 4164,
+        "endFrame": 4172
+      },
+      {
+        "text": "it's",
+        "startFrame": 4172,
+        "endFrame": 4190
+      },
+      {
+        "text": "subtle",
+        "startFrame": 4190,
+        "endFrame": 4198
+      },
+      {
+        "text": "Look",
+        "startFrame": 4201,
+        "endFrame": 4209
+      },
+      {
+        "text": "at",
+        "startFrame": 4209,
+        "endFrame": 4213
+      }
+    ]
+  },
+  {
+    "text": "that init method the",
+    "startFrame": 4213,
+    "endFrame": 4250,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 4213,
+        "endFrame": 4221
+      },
+      {
+        "text": "init",
+        "startFrame": 4221,
+        "endFrame": 4228
+      },
+      {
+        "text": "method",
+        "startFrame": 4228,
+        "endFrame": 4240
+      },
+      {
+        "text": "the",
+        "startFrame": 4249,
+        "endFrame": 4250
+      }
+    ]
+  },
+  {
+    "text": "service is building its own notifiers That means the",
+    "startFrame": 4250,
+    "endFrame": 4342,
+    "words": [
+      {
+        "text": "service",
+        "startFrame": 4250,
+        "endFrame": 4264
+      },
+      {
+        "text": "is",
+        "startFrame": 4264,
+        "endFrame": 4268
+      },
+      {
+        "text": "building",
+        "startFrame": 4268,
+        "endFrame": 4285
+      },
+      {
+        "text": "its",
+        "startFrame": 4285,
+        "endFrame": 4290
+      },
+      {
+        "text": "own",
+        "startFrame": 4290,
+        "endFrame": 4298
+      },
+      {
+        "text": "notifiers",
+        "startFrame": 4298,
+        "endFrame": 4320
+      },
+      {
+        "text": "That",
+        "startFrame": 4322,
+        "endFrame": 4329
+      },
+      {
+        "text": "means",
+        "startFrame": 4329,
+        "endFrame": 4337
+      },
+      {
+        "text": "the",
+        "startFrame": 4337,
+        "endFrame": 4342
+      }
+    ]
+  },
+  {
+    "text": "service is permanently",
+    "startFrame": 4342,
+    "endFrame": 4375,
+    "words": [
+      {
+        "text": "service",
+        "startFrame": 4342,
+        "endFrame": 4354
+      },
+      {
+        "text": "is",
+        "startFrame": 4354,
+        "endFrame": 4357
+      },
+      {
+        "text": "permanently",
+        "startFrame": 4357,
+        "endFrame": 4375
+      }
+    ]
+  },
+  {
+    "text": "wired to those three specific classes One change instead",
+    "startFrame": 4375,
+    "endFrame": 4473,
+    "words": [
+      {
+        "text": "wired",
+        "startFrame": 4375,
+        "endFrame": 4387
+      },
+      {
+        "text": "to",
+        "startFrame": 4387,
+        "endFrame": 4390
+      },
+      {
+        "text": "those",
+        "startFrame": 4388,
+        "endFrame": 4395
+      },
+      {
+        "text": "three",
+        "startFrame": 4395,
+        "endFrame": 4408
+      },
+      {
+        "text": "specific",
+        "startFrame": 4408,
+        "endFrame": 4421
+      },
+      {
+        "text": "classes",
+        "startFrame": 4421,
+        "endFrame": 4434
+      },
+      {
+        "text": "One",
+        "startFrame": 4436,
+        "endFrame": 4440
+      },
+      {
+        "text": "change",
+        "startFrame": 4439,
+        "endFrame": 4449
+      },
+      {
+        "text": "instead",
+        "startFrame": 4466,
+        "endFrame": 4473
+      }
+    ]
+  },
+  {
+    "text": "of building them",
+    "startFrame": 4473,
+    "endFrame": 4502,
+    "words": [
+      {
+        "text": "of",
+        "startFrame": 4473,
+        "endFrame": 4477
+      },
+      {
+        "text": "building",
+        "startFrame": 4477,
+        "endFrame": 4492
+      },
+      {
+        "text": "them",
+        "startFrame": 4492,
+        "endFrame": 4502
+      }
+    ]
+  },
+  {
+    "text": "the service receives them That's dependency injection and the name",
+    "startFrame": 4505,
+    "endFrame": 4624,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 4505,
+        "endFrame": 4511
+      },
+      {
+        "text": "service",
+        "startFrame": 4511,
+        "endFrame": 4526
+      },
+      {
+        "text": "receives",
+        "startFrame": 4526,
+        "endFrame": 4542
+      },
+      {
+        "text": "them",
+        "startFrame": 4542,
+        "endFrame": 4554
+      },
+      {
+        "text": "That's",
+        "startFrame": 4559,
+        "endFrame": 4570
+      },
+      {
+        "text": "dependency",
+        "startFrame": 4570,
+        "endFrame": 4589
+      },
+      {
+        "text": "injection",
+        "startFrame": 4589,
+        "endFrame": 4610
+      },
+      {
+        "text": "and",
+        "startFrame": 4610,
+        "endFrame": 4613
+      },
+      {
+        "text": "the",
+        "startFrame": 4612,
+        "endFrame": 4617
+      },
+      {
+        "text": "name",
+        "startFrame": 4617,
+        "endFrame": 4624
+      }
+    ]
+  },
+  {
+    "text": "is much scarier than the idea You are",
+    "startFrame": 4624,
+    "endFrame": 4688,
+    "words": [
+      {
+        "text": "is",
+        "startFrame": 4624,
+        "endFrame": 4628
+      },
+      {
+        "text": "much",
+        "startFrame": 4628,
+        "endFrame": 4637
+      },
+      {
+        "text": "scarier",
+        "startFrame": 4637,
+        "endFrame": 4648
+      },
+      {
+        "text": "than",
+        "startFrame": 4648,
+        "endFrame": 4656
+      },
+      {
+        "text": "the",
+        "startFrame": 4656,
+        "endFrame": 4660
+      },
+      {
+        "text": "idea",
+        "startFrame": 4660,
+        "endFrame": 4676
+      },
+      {
+        "text": "You",
+        "startFrame": 4677,
+        "endFrame": 4682
+      },
+      {
+        "text": "are",
+        "startFrame": 4682,
+        "endFrame": 4688
+      }
+    ]
+  },
+  {
+    "text": "just passing things in",
+    "startFrame": 4688,
+    "endFrame": 4722,
+    "words": [
+      {
+        "text": "just",
+        "startFrame": 4688,
+        "endFrame": 4695
+      },
+      {
+        "text": "passing",
+        "startFrame": 4695,
+        "endFrame": 4707
+      },
+      {
+        "text": "things",
+        "startFrame": 4707,
+        "endFrame": 4720
+      },
+      {
+        "text": "in",
+        "startFrame": 4720,
+        "endFrame": 4722
+      }
+    ]
+  },
+  {
+    "text": "instead of creating them inside And here's what that buys you",
+    "startFrame": 4722,
+    "endFrame": 4819,
+    "words": [
+      {
+        "text": "instead",
+        "startFrame": 4722,
+        "endFrame": 4735
+      },
+      {
+        "text": "of",
+        "startFrame": 4735,
+        "endFrame": 4738
+      },
+      {
+        "text": "creating",
+        "startFrame": 4738,
+        "endFrame": 4753
+      },
+      {
+        "text": "them",
+        "startFrame": 4753,
+        "endFrame": 4758
+      },
+      {
+        "text": "inside",
+        "startFrame": 4758,
+        "endFrame": 4775
+      },
+      {
+        "text": "And",
+        "startFrame": 4778,
+        "endFrame": 4785
+      },
+      {
+        "text": "here's",
+        "startFrame": 4785,
+        "endFrame": 4792
+      },
+      {
+        "text": "what",
+        "startFrame": 4792,
+        "endFrame": 4798
+      },
+      {
+        "text": "that",
+        "startFrame": 4798,
+        "endFrame": 4805
+      },
+      {
+        "text": "buys",
+        "startFrame": 4805,
+        "endFrame": 4812
+      },
+      {
+        "text": "you",
+        "startFrame": 4812,
+        "endFrame": 4819
+      }
+    ]
+  },
+  {
+    "text": "I just added Slack and",
+    "startFrame": 4819,
+    "endFrame": 4859,
+    "words": [
+      {
+        "text": "I",
+        "startFrame": 4819,
+        "endFrame": 4822
+      },
+      {
+        "text": "just",
+        "startFrame": 4821,
+        "endFrame": 4833
+      },
+      {
+        "text": "added",
+        "startFrame": 4833,
+        "endFrame": 4843
+      },
+      {
+        "text": "Slack",
+        "startFrame": 4843,
+        "endFrame": 4852
+      },
+      {
+        "text": "and",
+        "startFrame": 4852,
+        "endFrame": 4859
+      }
+    ]
+  },
+  {
+    "text": "I did not touch notification service at all not",
+    "startFrame": 4859,
+    "endFrame": 4954,
+    "words": [
+      {
+        "text": "I",
+        "startFrame": 4859,
+        "endFrame": 4863
+      },
+      {
+        "text": "did",
+        "startFrame": 4862,
+        "endFrame": 4873
+      },
+      {
+        "text": "not",
+        "startFrame": 4873,
+        "endFrame": 4876
+      },
+      {
+        "text": "touch",
+        "startFrame": 4876,
+        "endFrame": 4887
+      },
+      {
+        "text": "notification",
+        "startFrame": 4887,
+        "endFrame": 4915
+      },
+      {
+        "text": "service",
+        "startFrame": 4915,
+        "endFrame": 4931
+      },
+      {
+        "text": "at",
+        "startFrame": 4931,
+        "endFrame": 4942
+      },
+      {
+        "text": "all",
+        "startFrame": 4942,
+        "endFrame": 4946
+      },
+      {
+        "text": "not",
+        "startFrame": 4947,
+        "endFrame": 4954
+      }
+    ]
+  },
+  {
+    "text": "one line It has no idea Slack",
+    "startFrame": 4954,
+    "endFrame": 5012,
+    "words": [
+      {
+        "text": "one",
+        "startFrame": 4954,
+        "endFrame": 4961
+      },
+      {
+        "text": "line",
+        "startFrame": 4961,
+        "endFrame": 4979
+      },
+      {
+        "text": "It",
+        "startFrame": 4980,
+        "endFrame": 4984
+      },
+      {
+        "text": "has",
+        "startFrame": 4984,
+        "endFrame": 4990
+      },
+      {
+        "text": "no",
+        "startFrame": 4990,
+        "endFrame": 4994
+      },
+      {
+        "text": "idea",
+        "startFrame": 4994,
+        "endFrame": 5004
+      },
+      {
+        "text": "Slack",
+        "startFrame": 5004,
+        "endFrame": 5012
+      }
+    ]
+  },
+  {
+    "text": "exists and it doesn't need to There's a second benefit that people",
+    "startFrame": 5012,
+    "endFrame": 5144,
+    "words": [
+      {
+        "text": "exists",
+        "startFrame": 5012,
+        "endFrame": 5030
+      },
+      {
+        "text": "and",
+        "startFrame": 5030,
+        "endFrame": 5033
+      },
+      {
+        "text": "it",
+        "startFrame": 5030,
+        "endFrame": 5033
+      },
+      {
+        "text": "doesn't",
+        "startFrame": 5033,
+        "endFrame": 5047
+      },
+      {
+        "text": "need",
+        "startFrame": 5047,
+        "endFrame": 5055
+      },
+      {
+        "text": "to",
+        "startFrame": 5055,
+        "endFrame": 5067
+      },
+      {
+        "text": "There's",
+        "startFrame": 5076,
+        "endFrame": 5085
+      },
+      {
+        "text": "a",
+        "startFrame": 5085,
+        "endFrame": 5088
+      },
+      {
+        "text": "second",
+        "startFrame": 5085,
+        "endFrame": 5098
+      },
+      {
+        "text": "benefit",
+        "startFrame": 5098,
+        "endFrame": 5115
+      },
+      {
+        "text": "that",
+        "startFrame": 5115,
+        "endFrame": 5123
+      },
+      {
+        "text": "people",
+        "startFrame": 5123,
+        "endFrame": 5144
+      }
+    ]
+  },
+  {
+    "text": "miss that's test I passed in a fake notifier that",
+    "startFrame": 5144,
+    "endFrame": 5236,
+    "words": [
+      {
+        "text": "miss",
+        "startFrame": 5144,
+        "endFrame": 5148
+      },
+      {
+        "text": "that's",
+        "startFrame": 5153,
+        "endFrame": 5165
+      },
+      {
+        "text": "test",
+        "startFrame": 5164,
+        "endFrame": 5182
+      },
+      {
+        "text": "I",
+        "startFrame": 5182,
+        "endFrame": 5185
+      },
+      {
+        "text": "passed",
+        "startFrame": 5184,
+        "endFrame": 5198
+      },
+      {
+        "text": "in",
+        "startFrame": 5198,
+        "endFrame": 5201
+      },
+      {
+        "text": "a",
+        "startFrame": 5199,
+        "endFrame": 5203
+      },
+      {
+        "text": "fake",
+        "startFrame": 5201,
+        "endFrame": 5210
+      },
+      {
+        "text": "notifier",
+        "startFrame": 5210,
+        "endFrame": 5224
+      },
+      {
+        "text": "that",
+        "startFrame": 5224,
+        "endFrame": 5236
+      }
+    ]
+  },
+  {
+    "text": "records messages instead of sending them So I",
+    "startFrame": 5236,
+    "endFrame": 5310,
+    "words": [
+      {
+        "text": "records",
+        "startFrame": 5236,
+        "endFrame": 5248
+      },
+      {
+        "text": "messages",
+        "startFrame": 5248,
+        "endFrame": 5259
+      },
+      {
+        "text": "instead",
+        "startFrame": 5259,
+        "endFrame": 5271
+      },
+      {
+        "text": "of",
+        "startFrame": 5271,
+        "endFrame": 5275
+      },
+      {
+        "text": "sending",
+        "startFrame": 5275,
+        "endFrame": 5291
+      },
+      {
+        "text": "them",
+        "startFrame": 5291,
+        "endFrame": 5305
+      },
+      {
+        "text": "So",
+        "startFrame": 5305,
+        "endFrame": 5308
+      },
+      {
+        "text": "I",
+        "startFrame": 5308,
+        "endFrame": 5310
+      }
+    ]
+  },
+  {
+    "text": "can test the whole service",
+    "startFrame": 5310,
+    "endFrame": 5353,
+    "words": [
+      {
+        "text": "can",
+        "startFrame": 5310,
+        "endFrame": 5315
+      },
+      {
+        "text": "test",
+        "startFrame": 5315,
+        "endFrame": 5323
+      },
+      {
+        "text": "the",
+        "startFrame": 5323,
+        "endFrame": 5328
+      },
+      {
+        "text": "whole",
+        "startFrame": 5328,
+        "endFrame": 5336
+      },
+      {
+        "text": "service",
+        "startFrame": 5336,
+        "endFrame": 5353
+      }
+    ]
+  },
+  {
+    "text": "without sending a single real email In version 1",
+    "startFrame": 5353,
+    "endFrame": 5435,
+    "words": [
+      {
+        "text": "without",
+        "startFrame": 5353,
+        "endFrame": 5361
+      },
+      {
+        "text": "sending",
+        "startFrame": 5361,
+        "endFrame": 5374
+      },
+      {
+        "text": "a",
+        "startFrame": 5374,
+        "endFrame": 5377
+      },
+      {
+        "text": "single",
+        "startFrame": 5375,
+        "endFrame": 5385
+      },
+      {
+        "text": "real",
+        "startFrame": 5385,
+        "endFrame": 5394
+      },
+      {
+        "text": "email",
+        "startFrame": 5394,
+        "endFrame": 5408
+      },
+      {
+        "text": "In",
+        "startFrame": 5409,
+        "endFrame": 5413
+      },
+      {
+        "text": "version",
+        "startFrame": 5413,
+        "endFrame": 5428
+      },
+      {
+        "text": "1",
+        "startFrame": 5428,
+        "endFrame": 5435
+      }
+    ]
+  },
+  {
+    "text": "that was impossible The",
+    "startFrame": 5440,
+    "endFrame": 5490,
+    "words": [
+      {
+        "text": "that",
+        "startFrame": 5440,
+        "endFrame": 5449
+      },
+      {
+        "text": "was",
+        "startFrame": 5449,
+        "endFrame": 5454
+      },
+      {
+        "text": "impossible",
+        "startFrame": 5454,
+        "endFrame": 5484
+      },
+      {
+        "text": "The",
+        "startFrame": 5485,
+        "endFrame": 5490
+      }
+    ]
+  },
+  {
+    "text": "sending was welded into the function",
+    "startFrame": 5490,
+    "endFrame": 5550,
+    "words": [
+      {
+        "text": "sending",
+        "startFrame": 5490,
+        "endFrame": 5505
+      },
+      {
+        "text": "was",
+        "startFrame": 5505,
+        "endFrame": 5510
+      },
+      {
+        "text": "welded",
+        "startFrame": 5510,
+        "endFrame": 5525
+      },
+      {
+        "text": "into",
+        "startFrame": 5523,
+        "endFrame": 5529
+      },
+      {
+        "text": "the",
+        "startFrame": 5529,
+        "endFrame": 5535
+      },
+      {
+        "text": "function",
+        "startFrame": 5535,
+        "endFrame": 5550
+      }
+    ]
+  },
+  {
+    "text": "testable code usually isn't a separate goal",
+    "startFrame": 5557,
+    "endFrame": 5639,
+    "words": [
+      {
+        "text": "testable",
+        "startFrame": 5557,
+        "endFrame": 5575
+      },
+      {
+        "text": "code",
+        "startFrame": 5575,
+        "endFrame": 5584
+      },
+      {
+        "text": "usually",
+        "startFrame": 5584,
+        "endFrame": 5600
+      },
+      {
+        "text": "isn't",
+        "startFrame": 5600,
+        "endFrame": 5610
+      },
+      {
+        "text": "a",
+        "startFrame": 5610,
+        "endFrame": 5614
+      },
+      {
+        "text": "separate",
+        "startFrame": 5613,
+        "endFrame": 5632
+      },
+      {
+        "text": "goal",
+        "startFrame": 5632,
+        "endFrame": 5639
+      }
+    ]
+  },
+  {
+    "text": "you work toward It's usually just what",
+    "startFrame": 5639,
+    "endFrame": 5711,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 5639,
+        "endFrame": 5651
+      },
+      {
+        "text": "work",
+        "startFrame": 5651,
+        "endFrame": 5662
+      },
+      {
+        "text": "toward",
+        "startFrame": 5662,
+        "endFrame": 5674
+      },
+      {
+        "text": "It's",
+        "startFrame": 5677,
+        "endFrame": 5686
+      },
+      {
+        "text": "usually",
+        "startFrame": 5686,
+        "endFrame": 5696
+      },
+      {
+        "text": "just",
+        "startFrame": 5696,
+        "endFrame": 5704
+      },
+      {
+        "text": "what",
+        "startFrame": 5704,
+        "endFrame": 5711
+      }
+    ]
+  },
+  {
+    "text": "good structure gives",
+    "startFrame": 5711,
+    "endFrame": 5743,
+    "words": [
+      {
+        "text": "good",
+        "startFrame": 5711,
+        "endFrame": 5721
+      },
+      {
+        "text": "structure",
+        "startFrame": 5721,
+        "endFrame": 5734
+      },
+      {
+        "text": "gives",
+        "startFrame": 5734,
+        "endFrame": 5743
+      }
+    ]
+  },
+  {
+    "text": "you as a side effect So let's line up all four with",
+    "startFrame": 5743,
+    "endFrame": 5827,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 5743,
+        "endFrame": 5749
+      },
+      {
+        "text": "as",
+        "startFrame": 5749,
+        "endFrame": 5752
+      },
+      {
+        "text": "a",
+        "startFrame": 5752,
+        "endFrame": 5756
+      },
+      {
+        "text": "side",
+        "startFrame": 5754,
+        "endFrame": 5761
+      },
+      {
+        "text": "effect",
+        "startFrame": 5761,
+        "endFrame": 5779
+      },
+      {
+        "text": "So",
+        "startFrame": 5779,
+        "endFrame": 5783
+      },
+      {
+        "text": "let's",
+        "startFrame": 5783,
+        "endFrame": 5793
+      },
+      {
+        "text": "line",
+        "startFrame": 5793,
+        "endFrame": 5801
+      },
+      {
+        "text": "up",
+        "startFrame": 5801,
+        "endFrame": 5808
+      },
+      {
+        "text": "all",
+        "startFrame": 5808,
+        "endFrame": 5812
+      },
+      {
+        "text": "four",
+        "startFrame": 5811,
+        "endFrame": 5820
+      },
+      {
+        "text": "with",
+        "startFrame": 5820,
+        "endFrame": 5827
+      }
+    ]
+  },
+  {
+    "text": "the same question What does it take to add Slack",
+    "startFrame": 5827,
+    "endFrame": 5927,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 5827,
+        "endFrame": 5833
+      },
+      {
+        "text": "same",
+        "startFrame": 5833,
+        "endFrame": 5858
+      },
+      {
+        "text": "question",
+        "startFrame": 5858,
+        "endFrame": 5861
+      },
+      {
+        "text": "What",
+        "startFrame": 5866,
+        "endFrame": 5879
+      },
+      {
+        "text": "does",
+        "startFrame": 5879,
+        "endFrame": 5890
+      },
+      {
+        "text": "it",
+        "startFrame": 5890,
+        "endFrame": 5894
+      },
+      {
+        "text": "take",
+        "startFrame": 5893,
+        "endFrame": 5903
+      },
+      {
+        "text": "to",
+        "startFrame": 5903,
+        "endFrame": 5907
+      },
+      {
+        "text": "add",
+        "startFrame": 5905,
+        "endFrame": 5924
+      },
+      {
+        "text": "Slack",
+        "startFrame": 5924,
+        "endFrame": 5927
+      }
+    ]
+  },
+  {
+    "text": "Version 1 you edit the function itself",
+    "startFrame": 5932,
+    "endFrame": 6000,
+    "words": [
+      {
+        "text": "Version",
+        "startFrame": 5932,
+        "endFrame": 5950
+      },
+      {
+        "text": "1",
+        "startFrame": 5950,
+        "endFrame": 5953
+      },
+      {
+        "text": "you",
+        "startFrame": 5953,
+        "endFrame": 5959
+      },
+      {
+        "text": "edit",
+        "startFrame": 5959,
+        "endFrame": 5966
+      },
+      {
+        "text": "the",
+        "startFrame": 5966,
+        "endFrame": 5971
+      },
+      {
+        "text": "function",
+        "startFrame": 5971,
+        "endFrame": 5985
+      },
+      {
+        "text": "itself",
+        "startFrame": 5985,
+        "endFrame": 6000
+      }
+    ]
+  },
+  {
+    "text": "new elif branch, inside the code that already works",
+    "startFrame": 6000,
+    "endFrame": 6093,
+    "words": [
+      {
+        "text": "new",
+        "startFrame": 6000,
+        "endFrame": 6009
+      },
+      {
+        "text": "elif",
+        "startFrame": 6009,
+        "endFrame": 6018
+      },
+      {
+        "text": "branch,",
+        "startFrame": 6018,
+        "endFrame": 6028
+      },
+      {
+        "text": "inside",
+        "startFrame": 6028,
+        "endFrame": 6037
+      },
+      {
+        "text": "the",
+        "startFrame": 6037,
+        "endFrame": 6046
+      },
+      {
+        "text": "code",
+        "startFrame": 6046,
+        "endFrame": 6055
+      },
+      {
+        "text": "that",
+        "startFrame": 6055,
+        "endFrame": 6061
+      },
+      {
+        "text": "already",
+        "startFrame": 6061,
+        "endFrame": 6073
+      },
+      {
+        "text": "works",
+        "startFrame": 6073,
+        "endFrame": 6093
+      }
+    ]
+  },
+  {
+    "text": "Version 2 three separate edits new class add it",
+    "startFrame": 6103,
+    "endFrame": 6198,
+    "words": [
+      {
+        "text": "Version",
+        "startFrame": 6103,
+        "endFrame": 6117
+      },
+      {
+        "text": "2",
+        "startFrame": 6117,
+        "endFrame": 6126
+      },
+      {
+        "text": "three",
+        "startFrame": 6128,
+        "endFrame": 6137
+      },
+      {
+        "text": "separate",
+        "startFrame": 6137,
+        "endFrame": 6164
+      },
+      {
+        "text": "edits",
+        "startFrame": 6164,
+        "endFrame": 6167
+      },
+      {
+        "text": "new",
+        "startFrame": 6168,
+        "endFrame": 6174
+      },
+      {
+        "text": "class",
+        "startFrame": 6174,
+        "endFrame": 6183
+      },
+      {
+        "text": "add",
+        "startFrame": 6193,
+        "endFrame": 6196
+      },
+      {
+        "text": "it",
+        "startFrame": 6194,
+        "endFrame": 6198
+      }
+    ]
+  },
+  {
+    "text": "to init add another elif Version 3 two edits",
+    "startFrame": 6198,
+    "endFrame": 6311,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 6198,
+        "endFrame": 6204
+      },
+      {
+        "text": "init",
+        "startFrame": 6204,
+        "endFrame": 6210
+      },
+      {
+        "text": "add",
+        "startFrame": 6214,
+        "endFrame": 6225
+      },
+      {
+        "text": "another",
+        "startFrame": 6225,
+        "endFrame": 6237
+      },
+      {
+        "text": "elif",
+        "startFrame": 6237,
+        "endFrame": 6248
+      },
+      {
+        "text": "Version",
+        "startFrame": 6260,
+        "endFrame": 6278
+      },
+      {
+        "text": "3",
+        "startFrame": 6278,
+        "endFrame": 6286
+      },
+      {
+        "text": "two",
+        "startFrame": 6299,
+        "endFrame": 6302
+      },
+      {
+        "text": "edits",
+        "startFrame": 6299,
+        "endFrame": 6311
+      }
+    ]
+  },
+  {
+    "text": "new class add it to",
+    "startFrame": 6325,
+    "endFrame": 6361,
+    "words": [
+      {
+        "text": "new",
+        "startFrame": 6325,
+        "endFrame": 6328
+      },
+      {
+        "text": "class",
+        "startFrame": 6327,
+        "endFrame": 6338
+      },
+      {
+        "text": "add",
+        "startFrame": 6351,
+        "endFrame": 6355
+      },
+      {
+        "text": "it",
+        "startFrame": 6353,
+        "endFrame": 6356
+      },
+      {
+        "text": "to",
+        "startFrame": 6356,
+        "endFrame": 6361
+      }
+    ]
+  },
+  {
+    "text": "the dictionary Version 4 one edit write the class",
+    "startFrame": 6361,
+    "endFrame": 6481,
+    "words": [
+      {
+        "text": "the",
+        "startFrame": 6361,
+        "endFrame": 6368
+      },
+      {
+        "text": "dictionary",
+        "startFrame": 6368,
+        "endFrame": 6397
+      },
+      {
+        "text": "Version",
+        "startFrame": 6405,
+        "endFrame": 6421
+      },
+      {
+        "text": "4",
+        "startFrame": 6421,
+        "endFrame": 6431
+      },
+      {
+        "text": "one",
+        "startFrame": 6432,
+        "endFrame": 6438
+      },
+      {
+        "text": "edit",
+        "startFrame": 6438,
+        "endFrame": 6451
+      },
+      {
+        "text": "write",
+        "startFrame": 6451,
+        "endFrame": 6462
+      },
+      {
+        "text": "the",
+        "startFrame": 6462,
+        "endFrame": 6474
+      },
+      {
+        "text": "class",
+        "startFrame": 6474,
+        "endFrame": 6481
+      }
+    ]
+  },
+  {
+    "text": "that's it",
+    "startFrame": 6484,
+    "endFrame": 6506,
+    "words": [
+      {
+        "text": "that's",
+        "startFrame": 6484,
+        "endFrame": 6497
+      },
+      {
+        "text": "it",
+        "startFrame": 6497,
+        "endFrame": 6506
+      }
+    ]
+  },
+  {
+    "text": "But the number of edits isn't really the point",
+    "startFrame": 6511,
+    "endFrame": 6592,
+    "words": [
+      {
+        "text": "But",
+        "startFrame": 6511,
+        "endFrame": 6517
+      },
+      {
+        "text": "the",
+        "startFrame": 6517,
+        "endFrame": 6525
+      },
+      {
+        "text": "number",
+        "startFrame": 6525,
+        "endFrame": 6533
+      },
+      {
+        "text": "of",
+        "startFrame": 6533,
+        "endFrame": 6541
+      },
+      {
+        "text": "edits",
+        "startFrame": 6541,
+        "endFrame": 6549
+      },
+      {
+        "text": "isn't",
+        "startFrame": 6549,
+        "endFrame": 6557
+      },
+      {
+        "text": "really",
+        "startFrame": 6557,
+        "endFrame": 6569
+      },
+      {
+        "text": "the",
+        "startFrame": 6569,
+        "endFrame": 6575
+      },
+      {
+        "text": "point",
+        "startFrame": 6575,
+        "endFrame": 6592
+      }
+    ]
+  },
+  {
+    "text": "The point is which code you had to open",
+    "startFrame": 6593,
+    "endFrame": 6665,
+    "words": [
+      {
+        "text": "The",
+        "startFrame": 6593,
+        "endFrame": 6600
+      },
+      {
+        "text": "point",
+        "startFrame": 6600,
+        "endFrame": 6610
+      },
+      {
+        "text": "is",
+        "startFrame": 6610,
+        "endFrame": 6614
+      },
+      {
+        "text": "which",
+        "startFrame": 6614,
+        "endFrame": 6625
+      },
+      {
+        "text": "code",
+        "startFrame": 6625,
+        "endFrame": 6635
+      },
+      {
+        "text": "you",
+        "startFrame": 6635,
+        "endFrame": 6641
+      },
+      {
+        "text": "had",
+        "startFrame": 6641,
+        "endFrame": 6650
+      },
+      {
+        "text": "to",
+        "startFrame": 6650,
+        "endFrame": 6654
+      },
+      {
+        "text": "open",
+        "startFrame": 6650,
+        "endFrame": 6665
+      }
+    ]
+  },
+  {
+    "text": "In the first three versions you had to modify",
+    "startFrame": 6665,
+    "endFrame": 6734,
+    "words": [
+      {
+        "text": "In",
+        "startFrame": 6665,
+        "endFrame": 6673
+      },
+      {
+        "text": "the",
+        "startFrame": 6673,
+        "endFrame": 6681
+      },
+      {
+        "text": "first",
+        "startFrame": 6681,
+        "endFrame": 6689
+      },
+      {
+        "text": "three",
+        "startFrame": 6689,
+        "endFrame": 6697
+      },
+      {
+        "text": "versions",
+        "startFrame": 6697,
+        "endFrame": 6705
+      },
+      {
+        "text": "you",
+        "startFrame": 6711,
+        "endFrame": 6715
+      },
+      {
+        "text": "had",
+        "startFrame": 6714,
+        "endFrame": 6721
+      },
+      {
+        "text": "to",
+        "startFrame": 6721,
+        "endFrame": 6725
+      },
+      {
+        "text": "modify",
+        "startFrame": 6723,
+        "endFrame": 6734
+      }
+    ]
+  },
+  {
+    "text": "notification service That's code that already worked that other",
+    "startFrame": 6734,
+    "endFrame": 6856,
+    "words": [
+      {
+        "text": "notification",
+        "startFrame": 6734,
+        "endFrame": 6768
+      },
+      {
+        "text": "service",
+        "startFrame": 6768,
+        "endFrame": 6772
+      },
+      {
+        "text": "That's",
+        "startFrame": 6779,
+        "endFrame": 6790
+      },
+      {
+        "text": "code",
+        "startFrame": 6790,
+        "endFrame": 6801
+      },
+      {
+        "text": "that",
+        "startFrame": 6801,
+        "endFrame": 6813
+      },
+      {
+        "text": "already",
+        "startFrame": 6813,
+        "endFrame": 6824
+      },
+      {
+        "text": "worked",
+        "startFrame": 6824,
+        "endFrame": 6835
+      },
+      {
+        "text": "that",
+        "startFrame": 6837,
+        "endFrame": 6846
+      },
+      {
+        "text": "other",
+        "startFrame": 6846,
+        "endFrame": 6856
+      }
+    ]
+  },
+  {
+    "text": "things already",
+    "startFrame": 6856,
+    "endFrame": 6874,
+    "words": [
+      {
+        "text": "things",
+        "startFrame": 6856,
+        "endFrame": 6865
+      },
+      {
+        "text": "already",
+        "startFrame": 6865,
+        "endFrame": 6874
+      }
+    ]
+  },
+  {
+    "text": "depend on Every time you edit",
+    "startFrame": 6874,
+    "endFrame": 6931,
+    "words": [
+      {
+        "text": "depend",
+        "startFrame": 6874,
+        "endFrame": 6884
+      },
+      {
+        "text": "on",
+        "startFrame": 6884,
+        "endFrame": 6893
+      },
+      {
+        "text": "Every",
+        "startFrame": 6896,
+        "endFrame": 6906
+      },
+      {
+        "text": "time",
+        "startFrame": 6906,
+        "endFrame": 6914
+      },
+      {
+        "text": "you",
+        "startFrame": 6914,
+        "endFrame": 6919
+      },
+      {
+        "text": "edit",
+        "startFrame": 6919,
+        "endFrame": 6931
+      }
+    ]
+  },
+  {
+    "text": "it you can break something unrelated",
+    "startFrame": 6931,
+    "endFrame": 6997,
+    "words": [
+      {
+        "text": "it",
+        "startFrame": 6931,
+        "endFrame": 6935
+      },
+      {
+        "text": "you",
+        "startFrame": 6937,
+        "endFrame": 6942
+      },
+      {
+        "text": "can",
+        "startFrame": 6942,
+        "endFrame": 6949
+      },
+      {
+        "text": "break",
+        "startFrame": 6949,
+        "endFrame": 6956
+      },
+      {
+        "text": "something",
+        "startFrame": 6956,
+        "endFrame": 6973
+      },
+      {
+        "text": "unrelated",
+        "startFrame": 6973,
+        "endFrame": 6997
+      }
+    ]
+  },
+  {
+    "text": "In version 4 you didn't open it at all You",
+    "startFrame": 6998,
+    "endFrame": 7086,
+    "words": [
+      {
+        "text": "In",
+        "startFrame": 6998,
+        "endFrame": 7002
+      },
+      {
+        "text": "version",
+        "startFrame": 7002,
+        "endFrame": 7018
+      },
+      {
+        "text": "4",
+        "startFrame": 7018,
+        "endFrame": 7028
+      },
+      {
+        "text": "you",
+        "startFrame": 7029,
+        "endFrame": 7037
+      },
+      {
+        "text": "didn't",
+        "startFrame": 7037,
+        "endFrame": 7045
+      },
+      {
+        "text": "open",
+        "startFrame": 7045,
+        "endFrame": 7053
+      },
+      {
+        "text": "it",
+        "startFrame": 7053,
+        "endFrame": 7060
+      },
+      {
+        "text": "at",
+        "startFrame": 7060,
+        "endFrame": 7068
+      },
+      {
+        "text": "all",
+        "startFrame": 7068,
+        "endFrame": 7076
+      },
+      {
+        "text": "You",
+        "startFrame": 7076,
+        "endFrame": 7086
+      }
+    ]
+  },
+  {
+    "text": "added new code instead of changing old code",
+    "startFrame": 7086,
+    "endFrame": 7164,
+    "words": [
+      {
+        "text": "added",
+        "startFrame": 7086,
+        "endFrame": 7096
+      },
+      {
+        "text": "new",
+        "startFrame": 7096,
+        "endFrame": 7105
+      },
+      {
+        "text": "code",
+        "startFrame": 7105,
+        "endFrame": 7115
+      },
+      {
+        "text": "instead",
+        "startFrame": 7115,
+        "endFrame": 7125
+      },
+      {
+        "text": "of",
+        "startFrame": 7125,
+        "endFrame": 7135
+      },
+      {
+        "text": "changing",
+        "startFrame": 7135,
+        "endFrame": 7144
+      },
+      {
+        "text": "old",
+        "startFrame": 7144,
+        "endFrame": 7154
+      },
+      {
+        "text": "code",
+        "startFrame": 7154,
+        "endFrame": 7164
+      }
+    ]
+  },
+  {
+    "text": "That's the whole goal And it has a name It's the",
+    "startFrame": 7168,
+    "endFrame": 7272,
+    "words": [
+      {
+        "text": "That's",
+        "startFrame": 7168,
+        "endFrame": 7178
+      },
+      {
+        "text": "the",
+        "startFrame": 7178,
+        "endFrame": 7182
+      },
+      {
+        "text": "whole",
+        "startFrame": 7182,
+        "endFrame": 7188
+      },
+      {
+        "text": "goal",
+        "startFrame": 7188,
+        "endFrame": 7201
+      },
+      {
+        "text": "And",
+        "startFrame": 7203,
+        "endFrame": 7212
+      },
+      {
+        "text": "it",
+        "startFrame": 7212,
+        "endFrame": 7216
+      },
+      {
+        "text": "has",
+        "startFrame": 7216,
+        "endFrame": 7221
+      },
+      {
+        "text": "a",
+        "startFrame": 7221,
+        "endFrame": 7225
+      },
+      {
+        "text": "name",
+        "startFrame": 7223,
+        "endFrame": 7241
+      },
+      {
+        "text": "It's",
+        "startFrame": 7244,
+        "endFrame": 7258
+      },
+      {
+        "text": "the",
+        "startFrame": 7258,
+        "endFrame": 7272
+      }
+    ]
+  },
+  {
+    "text": "open-closed principle open to",
+    "startFrame": 7272,
+    "endFrame": 7312,
+    "words": [
+      {
+        "text": "open-closed",
+        "startFrame": 7272,
+        "endFrame": 7285
+      },
+      {
+        "text": "principle",
+        "startFrame": 7285,
+        "endFrame": 7299
+      },
+      {
+        "text": "open",
+        "startFrame": 7300,
+        "endFrame": 7309
+      },
+      {
+        "text": "to",
+        "startFrame": 7309,
+        "endFrame": 7312
+      }
+    ]
+  },
+  {
+    "text": "extension closed to modification Now",
+    "startFrame": 7312,
+    "endFrame": 7390,
+    "words": [
+      {
+        "text": "extension",
+        "startFrame": 7312,
+        "endFrame": 7334
+      },
+      {
+        "text": "closed",
+        "startFrame": 7335,
+        "endFrame": 7350
+      },
+      {
+        "text": "to",
+        "startFrame": 7350,
+        "endFrame": 7366
+      },
+      {
+        "text": "modification",
+        "startFrame": 7366,
+        "endFrame": 7381
+      },
+      {
+        "text": "Now",
+        "startFrame": 7384,
+        "endFrame": 7390
+      }
+    ]
+  },
+  {
+    "text": "a caveat because I don't want",
+    "startFrame": 7390,
+    "endFrame": 7438,
+    "words": [
+      {
+        "text": "a",
+        "startFrame": 7390,
+        "endFrame": 7393
+      },
+      {
+        "text": "caveat",
+        "startFrame": 7393,
+        "endFrame": 7402
+      },
+      {
+        "text": "because",
+        "startFrame": 7416,
+        "endFrame": 7420
+      },
+      {
+        "text": "I",
+        "startFrame": 7419,
+        "endFrame": 7423
+      },
+      {
+        "text": "don't",
+        "startFrame": 7421,
+        "endFrame": 7430
+      },
+      {
+        "text": "want",
+        "startFrame": 7430,
+        "endFrame": 7438
+      }
+    ]
+  },
+  {
+    "text": "to oversell this version",
+    "startFrame": 7438,
+    "endFrame": 7484,
+    "words": [
+      {
+        "text": "to",
+        "startFrame": 7438,
+        "endFrame": 7442
+      },
+      {
+        "text": "oversell",
+        "startFrame": 7441,
+        "endFrame": 7454
+      },
+      {
+        "text": "this",
+        "startFrame": 7454,
+        "endFrame": 7466
+      },
+      {
+        "text": "version",
+        "startFrame": 7478,
+        "endFrame": 7484
+      }
+    ]
+  },
+  {
+    "text": "4 is not always the right answer If",
+    "startFrame": 7484,
+    "endFrame": 7559,
+    "words": [
+      {
+        "text": "4",
+        "startFrame": 7484,
+        "endFrame": 7492
+      },
+      {
+        "text": "is",
+        "startFrame": 7492,
+        "endFrame": 7495
+      },
+      {
+        "text": "not",
+        "startFrame": 7495,
+        "endFrame": 7502
+      },
+      {
+        "text": "always",
+        "startFrame": 7502,
+        "endFrame": 7517
+      },
+      {
+        "text": "the",
+        "startFrame": 7517,
+        "endFrame": 7522
+      },
+      {
+        "text": "right",
+        "startFrame": 7522,
+        "endFrame": 7533
+      },
+      {
+        "text": "answer",
+        "startFrame": 7533,
+        "endFrame": 7553
+      },
+      {
+        "text": "If",
+        "startFrame": 7555,
+        "endFrame": 7559
+      }
+    ]
+  },
+  {
+    "text": "you have two notification types and you're never adding more",
+    "startFrame": 7559,
+    "endFrame": 7648,
+    "words": [
+      {
+        "text": "you",
+        "startFrame": 7559,
+        "endFrame": 7563
+      },
+      {
+        "text": "have",
+        "startFrame": 7563,
+        "endFrame": 7570
+      },
+      {
+        "text": "two",
+        "startFrame": 7570,
+        "endFrame": 7576
+      },
+      {
+        "text": "notification",
+        "startFrame": 7576,
+        "endFrame": 7597
+      },
+      {
+        "text": "types",
+        "startFrame": 7597,
+        "endFrame": 7607
+      },
+      {
+        "text": "and",
+        "startFrame": 7607,
+        "endFrame": 7611
+      },
+      {
+        "text": "you're",
+        "startFrame": 7610,
+        "endFrame": 7620
+      },
+      {
+        "text": "never",
+        "startFrame": 7620,
+        "endFrame": 7629
+      },
+      {
+        "text": "adding",
+        "startFrame": 7629,
+        "endFrame": 7639
+      },
+      {
+        "text": "more",
+        "startFrame": 7639,
+        "endFrame": 7648
+      }
+    ]
+  },
+  {
+    "text": "version 1 is genuinely fine All of this",
+    "startFrame": 7649,
+    "endFrame": 7737,
+    "words": [
+      {
+        "text": "version",
+        "startFrame": 7649,
+        "endFrame": 7661
+      },
+      {
+        "text": "1",
+        "startFrame": 7661,
+        "endFrame": 7669
+      },
+      {
+        "text": "is",
+        "startFrame": 7669,
+        "endFrame": 7672
+      },
+      {
+        "text": "genuinely",
+        "startFrame": 7670,
+        "endFrame": 7688
+      },
+      {
+        "text": "fine",
+        "startFrame": 7688,
+        "endFrame": 7711
+      },
+      {
+        "text": "All",
+        "startFrame": 7718,
+        "endFrame": 7724
+      },
+      {
+        "text": "of",
+        "startFrame": 7724,
+        "endFrame": 7728
+      },
+      {
+        "text": "this",
+        "startFrame": 7728,
+        "endFrame": 7737
+      }
+    ]
+  },
+  {
+    "text": "structure has a cost More files more indirection",
+    "startFrame": 7737,
+    "endFrame": 7837,
+    "words": [
+      {
+        "text": "structure",
+        "startFrame": 7737,
+        "endFrame": 7756
+      },
+      {
+        "text": "has",
+        "startFrame": 7756,
+        "endFrame": 7764
+      },
+      {
+        "text": "a",
+        "startFrame": 7764,
+        "endFrame": 7773
+      },
+      {
+        "text": "cost",
+        "startFrame": 7773,
+        "endFrame": 7776
+      },
+      {
+        "text": "More",
+        "startFrame": 7780,
+        "endFrame": 7788
+      },
+      {
+        "text": "files",
+        "startFrame": 7788,
+        "endFrame": 7802
+      },
+      {
+        "text": "more",
+        "startFrame": 7803,
+        "endFrame": 7811
+      },
+      {
+        "text": "indirection",
+        "startFrame": 7811,
+        "endFrame": 7837
+      }
+    ]
+  },
+  {
+    "text": "more to hold in your head The",
+    "startFrame": 7838,
+    "endFrame": 7893,
+    "words": [
+      {
+        "text": "more",
+        "startFrame": 7838,
+        "endFrame": 7845
+      },
+      {
+        "text": "to",
+        "startFrame": 7845,
+        "endFrame": 7849
+      },
+      {
+        "text": "hold",
+        "startFrame": 7849,
+        "endFrame": 7857
+      },
+      {
+        "text": "in",
+        "startFrame": 7857,
+        "endFrame": 7862
+      },
+      {
+        "text": "your",
+        "startFrame": 7862,
+        "endFrame": 7870
+      },
+      {
+        "text": "head",
+        "startFrame": 7870,
+        "endFrame": 7886
+      },
+      {
+        "text": "The",
+        "startFrame": 7887,
+        "endFrame": 7893
+      }
+    ]
+  },
+  {
+    "text": "reason to add it is that you know change is",
+    "startFrame": 7893,
+    "endFrame": 7961,
+    "words": [
+      {
+        "text": "reason",
+        "startFrame": 7893,
+        "endFrame": 7905
+      },
+      {
+        "text": "to",
+        "startFrame": 7905,
+        "endFrame": 7909
+      },
+      {
+        "text": "add",
+        "startFrame": 7909,
+        "endFrame": 7919
+      },
+      {
+        "text": "it",
+        "startFrame": 7919,
+        "endFrame": 7923
+      },
+      {
+        "text": "is",
+        "startFrame": 7921,
+        "endFrame": 7925
+      },
+      {
+        "text": "that",
+        "startFrame": 7923,
+        "endFrame": 7931
+      },
+      {
+        "text": "you",
+        "startFrame": 7931,
+        "endFrame": 7937
+      },
+      {
+        "text": "know",
+        "startFrame": 7937,
+        "endFrame": 7945
+      },
+      {
+        "text": "change",
+        "startFrame": 7945,
+        "endFrame": 7957
+      },
+      {
+        "text": "is",
+        "startFrame": 7957,
+        "endFrame": 7961
+      }
+    ]
+  },
+  {
+    "text": "coming So the honest rule is don't apply patterns",
+    "startFrame": 7961,
+    "endFrame": 8057,
+    "words": [
+      {
+        "text": "coming",
+        "startFrame": 7961,
+        "endFrame": 7982
+      },
+      {
+        "text": "So",
+        "startFrame": 7983,
+        "endFrame": 7987
+      },
+      {
+        "text": "the",
+        "startFrame": 7987,
+        "endFrame": 7993
+      },
+      {
+        "text": "honest",
+        "startFrame": 7993,
+        "endFrame": 8005
+      },
+      {
+        "text": "rule",
+        "startFrame": 8005,
+        "endFrame": 8017
+      },
+      {
+        "text": "is",
+        "startFrame": 8017,
+        "endFrame": 8021
+      },
+      {
+        "text": "don't",
+        "startFrame": 8021,
+        "endFrame": 8034
+      },
+      {
+        "text": "apply",
+        "startFrame": 8033,
+        "endFrame": 8041
+      },
+      {
+        "text": "patterns",
+        "startFrame": 8041,
+        "endFrame": 8057
+      }
+    ]
+  },
+  {
+    "text": "because they are",
+    "startFrame": 8057,
+    "endFrame": 8086,
+    "words": [
+      {
+        "text": "because",
+        "startFrame": 8057,
+        "endFrame": 8071
+      },
+      {
+        "text": "they",
+        "startFrame": 8071,
+        "endFrame": 8079
+      },
+      {
+        "text": "are",
+        "startFrame": 8079,
+        "endFrame": 8086
+      }
+    ]
+  },
+  {
+    "text": "correct Apply them when the pain shows up",
+    "startFrame": 8086,
+    "endFrame": 8162,
+    "words": [
+      {
+        "text": "correct",
+        "startFrame": 8086,
+        "endFrame": 8102
+      },
+      {
+        "text": "Apply",
+        "startFrame": 8108,
+        "endFrame": 8117
+      },
+      {
+        "text": "them",
+        "startFrame": 8117,
+        "endFrame": 8126
+      },
+      {
+        "text": "when",
+        "startFrame": 8126,
+        "endFrame": 8132
+      },
+      {
+        "text": "the",
+        "startFrame": 8132,
+        "endFrame": 8137
+      },
+      {
+        "text": "pain",
+        "startFrame": 8137,
+        "endFrame": 8146
+      },
+      {
+        "text": "shows",
+        "startFrame": 8146,
+        "endFrame": 8158
+      },
+      {
+        "text": "up",
+        "startFrame": 8158,
+        "endFrame": 8162
+      }
+    ]
+  },
+  {
+    "text": "Write version 1 when",
+    "startFrame": 8165,
+    "endFrame": 8211,
+    "words": [
+      {
+        "text": "Write",
+        "startFrame": 8165,
+        "endFrame": 8175
+      },
+      {
+        "text": "version",
+        "startFrame": 8175,
+        "endFrame": 8188
+      },
+      {
+        "text": "1",
+        "startFrame": 8188,
+        "endFrame": 8193
+      },
+      {
+        "text": "when",
+        "startFrame": 8202,
+        "endFrame": 8211
+      }
+    ]
+  },
+  {
+    "text": "adding a feature starts feeling dangerous that's",
+    "startFrame": 8211,
+    "endFrame": 8292,
+    "words": [
+      {
+        "text": "adding",
+        "startFrame": 8211,
+        "endFrame": 8220
+      },
+      {
+        "text": "a",
+        "startFrame": 8220,
+        "endFrame": 8230
+      },
+      {
+        "text": "feature",
+        "startFrame": 8230,
+        "endFrame": 8239
+      },
+      {
+        "text": "starts",
+        "startFrame": 8239,
+        "endFrame": 8248
+      },
+      {
+        "text": "feeling",
+        "startFrame": 8248,
+        "endFrame": 8260
+      },
+      {
+        "text": "dangerous",
+        "startFrame": 8260,
+        "endFrame": 8281
+      },
+      {
+        "text": "that's",
+        "startFrame": 8284,
+        "endFrame": 8292
+      }
+    ]
+  },
+  {
+    "text": "your signal to move So that's one feature four",
+    "startFrame": 8292,
+    "endFrame": 8402,
+    "words": [
+      {
+        "text": "your",
+        "startFrame": 8292,
+        "endFrame": 8300
+      },
+      {
+        "text": "signal",
+        "startFrame": 8300,
+        "endFrame": 8314
+      },
+      {
+        "text": "to",
+        "startFrame": 8314,
+        "endFrame": 8320
+      },
+      {
+        "text": "move",
+        "startFrame": 8320,
+        "endFrame": 8336
+      },
+      {
+        "text": "So",
+        "startFrame": 8344,
+        "endFrame": 8347
+      },
+      {
+        "text": "that's",
+        "startFrame": 8347,
+        "endFrame": 8360
+      },
+      {
+        "text": "one",
+        "startFrame": 8360,
+        "endFrame": 8364
+      },
+      {
+        "text": "feature",
+        "startFrame": 8364,
+        "endFrame": 8377
+      },
+      {
+        "text": "four",
+        "startFrame": 8380,
+        "endFrame": 8402
+      }
+    ]
+  },
+  {
+    "text": "versions Classes alone aren't OOP If you're",
+    "startFrame": 8402,
+    "endFrame": 8474,
+    "words": [
+      {
+        "text": "versions",
+        "startFrame": 8402,
+        "endFrame": 8405
+      },
+      {
+        "text": "Classes",
+        "startFrame": 8410,
+        "endFrame": 8423
+      },
+      {
+        "text": "alone",
+        "startFrame": 8423,
+        "endFrame": 8436
+      },
+      {
+        "text": "aren't",
+        "startFrame": 8436,
+        "endFrame": 8449
+      },
+      {
+        "text": "OOP",
+        "startFrame": 8449,
+        "endFrame": 8462
+      },
+      {
+        "text": "If",
+        "startFrame": 8462,
+        "endFrame": 8465
+      },
+      {
+        "text": "you're",
+        "startFrame": 8465,
+        "endFrame": 8474
+      }
+    ]
+  },
+  {
+    "text": "still checking types you're not there",
+    "startFrame": 8474,
+    "endFrame": 8529,
+    "words": [
+      {
+        "text": "still",
+        "startFrame": 8474,
+        "endFrame": 8482
+      },
+      {
+        "text": "checking",
+        "startFrame": 8482,
+        "endFrame": 8504
+      },
+      {
+        "text": "types",
+        "startFrame": 8504,
+        "endFrame": 8507
+      },
+      {
+        "text": "you're",
+        "startFrame": 8506,
+        "endFrame": 8518
+      },
+      {
+        "text": "not",
+        "startFrame": 8516,
+        "endFrame": 8521
+      },
+      {
+        "text": "there",
+        "startFrame": 8521,
+        "endFrame": 8529
+      }
+    ]
+  },
+  {
+    "text": "yet Polymorphism remove the",
+    "startFrame": 8529,
+    "endFrame": 8593,
+    "words": [
+      {
+        "text": "yet",
+        "startFrame": 8529,
+        "endFrame": 8540
+      },
+      {
+        "text": "Polymorphism",
+        "startFrame": 8540,
+        "endFrame": 8569
+      },
+      {
+        "text": "remove",
+        "startFrame": 8569,
+        "endFrame": 8588
+      },
+      {
+        "text": "the",
+        "startFrame": 8588,
+        "endFrame": 8593
+      }
+    ]
+  },
+  {
+    "text": "if-else Injection removes the wiring And the test is",
+    "startFrame": 8593,
+    "endFrame": 8691,
+    "words": [
+      {
+        "text": "if-else",
+        "startFrame": 8593,
+        "endFrame": 8616
+      },
+      {
+        "text": "Injection",
+        "startFrame": 8626,
+        "endFrame": 8641
+      },
+      {
+        "text": "removes",
+        "startFrame": 8641,
+        "endFrame": 8652
+      },
+      {
+        "text": "the",
+        "startFrame": 8652,
+        "endFrame": 8658
+      },
+      {
+        "text": "wiring",
+        "startFrame": 8658,
+        "endFrame": 8673
+      },
+      {
+        "text": "And",
+        "startFrame": 8674,
+        "endFrame": 8681
+      },
+      {
+        "text": "the",
+        "startFrame": 8681,
+        "endFrame": 8684
+      },
+      {
+        "text": "test",
+        "startFrame": 8683,
+        "endFrame": 8688
+      },
+      {
+        "text": "is",
+        "startFrame": 8688,
+        "endFrame": 8691
+      }
+    ]
+  },
+  {
+    "text": "simple To add something",
+    "startFrame": 8691,
+    "endFrame": 8740,
+    "words": [
+      {
+        "text": "simple",
+        "startFrame": 8691,
+        "endFrame": 8699
+      },
+      {
+        "text": "To",
+        "startFrame": 8704,
+        "endFrame": 8717
+      },
+      {
+        "text": "add",
+        "startFrame": 8717,
+        "endFrame": 8721
+      },
+      {
+        "text": "something",
+        "startFrame": 8717,
+        "endFrame": 8740
+      }
+    ]
+  },
+  {
+    "text": "new do you edit old code or just write",
+    "startFrame": 8740,
+    "endFrame": 8824,
+    "words": [
+      {
+        "text": "new",
+        "startFrame": 8740,
+        "endFrame": 8748
+      },
+      {
+        "text": "do",
+        "startFrame": 8758,
+        "endFrame": 8762
+      },
+      {
+        "text": "you",
+        "startFrame": 8760,
+        "endFrame": 8766
+      },
+      {
+        "text": "edit",
+        "startFrame": 8766,
+        "endFrame": 8777
+      },
+      {
+        "text": "old",
+        "startFrame": 8777,
+        "endFrame": 8784
+      },
+      {
+        "text": "code",
+        "startFrame": 8784,
+        "endFrame": 8800
+      },
+      {
+        "text": "or",
+        "startFrame": 8800,
+        "endFrame": 8803
+      },
+      {
+        "text": "just",
+        "startFrame": 8800,
+        "endFrame": 8811
+      },
+      {
+        "text": "write",
+        "startFrame": 8811,
+        "endFrame": 8824
+      }
+    ]
+  },
+  {
+    "text": "new code All four versions are in the description",
+    "startFrame": 8824,
+    "endFrame": 8922,
+    "words": [
+      {
+        "text": "new",
+        "startFrame": 8824,
+        "endFrame": 8831
+      },
+      {
+        "text": "code",
+        "startFrame": 8831,
+        "endFrame": 8850
+      },
+      {
+        "text": "All",
+        "startFrame": 8852,
+        "endFrame": 8862
+      },
+      {
+        "text": "four",
+        "startFrame": 8862,
+        "endFrame": 8872
+      },
+      {
+        "text": "versions",
+        "startFrame": 8872,
+        "endFrame": 8882
+      },
+      {
+        "text": "are",
+        "startFrame": 8882,
+        "endFrame": 8892
+      },
+      {
+        "text": "in",
+        "startFrame": 8892,
+        "endFrame": 8902
+      },
+      {
+        "text": "the",
+        "startFrame": 8902,
+        "endFrame": 8912
+      },
+      {
+        "text": "description",
+        "startFrame": 8912,
+        "endFrame": 8922
+      }
+    ]
+  },
+  {
+    "text": "If you want a follow-up",
+    "startFrame": 8923,
+    "endFrame": 8953,
+    "words": [
+      {
+        "text": "If",
+        "startFrame": 8923,
+        "endFrame": 8929
+      },
+      {
+        "text": "you",
+        "startFrame": 8929,
+        "endFrame": 8935
+      },
+      {
+        "text": "want",
+        "startFrame": 8935,
+        "endFrame": 8941
+      },
+      {
+        "text": "a",
+        "startFrame": 8941,
+        "endFrame": 8947
+      },
+      {
+        "text": "follow-up",
+        "startFrame": 8947,
+        "endFrame": 8953
+      }
+    ]
+  },
+  {
+    "text": "where we do the same thing",
+    "startFrame": 8953,
+    "endFrame": 8983,
+    "words": [
+      {
+        "text": "where",
+        "startFrame": 8953,
+        "endFrame": 8959
+      },
+      {
+        "text": "we",
+        "startFrame": 8959,
+        "endFrame": 8963
+      },
+      {
+        "text": "do",
+        "startFrame": 8961,
+        "endFrame": 8965
+      },
+      {
+        "text": "the",
+        "startFrame": 8964,
+        "endFrame": 8970
+      },
+      {
+        "text": "same",
+        "startFrame": 8970,
+        "endFrame": 8975
+      },
+      {
+        "text": "thing",
+        "startFrame": 8975,
+        "endFrame": 8983
+      }
+    ]
+  },
+  {
+    "text": "with a payment system tell me in the comments",
+    "startFrame": 8983,
+    "endFrame": 9061,
+    "words": [
+      {
+        "text": "with",
+        "startFrame": 8983,
+        "endFrame": 8991
+      },
+      {
+        "text": "a",
+        "startFrame": 8991,
+        "endFrame": 8999
+      },
+      {
+        "text": "payment",
+        "startFrame": 8999,
+        "endFrame": 9008
+      },
+      {
+        "text": "system",
+        "startFrame": 9008,
+        "endFrame": 9016
+      },
+      {
+        "text": "tell",
+        "startFrame": 9023,
+        "endFrame": 9026
+      },
+      {
+        "text": "me",
+        "startFrame": 9024,
+        "endFrame": 9028
+      },
+      {
+        "text": "in",
+        "startFrame": 9028,
+        "endFrame": 9032
+      },
+      {
+        "text": "the",
+        "startFrame": 9032,
+        "endFrame": 9038
+      },
+      {
+        "text": "comments",
+        "startFrame": 9038,
+        "endFrame": 9061
+      }
+    ]
+  },
+  {
+    "text": "See you in the next one Thanks for watching",
+    "startFrame": 9062,
+    "endFrame": 9117,
+    "words": [
+      {
+        "text": "See",
+        "startFrame": 9062,
+        "endFrame": 9066
+      },
+      {
+        "text": "you",
+        "startFrame": 9066,
+        "endFrame": 9070
+      },
+      {
+        "text": "in",
+        "startFrame": 9070,
+        "endFrame": 9074
+      },
+      {
+        "text": "the",
+        "startFrame": 9073,
+        "endFrame": 9077
+      },
+      {
+        "text": "next",
+        "startFrame": 9077,
+        "endFrame": 9083
+      },
+      {
+        "text": "one",
+        "startFrame": 9083,
+        "endFrame": 9087
+      },
+      {
+        "text": "Thanks",
+        "startFrame": 9092,
+        "endFrame": 9103
+      },
+      {
+        "text": "for",
+        "startFrame": 9103,
+        "endFrame": 9106
+      },
+      {
+        "text": "watching",
+        "startFrame": 9105,
+        "endFrame": 9117
+      }
+    ]
+  }
+]
